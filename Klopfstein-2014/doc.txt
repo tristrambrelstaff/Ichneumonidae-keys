@@ -1,0 +1,11 @@
+NAME= Klopfstein-2014
+
+CITATION= Klopfstein, Seraina. (2014). Revision of the Western Palaearctic Diplazontinae (Hymenoptera, Ichneumonidae). Zootaxa. 3801. 1-143. 10.11646/zootaxa.3801.1.1.
+
+ORIGINAL_COPY= https://pdfs.semanticscholar.org/e0cb/1e67336330370a327aeb647d176c0c403481.pdf
+
+ORIGINAL_PAGE= https://www.semanticscholar.org/paper/Revision-of-the-Western-Palaearctic-Diplazontinae-Klopfstein/e0cb1e67336330370a327aeb647d176c0c403481
+
+ARCHIVED_COPY= https://web.archive.org/web/20191029133559/https://www.researchgate.net/profile/Seraina_Klopfstein/publication/262696460_Revision_of_the_Western_Palaearctic_Diplazontinae_Hymenoptera_Ichneumonidae/links/540e56be0cf2df04e756d2ae/Revision-of-the-Western-Palaearctic-Diplazontinae-Hymenoptera-Ichneumonidae.pdf
+
+ARCHIVED_PAGE= https://web.archive.org/web/20191029133953/https://www.researchgate.net/publication/262696460_Revision_of_the_Western_Palaearctic_Diplazontinae_Hymenoptera_Ichneumonidae

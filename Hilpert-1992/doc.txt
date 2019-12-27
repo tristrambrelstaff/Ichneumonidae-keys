@@ -1,0 +1,11 @@
+NAME= Hilpert-1992
+
+CITATION= Hubert Hilpert (1992): Zur Systematik der Gattung Ichneumon LINNAEUS, 1758 in der Westpaläarktis (Hymenoptera, Ichneumonidae, Ichneumoninae) – Entomofauna Suppl. – S6: 1 - 389.
+
+ORIGINAL_COPY= https://www.zobodat.at/pdf/ENTS_S6_0001-0389.pdf
+
+ORIGINAL_PAGE= https://www.zobodat.at/publikation_volumes.php?id=23792
+
+ARCHIVED_COPY= https://web.archive.org/web/20191012142142/https://www.zobodat.at/pdf/ENTS_S6_0001-0389.pdf
+
+ARCHIVED_PAGE= https://web.archive.org/web/20191012142115/https://www.zobodat.at/publikation_volumes.php?id=23792
