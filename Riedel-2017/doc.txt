@@ -4,8 +4,8 @@ CITATION= Matthias Riedel (2017): Die westpaläarktischen Arten der Gattung Camp
 
 ORIGINAL_COPY= https://www.zobodat.at/pdf/Spixiana_040_0095-0137.pdf
 
-ORGINAL_PAGE= https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=
+ORIGINAL_PAGE= https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=
 
 ARCHIVED_COPY= https://web.archive.org/web/20191030132304/https://www.zobodat.at/pdf/Spixiana_040_0095-0137.pdf
 
-ARCHIVED PAGE= https://web.archive.org/web/20191030132408/https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=
+ARCHIVED_PAGE= https://web.archive.org/web/20191030132408/https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=
