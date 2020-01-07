@@ -40,8 +40,6 @@ function build_key_page(doc, key, \
       build_couplet_page(doc, key, couplets[j])
     }
   }
-  printf "<h2>Figures</h2>\n" > outfile
-  printf "%s", "### TODO ###\n" > outfile
   close(outfile)
 }
 
