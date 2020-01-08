@@ -8,14 +8,14 @@ function get_txt_file_names(dir, arr) {
   split(line, arr)
 }
 
-function get_config(config_file, config, \
+function get_params(params_file, params, \
   line, parts) {
-  while((getline line < config_file) > 0) {
+  while((getline line < params_file) > 0) {
     if (match(line, /^([[:alnum:]_]+)\s*=\s*(.*)/, parts) > 0) {
-      config[toupper(parts[1])] = parts[2]
+      params[toupper(parts[1])] = parts[2]
     }
   }
-  close(config_file)
+  close(params_file)
 }
 
 function build_couplet_page(doc, key, couplet) {
@@ -23,15 +23,15 @@ function build_couplet_page(doc, key, couplet) {
 }
 
 function build_key_page(doc, key, \
-  config, outfile, k, couplets) {
-  get_config(sprintf("%s/%s/key.txt", doc, key), config)
+  params, outfile, k, couplets) {
+  get_params(sprintf("%s/%s/key.txt", doc, key), params)
   outfile = sprintf("%s/%s/key.html", doc, key)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Key: %s %s</h1>\n", doc, key > outfile
   printf "<h2>Title</h2>\n" > outfile
-  printf "%s\n", config["TITLE"] > outfile
+  printf "%s\n", params["TITLE"] > outfile
   printf "<h2>Notes</h2>\n" > outfile
-  printf "%s\n", config["NOTES"] > outfile
+  printf "%s\n", params["NOTES"] > outfile
   printf "<h2>Couplets</h2>\n" > outfile
   get_txt_file_names(sprintf("%s/%s", doc, key), couplets)
   for (k in couplets) {
@@ -44,18 +44,18 @@ function build_key_page(doc, key, \
 }
 
 function build_doc_page(doc, \
-  config, outfile, keys) {
-  get_config(sprintf("%s/doc.txt", doc), config)
+  params, outfile, keys) {
+  get_params(sprintf("%s/doc.txt", doc), params)
   outfile = sprintf("%s/doc.html", doc)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Document: %s</h1>\n", doc > outfile
   printf "<h2>Citation</h2>\n" > outfile
-  printf "%s\n", config["CITATION"] > outfile
+  printf "%s\n", params["CITATION"] > outfile
   printf "<h2>Sources</h2>\n" > outfile
-  printf "<a href=\"%s\" class=\"original_copy\">Original Copy</a><br>\n", config["ORIGINAL_COPY"] > outfile
-  printf "<a href=\"%s\" class=\"original_page\">Original Page</a><br>\n", config["ORIGINAL_PAGE"] > outfile
-  printf "<a href=\"%s\" class=\"archived_copy\">Archived Copy</a><br>\n", config["ARCHIVED_COPY"] > outfile
-  printf "<a href=\"%s\" class=\"archived_page\">Archived Page</a><br>\n", config["ARCHIVED_PAGE"] > outfile
+  printf "<a href=\"%s\" class=\"original_copy\">Original Copy</a><br>\n", params["ORIGINAL_COPY"] > outfile
+  printf "<a href=\"%s\" class=\"original_page\">Original Page</a><br>\n", params["ORIGINAL_PAGE"] > outfile
+  printf "<a href=\"%s\" class=\"archived_copy\">Archived Copy</a><br>\n", params["ARCHIVED_COPY"] > outfile
+  printf "<a href=\"%s\" class=\"archived_page\">Archived Page</a><br>\n", params["ARCHIVED_PAGE"] > outfile
   printf "<h2>Keys</h2>\n" > outfile
   get_subdirectory_names(doc, keys)
   for (j in keys) {
