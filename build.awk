@@ -52,10 +52,10 @@ function build_doc_page(doc, \
   printf "<h2>Citation</h2>\n" > outfile
   printf "%s\n", config["CITATION"] > outfile
   printf "<h2>Sources</h2>\n" > outfile
-  printf "Original Copy: <a href=\"%s\">%s</a><br>\n", config["ORIGINAL_COPY"], config["ORIGINAL_COPY"] > outfile
-  printf "Original Page: <a href=\"%s\">%s</a><br>\n", config["ORIGINAL_PAGE"], config["ORIGINAL_PAGE"] > outfile
-  printf "Archived Copy: <a href=\"%s\">%s</a><br>\n", config["ARCHIVED_COPY"], config["ARCHIVED_COPY"] > outfile
-  printf "Archived Page: <a href=\"%s\">%s</a><br>\n", config["ARCHIVED_PAGE"], config["ARCHIVED_PAGE"] > outfile
+  printf "<a href=\"%s\" class=\"original_copy\">Original Copy</a><br>\n", config["ORIGINAL_COPY"] > outfile
+  printf "<a href=\"%s\" class=\"original_page\">Original Page</a><br>\n", config["ORIGINAL_PAGE"] > outfile
+  printf "<a href=\"%s\" class=\"archived_copy\">Archived Copy</a><br>\n", config["ARCHIVED_COPY"] > outfile
+  printf "<a href=\"%s\" class=\"archived_page\">Archived Page</a><br>\n", config["ARCHIVED_PAGE"] > outfile
   printf "<h2>Keys</h2>\n" > outfile
   get_subdirectory_names(doc, keys)
   for (j in keys) {
