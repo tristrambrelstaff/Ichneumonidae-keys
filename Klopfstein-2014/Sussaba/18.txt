@@ -1,2 +1,2 @@
-18  Antenna with tyloids on flagellomeres 6 to 12. Metasoma black with yellow markings on third and fourth tergites. Larger species, fore wing length 4.5–5.5mm ................................................. Sussaba montana ♂ Manukyan
--   Antenna with tyloids on flagellomeres 5 to 8 or 9. Metasoma with second to fourth tergites usually orange-marked. Smaller species, fore wing length at most 4.2mm .................................................................. 18
+18  Antenna with tyloids on flagellomeres 5 to 8, rarely 5 to 9, first tyloid of about the same size as second tyloid. Face more strongly protruding between clypeus and compound eye ............................... Sussaba erigator ♂ (Fabricius)
+-   Antenna with tyloids on flagellomeres 5 to 9 or 5 to 10, first tyloid often distinctly smaller than second tyloid. Face less strongly protruding between clypeus and compound eye................................... Sussaba roberti ♂ sp. nov.
