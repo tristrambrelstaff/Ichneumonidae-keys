@@ -1,3 +1,5 @@
 NAME= Homotropus
 
 TITLE= Key to species
+
+NOTES= [Review (by Malcolm Storey) from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a>: A nice key to use, although apparently the Homotrophus keys doesn’t work very well.]
