@@ -1,1 +1,5 @@
-NAME= Ichneumon-females
+NAME= Ichneumon-males
+
+TITLE= Bestimmungsschlüssel für die Weibchen
+
+NOTES= Der Hrstiniinmn»««rMii«f.l enthält alle aus der Palaearktis untersuchten Arten. Es sind ausschließlich Taxa berücksichtigt, von denen Material untersucht werden konnte. Das Arteninventar der Westpalaearktis kann dabei als weitgehend vollständig betrachtet werden. Ostpalaearktische Arten sind nur berücksichtigt, wenn sie von HEINRICH oder ROMAN erstmals beschrieben wurden oder sich Material in der Zoologischen Staar«aininliing München befindet. Einige nicht klar einer Artengruppe zuzuordnende Arten werden dabei an verschiedenen Stellen erwähnt, bei der Artengruppe, der sie formal nicht untergeordnet wurden, in Kleindruck. Bei Merkmalen, die nicht für alle Arten eine klare Zuordnung erlauben, empfiehlt es sich, beide Altenativen zu verfolgen. Das gut insbesondere fur die Proportionen des vorletzten Geißelgliedes und die Bürste der CoIII. Die Unterarten sind nur teilweise berücksichtigt. (Die Proportionen der Geißelglieder, des U l i oder der Area superomedia sind, wenn nicht abweichend vermerkt, immer als Verhältnis von Länge zu Breite angegeben.)
