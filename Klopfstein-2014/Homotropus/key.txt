@@ -2,4 +2,4 @@ NAME= Homotropus
 
 TITLE= Key to species
 
-NOTES= [Review (by Malcolm Storey) from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a>: A nice key to use, although apparently the Homotrophus keys doesn’t work very well.]
+NOTES= [Review (by Malcolm Storey) from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a> (<a href="https://web.archive.org/web/20200112160139/https://www.bioinfo.org.uk/html/b160134.htm">archived</a>): A nice key to use, although apparently the Homotrophus keys doesn’t work very well.]
