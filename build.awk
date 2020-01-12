@@ -12,7 +12,12 @@ function get_params(params_file, params, \
   line, parts) {
   while((getline line < params_file) > 0) {
     if (match(line, /^([[:alnum:]_]+)\s*=\s*(.*)/, parts) > 0) {
-      params[toupper(parts[1])] = parts[2]
+      label = toupper(parts[1])
+      if (label in params) {
+        params[label] = sprintf("%s\n%s", params[label], parts[2])
+      } else {
+        params[label] = parts[2]
+      }
     }
   }
   close(params_file)
@@ -31,7 +36,10 @@ function build_key_page(doc, key, \
   printf "<h2>Title</h2>\n" > outfile
   printf "%s\n", params["TITLE"] > outfile
   printf "<h2>Notes</h2>\n" > outfile
-  printf "%s\n", params["NOTES"] > outfile
+  split(params["NOTES"], notes, "\n")
+  for (n in notes) {
+    printf "<div class=\"note\">%s</div>", notes[n] > outfile
+  }
   printf "<h2>Couplets</h2>\n" > outfile
   get_txt_file_names(sprintf("%s/%s", doc, key), couplets)
   for (k in couplets) {
