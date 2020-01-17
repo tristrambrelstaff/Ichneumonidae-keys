@@ -1,2 +1,6 @@
-30  Flagella shorter, with 23-26 flagellomeres, preapical flagellomeres wider than long (fig 31). Hind tibiae reddish, basally and apically often slightly infuscate .................................................................................................................... C. morionella HOLMGREN, 1860 ♀♂ 
--   Flagella longer, with 27-29 flagellomeres; preapical flagellomeres longer than wide or square (fig 33). Hind tibiae usually reddish-yellow or yellowish, without distinct dark color pattern ......................................................................... C. paramorionella nov.sp. ♀♂
+30
+Flagella shorter, with 23-26 flagellomeres, preapical flagellomeres wider than long (fig 31). Hind tibiae reddish, basally and apically often slightly infuscate.
+TAXON= C. morionella HOLMGREN, 1860 ♀♂
+-
+Flagella longer, with 27-29 flagellomeres; preapical flagellomeres longer than wide or square (fig 33). Hind tibiae usually reddish-yellow or yellowish, without distinct dark color pattern.
+TAXON= C. paramorionella nov.sp. ♀♂

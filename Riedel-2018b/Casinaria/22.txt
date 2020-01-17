@@ -1,2 +1,6 @@
-22  Trochanters  and  trochantelli  mainly  blackish,  sometimes  with  yellowish  apical margins. Areae basalis and superomedia usually with lateral carinae; area superomedia longer than wide (fig 21) ................................................ C. nigrotrochanterata nov.sp. ♀♂ 
--   Fore  and  middle  trochanters  and  trochantelli  mainly  yellowish.  Area  superomedia usually without distinct lateral carinae (fig 10) ..................................................................................................................................... C. albipalpis (GRAVENHORST, 1829) ♀♂, in part
+22
+Trochanters and trochantelli mainly blackish, sometimes with yellowish apical margins. Areae basalis and superomedia usually with lateral carinae; area superomedia longer than wide (fig 21).
+TAXON= C. nigrotrochanterata nov.sp. ♀♂
+-
+Fore and middle trochanters and trochantelli mainly yellowish. Area superomedia usually without distinct lateral carinae (fig 10).
+TAXON= C. albipalpis (GRAVENHORST, 1829) ♀♂, in part
