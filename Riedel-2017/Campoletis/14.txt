@@ -1,2 +1,6 @@
-14  Mesoscutum and mesopleuron granulate and ±distinctly punctate; speculum matte, granulate; area petiolaris coarsely and transversely rugose; hind tibia red, darkened basally and apically, pale yellow externo-medially. ................................................. C. agilis (Holmgren, 1860) in part WM
--  Mesoscutum and mesopleuron not or very superficially punctate. ........................................... 15
+14
+Mesoscutum and mesopleuron granulate and ±distinctly punctate; speculum matte, granulate; area petiolaris coarsely and transversely rugose; hind tibia red, darkened basally and apically, pale yellow externo-medially.
+TAXON= C. agilis (Holmgren, 1860) in part ♀♂
+-
+Mesoscutum and mesopleuron not or very superficially punctate.
+15

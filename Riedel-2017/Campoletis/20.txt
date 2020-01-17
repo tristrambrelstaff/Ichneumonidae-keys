@@ -1,2 +1,6 @@
-20  Ovipositor sheath 1.15-1.25 × as long as the 1st tergite; temple shorter (0.7-0.8 as long as width of eye) and moderately narrowed apically (Fig. 19). ............. C. fasciata (Bridgman, 1887) WM
-–  Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; temple longer (0.9-1.1 × as long as width of eye) and slightly narrowed apically (Fig. 32). M unknown. ....... C. variator spec. nov. in part W
+20
+Ovipositor sheath 1.15-1.25 × as long as the 1st tergite; temple shorter (0.7-0.8 as long as width of eye) and moderately narrowed apically (Fig. 19).
+TAXON= C. fasciata (Bridgman, 1887) ♀♂
+–
+Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; temple longer (0.9-1.1 × as long as width of eye) and slightly narrowed apically (Fig. 32). ♂  unknown.
+TAXON= C. variator spec. nov. in part ♀

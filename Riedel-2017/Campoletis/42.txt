@@ -1,2 +1,6 @@
-42 Hind tibia red externo-medially (Fig. 16). ........................................ C. varians (Thomson, 1887) WM
-–  Hind tibia orange or yellowish externo-medially (Figs 17-18). .................................................................... C. zonata (Gravenhorst, 1829) in part WM
+42
+Hind tibia red externo-medially (Fig. 16).
+TAXON= C. varians (Thomson, 1887) ♀♂
+–
+Hind tibia orange or yellowish externo-medially (Figs 17-18).
+TAXON= C. zonata (Gravenhorst, 1829) in part ♀♂

@@ -1,2 +1,6 @@
-23  Hind tibia distinctly ivory basally, brown subbasally, and ivory externo-medially (Fig. 9); fore and middle coxae and trochanters often reddish. ............... C. ensator (Gravenhorst, 1829) WM
--  Hind tibia hardly or very narrowly red basally, brown sub-basally, and yellowish externo-medially (as Fig. 17). ..................................................................... C. postica (Bridgman & Fitch, 1885) W
+23
+Hind tibia distinctly ivory basally, brown subbasally, and ivory externo-medially (Fig. 9); fore and middle coxae and trochanters often reddish.
+TAXON= C. ensator (Gravenhorst, 1829) ♀♂
+-
+Hind tibia hardly or very narrowly red basally, brown sub-basally, and yellowish externo-medially (as Fig. 17).
+TAXON= C. postica (Bridgman & Fitch, 1885) ♀

@@ -1,3 +1,6 @@
-17  Ovipositor sheath 1.25-1.3 × longer than the 1st tergite; preapical flagellomeres in W square or transverse (Fig. 4); metasoma very shiny at the apex; hind tibia black basally, barely lightened; speculum partly smooth; fore and middle trochantelli yellow, hind ones dark. ............................................... C. femoralis (Gravenhorst, 1829) WM
--  Ovipositor sheath 0.7-0.8 × as long as the 1st 
-tergite; preapical flagellomeres in W longer than wide, rarely square (Fig. 3); metasoma with slight silky shine apically; hind tibia black subbasally, basally ± broadly ivory; speculum usually alutaceous; trochanters apically and trochantelli usually completely yellow. ....................................................... C. annulata (Gravenhorst, 1829) WM
+17
+Ovipositor sheath 1.25-1.3 × longer than the 1st tergite; preapical flagellomeres in W square or transverse (Fig. 4); metasoma very shiny at the apex; hind tibia black basally, barely lightened; speculum partly smooth; fore and middle trochantelli yellow, hind ones dark.
+TAXON= C. femoralis (Gravenhorst, 1829) ♀♂
+-
+Ovipositor sheath 0.7-0.8 × as long as the 1st tergite; preapical flagellomeres in W longer than wide, rarely square (Fig. 3); metasoma with slight silky shine apically; hind tibia black subbasally, basally ± broadly ivory; speculum usually alutaceous; trochanters apically and trochantelli usually completely yellow.
+TAXON= C. annulata (Gravenhorst, 1829) ♀♂

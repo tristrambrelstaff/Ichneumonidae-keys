@@ -1,2 +1,6 @@
-32  2nd tergite 1.3-1.5 × longer than wide; ovipositor sheath about 1,15 × as long as the 1st tergite, strongly bent dorsally; mesopleuron granulate and superficially punctate; prepectal carina moderately widened ventral behind the coxae. Fore and middle trochanters red in M. ..................... C. raptor raptor (Zetterstedt, 1838) in part WM
-–  2nd tergite at most 1.2 × longer than wide; ovipositor sheath slightly longer or shorter than the 1st tergite, only slightly curved dorsally. Fore and middle trochanters orange or yellowish in M. .................................................................................. 33
+32
+2nd tergite 1.3-1.5 × longer than wide; ovipositor sheath about 1,15 × as long as the 1st tergite, strongly bent dorsally; mesopleuron granulate and superficially punctate; prepectal carina moderately widened ventral behind the coxae. Fore and middle trochanters red in ♂. 
+TAXON= C. raptor raptor (Zetterstedt, 1838) in part ♀♂
+–
+2nd tergite at most 1.2 × longer than wide; ovipositor sheath slightly longer or shorter than the 1st tergite, only slightly curved dorsally. Fore and middle trochanters orange or yellowish in ♂.
+33

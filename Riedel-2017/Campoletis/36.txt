@@ -1,2 +1,6 @@
-36  Ovipositor sheath 1.8 × longer than the 1 tergite; hind tibia narrowly red basally; mesopleuron granulate without obvious punctuation; claws about as long as the pulvilli. ................................................ C. postica (Bridgman & Fitch, 1885) WM
--  Ovipositor sheath 2 × longer than the 1 st tergite; hind tibia widely yellow basally; mesopleuron granulate with fine but recognizable punctuation; claws much longer than the pulvilli. M unknown. .................................. C. hinzi spec. nov. W
+36
+Ovipositor sheath 1.8 × longer than the 1 tergite; hind tibia narrowly red basally; mesopleuron granulate without obvious punctuation; claws about as long as the pulvilli.
+TAXON= C. postica (Bridgman & Fitch, 1885) ♀♂
+-
+Ovipositor sheath 2 × longer than the 1st tergite; hind tibia widely yellow basally; mesopleuron granulate with fine but recognizable punctuation; claws much longer than the pulvilli. ♂ unknown.
+TAXON= C. hinzi spec. nov. ♀

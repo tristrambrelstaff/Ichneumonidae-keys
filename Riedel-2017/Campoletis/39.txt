@@ -1,2 +1,6 @@
-39  Ovipositor sheath 1.15 × as long as the 1st tergite; all trochantelli red; area superomedia at most slightly longer than wide; temple behind eye strongly narrowed; postnervulus intercepted in or near the center of brachial cell (as Fig. 2). .................... C. raptor raptor (Zetterstedt) in part WM
-–  Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; fore and middle trochantelli yellow; area superomedia usually longer than wide (Fig. 46); temple slightly narrowed behind eye (Fig. 32); postnervulus intercepted distinctly behind the center of brachial cell (Fig. 1). M unknown. .................................... C. variator spec. nov., in part W
+39
+Ovipositor sheath 1.15 × as long as the 1st tergite; all trochantelli red; area superomedia at most slightly longer than wide; temple behind eye strongly narrowed; postnervulus intercepted in or near the center of brachial cell (as Fig. 2).
+TAXON= C. raptor raptor (Zetterstedt) in part ♀♂
+–
+Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; fore and middle trochantelli yellow; area superomedia usually longer than wide (Fig. 46); temple slightly narrowed behind eye (Fig. 32); postnervulus intercepted distinctly behind the center of brachial cell (Fig. 1). ♂ unknown.
+TAXON= C. variator spec. nov., in part ♀
