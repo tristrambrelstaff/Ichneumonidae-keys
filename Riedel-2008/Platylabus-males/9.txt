@@ -1,2 +1,6 @@
-9 Vertex usually with ivory spots. Upper lateral margin of pronotum with ivory streak. Epicnemium not raised behind coxa I. Flagellum entirely black, with 30-34 segments. Femur III slender, index 4.2-4.3. Body length 7.5-8 mm. ...................................... P. pseudomuticus spec. nov.
-– Vertex usually without ivory spots (very rarely present). Upper lateral margin of pronotum black, at most hind angle with ivory spots. Epicnemium often somewhat raised behind coxa I. Flagellum usually with ivory stripe, with 32-38 segments. Femur III variable, index 3.8-4.3 Body length 6.5-10.5 mm. A very variable species (or species-group). ................P. orbitalis (Gravenhorst, 1829)
+9
+Vertex usually with ivory spots. Upper lateral margin of pronotum with ivory streak. Epicnemium not raised behind coxa I. Flagellum entirely black, with 30-34 segments. Femur III slender, index 4.2-4.3. Body length 7.5-8 mm.
+TAXON= P. pseudomuticus spec. nov.
+–
+Vertex usually without ivory spots (very rarely present). Upper lateral margin of pronotum black, at most hind angle with ivory spots. Epicnemium often somewhat raised behind coxa I. Flagellum usually with ivory stripe, with 32-38 segments. Femur III variable, index 3.8-4.3 Body length 6.5-10.5 mm. A very variable species (or species-group).
+TAXON= P. orbitalis (Gravenhorst, 1829)

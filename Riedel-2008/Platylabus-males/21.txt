@@ -1,2 +1,6 @@
-21 Scutellum entirely ivory. Postscutellum usually with ivory spots. Femur III stouter, index 3.8-4.0. Genae wider, index about 0.70. .................................................................. P. daemon Wesmael, 1845
-– Scutellum with ivory spot at apex, postscutellum black. Femur III more slender, index 4.1-4.6 Genae narrower, their index 0.50-0.60. .............................................P. daemonops (Heinrich, 1944)
+21
+Scutellum entirely ivory. Postscutellum usually with ivory spots. Femur III stouter, index 3.8-4.0. Genae wider, index about 0.70.
+TAXON= P. daemon Wesmael, 1845
+–
+Scutellum with ivory spot at apex, postscutellum black. Femur III more slender, index 4.1-4.6 Genae narrower, their index 0.50-0.60.
+TAXON= P. daemonops (Heinrich, 1944)

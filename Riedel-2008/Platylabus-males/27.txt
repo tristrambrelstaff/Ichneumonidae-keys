@@ -1,2 +1,6 @@
-27 Pterostigma brownish-yellow. ......................................................P. iridipennis (Gravenhorst, 1829)
-– Pterostigma pale yellow. ..... P. minor spec. nov.
+27
+Pterostigma brownish-yellow.
+TAXON= P. iridipennis (Gravenhorst, 1829)
+–
+Pterostigma pale yellow.
+TAXON= P. minor spec. nov.
