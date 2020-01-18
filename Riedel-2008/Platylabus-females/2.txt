@@ -1,2 +1,6 @@
-2 Temples behind eyes strongly narrowed, their sides straight or concave. All tibiae with ivory rings basally. Larger, body length 15-20 mm. .........................................P. uranius (Dalman, 1823)
-– Temples behind eyes moderately and convexly narrowed. Only tibiae I ivory in front. Body length 8-11 mm. ......................................................................... P. nigrocyaneus (Gravenhorst, 1829)
+2
+Temples behind eyes strongly narrowed, their sides straight or concave. All tibiae with ivory rings basally. Larger, body length 15-20 mm.
+TAXON= P. uranius (Dalman, 1823)
+–
+Temples behind eyes moderately and convexly narrowed. Only tibiae I ivory in front. Body length 8-11 mm.
+TAXON= P. nigrocyaneus (Gravenhorst, 1829)

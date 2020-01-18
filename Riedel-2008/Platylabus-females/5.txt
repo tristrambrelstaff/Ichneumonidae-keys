@@ -1,2 +1,6 @@
-5 Mesosoma black, with conspicuously yellow pattern, usually mesopleurum and metapleurum yellow centrally. Thyridia small, somewhat smaller than their interval (fig. 46). Femur III very slender, index 4.7-4.8. ..................................................................P. mesoleucus (Heinrich, 1936)
-- Mesosoma black, sometimes with ivory pattern, but not yellow marked in the center of meso- and metapleura. Thyridia often wider. Femur III usually stouter, index < 4.5. ................................6
+5
+Mesosoma black, with conspicuously yellow pattern, usually mesopleurum and metapleurum yellow centrally. Thyridia small, somewhat smaller than their interval (fig. 46). Femur III very slender, index 4.7-4.8.
+TAXON= P. mesoleucus (Heinrich, 1936)
+-
+Mesosoma black, sometimes with ivory pattern, but not yellow marked in the center of meso- and metapleura. Thyridia often wider. Femur III usually stouter, index < 4.5.
+6

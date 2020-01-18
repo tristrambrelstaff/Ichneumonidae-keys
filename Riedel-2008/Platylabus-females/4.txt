@@ -1,2 +1,6 @@
-4 Larger, body length 8.5-11 mm. Flagellum with 34-37 segments. Head ± reddish, vertex with ivory spots. Thyridia much wider than their interval, index > 3.0.(fig. 44). ........................................................................... P. rufus Wesmael, 1845
-– Smaller, body length about 6.5 mm. Flagellum with 29 segments (in 1 specimen). Head black, without reddish pattern, vertex without ivory spot. Thyridia about as wide as their interval. ................................P. cabrerai Berthoumieu, 1903
+4
+Larger, body length 8.5-11 mm. Flagellum with 34-37 segments. Head ± reddish, vertex with ivory spots. Thyridia much wider than their interval, index > 3.0.(fig. 44).
+TAXON= P. rufus Wesmael, 1845
+–
+Smaller, body length about 6.5 mm. Flagellum with 29 segments (in 1 specimen). Head black, without reddish pattern, vertex without ivory spot. Thyridia about as wide as their interval.
+TAXON= P. cabrerai Berthoumieu, 1903

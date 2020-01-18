@@ -1,2 +1,6 @@
-13 Tergite 3 with clear punctures. Flagellum more robust, index of first segment 3.5-4.0, widest segments approximately square. Metasoma usually entirely red. Femur III mainly red. ..............................................P. vibratorius Thunberg, 1824
-– Tergite 3 with ± obsolete punctures. Flagellum slender, index of first segment about 5.0, all segments longer than wide. Metasoma apically (or entirely) black. Femora III usually black. ................................ P. pallidens Wesmael, 1853, in part
+13
+Tergite 3 with clear punctures. Flagellum more robust, index of first segment 3.5-4.0, widest segments approximately square. Metasoma usually entirely red. Femur III mainly red.
+TAXON= P. vibratorius Thunberg, 1824
+–
+Tergite 3 with ± obsolete punctures. Flagellum slender, index of first segment about 5.0, all segments longer than wide. Metasoma apically (or entirely) black. Femora III usually black.
+TAXON= P. pallidens Wesmael, 1853, in part
