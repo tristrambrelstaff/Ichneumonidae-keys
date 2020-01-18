@@ -1,2 +1,6 @@
-5  Epicnemial carina broadly interrupted on mesosternum, only present laterally. Metasoma black. Hind tibia white or yellow with a dark apex. Mesosoma evenly shiny-coriaceous. First tergite as long as or shorter than wide .......... Syrphoctonus idari Diller
--  Epicnemial carina fully developed. Metasoma usually orange on tergites 2 and 3. Hind tibia uniformly orange. Mesosoma with irregular sculpture, often coriaceous only on lower half of mesopleuron. First tergite longer than wide .......................................................................... cf. Homotropus signatus (Gravenhorst)
+5
+Epicnemial carina broadly interrupted on mesosternum, only present laterally. Metasoma black. Hind tibia white or yellow with a dark apex. Mesosoma evenly shiny-coriaceous. First tergite as long as or shorter than wide.
+TAXON= Syrphoctonus idari Diller
+-
+Epicnemial carina fully developed. Metasoma usually orange on tergites 2 and 3. Hind tibia uniformly orange. Mesosoma with irregular sculpture, often coriaceous only on lower half of mesopleuron. First tergite longer than wide.
+TAXON= cf. Homotropus signatus (Gravenhorst)

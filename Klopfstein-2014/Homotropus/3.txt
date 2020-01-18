@@ -1,2 +1,6 @@
-3  Mesopleuron and mesosternum black, coriaceous over entire surface, punctures almost disappearing against the finely rugose background. Scutellum with a small apical spot and sometimes with two yellow lateral stripes. Fore coxa dark, at least basally ........................................................................Homotropus dimidiatus (Schrank) ♀
--  Mesopleuron and mesosternum extensively orange-marked, with dense and distinct punctures over entire surface, background coriaceous only in part. Scutellum with two yellow lateral stripes and a small yellow blotch at hind margin, medially usually orange. Fore coxa usually entirely orange or yellow .........................Homotropus haemorrhoidalis Szépligeti ♀
+3
+Mesopleuron and mesosternum black, coriaceous over entire surface, punctures almost disappearing against the finely rugose background. Scutellum with a small apical spot and sometimes with two yellow lateral stripes. Fore coxa dark, at least basally.
+TAXON= Homotropus dimidiatus (Schrank) ♀
+-
+Mesopleuron and mesosternum extensively orange-marked, with dense and distinct punctures over entire surface, background coriaceous only in part. Scutellum with two yellow lateral stripes and a small yellow blotch at hind margin, medially usually orange. Fore coxa usually entirely orange or yellow.
+TAXON= Homotropus haemorrhoidalis Szépligeti ♀

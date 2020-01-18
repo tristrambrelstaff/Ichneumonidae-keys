@@ -1,2 +1,6 @@
-18  First tergite at most with short median dorsal carinae which are broadly separated. Male antenna without tyloids. Face including clypeus, mesosoma, legs and metasoma finely and evenly coriaceous and matt, punctures indistinct ....... Woldstedtius
--   First metasomal tergite with median dorsal carinae reaching at least to middle and very close to each other on apical half (Figs 14E, 14F). Male antenna with tyloids which are most often bar-like (Fig. 13I). Sculpture not entirely fine, mesopleuron with both strong punctures and smooth parts........................................................ Enizemum (part)
+18
+First tergite at most with short median dorsal carinae which are broadly separated. Male antenna without tyloids. Face including clypeus, mesosoma, legs and metasoma finely and evenly coriaceous and matt, punctures indistinct.
+TAXON= Woldstedtius
+-
+First metasomal tergite with median dorsal carinae reaching at least to middle and very close to each other on apical half (Figs 14E, 14F). Male antenna with tyloids which are most often bar-like (Fig. 13I). Sculpture not entirely fine, mesopleuron with both strong punctures and smooth parts.
+TAXON= Enizemum (part)

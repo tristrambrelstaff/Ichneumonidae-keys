@@ -1,2 +1,6 @@
-15  Female with face black with yellow along inner orbits. Male antenna without tyloids. Tergites one and two often with weak subapical transverse impressions (Fig. 15A). Clypeus basally convex, remainder concave (Figs 12G, 12H)..... Syrphophilus
--   Female with face entirely black or with a yellow central spot. Male antenna with tyloids which are usually narrow and linear (Fig. 13H). Metasomal tergites without transverse impressions (Fig. 15B). Clypeus usually apically impressed, basal three-quarters convex (Fig. 14J).............................................................................. 16
+15
+Female with face black with yellow along inner orbits. Male antenna without tyloids. Tergites one and two often with weak subapical transverse impressions (Fig. 15A). Clypeus basally convex, remainder concave (Figs 12G, 12H).
+TAXON= Syrphophilus
+-
+Female with face entirely black or with a yellow central spot. Male antenna with tyloids which are usually narrow and linear (Fig. 13H). Metasomal tergites without transverse impressions (Fig. 15B). Clypeus usually apically impressed, basal three-quarters convex (Fig. 14J).
+16

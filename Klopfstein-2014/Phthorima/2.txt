@@ -1,2 +1,6 @@
-2  Propodeum with carinae incomplete; basal and petiolar areas not enclosed by full set of carinae. Scutellum usually marked with yellow. Fore and mid coxae in females often yellow ............................ Phthorima xanthaspis (Thomson)
--  Propodeum with carinae distinct, delimiting basal and petiolar areas. Scutellum often black but sometimes yellow, especially in males. Coxae in females orange or black ................................................................. 3
+2
+Propodeum with carinae incomplete; basal and petiolar areas not enclosed by full set of carinae. Scutellum usually marked with yellow. Fore and mid coxae in females often yellow.
+TAXON= Phthorima xanthaspis (Thomson)
+-
+Propodeum with carinae distinct, delimiting basal and petiolar areas. Scutellum often black but sometimes yellow, especially in males. Coxae in females orange or black.
+3

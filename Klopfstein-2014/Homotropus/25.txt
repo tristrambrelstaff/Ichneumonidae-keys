@@ -1,2 +1,6 @@
-25  Mesosoma and propodeum mostly orange, dark coloration restricted to sutures and front of tergites 1–3. Face mainly yellow also in females (only known from Madeira) .......................................... Homotropus coloratus Hellén
--   Mesosoma and propodeum black with yellow markings. Female face entirely black or with a yellow central spot, male face yellow ............................................................................................. 26
+25
+Mesosoma and propodeum mostly orange, dark coloration restricted to sutures and front of tergites 1–3. Face mainly yellow also in females (only known from Madeira).
+TAXON= Homotropus coloratus Hellén
+-
+Mesosoma and propodeum black with yellow markings. Female face entirely black or with a yellow central spot, male face yellow.
+26

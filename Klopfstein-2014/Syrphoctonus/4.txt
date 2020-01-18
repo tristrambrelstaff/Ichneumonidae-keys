@@ -1,2 +1,6 @@
-4  Clypeus more than 2.5 times broader than high, smooth and polished, with apical lobes very weakly developed. Mesoscutum distinctly punctate, the punctures separated by less than their diameter, on a more or less smooth background, mespleuron weakly punctate at least along anterior margin. Metasoma black with yellow spots on posterior corners of tergite 3 in females and 3 or 4 to 5 in males ....................................................... Syrphoctonus borealis Holmgren
--  Clypeus usually about 1.5–2.0 times broader than high, with some coriaceous sculpture and apical lobes well developed. Mesoscutum mostly coriacesous and matt, punctures usually weak and rather sparse. Metasoma either entirely black, marked with orange, or with yellow spots on basal corners of some tergites, or with narrow yellow hind margins ................ 5
+4
+Clypeus more than 2.5 times broader than high, smooth and polished, with apical lobes very weakly developed. Mesoscutum distinctly punctate, the punctures separated by less than their diameter, on a more or less smooth background, mespleuron weakly punctate at least along anterior margin. Metasoma black with yellow spots on posterior corners of tergite 3 in females and 3 or 4 to 5 in males.
+TAXON= Syrphoctonus borealis Holmgren
+-
+Clypeus usually about 1.5–2.0 times broader than high, with some coriaceous sculpture and apical lobes well developed. Mesoscutum mostly coriacesous and matt, punctures usually weak and rather sparse. Metasoma either entirely black, marked with orange, or with yellow spots on basal corners of some tergites, or with narrow yellow hind margins.
+5

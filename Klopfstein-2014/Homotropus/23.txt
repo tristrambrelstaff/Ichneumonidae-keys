@@ -1,3 +1,7 @@
-23  Metasoma elongate and parallel-sided, first tergite small, narrow, second tergite 1.0–1.2 times longer than apically wide, at least 1.15 times length of first tergite (cf. Fig. 20G). Mesopleuron with both punctures and coriaceous areas restricted to lower half, with large smooth areas................................................ Homotropus longiventris Thomson ♂
--   Metasoma less elongate, first tergite larger, second tergite 0.7–0.85 times longer wide, 0.9–1.05 times as long as first tergite (cf. Fig. 20H). Mesopleuron with coriaceous areas and punctures usually extended to upper half ............................................................................................. Homotropus pictus (Gravenhorst) ♂
+23
+Metasoma elongate and parallel-sided, first tergite small, narrow, second tergite 1.0–1.2 times longer than apically wide, at least 1.15 times length of first tergite (cf. Fig. 20G). Mesopleuron with both punctures and coriaceous areas restricted to lower half, with large smooth areas.
+TAXON= Homotropus longiventris Thomson ♂
+-
+Metasoma less elongate, first tergite larger, second tergite 0.7–0.85 times longer wide, 0.9–1.05 times as long as first tergite (cf. Fig. 20H). Mesopleuron with coriaceous areas and punctures usually extended to upper half.
+TAXON= Homotropus pictus (Gravenhorst) ♂
 

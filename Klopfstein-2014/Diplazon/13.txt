@@ -1,2 +1,6 @@
-13  Mesopleuron strongly punctate also on upper half, smooth and shining between the punctures. Face distinctly punctate on a coriaceous background, at least on central, elevated area. Mesoscutum often with large yellow shoulder marks........................................................................................... Diplazon angustus Dasch
--   Mesopleuron usually sparsely punctate on lower part but also with irregular coriaceous areas, on upper part at most with a few weak punctures. Face strongly coriaceous, at most indistinctly punctate. Mesoscutum at most with small yellow shoulder marks .............................................................................................. 14
+13
+Mesopleuron strongly punctate also on upper half, smooth and shining between the punctures. Face distinctly punctate on a coriaceous background, at least on central, elevated area. Mesoscutum often with large yellow shoulder marks.
+TAXON= Diplazon angustus Dasch
+-
+Mesopleuron usually sparsely punctate on lower part but also with irregular coriaceous areas, on upper part at most with a few weak punctures. Face strongly coriaceous, at most indistinctly punctate. Mesoscutum at most with small yellow shoulder marks.
+14

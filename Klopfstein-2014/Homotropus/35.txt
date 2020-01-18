@@ -1,2 +1,6 @@
-35  Spiracle of third tergite dorsal, above lateral fold. Epicnemical carina complete (cf. Fig. 16A). Scutellum usually with a small apical yellow blotch ...................................................... Homotropus pectoralis (Provancher)
--   Spiracle of third tergite on or below lateral fold. Epicnemical carina medially interrupted behind fore coxae (Fig. 16B). Scutellum usually mainly yellow ................................................. cf. Syrphoctonus tarsatorius (Panzer)
+35
+Spiracle of third tergite dorsal, above lateral fold. Epicnemical carina complete (cf. Fig. 16A). Scutellum usually with a small apical yellow blotch.
+TAXON= Homotropus pectoralis (Provancher)
+-
+Spiracle of third tergite on or below lateral fold. Epicnemical carina medially interrupted behind fore coxae (Fig. 16B). Scutellum usually mainly yellow.
+TAXON= cf. Syrphoctonus tarsatorius (Panzer)

@@ -1,2 +1,6 @@
-7  Hind margin of tergite 1 yellow, tergite 2 apically and most of tergite 3 orange, following tergites largely yellow. Tergites smooth and shining, sparsely and faintly punctate. (Corsica, female unknown) ............... Diplazon aubertiator Diller
--  Metasoma mainly black, tergites at most with orange or yellow bands or spots behind transverse impressions. Tergites strongly punctate ............................................................................................. 8
+7
+Hind margin of tergite 1 yellow, tergite 2 apically and most of tergite 3 orange, following tergites largely yellow. Tergites smooth and shining, sparsely and faintly punctate. (Corsica, female unknown).
+TAXON= Diplazon aubertiator Diller
+-
+Metasoma mainly black, tergites at most with orange or yellow bands or spots behind transverse impressions. Tergites strongly punctate.
+8

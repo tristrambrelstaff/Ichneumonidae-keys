@@ -1,2 +1,6 @@
-29  Mesoscutum entirely polished, shining over entire surface, only with some sculpture along anterior margin. Male with tyloids on flagellomeres 8 to 11 ............................................................Homotropus vitreus Dasch
--   Mesoscutum with sculpture or punctures extending at least to middle, often coriaceous and matt. Male with tyloids on flagellomeres 7 to 14/15 ............................................................................... 30
+29
+Mesoscutum entirely polished, shining over entire surface, only with some sculpture along anterior margin. Male with tyloids on flagellomeres 8 to 11.
+TAXON= Homotropus vitreus Dasch
+-
+Mesoscutum with sculpture or punctures extending at least to middle, often coriaceous and matt. Male with tyloids on flagellomeres 7 to 14/15.
+30

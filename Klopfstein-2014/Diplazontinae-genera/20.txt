@@ -1,2 +1,6 @@
-20  Clypeus with apical margin thin and often with a basal elevation, making it concave or flat in profile (Figs 12G). Epicnemial carina complete. Mesoscutum distinctly punctate on a smooth and polished background, yellow shoulder marks with inner corners not extending over most of mesoscutum .................................................... Diplazon (part)
--   Clypeus with apical margin thickened, convex and protruding in profile; apical margin convex (Fig. 12K). Epicnemial carina broadly interrupted behind fore coxa. Mesoscutum mostly smooth and shining, with punctures very weak or indistinct, yellow shoulder marks usually with inner corners extending over most of mesoscutum (Fig. 13D)............... Xestopelta (part)
+20
+Clypeus with apical margin thin and often with a basal elevation, making it concave or flat in profile (Figs 12G). Epicnemial carina complete. Mesoscutum distinctly punctate on a smooth and polished background, yellow shoulder marks with inner corners not extending over most of mesoscutum.
+TAXON= Diplazon (part)
+-
+Clypeus with apical margin thickened, convex and protruding in profile; apical margin convex (Fig. 12K). Epicnemial carina broadly interrupted behind fore coxa. Mesoscutum mostly smooth and shining, with punctures very weak or indistinct, yellow shoulder marks usually with inner corners extending over most of mesoscutum (Fig. 13D).
+TAXON= Xestopelta (part)

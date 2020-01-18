@@ -1,2 +1,6 @@
-13  Male with narrow tyloids each with an adjacent dark pit (Fig. 14K). Propodeum with two or more parallel, arcuate carinae around petiolar area (Fig. 14L). Female usually with a yellow line on lower mesopleuron.................................................................................................... Fossatyloides gracilentus (Holmgren)
--   Male with narrow tyloids without adjacent pits (Fig. 13H). Propodeum various, often lacking transverse carinae (Fig. 14M), or with regular carinae around petiolar area (Fig. 14N). Female with mesopleuron usually entirely black .... Homotropus (part)
+13
+Male with narrow tyloids each with an adjacent dark pit (Fig. 14K). Propodeum with two or more parallel, arcuate carinae around petiolar area (Fig. 14L). Female usually with a yellow line on lower mesopleuron.
+TAXON= Fossatyloides gracilentus (Holmgren)
+-
+Male with narrow tyloids without adjacent pits (Fig. 13H). Propodeum various, often lacking transverse carinae (Fig. 14M), or with regular carinae around petiolar area (Fig. 14N). Female with mesopleuron usually entirely black.
+TAXON= Homotropus (part)

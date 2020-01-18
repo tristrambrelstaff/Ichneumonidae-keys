@@ -1,2 +1,6 @@
-10  Metasoma extensively marked with orange, tergites 2 and 3 orange at least behind transverse impressions. Hind tibia often with some orange or orange-brown in the apical dark band ............................... Diplazon deletus (Thomson)
--   Metasoma entirely black or with narrow orange or yellow bands along hind margins of the tergites. Hind tibia usually entirely black apically........................................................................................ 11
+10
+Metasoma extensively marked with orange, tergites 2 and 3 orange at least behind transverse impressions. Hind tibia often with some orange or orange-brown in the apical dark band.
+TAXON= Diplazon deletus (Thomson)
+-
+Metasoma entirely black or with narrow orange or yellow bands along hind margins of the tergites. Hind tibia usually entirely black apically.
+11

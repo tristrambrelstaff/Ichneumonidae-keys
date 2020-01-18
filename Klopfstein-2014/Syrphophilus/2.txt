@@ -1,2 +1,6 @@
-2  Antenna with at least 19 flagellomeres in both sexes. Metasoma in females entirely black or with yellow spots apico-laterally on tergites 2 to 3 or 4, in males black with yellow apical bands on tergites 1 or 2 to 4 or 5. Femora usually entirely orange, male face usually entirely yellow, and scutellum at least marked with a yellow apical spot ............. Syrphophilus tricinctorius (Thunberg)
--  Antenna with 16–19 flagellomeres. Metasoma in both sexes entirely black or with orange or yellow hind margins. Femora often marked with black below, male face often with yellow inner orbits and a central yellow spot, scutellum with or without yellow markings ...................................................................................... 3
+2
+Antenna with at least 19 flagellomeres in both sexes. Metasoma in females entirely black or with yellow spots apico-laterally on tergites 2 to 3 or 4, in males black with yellow apical bands on tergites 1 or 2 to 4 or 5. Femora usually entirely orange, male face usually entirely yellow, and scutellum at least marked with a yellow apical spot.
+TAXON= Syrphophilus tricinctorius (Thunberg)
+-
+Antenna with 16–19 flagellomeres. Metasoma in both sexes entirely black or with orange or yellow hind margins. Femora often marked with black below, male face often with yellow inner orbits and a central yellow spot, scutellum with or without yellow markings.
+3

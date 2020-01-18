@@ -1,2 +1,6 @@
-16  Larger species, fore wing length 4.5–5.5 mm. Shoulder marks often large, with inner hind corners extending over half of the mesoscutum. Metasoma with large yellow markings basally on third and often fourth tergites. Mesopleuron extensively marked with yellow ......................................................... Homotropus megaspis Thomson ♂
--   Smaller species, fore wing length 3.9–4.5 mm. Shoulder marks usually small, inner hind corners at most weakly extended. Yellow markings on metasoma and mesopleuron often reduced, often restricted to fourth tergite and a narrow yellow line on mesopleuron ............................................................. Homotropus pictus (Gravenhorst) ♂
+16
+Larger species, fore wing length 4.5–5.5 mm. Shoulder marks often large, with inner hind corners extending over half of the mesoscutum. Metasoma with large yellow markings basally on third and often fourth tergites. Mesopleuron extensively marked with yellow.
+TAXON= Homotropus megaspis Thomson ♂
+-
+Smaller species, fore wing length 3.9–4.5 mm. Shoulder marks usually small, inner hind corners at most weakly extended. Yellow markings on metasoma and mesopleuron often reduced, often restricted to fourth tergite and a narrow yellow line on mesopleuron.
+TAXON= Homotropus pictus (Gravenhorst) ♂

@@ -1,2 +1,6 @@
-11  Outer hind surface of hind coxa mainly coriaceous and matt, with very small smooth areas. All trochanters black-marked, hind trochanter mainly black. Mesoscutum and subtegular ridge usually entirely black. Mesopleuron usually with some coriaceous sculpture on lower part ........................................................... Sussaba aciculata ♀ (Ruthe)
--   Hind coxa smooth and shining between some faint punctures and irregular sculpture on outer side. Mesoscutum usually with yellow shoulder marks, subtegular ridge yellow. Mesopleuron usually entirely smooth and shining ................................................................................................ Sussaba pulchella ♀ (Holmgren)
+11
+Outer hind surface of hind coxa mainly coriaceous and matt, with very small smooth areas. All trochanters black-marked, hind trochanter mainly black. Mesoscutum and subtegular ridge usually entirely black. Mesopleuron usually with some coriaceous sculpture on lower part.
+TAXON= Sussaba aciculata ♀ (Ruthe)
+-
+Hind coxa smooth and shining between some faint punctures and irregular sculpture on outer side. Mesoscutum usually with yellow shoulder marks, subtegular ridge yellow. Mesopleuron usually entirely smooth and shining.
+TAXON= Sussaba pulchella ♀ (Holmgren)

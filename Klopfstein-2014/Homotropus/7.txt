@@ -1,2 +1,6 @@
-7  Antenna all bright orange, not much darker than legs. Propodeum with rugae and sometimes an indication of petiolar carina (Fig. 20C). Face medially, pronotum and mesopleuron strongly punctate. Scutellum with a whitish hind margin .................................................................................... Homotropus strigator (Fabricius) ♀
--  Antenna brown or black at least on dorsal side, distinctly darker than legs. Propodeum with evenly fine sculpture, without indication of petiolar carinae (Fig. 20D). Punctures of face, pronotum and mesopleuron often faint or almost disappearing against the coriaceous background. Scutellum often with sides and hind margin light marked, light colour often yellow ........... 8
+7
+Antenna all bright orange, not much darker than legs. Propodeum with rugae and sometimes an indication of petiolar carina (Fig. 20C). Face medially, pronotum and mesopleuron strongly punctate. Scutellum with a whitish hind margin.
+TAXON= Homotropus strigator (Fabricius) ♀
+-
+Antenna brown or black at least on dorsal side, distinctly darker than legs. Propodeum with evenly fine sculpture, without indication of petiolar carinae (Fig. 20D). Punctures of face, pronotum and mesopleuron often faint or almost disappearing against the coriaceous background. Scutellum often with sides and hind margin light marked, light colour often yellow.
+8

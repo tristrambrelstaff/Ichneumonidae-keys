@@ -1,2 +1,6 @@
-3  Mesopleuron, mesosternum and scutellum mainly orange, metasoma black or with diffuse dark red coloration. Coxae, trochanters and legs entirely orange ..................................................Syrphophilus asperatus Dasch
-Mesosoma black, scutellum black or yellow-marked. Coxae black or yellow, trochanters yellow ....................... 4
+3
+Mesopleuron, mesosternum and scutellum mainly orange, metasoma black or with diffuse dark red coloration. Coxae, trochanters and legs entirely orange.
+TAXON= Syrphophilus asperatus Dasch
+-
+Mesosoma black, scutellum black or yellow-marked. Coxae black or yellow, trochanters yellow.
+4

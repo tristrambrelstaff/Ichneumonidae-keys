@@ -1,2 +1,6 @@
-15  Face often with two black stripes below antennal sockets. First tergite with median dorsal carinae at most present basally. Antenna dark on dorsal half ............................................. Homotropus nigritarsus (Gravenhorst) ♂
--   Face entirely yellow. First metasomal tergite with median dorsal carinae surpassing middle of the tergite. Antenna orange-brown dorsally ............................................................ Homotropus strigator (Fabricius) ♂
+15
+Face often with two black stripes below antennal sockets. First tergite with median dorsal carinae at most present basally. Antenna dark on dorsal half.
+TAXON= Homotropus nigritarsus (Gravenhorst) ♂
+-
+Face entirely yellow. First metasomal tergite with median dorsal carinae surpassing middle of the tergite. Antenna orange-brown dorsally.
+TAXON= Homotropus strigator (Fabricius) ♂

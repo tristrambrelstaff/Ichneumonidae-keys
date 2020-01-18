@@ -1,2 +1,6 @@
-1  Hind coxa red or yellow ................................................................................ 2
--  Hind coxa black, at least basally .......................................................................... 3
+1
+Hind coxa red or yellow.
+2
+-
+Hind coxa black, at least basally.
+3

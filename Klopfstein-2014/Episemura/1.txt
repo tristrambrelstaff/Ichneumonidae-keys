@@ -1,2 +1,6 @@
-1  Mandible with upper tooth subdivided, thus apparently with three teeth (Fig. 19A). Female metasoma laterally compressed posterior to third tergite, tergites 4–6 reaching about as far back laterally as medially. Hind tibia orange, as brightly colored as hind femur ....................................................................... Episemura ensata (Bauer)
--  Mandible with two teeth, although upper tooth distinctly larger than lower tooth (Fig. 19B). Female metasoma very strongly laterally compressed from apex of third tergite, knife-like, with tergites 4–6 reaching further back laterally than medially. Hind tibia dark brown, distinctly darker than femur ............................. Episemura diodon Kasparyan & Manukyan
+1
+Mandible with upper tooth subdivided, thus apparently with three teeth (Fig. 19A). Female metasoma laterally compressed posterior to third tergite, tergites 4–6 reaching about as far back laterally as medially. Hind tibia orange, as brightly colored as hind femur.
+TAXON= Episemura ensata (Bauer)
+-
+Mandible with two teeth, although upper tooth distinctly larger than lower tooth (Fig. 19B). Female metasoma very strongly laterally compressed from apex of third tergite, knife-like, with tergites 4–6 reaching further back laterally than medially. Hind tibia dark brown, distinctly darker than femur.
+TAXON= Episemura diodon Kasparyan & Manukyan

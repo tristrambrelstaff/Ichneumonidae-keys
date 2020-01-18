@@ -1,2 +1,6 @@
-14  Hind coxa black at most on basal third, remainder yellow, other coxae and trochanters entirely yellow. Metasoma somewhat elongate, with second tergite at least 1.6 times longer than basally wide. Tergite 3 usually orange with a black diamond-shaped mark in the middle. Femora without black markings ................................. Sussaba dorsalis ♂ (Holmgren)
--   Hind coxa mainly black, mid coxa and hind trochanter often black-marked basally. Metasoma not so elongate, second tergite at most 1.5 times longer than wide. Third tergite usually with two yellow basal markings and an orange apical stripe, dark centrally or entirely dark. Femora often marked with black lines ventrally........................................... 15
+14
+Hind coxa black at most on basal third, remainder yellow, other coxae and trochanters entirely yellow. Metasoma somewhat elongate, with second tergite at least 1.6 times longer than basally wide. Tergite 3 usually orange with a black diamond-shaped mark in the middle. Femora without black markings.
+TAXON= Sussaba dorsalis ♂ (Holmgren)
+-
+Hind coxa mainly black, mid coxa and hind trochanter often black-marked basally. Metasoma not so elongate, second tergite at most 1.5 times longer than wide. Third tergite usually with two yellow basal markings and an orange apical stripe, dark centrally or entirely dark. Femora often marked with black lines ventrally.
+15

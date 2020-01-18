@@ -1,2 +1,6 @@
-11  Female with metasomal tergites 3–5 with hind margins clearly concave, extending conspicuously further back laterally than dorsally (Fig. 14A) (usually indicated also in males). Face shining, finely coriaceous only along inner orbits, distinctly punctate ......................................................................................... Phthorima
--   Metasomal tergites convex or truncate in both sexes. Face matt, punctures usually almost disappearing among the coriaceous sculpture .......................................................................................... 12
+11
+Female with metasomal tergites 3–5 with hind margins clearly concave, extending conspicuously further back laterally than dorsally (Fig. 14A) (usually indicated also in males). Face shining, finely coriaceous only along inner orbits, distinctly punctate.
+TAXON= Phthorima
+-
+Metasomal tergites convex or truncate in both sexes. Face matt, punctures usually almost disappearing among the coriaceous sculpture.
+12

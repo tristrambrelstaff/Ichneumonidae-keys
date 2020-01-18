@@ -1,2 +1,6 @@
-6  Metasoma strongly compressed from fourth segment (Fig. 20A). Scutellum black. Coxae black or orange ................................................................................... Homotropus melanogaster (Holmgren) ♀
--  Metasoma less compressed or gradually tapered (Fig. 20B). Scutellum often marked with yellow. Coxae usually orange .... 7
+6
+Metasoma strongly compressed from fourth segment (Fig. 20A). Scutellum black. Coxae black or orange.
+TAXON= Homotropus melanogaster (Holmgren) ♀
+-
+Metasoma less compressed or gradually tapered (Fig. 20B). Scutellum often marked with yellow. Coxae usually orange.
+7

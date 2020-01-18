@@ -1,2 +1,6 @@
-22  Hind tibia with banding pattern distinct, with white band extending to dorsal part. Yellow colouration of mesopleuron and hind coxa often less expanded................................................... Homotropus frontorius (Thunberg) ♂
--   Hind tibia brown dorsally, banding pattern thus only distinct ventrally. Mesosternum, lower half of mesopleuron, and most of hind coxa often yellow .....................................................Homotropus dimidiatus (Schrank) ♂
+22
+Hind tibia with banding pattern distinct, with white band extending to dorsal part. Yellow colouration of mesopleuron and hind coxa often less expanded.
+TAXON= Homotropus frontorius (Thunberg) ♂
+-
+Hind tibia brown dorsally, banding pattern thus only distinct ventrally. Mesosternum, lower half of mesopleuron, and most of hind coxa often yellow.
+TAXON= Homotropus dimidiatus (Schrank) ♂
