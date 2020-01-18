@@ -2,5 +2,6 @@
 Temples somewhat enlarged or parallel behind the eyes, slighty narrowed apically. Genae swollen, genal index about 1.0. Scutellum black. Flagellum with 39 segments.
 TAXON= P. judaicus Berthoumieu, 1900
 -
-Temples ± narrowed behind the eyes. Genal index < 1.0. Flagellum at most with 38 segments. Scutellum often with ivory spot apically [Due to large variations in sculpture and colour, the following species are not always separable.]
+Temples ± narrowed behind the eyes. Genal index < 1.0. Flagellum at most with 38 segments. Scutellum often with ivory spot apically.
 30
+NOTES= Due to large variations in sculpture and colour, the following species are not always separable.
