@@ -2,4 +2,4 @@ NAME= Platylabus-males
 
 TITLE= English key for the Platylabus species of the Western Palearctic region - Males
 
-NOTES= Unknown for P. ponticus , P. cabrerai , P. pullus and P. helveticus.
+NOTE= Unknown for P. ponticus , P. cabrerai , P. pullus and P. helveticus.

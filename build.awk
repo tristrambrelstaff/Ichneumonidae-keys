@@ -35,8 +35,8 @@ function build_key_page(doc, key, \
   printf "<h1>Key: %s %s</h1>\n", doc, key > outfile
   printf "<h2>Title</h2>\n" > outfile
   printf "%s\n", params["TITLE"] > outfile
-  printf "<h2>Notes</h2>\n" > outfile
-  split(params["NOTES"], notes, "\n")
+  printf "<h2>Note</h2>\n" > outfile
+  split(params["NOTE"], notes, "\n")
   for (n in notes) {
     printf "<div class=\"note\">%s</div>", notes[n] > outfile
   }

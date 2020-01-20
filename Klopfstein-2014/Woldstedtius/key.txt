@@ -2,4 +2,4 @@ NAME= Woldstedtius
 
 TITLE= Key to species
 
-NOTES= There is rather little morphological variation found in the Western Palaearctic species and one often has to rely on colour characters. Males of most species are often difficult to identify because of large intra-specific variation, especially in the colour of the coxae. The key given below thus only partly works for male specimens.
+NOTE= There is rather little morphological variation found in the Western Palaearctic species and one often has to rely on colour characters. Males of most species are often difficult to identify because of large intra-specific variation, especially in the colour of the coxae. The key given below thus only partly works for male specimens.

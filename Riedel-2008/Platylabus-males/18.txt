@@ -4,4 +4,4 @@ TAXON= P. fugator (Gravenhorst, 1829)
 –
 Upper lateral margin of pronotum ± ivory. Flagellum with 38-40 segments. Body length 8-9 mm.
 TAXON= P. pallidens Wesmael, 1853, in part
-NOTES= [Some specimens of P. concinnus Thomson with ± black femur III key here, but body length 5-7 mm and flagellum with 32-35 segments]
+NOTE= [Some specimens of P. concinnus Thomson with ± black femur III key here, but body length 5-7 mm and flagellum with 32-35 segments]

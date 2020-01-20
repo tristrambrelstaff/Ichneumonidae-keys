@@ -4,4 +4,4 @@ TAXON= P. ruficoxatus spec. nov.
 –
 Coxa and trochanter often with less extended ivory pattern, coxa III ± black.
 26
-NOTES= The males of the following three species are not always separable morphologically.
+NOTE= The males of the following three species are not always separable morphologically.

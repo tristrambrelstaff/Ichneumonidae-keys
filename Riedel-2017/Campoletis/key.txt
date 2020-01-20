@@ -2,4 +2,4 @@ NAME= Campoletis
 
 TITLE= Identification key for the Western Palearctic species of Campoletis
 
-NOTES= The key is mainly for ♀♀, identification of ♂♂ is not possible for all species.
+NOTE= The key is mainly for ♀♀, identification of ♂♂ is not possible for all species.

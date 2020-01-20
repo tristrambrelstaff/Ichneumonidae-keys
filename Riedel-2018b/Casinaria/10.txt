@@ -4,4 +4,4 @@ TAXON= C. tenuiventris (GRAVENHORST, 1829) ♀♂
 -
 Tegulae black. Flagella with 35-37 flagellomeres. Propodeum usually without distinct carinae (fig. 27). Larger, body length, 7.5-10 mm.
 TAXON= C. tegulata nov.sp. ♀♂
-NOTES= [here run some ♂♂ of Casinaria scabra with longer basal tergites, but then central tergites with characteristic reddish colour pattern (fig 6)]
+NOTE= [here run some ♂♂ of Casinaria scabra with longer basal tergites, but then central tergites with characteristic reddish colour pattern (fig 6)]

@@ -4,4 +4,4 @@ TAXON= P. dolorosus (Gravenhorst, 1829)
 –
 Spots on vertex confluent with ivory frontal orbits and inwards directed apically. Malar index 0.7. Metatarsus III longer, tarsal III-index 1.1. Tergite 2 with fine aciculation basally. Lateral mesoscutal lobes with finer punctures, intervals with dense microsculpture, usually ± dull. Flagellum with 34-36 segments, apical segment narrowed at tip (as usual).
 TAXON= P. baueri spec. nov.
-NOTES= [here key some specimens of P. concinnus with dark femora III: lateral mesoscutal lobes without microsculpture, tergite 2 with scattered punctures and shining]
+NOTE= [here key some specimens of P. concinnus with dark femora III: lateral mesoscutal lobes without microsculpture, tergite 2 with scattered punctures and shining]
