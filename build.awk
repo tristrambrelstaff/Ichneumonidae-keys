@@ -23,8 +23,19 @@ function get_params(params_file, params, \
   close(params_file)
 }
 
-function build_couplet_page(doc, key, couplet) {
+function get_couplet_params(params_file, doc, key, couplet, params, \
+  line, parts) {
   ### TODO ###
+}
+
+function build_couplet_page(doc, key, couplet, \
+  params, outfile) {
+  get_couplet_params(sprintf("%s/%s/%.txt", doc, key, couplet, params))
+  outfile = sprintf("%s/%s/%s.html", doc, key, couplet)
+  printf "<!doctype html>\n" > outfile
+  printf "<h1>Couplet: %s/%s/%s</h1>\n", doc, key, couplet > outfile
+  ### TODO ###
+  close(outfile)
 }
 
 function build_key_page(doc, key, \
@@ -32,7 +43,7 @@ function build_key_page(doc, key, \
   get_params(sprintf("%s/%s/key.txt", doc, key), params)
   outfile = sprintf("%s/%s/key.html", doc, key)
   printf "<!doctype html>\n" > outfile
-  printf "<h1>Key: %s %s</h1>\n", doc, key > outfile
+  printf "<h1>Key: %s/%s</h1>\n", doc, key > outfile
   printf "<h2>Title</h2>\n" > outfile
   printf "%s\n", params["TITLE"] > outfile
   printf "<h2>Note</h2>\n" > outfile
@@ -45,7 +56,7 @@ function build_key_page(doc, key, \
   for (k in couplets) {
     if (couplets[k] != "key") {
       printf "<a href=\"%s.html\">%s</a> ", couplets[k], couplets[k] > outfile
-      build_couplet_page(doc, key, couplets[j])
+      build_couplet_page(doc, key, couplets[k])
     }
   }
   close(outfile)
