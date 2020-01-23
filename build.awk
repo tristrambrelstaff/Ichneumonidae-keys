@@ -23,18 +23,28 @@ function get_params(params_file, params, \
   close(params_file)
 }
 
-function get_couplet_params(params_file, doc, key, couplet, params, \
-  line, parts) {
-  ### TODO ###
-}
-
 function build_couplet_page(doc, key, couplet, \
-  params, outfile) {
-  get_couplet_params(sprintf("%s/%s/%.txt", doc, key, couplet, params))
+  infile, params, outfile) {
   outfile = sprintf("%s/%s/%s.html", doc, key, couplet)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Couplet: %s/%s/%s</h1>\n", doc, key, couplet > outfile
-  ### TODO ###
+  printf "<table>\n" > outfile
+  infile = sprintf("%s/%s/%s.txt", doc, key, couplet)
+  while ((getline line < infile) > 0) {
+    printf "  <tr>\n" > outfile
+    printf "    <td>\n" > outfile
+    printf "      %s\n", "TODO" > outfile
+    printf "    </td>\n" > outfile
+    printf "    <td>\n" > outfile
+    printf "      %s\n", "TODO" > outfile
+    printf "    </td>\n" > outfile
+    printf "    <td>\n" > outfile
+    printf "      %s\n", "TODO" > outfile
+    printf "    </td>\n" > outfile
+    printf "  </tr>\n" > outfile
+  }
+  printf "</table>\n" > outfile
+  close(infile)
   close(outfile)
 }
 
