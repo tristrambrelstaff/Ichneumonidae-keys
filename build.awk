@@ -25,24 +25,28 @@ function get_params(params_file, params, \
 
 function build_couplet_page(doc, key, couplet, \
   infile, params, outfile) {
+  infile = sprintf("%s/%s/%s.txt", doc, key, couplet)
+  if ((getline line < infile) > 0) {
+    ### TEMP ###
+  } else {
+    printf("empty couplet file: %s\n", infile) > "/dev/stderr"
+    exit 1
+  }
   outfile = sprintf("%s/%s/%s.html", doc, key, couplet)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Couplet: %s/%s/%s</h1>\n", doc, key, couplet > outfile
   printf "<table>\n" > outfile
-  infile = sprintf("%s/%s/%s.txt", doc, key, couplet)
-  while ((getline line < infile) > 0) {
-    printf "  <tr>\n" > outfile
-    printf "    <td>\n" > outfile
-    printf "      %s\n", "TODO" > outfile
-    printf "    </td>\n" > outfile
-    printf "    <td>\n" > outfile
-    printf "      %s\n", "TODO" > outfile
-    printf "    </td>\n" > outfile
-    printf "    <td>\n" > outfile
-    printf "      %s\n", "TODO" > outfile
-    printf "    </td>\n" > outfile
-    printf "  </tr>\n" > outfile
-  }
+  printf "  <tr>\n" > outfile
+  printf "    <td>\n" > outfile
+  printf "      %s\n", line > outfile  ### TEMP ###
+  printf "    </td>\n" > outfile
+  printf "    <td>\n" > outfile
+  printf "      %s\n", "TODO" > outfile
+  printf "    </td>\n" > outfile
+  printf "    <td>\n" > outfile
+  printf "      %s\n", "TODO" > outfile
+  printf "    </td>\n" > outfile
+  printf "  </tr>\n" > outfile
   printf "</table>\n" > outfile
   close(infile)
   close(outfile)
