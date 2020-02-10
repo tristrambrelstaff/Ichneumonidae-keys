@@ -1,120 +1,98 @@
-function get_subdirectory_names(dir, arr) {
-  sprintf("cd %s; ls -dv */ 2>/dev/null | sed s#/##g | xargs", dir) | getline line
-  split(line, arr)
-}
-
-function get_txt_file_names(dir, arr) {
-  sprintf("cd %s; ls -v *.txt 2>/dev/null | sed s/.txt//g | xargs", dir) | getline line
-  split(line, arr)
-}
-
-function get_params(params_file, params, \
-  line, parts) {
-  while((getline line < params_file) > 0) {
-    if (match(line, /^([[:alnum:]_]+)\s*=\s*(.*)/, parts) > 0) {
-      label = toupper(parts[1])
-      if (label in params) {
-        params[label] = sprintf("%s\n%s", params[label], parts[2])
-      } else {
-        params[label] = parts[2]
-      }
-    }
-  }
-  close(params_file)
-}
-
-function build_couplet_page(doc, key, couplet, \
-  infile, params, outfile) {
-  infile = sprintf("%s/%s/%s.txt", doc, key, couplet)
-  if ((getline line < infile) > 0) {
-    ### TEMP ###
-  } else {
-    printf("empty couplet file: %s\n", infile) > "/dev/stderr"
-    exit 1
-  }
-  outfile = sprintf("%s/%s/%s.html", doc, key, couplet)
+function write_ppage(docs, outfile, \
+		     d, doc) {
   printf "<!doctype html>\n" > outfile
-  printf "<h1>Couplet: %s/%s/%s</h1>\n", doc, key, couplet > outfile
-  printf "<table>\n" > outfile
-  printf "  <tr>\n" > outfile
-  printf "    <td>\n" > outfile
-  printf "      %s\n", line > outfile  ### TEMP ###
-  printf "    </td>\n" > outfile
-  printf "    <td>\n" > outfile
-  printf "      %s\n", "TODO" > outfile
-  printf "    </td>\n" > outfile
-  printf "    <td>\n" > outfile
-  printf "      %s\n", "TODO" > outfile
-  printf "    </td>\n" > outfile
-  printf "  </tr>\n" > outfile
-  printf "</table>\n" > outfile
-  close(infile)
-  close(outfile)
-}
-
-function build_key_page(doc, key, \
-  params, outfile, k, couplets) {
-  get_params(sprintf("%s/%s/key.txt", doc, key), params)
-  outfile = sprintf("%s/%s/key.html", doc, key)
-  printf "<!doctype html>\n" > outfile
-  printf "<h1>Key: %s/%s</h1>\n", doc, key > outfile
-  printf "<h2>Title</h2>\n" > outfile
-  printf "%s\n", params["TITLE"] > outfile
-  printf "<h2>Note</h2>\n" > outfile
-  split(params["NOTE"], notes, "\n")
-  for (n in notes) {
-    printf "<div class=\"note\">%s</div>", notes[n] > outfile
-  }
-  printf "<h2>Couplets</h2>\n" > outfile
-  get_txt_file_names(sprintf("%s/%s", doc, key), couplets)
-  for (k in couplets) {
-    if (couplets[k] != "key") {
-      printf "<a href=\"%s.html\">%s</a> ", couplets[k], couplets[k] > outfile
-      build_couplet_page(doc, key, couplets[k])
-    }
+  printf "<h1>Documents</h1>\n" > outfile
+  for (d in docs) {
+    doc = docs[d]
+    printf "<a href=\"%s/doc.html\">%s</a><br>\n", doc, doc > outfile
   }
   close(outfile)
 }
 
-function build_doc_page(doc, \
-  params, outfile, keys) {
-  get_params(sprintf("%s/doc.txt", doc), params)
-  outfile = sprintf("%s/doc.html", doc)
+
+function write_dpage(infile, doc, keys, outfile, \
+		     k, key) {
   printf "<!doctype html>\n" > outfile
   printf "<h1>Document: %s</h1>\n", doc > outfile
+  ### Read Doc File
   printf "<h2>Citation</h2>\n" > outfile
   printf "%s\n", params["CITATION"] > outfile
   printf "<h2>Sources</h2>\n" > outfile
-  printf "<a href=\"%s\" class=\"original_copy\">Original Copy</a><br>\n", params["ORIGINAL_COPY"] > outfile
-  printf "<a href=\"%s\" class=\"original_page\">Original Page</a><br>\n", params["ORIGINAL_PAGE"] > outfile
-  printf "<a href=\"%s\" class=\"archived_copy\">Archived Copy</a><br>\n", params["ARCHIVED_COPY"] > outfile
-  printf "<a href=\"%s\" class=\"archived_page\">Archived Page</a><br>\n", params["ARCHIVED_PAGE"] > outfile
+  printf "<a href=\"%s\">Original Copy</a><br>\n", params["ORIGINAL_COPY"] > outfile
+  printf "<a href=\"%s\">Original Page</a><br>\n", params["ORIGINAL_PAGE"] > outfile
+  printf "<a href=\"%s\">Archived Copy</a><br>\n", params["ARCHIVED_COPY"] > outfile
+  printf "<a href=\"%s\">Archived Page</a><br>\n", params["ARCHIVED_PAGE"] > outfile
   printf "<h2>Keys</h2>\n" > outfile
-  get_subdirectory_names(doc, keys)
-  for (j in keys) {
-    printf "<a href=\"%s/key.html\">%s</a><br>\n", keys[j], keys[j] > outfile
-    build_key_page(doc, keys[j])
+  for (k in keys) {
+    key = keys[k]
+    printf "<a href=\"%s/key.html\">%s</a><br>\n", key, key > outfile
   }
   printf "<h2>Figures</h2>\n" > outfile
   printf "### TODO ###\n" > outfile
   close(outfile)
 }
 
-function build_docs_page(docs, \
-  outfile, i) {
-  outfile = "docs.html"
+
+function write_kpage(infile, key, couplets, outfile, \
+		     n, note, c, couplet) {
   printf "<!doctype html>\n" > outfile
-  printf "<h1>Documents</h1>\n" > outfile
-  for (i in docs) {
-    printf "<a href=\"%s/doc.html\">%s</a><br>\n", docs[i], docs[i] > outfile
+  printf "<h1>Key: %s</h1>\n", key > outfile
+  ### Read Key File
+  printf "<h2>Title</h2>\n" > outfile
+  printf "%s\n", params["TITLE"] > outfile
+  printf "<h2>Note</h2>\n" > outfile
+  split(params["NOTE"], notes, "\n")
+  for (n in notes) {
+    note = notes[n]
+    printf "<div>%s</div>", note > outfile
+  }
+  printf "<h2>Couplets</h2>\n" > outfile
+  for (c in couplets) {
+    couplet = couplets[c]
+    printf "<a href=\"%s.html\">%s</a> ", couplet, couplet > outfile
   }
   close(outfile)
 }
 
+
+function write_cpage(infile, couplet, outfile) {
+  printf "<!doctype html>\n" > outfile
+  printf "<h1>Couplet: %s</h1>\n", couplet > outfile
+  ### Read Couplet File
+  close(outfile)
+}
+
+
+function get_subdirs(dir, arr) {
+  sprintf("cd %s; ls -dv */ 2>/dev/null | sed s#/##g | xargs", dir) | getline line
+  split(line, arr)
+}
+
+
+function get_couplet_files(dir, arr) {
+  sprintf("cd %s; ls -v *.txt 2>/dev/null | grep -v key.txt | sed s/.txt//g | xargs", dir) | getline line
+  split(line, arr)
+}
+
+
 BEGIN {
-  get_subdirectory_names(".", docs)
-  build_docs_page(docs)
-  for (i in docs) {
-    build_doc_page(docs[i])
+  pdir = ENVIRON["PWD"]
+  get_subdirs(pdir, docs)
+  write_ppage(docs, pdir "/project.html")
+  for (d in docs) {
+    doc = docs[d]
+    ddir = pdir "/" doc
+    get_subdirs(ddir, keys)
+    write_dpage(ddir "/doc.txt", doc, keys, ddir "/doc.html")
+    for (k in keys) {
+      key = keys[k]
+      kdir = ddir "/" key
+      get_couplet_files(kdir, couplets)
+      write_kpage(kdir "/key.txt", key, couplets, kdir "/key.html")
+      for (c in couplets) {
+        couplet = couplets[c]
+        write_cpage(kdir "/" couplet ".txt", couplet, kdir "/" couplet ".html")
+      }
+    }
   }
 }
