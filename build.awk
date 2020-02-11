@@ -10,11 +10,26 @@ function write_ppage(docs, outfile, \
 }
 
 
+function get_params(params_file, params, \
+                    line, parts) {
+  while((getline line < params_file) > 0) {
+    if (match(line, /^([[:alnum:]_]+)\s*=\s*(.*)/, parts) > 0) {
+      label = toupper(parts[1])
+      if (label in params) {
+        params[label] = sprintf("%s\n%s", params[label], parts[2])
+      } else {
+        params[label] = parts[2]
+      }
+    }
+  }
+}
+
+
 function write_dpage(infile, doc, keys, outfile, \
-		     k, key) {
+		     params, k, key) {
+  get_params(infile, params)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Document: %s</h1>\n", doc > outfile
-  ### Read Doc File
   printf "<h2>Citation</h2>\n" > outfile
   printf "%s\n", params["CITATION"] > outfile
   printf "<h2>Sources</h2>\n" > outfile
@@ -34,10 +49,10 @@ function write_dpage(infile, doc, keys, outfile, \
 
 
 function write_kpage(infile, key, couplets, outfile, \
-		     n, note, c, couplet) {
+		     params, n, note, c, couplet) {
+  get_params(infile, params)
   printf "<!doctype html>\n" > outfile
   printf "<h1>Key: %s</h1>\n", key > outfile
-  ### Read Key File
   printf "<h2>Title</h2>\n" > outfile
   printf "%s\n", params["TITLE"] > outfile
   printf "<h2>Note</h2>\n" > outfile
