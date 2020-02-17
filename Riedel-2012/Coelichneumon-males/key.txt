@@ -1,0 +1,5 @@
+NAME= Coelichneumon-males
+
+TITLE= Bestimmungsschlüssel der westpaläarktischen Arten der Gattung Coelichneumon THOMSON - Males
+
+NOTE= (von C. graecator, C. italicus, C. madritinus, C. nigritor, C. paraviolaceiventris, C. parvulus, C. pedemontanus, C. rufigaster und C. zwakhalsi unbekannt)
