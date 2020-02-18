@@ -1,0 +1,6 @@
+15
+Fühlergeißel mit 39 Gliedern. Coxa III mit kleiner unscharf abgegrenzter Scopa. Pterostigma gelblich.
+TAXON= C. zwakhalsi nov.sp.
+-
+Fühlergeißel mit 44-47 Gliedern. Coxa III mit deutlicher Scopa, Pterostigma bräunlich.
+TAXON= C. impressor r (ZETTERSTEDT 1838) in part

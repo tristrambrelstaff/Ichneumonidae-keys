@@ -1,0 +1,6 @@
+10
+Große Art, 15-17 mm. Mesosoma mit weißlicher Zeichnung (Oberrand des Pronotums, Subalarleiste und Scutellum apikal weißlich).
+TAXON= C. rudis (F ONSCOLOMBE 1847)
+-
+Kleine Art, 11 mm, Mesosoma ganz schwarz.
+TAXON= C. graecator r nov.sp.
