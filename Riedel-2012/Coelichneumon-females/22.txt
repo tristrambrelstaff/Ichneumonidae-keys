@@ -1,0 +1,6 @@
+22
+15-17 mm. Fühlergeißel mit 42-48 Gliedern. Coxa III mit deutlicher Scopa. Mesosoma mit weißlicher Zeichnung des Collare und meist der Präscutellarleiste.
+TAXON= C. validus (BERTHOUMIEU 1894)
+-
+14-19 mm. Fühlergeißel mit 46-53 Gliedern. Coxa III mit schwacher Scopa (diese manchmal ganz fehlend). Mesosoma mit ausgedehnter weißlicher Zeichnung, gewöhnlich Mesoscutum mit zwei weißlichen Längsstreifen.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894) in part
