@@ -1,0 +1,6 @@
+50
+Femur III rot, apikal schmal verdunkelt. Tibia III und Tarsus III schwärzlich. Metasoma mit bläulichem Glanz. Fühlergeißel mit 43-46 Glieder, erstes Geißelglied etwa 1,9-2,2x so lang wie breit, Geißel-Augen-Index gewöhnlich 0,50-0,58, die breitesten etwa 1,5-2,0x so breit wie lang.
+TAXON= C. erythromerus (RUDOW 1888) in part
+-
+Femora III ganz rot, Tibia III nur apikal verdunkelt, Tarsus III schwärzlich. Metasoma schwarz, ohne violetten Glanz. Fühlergeißel mit 43-48 Gliedern, erstes Geißelglied etwa 1,7-2,0x so lang wie breit, Geißel-Augen-Index etwa 0,48-0,50, die breitesten 2,0-2,5x so breit wie lang.
+TAXON= C. comitator var. ferreus (GRAVENHORST 1829)
