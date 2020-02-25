@@ -1,0 +1,6 @@
+55
+Pterostigma gewöhnlich gelblich-rot. Scutellum schwarz (Abb. 8c), Mesosoma bräunlich behaart. Femora, Tibien und Tarsen rot bis schwarz. Fühlergeißel hinter der Mitte stark verbreitert, breiteste Geißelglieder etwa 2,5-3,0x so breit wie lang (selten nur 2x). Femur III recht schlank, etwa 3,5-3,9x so lang wie breit. Von lateral betrachtet Wangen breiter als die Augen, Schläfe direkt hinter dem Auge verengt. 11-16 mm.
+TAXON= C. nigerrimus (STEPHENS 1835)
+-
+Pterostigma dunkelbraun. Scutellum breiter als lang, gewöhnlich mit weißen Seitenrändern (Abb. 6c). Behaarung des Mesosomas hell. Beine schwarz. Vorderseite der Tibien II und III meist mit weißlichen Längsstreifen. Fühlergeißel hinter der Mitte weniger deutlich verbreitert, breiteste Geißelglieder etwa 2,0-2,5x so breit wie lang. Von lateral betrachtet Wangen etwas schmaler r als die Augen. Schläfe direkt hinter dem Auge nicht verengt. 10-15 mm.
+TAXON= C. cretatus (GRAVENHORST 1820)
