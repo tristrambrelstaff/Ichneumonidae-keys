@@ -1,0 +1,5 @@
+Fühlergeißel gedrungen, mit 45-48 Gliedern, Geißel-Augen-Index etwa 0,41. Gesicht und Clypeus ganz weißlich. Oberrand des Pronotums weißlich, aber Collare schwarz. Schläfe hinter dem Auge etwas verbreitert, Occiput tief ausgeschnitten. Postpetiolus breit, Seitenfelder mindestens so breit wie das Mittelfeld. Thyridium schmaler als das Intervall (Index etwa 0,7). Femur III gedrungen, etwa 3,2-3,6x so lang wie hoch. 15-17 mm.
+TAXON= C. rudis (FONSCOLOMBE 1847)
+-
+Fühlergeißel weniger gedrungen, mit 43-46 Gliedern, Geißel-Augen-Index 0,47-0,56. Gesicht in der Mitte schwarz. Schläfe hinter dem Auge nicht deutlich verbreitert, Occiput nicht ungewöhnlich tief ausgeschnitten. Seitenfelder des Postpetiolus schmaler als das Mittelfeld. Thyridium größer, etwa so breit wie das Intervall. Femur III schlanker, etwa 3,8x so lang wie hoch. 17-18 mm.
+TAXON= C. atratorius (VILLERS 1789)
