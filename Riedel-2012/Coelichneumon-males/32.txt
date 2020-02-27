@@ -1,0 +1,6 @@
+32
+Kleiner, 9-13 mm. Fühlergeißel mit 33-39 Gliedern. Femur III 3,5-4,0x so lang wie hoch.
+TAXON= C. consimilis (WESMAEL 1845)
+-
+Größer, 13-14 mm. Fühlergeißel mit 42-47 Gliedern. Femur III 3,9-4,3x so lang wie hoch. Beine überwiegend hellrot, Tarsus III mehr oder weniger verdunkelt.
+TAXON= C. impressor (ZETTERSTEDT 1838)
