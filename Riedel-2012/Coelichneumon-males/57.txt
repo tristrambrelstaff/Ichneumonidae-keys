@@ -1,5 +1,6 @@
-58
+57
 Kopf stärker verengt. Stirn und Seiten des Pronotums stärker punktiert. Femora und Gaster rot bis schwarz, oft nur das erste Tergit schwarz. 15-17 mm.
 TAXON= C. biguttorius (THUNBERG 1789)
 - Kopf weniger stark verengt. Stirn und Seiten des Pronotums schwächer punktiert. Tyloide auf den Geißelgliedern 7-21. Femur III teils oder ganz schwarz. Metasoma nur apikal rot, gewöhnlich die Tergite 5-7 rot. 11-12 mm.
 TAXON= C. ruficauda (WESMAEL 1845)
+NOTE= This couplet is labelled 58 in the original but this does not fit in with the other couplets so I have changed it to 57.
