@@ -10,11 +10,13 @@ $(error This Make does not support .RECIPEPREFIX. Please use GNU Make 4.0 or lat
 endif
 .RECIPEPREFIX = >
 
+# Note: you need to put $$ here to pass $ to Bash
+
 .PHONY: all
 all:
-> awk -f build.awk
+> @for INF in $$(find . -name "*.txt"); do OUTF="$${INF%.txt}.html"; awk -f parse.awk $$INF | awk -f render.awk > $$OUTF ; done
 
 .PHONY: clean
 clean:
-> find . -type f -name "*.html" -exec rm -f {} \;
+> @find . -type f -name "*.html" -exec rm -f {} \;
 
