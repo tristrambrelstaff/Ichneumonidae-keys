@@ -14,7 +14,7 @@ endif
 
 .PHONY: all
 all:
-> @for INF in $$(find . -name "*.txt"); do OUTF="$${INF%.txt}.html"; awk -f parse.awk $$INF | awk -f render.awk > $$OUTF ; done
+> @for INF in $$(find . -name "*.txt"); do OUTF="$${INF%.txt}.html"; awk -f build.awk $$INF | awk -f render.awk > $$OUTF ; done
 
 .PHONY: clean
 clean:
