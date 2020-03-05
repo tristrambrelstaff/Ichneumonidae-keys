@@ -12,18 +12,18 @@ function get_subdirnames(dir, arr) {
 
 
 function get_txtfilenames(dir, arr) {
-  sprintf("cd %s; ls -v *.txt 2>/dev/null | sed s/.txt//g | xargs", dir) | getline line
+  sprintf("cd %s; ls -v ./*.txt 2>/dev/null | sed s/.txt//g | xargs", dir) | getline line
   split(line, arr)
 }
 
 
-# Just pass through k=v pairs:
+# Just pass through var=val pairs:
 match($0, /^[[:blank:]]*([[:alpha:]][_[:alnum:]]*)[[:blank:]]*=(.*)$/, arr) {
-  k = toupper(arr[1])
-  v = trim(arr[2])
-  printf "%s=%s\n", k, v
-  if (k == "TYPE") {
-    type = v
+  var = toupper(arr[1])
+  val = trim(arr[2])
+  printf "%s=%s\n", var, val
+  if (var == "TYPE") {
+    type = val
   }
 }
 
@@ -37,8 +37,20 @@ END {
       }
       break
     case "doc":
+      get_subdirnames("./", keys)
+      for (k in keys) {
+        printf "KEY=%s\n", keys[k]
+      }
+      get_txtfilenames("./figures/", figs)
+      for (f in figs) {
+        printf "FIG=%s\n", figs[f]
+      }
       break
     case "key":
+      get_txtfilenames("./", couplets)
+      for (c in couplets) {
+        printf "COUPLET=%s\n", couplets[c]
+      }
       break
     case "couplet":
       break
