@@ -1,4 +1,6 @@
-NAME= Riedel-2012
+TYPE= doc
+
+ID= Riedel-2012
 
 CITATION= Matthias Riedel (2012): Revision der westpaläarktischen Arten der Gattung Coelichneumon THOMSON (Hymenoptera: Ichneumonidae: Ichneumoninae) – Linzer biologische Beiträge – 0044_2: 1477 - 1611.
 

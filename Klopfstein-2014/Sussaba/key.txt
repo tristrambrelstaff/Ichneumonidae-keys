@@ -1,4 +1,6 @@
-NAME= Sussaba
+TYPE= key
+
+ID= Sussaba
 
 TITLE= Key to species
 

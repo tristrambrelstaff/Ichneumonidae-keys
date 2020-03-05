@@ -1,4 +1,6 @@
-NAME= Woldstedtius
+TYPE= key
+
+ID= Woldstedtius
 
 TITLE= Key to species
 

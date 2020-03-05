@@ -1,4 +1,6 @@
-NAME= Riedel-2018b
+TYPE= doc
+
+ID= Riedel-2018b
 
 CITATION= Matthias Riedel (2018): Revision of the Western Palaearctic species of the genus Casinaria HOLMGREN (Hymenoptera, Ichneumonidae, Campopleginae) – Linzer biologische Beiträge – 0050_1: 723 - 763.
 

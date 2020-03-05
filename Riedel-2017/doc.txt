@@ -1,4 +1,6 @@
-NAME= Riedel-2017
+TYPE= doc
+
+ID= Riedel-2017
 
 CITATION= Matthias Riedel (2017): Die westpaläarktischen Arten der Gattung Campoletis Förster (Hymenoptera, Ichneumonidae, Campopleginae) – Spixiana, Zeitschrift für Zoologie – 040: 95 - 137.
 

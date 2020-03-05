@@ -1,2 +1,5 @@
-NAME= Ichneumon-females-E2
+TYPE= key
+
+ID= Ichneumon-females-E2
+
 TITLE= Gruppe E2

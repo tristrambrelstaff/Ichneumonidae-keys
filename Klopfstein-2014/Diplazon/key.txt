@@ -1,3 +1,5 @@
-NAME= Diplazon
+TYPE= key
+
+ID= Diplazon
 
 TITLE= Key to species

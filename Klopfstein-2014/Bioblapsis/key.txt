@@ -1,3 +1,5 @@
-NAME= Bioblapsis
+TYPE= key
+
+ID= Bioblapsis
 
 TITLE= Key to species

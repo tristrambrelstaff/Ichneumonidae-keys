@@ -1,3 +1,5 @@
-NAME= Platylabus-females
+TYPE= key
+
+ID= Platylabus-females
 
 TITLE= English key for the Platylabus species of the Western Palearctic region - Females

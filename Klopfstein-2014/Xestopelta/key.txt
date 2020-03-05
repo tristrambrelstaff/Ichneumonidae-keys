@@ -1,3 +1,5 @@
-NAME= Xestopelta
+TYPE= key
+
+ID= Xestopelta
 
 TITLE= Key to species

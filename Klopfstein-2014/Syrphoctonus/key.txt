@@ -1,3 +1,5 @@
-NAME= Syrphoctonus
+TYPE= key
+
+ID= Syrphoctonus
 
 TITLE= Key to species

@@ -1,3 +1,5 @@
-NAME= Ichneumon-females-B
+TYPE= key
+
+ID= Ichneumon-females-B
 
 TITLE= Gruppe B

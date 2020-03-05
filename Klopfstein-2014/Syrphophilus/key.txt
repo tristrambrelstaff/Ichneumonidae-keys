@@ -1,3 +1,5 @@
-NAME= Syrphophilus
+TYPE= key
+
+ID= Syrphophilus
 
 TITLE= Key to species

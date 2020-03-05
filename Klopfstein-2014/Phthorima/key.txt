@@ -1,3 +1,5 @@
-NAME= Phthorima
+TYPE= key
+
+ID= Phthorima
 
 TITLE= Key to species

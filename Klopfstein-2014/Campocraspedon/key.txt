@@ -1,3 +1,5 @@
-NAME= Campocraspedon
+TYPE= key
+
+ID= Campocraspedon
 
 TITLE=Key to species

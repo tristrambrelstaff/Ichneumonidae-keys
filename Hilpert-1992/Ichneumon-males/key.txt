@@ -1,4 +1,6 @@
-NAME= Ichneumon-males
+TYPE= key
+
+ID= Ichneumon-males
 
 TITLE= Bestimmungsschlüssel Für die Männchen
 

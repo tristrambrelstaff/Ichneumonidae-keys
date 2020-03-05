@@ -1,4 +1,6 @@
-NAME= Campoletis
+TYPE= key
+
+ID= Campoletis
 
 TITLE= Identification key for the Western Palearctic species of Campoletis
 

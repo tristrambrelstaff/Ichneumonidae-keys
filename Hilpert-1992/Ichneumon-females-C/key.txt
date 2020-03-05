@@ -1,3 +1,5 @@
-NAME= Ichneumon-females-C
+TYPE= key
+
+ID= Ichneumon-females-C
 
 TITLE= Gruppe C

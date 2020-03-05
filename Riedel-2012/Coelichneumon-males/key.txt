@@ -1,4 +1,6 @@
-NAME= Coelichneumon-males
+TYPE= key
+
+ID= Coelichneumon-males
 
 TITLE= Bestimmungsschlüssel der westpaläarktischen Arten der Gattung Coelichneumon THOMSON - Males
 

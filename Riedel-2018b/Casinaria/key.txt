@@ -1,3 +1,5 @@
-NAME= Casinaria
+TYPE= key
+
+ID= Casinaria
 
 TITLE= Key to the Western Palaearctic species of Casinaria HOLMGREN

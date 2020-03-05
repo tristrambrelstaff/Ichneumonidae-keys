@@ -1,4 +1,6 @@
-NAME= Homotropus
+TYPE= key
+
+ID= Homotropus
 
 TITLE= Key to species
 
