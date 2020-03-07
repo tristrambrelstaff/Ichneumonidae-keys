@@ -1,0 +1,3 @@
+TYPE= fig
+ID= 4
+Gasterspitze und Form der Bohrerklappen. Platylabus tenuicornis (Gravenhorst).

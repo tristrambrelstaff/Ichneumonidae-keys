@@ -1,0 +1,3 @@
+TYPE= fig
+ID= 3
+Gasterspitze und Form der Bohrerklappen. Platylabus helveticus spec. nov.
