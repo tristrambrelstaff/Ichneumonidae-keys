@@ -28,6 +28,25 @@ match($0, /^[[:blank:]]*([[:alpha:]][_[:alnum:]]*)[[:blank:]]*=(.*)$/, arr) {
 }
 
 
+# Line 1 of Couplets:
+FNR == 1 && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*\(?([^\)]*).*$/, arr) {
+  id = arr[1]
+  id_fail = trim(arr[2])
+  expecting = "property"
+  if (id_fail == "") {
+    type = "couplet"
+    printf "TYPE=%s\n", type
+    printf "ID=%s\n", id
+  } else {
+    type = "split_couplet"
+    pass_id = id + 1
+    printf "TYPE=%s\n", type
+    printf "ID=%s\n", id
+    printf "ID_FAIL=%s\n", id_fail
+  }
+}
+
+
 END {
   sprintf("dirname %s", FILENAME) | getline curdir
   switch (tolower(type)) {
@@ -57,6 +76,8 @@ END {
           printf "COUPLET=%s\n", couplets[c]
         }
       }
+      break
+    case "fig":
       break
     case "couplet":
       break
