@@ -28,7 +28,7 @@ match($0, /^[[:blank:]]*([[:alpha:]][_[:alnum:]]*)[[:blank:]]*=(.*)$/, arr) {
 }
 
 
-# Line 1 of Couplets:
+# ID line of Couplets:
 FNR == 1 && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*\(?([^\)]*).*$/, arr) {
   id = arr[1]
   id_fail = trim(arr[2])
@@ -44,6 +44,27 @@ FNR == 1 && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*\(?([^
     printf "ID=%s\n", id
     printf "ID_FAIL=%s\n", id_fail
   }
+}
+
+
+# PROPERTY line must follow ID line and contain at least one letter:
+  id != "" && property == "" && /[[:alpha:]]/ {
+  property = trim($0)
+  printf "PROPERTY=%s\n", property
+}
+
+
+# ID_PASS line must follow PROPERTY line:
+property != "" && id_pass == "" && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*$/, arr) {
+  id_pass = arr[1]
+  printf "ID_PASS=%s\n", id_pass
+}
+
+
+# Hyphen line must follow PROPERTY line and clears the previous valus of property and id_pass to allow new ones to to be read:
+property != "" && /^[[:blank:]]*-[[:blank:]]*$/ {
+  property = ""
+  id_pass = ""
 }
 
 
