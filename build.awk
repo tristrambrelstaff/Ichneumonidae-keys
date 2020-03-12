@@ -32,7 +32,7 @@ match($0, /^[[:blank:]]*([[:alpha:]][_[:alnum:]]*)[[:blank:]]*=(.*)$/, arr) {
 FNR == 1 && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*\(?([^\)]*).*$/, arr) {
   id = arr[1]
   id_fail = trim(arr[2])
-  expecting = "property"
+  expecting = "test"
   if (id_fail == "") {
     type = "couplet"
     printf "TYPE=%s\n", type
@@ -47,23 +47,23 @@ FNR == 1 && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*\(?([^
 }
 
 
-# PROPERTY line must follow ID line and contain at least one letter:
-  id != "" && property == "" && /[[:alpha:]]/ {
-  property = trim($0)
-  printf "PROPERTY=%s\n", property
+# TEST line must follow ID line and contain at least one letter:
+  id != "" && test == "" && /[[:alpha:]]/ {
+  test = trim($0)
+  printf "TEST=%s\n", test
 }
 
 
-# ID_PASS line must follow PROPERTY line:
-property != "" && id_pass == "" && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*$/, arr) {
+# ID_PASS line must follow TEST line:
+test != "" && id_pass == "" && match($0, /^[[:blank:]]*([[:digit:]][_[:alnum:]]*)[[:blank:]]*$/, arr) {
   id_pass = arr[1]
   printf "ID_PASS=%s\n", id_pass
 }
 
 
-# Hyphen line must follow PROPERTY line and clears the previous valus of property and id_pass to allow new ones to to be read:
-property != "" && /^[[:blank:]]*-[[:blank:]]*$/ {
-  property = ""
+# Hyphen line must follow TEST line and clears the previous values of test and id_pass to allow new ones to to be read:
+test != "" && /^[[:blank:]]*-[[:blank:]]*$/ {
+  test = ""
   id_pass = ""
 }
 
