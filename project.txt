@@ -1,5 +1,0 @@
-TYPE= project
-
-ID= ikp
-
-TITLE= Ichneumonidae Key Project
