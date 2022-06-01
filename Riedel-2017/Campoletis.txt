@@ -1,0 +1,260 @@
+TYPE= key
+
+ID= Campoletis
+
+TITLE= Identification key for the Western Palearctic species of Campoletis
+
+NOTE= The key is mainly for ♀♀, identification of ♂♂ is not possible for all species.
+
+1
+Apical edge of clypeus lamelliform, straight or slightly produced medially (Figs 34-37).
+2
+–
+Apical edge of clypeus with a pointed tooth, rarely with a blunt or without tooth (Figs 33, 38).
+9
+NOTE= [In several Campoletis species with strong clypeal tooth few specimens have a weak or no distinct tooth. In questionable cases, one should therefore use both alternatives.]
+2
+External angle of discoidal cell c. 85-90° (Fig. 1).
+3
+–
+External angle of discoidal cell pointed (75-80°) (Fig. 2).
+4
+3
+Hind tibia red in ♀, slightly darkened subbasally and apically in ♂; temples short and distinctly narrowed; middle tergites usually completely or largely red.
+TAXON= C. fuscipes (Holmgren, 1856) ♀♂
+–
+Hind tibia light yellow externo-medially; temples almost as long as the width of the eye, weakly narrowed; middle tergites with wide reddish bands apically. ♀ unknown.
+TAXON= C. cubicator Aubert, 1974 ♂
+4
+Middle and hind femora in the basal half or predominantly dark.
+5
+–
+Hind femur ± red or orange, sometimes darkened basally.
+6
+5
+Ovipositor sheath 0.7 × as long as the 1st tergite; face and malar space elongate (Fig. 34). Mandible and tegula black.
+TAXON= C. nigritor spec. nov. ♀♂
+-
+Ovipositor sheath c. 1.25 × longer than the 1st tergite; face and malar space short; mandible medially and tegula yellow. 
+TAXON= C. rectangulator Aubert 1977 ♀♂
+6
+Flagellum very slender, preapical segments almost 2 × longer than wide; apical tergites red; area superomedia 1.5 × as long as wide.
+TAXON= C. luminosator Aubert, 1977 ♀♂
+-
+Flagellum stouter; apical tergites completely or predominantly black.
+7
+7
+Middle tergites with wide red margins apically. Ovipositor sheath 0.8 × as long as the 1st tergite.
+TAXON= C. trichoptili (Bauer, 1936) ♀♂
+-
+Metasoma black, at most apical margins of the middle tergites narrowly reddish (if wider red (in some C. viennensis), then ovipositor sheath as long as the 1st tergite.
+8
+8
+Ovipositor sheath c. 0.7 × as long as the 1st tergite; metasoma black; area superomedia slightly longer than wide; hind tibia brownish subbasally and apically, orange externo-medially.
+TAXON= C. procerus (Brischke, 1880) ♀
+–
+Ovipositor sheath about as long as the 1st tergite; area superomedia at most as long as wide; hind tibia ivory externo-medially.
+TAXON= C. viennensis (Gravenhorst, 1829) ♀♂
+9
+Hind tibia ivory or pale yellow externo-medially.
+10
+–
+Hind tibia orange to red externo-medially.
+24
+10
+Area superomedia fully open posteriorly and confluent with the area petiolaris (Figs 41, 43); hind tibia widely and distinctly marked black-brown basally and apically (rarely very narrowly pale basally, see C. punctata), always yellowish red interno-medially.
+11
+–
+Area superomedia partially or completely closed posteriorly (Figs 39-40, 42, 44-47); pattern of hind tibia different (see C. thomsoni).
+14
+11
+Hind femur black; ventral plica brown; preapical flagellomeres significantly transverse; ovipositor sheath 0.9-1.0 × as long as the hind tibia.
+TAXON= C. vimmeri (Gregor, 1935)
+–
+Hind femur red; ventral plica yellow; length of ovipositor sheath variable.
+12
+12
+Ovipositor sheath 1.4-1.6 × longer than the 1st tergite; preapical flagellomeres quadrate or slightly transverse (Fig. 6).
+TAXON= C. punctata (Bridgman, 1886) ♀♂
+- Ovipositor sheath at most as long as the 1st tergite.
+13
+13
+All flagellomeres longer than wide (Fig. 5); hind femur red, rarely slightly darkened at apex; hind metatarsus whitish in the basal 0.3-0.5 (Fig. 14). Larger, body length 6-7 mm, flagellum with 29-32 segments.
+TAXON= C. latrator (Gravenhorst, 1829) ♀♂
+-
+Preapical flagellomeres transverse (Fig. 8); hind femur red, often darkened at apex; hind metatarsus whitish in the basal 0.2 (Fig. 16). Smaller, body length 5.5-6 mm; flagellum with 27-29 segments.
+TAXON= C. flagellator spec. nov. ♀♂
+14
+Mesoscutum and mesopleuron granulate and ±distinctly punctate; speculum matte, granulate; area petiolaris coarsely and transversely rugose; hind tibia red, darkened basally and apically, pale yellow externo-medially.
+TAXON= C. agilis (Holmgren, 1860) in part ♀♂
+-
+Mesoscutum and mesopleuron not or very superficially punctate.
+15
+15
+Postnervulus intercepted in or near the center of the brachial cell (Fig. 2); hind tibia dark brown basally and apically, orange internally; ivory externo-medially (Fig. 11); prepectal carina rather raised ventrally.
+TAXON= C. thomsoni (Roman, 1915) ♀
+-
+Postnervulus intercepted distinctly behind the center of the brachial cell (Fig. 1), if near the center then the prepectal carina flat ventrally.
+16
+16
+Hind tibia strongly marked blackish basally/subbasally, apically and medio-internally (Fig. 10), hind femur often black or black-patterned.
+17
+-
+Hind tibia red or brown-patterned medio-internally, never black, hind femur usually (almost) completely red.
+18
+17
+Ovipositor sheath 1.25-1.3 × longer than the 1st tergite; preapical flagellomeres in W square or transverse (Fig. 4); metasoma very shiny at the apex; hind tibia black basally, barely lightened; speculum partly smooth; fore and middle trochantelli yellow, hind ones dark.
+TAXON= C. femoralis (Gravenhorst, 1829) ♀♂
+-
+Ovipositor sheath 0.7-0.8 × as long as the 1st tergite; preapical flagellomeres in W longer than wide, rarely square (Fig. 3); metasoma with slight silky shine apically; hind tibia black subbasally, basally ± broadly ivory; speculum usually alutaceous; trochanters apically and trochantelli usually completely yellow.
+TAXON= C. annulata (Gravenhorst, 1829) ♀♂
+18
+Ovipositor sheath at most 0.8 × as long as the hind tibia.
+19
+–
+Ovipositor sheath 0.9-1.1 × as long as the hind tibia.
+23
+19
+Ovipositor sheath at least as long as the 1st tergite; preapical flagellomeres transverse.
+20
+–
+Ovipositor sheath shorter, at most 0.9 × as long as the 1st tergite.
+21
+20
+Ovipositor sheath 1.15-1.25 × as long as the 1st tergite; temple shorter (0.7-0.8 as long as width of eye) and moderately narrowed apically (Fig. 19).
+TAXON= C. fasciata (Bridgman, 1887) ♀♂
+–
+Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; temple longer (0.9-1.1 × as long as width of eye) and slightly narrowed apically (Fig. 32). ♂  unknown.
+TAXON= C. variator spec. nov. in part ♀
+21
+Hind tibia ivory basally and externo-medially (as Fig. 9). 2nd tergite slender, 1.4 × longer than wide; ovipositor sheath c. 0.7 × as long as the 1st tergite. ♂ unknown.
+TAXON= C. scyticus spec. nov.♀
+–
+Hind tibia yellowish basally and externo-medially (Figs. 17-18). 2nd tergite stouter, at most 1.2 × as long as wide.
+22
+22
+Ovipositor sheath 0.6-0.8 × as long as the 1st tergite; temple ± narrowed behind eye (Fig. 23); area superomedia usually closed apically (Fig. 47).
+TAXON= C. zonata (Gravenhorst, 1829) ♀♂
+-
+Ovipositor sheath c. 0.85-0.9 × as long as the 1st tergite; temple slightly narrowed behind eye (as Fig. 32); area superomedia usually ± open apically (Fig. 43). ♂ unknown.
+TAXON= C. rubidatae spec. nov. ♂
+23
+Hind tibia distinctly ivory basally, brown subbasally, and ivory externo-medially (Fig. 9); fore and middle coxae and trochanters often reddish.
+TAXON= C. ensator (Gravenhorst, 1829) ♀♂
+-
+Hind tibia hardly or very narrowly red basally, brown sub-basally, and yellowish externo-medially (as Fig. 17).
+TAXON= C. postica (Bridgman & Fitch, 1885) ♀
+24
+Hind femur largely or entirely brown or black.
+25
+-
+Hind femora completely or predominantly red.
+29
+25
+Discoidal angle almost forming a right-angle (85°); mandible and tegula dark brown; ovipositor sheath c. 1.4-1.6 × longer than the hind tibia.
+TAXON= C. congesta (Holmgren, 1860) ♀♂
+-
+Discoidal angle distinctly acute (70-75°); mandible medially and tegula yellow.
+26
+26
+Prepectal carina distinctly widened medially-ventrally. Temple about as long as eye width, slightly narrowed; 2nd tergite very slender, 1.8 × longer than wide; propodeum with weak carinae; hind tibia orange externo-medially. ♀ unknown.
+TAXON= C. acetabulator spec. nov.
+–
+Prepectal carina narrow; 2nd tergite at most 1.4 × longer than wide; propodeal carinae usually strong.
+27
+27
+Ovipositor sheath 1.2-1.3 × as long as the hind tibia; genal carina obliterated ventrally; hind tibia orange to red.
+TAXON= C. dilatator (Thunberg, 1824) ♀♂
+–
+Ovipositor sheath 0.5-0.6 × as long as the hind tibia; hind tibia dark brown, pale brownish externo-medially.
+28
+28
+Genal carina distinct and bent ventrally, meeting the hypostomal carina close to the mandibular base; temple short, strongly narrowed apically (Fig. 24).
+TAXON= C. excavata (Smits van Burgst, 1914) ♀♂
+–
+Genal carina obliterated ventrally; temple long, slightly narrowed apically (Fig. 27). ♂ unknown.
+TAXON= C. mandibulator spec. nov. ♀
+29
+Discoidal angle almost a right-angle (85-90°) (as Fig. 1); all tergites black, at most the apical ones narrowly pale at apical margins; mesopleuron granulate and ± distinctly punctate; ventral plica usually dark; hind femur stout, length 3.6-4.5 × width (Fig. 50).
+30
+-
+Discoidal angle distinctly acute (75-80°) (as Fig. 2); middle tergites often red-marked or completely red; mesopleuron granulate but without obvious punctuation; ventral plica usually yellowish; hind femur usually slimmer.
+31
+30
+Preapical flagellomeres in W ± quadrate; coxae, trochanters and trochantelli black; hind tibia usually completely red, rarely slightly darkened basally and apically. .........................................................................
+TAXON= C. crassicornis (Tschek, 1871) ♀♂
+-
+All flagellomeres longer than wide; legs slimmer; fore and middle trochanters and all trochantelli red; hind tibia usually yellowish externo-medially, ± darkened basally and apically.
+TAXON= C. agilis (Holmgren, 1860) ♀♂
+31
+Tergites 2-4 almost or completely red; ventral plica usually dark.
+32
+–
+Median tergites black or distinctly black-marked; ventral plica usually yellow.
+35
+32
+2nd tergite 1.3-1.5 × longer than wide; ovipositor sheath about 1,15 × as long as the 1st tergite, strongly bent dorsally; mesopleuron granulate and superficially punctate; prepectal carina moderately widened ventral behind the coxae. Fore and middle trochanters red in ♂. 
+TAXON= C. raptor raptor (Zetterstedt, 1838) in part ♀♂
+–
+2nd tergite at most 1.2 × longer than wide; ovipositor sheath slightly longer or shorter than the 1st tergite, only slightly curved dorsally. Fore and middle trochanters orange or yellowish in ♂.
+33
+33
+Prepectal carina flat ventrally; mesopleuron granulate, without visible punctuation; fore tibia slender, more than 6 × longer than wide (Fig. 46); hind tibia usually completely red (Fig. 12); genal carina obliterated ventrally.
+TAXON= C. rapax (Gravenhorst, 1829) ♀♂
+–
+Prepectal carina ± raised ventrally, forming distinct acetabulae; hind tibia ± darkened basally and apically.
+34
+34
+Prepectal carina angled in the area of the sternaulus and divided into a transverse and pleural part, both similar; genal carina obliterated ventrally; ovipositor sheath c. 0.9-1.2 × longer than the 1st tergite; fore tibia leaner, more than 6 × longer than wide (as Fig. 46).
+TAXON= C. pleuralis spec. nov. ♀♂
+–
+Prepectal carina continuous without transverse branch or angle in the pleural part; genal carina complete ventrally and arced outwards, meeting the hypostomal carina just before the mandible base; ovipositor sheath c. 0.8 × as long as the 1st tergite; fore tibia rather swollen, less than 6 × longer than wide (Fig. 48).
+TAXON= C. cognata (Tschek, 1871) ♀♂
+35
+Ovipositor sheath at least 1.8 × longer than the 1st tergite.
+36
+–
+Ovipositor sheath shorter, at most 1.15 × longer than the 1st tergite.
+37
+36
+Ovipositor sheath 1.8 × longer than the 1 tergite; hind tibia narrowly red basally; mesopleuron granulate without obvious punctuation; claws about as long as the pulvilli.
+TAXON= C. postica (Bridgman & Fitch, 1885) ♀♂
+-
+Ovipositor sheath 2 × longer than the 1st tergite; hind tibia widely yellow basally; mesopleuron granulate with fine but recognizable punctuation; claws much longer than the pulvilli. ♂ unknown.
+TAXON= C. hinzi spec. nov. ♀
+37
+Tegula often brown or black; all coxae, trochanters and trochantelli black; middle and hind femora basally ventrally darkened; hind tibia basally and apically widely blackish. Ovipositor sheath c. 0.65 × as long as the 1st tergite. ♂  unknown.
+TAXON= C. nigritrochantellus spec. nov. ♀
+–
+Tegula yellow; trochanters und/or trochantelli partly or completely yellow. ............................
+38
+38
+Ovipositor sheath at least as long as the 1st tergite; hind femur usually slightly darkened at base.
+39
+–
+Ovipositor sheath shorter than the 1st tergite.
+40
+39
+Ovipositor sheath 1.15 × as long as the 1st tergite; all trochantelli red; area superomedia at most slightly longer than wide; temple behind eye strongly narrowed; postnervulus intercepted in or near the center of brachial cell (as Fig. 2).
+TAXON= C. raptor raptor (Zetterstedt) in part ♀♂
+–
+Ovipositor sheath 1.0-1.1 × as long as the 1st tergite; fore and middle trochantelli yellow; area superomedia usually longer than wide (Fig. 46); temple slightly narrowed behind eye (Fig. 32); postnervulus intercepted distinctly behind the center of brachial cell (Fig. 1). ♂ unknown.
+TAXON= C. variator spec. nov., in part ♀
+40
+Postnervulus intercepted more or less in the middle of brachial cell; hind tibia darkened basally; ovipositor sheath 0.5 × as long as than the 1st tergite; apical tooth of clypeus blunt. ♂ unknown.
+TAXON= C. incisa (Bridgman, 1883) ♀
+–
+Postnervulus intercepted distinctly below the middle of brachial cell; hind tibia usually ± darkened basally and apically (Figs 16-18); ovipositor sheath 0.65-0.9 × as long as 1st tergite.
+41
+41
+All tergites black; hind femur red, ± darkened basally; hind tibia externo-medially orange (as Fig. 17).
+TAXON= C. rufifasciatae spec. nov. ♀♂
+-
+Middle tergites usually ± reddish apically and laterally; hind femur usually completely red.
+42
+42
+Hind tibia red externo-medially (Fig. 16).
+TAXON= C. varians (Thomson, 1887) ♀♂
+–
+Hind tibia orange or yellowish externo-medially (Figs 17-18).
+TAXON= C. zonata (Gravenhorst, 1829) in part ♀♂

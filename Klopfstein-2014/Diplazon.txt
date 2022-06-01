@@ -1,0 +1,132 @@
+TYPE= key
+
+ID= Diplazon
+
+TITLE= Key to species
+
+1
+Coxae and trochanters entirely orange or yellow, at most with some darkening at base of fore coxa in females.
+2
+-
+Coxae and some of the trochanters usually black, at least basally; if hind coxa all red, then fore and mid coxae dark at bases and hind trochanter marked with black.
+9
+2
+Propodeum with carinae partly reduced, longitudinal carinae sometimes present but never with petiolar area fully enclosed by carinae (Fig. 17A). Hind tibia white with a dark apex and sometimes an indistinct subbasal spot but without a basal black band.
+3
+-
+Propodeum usually with a full set of carinae, petiolar area always fully enclosed (Fig. 17B). Hind tibia black-white-black or black-white-black-orange banded.
+4
+3
+Mesosoma almost always with extensive orange coloration at least on mesopleuron. Transverse impressions distinct on tergites 1 to 3. Metasoma dorsoventrally depressed in both sexes. Often larger species, fore wing length 4.5–7 mm.
+TAXON= Diplazon pectoratorius (Gravenhorst)
+-
+Mesosoma black with yellow markings, at most with some orange on scutellum. Transverse impressions distinct only on tergites 1 and 2, present at most as a change in sculpture on tergite 3. Metasoma of female laterally compressed behind third segment. Smaller species, fore wing length 4.1–5.1 mm.
+TAXON= Diplazon neoalpinus Zwakhals
+4
+Hind tibia tri-colored black-white-black-orange, the orange band covering at least the apical quarter of the tibia. Metasoma with orange at least on most of tergites 2 and 3. (Males unknown in Europe).
+TAXON= Diplazon laetatorius (Fabricius)
+-
+Hind tibia black-white-black banded, at most with some orange to orange-brown area in the apical dark band. Metasoma usually entirely black but sometimes with yellow or orange markings behind transverse impressions on some tergites.
+5
+5
+Tergite 2 irregularly sculptured, with punctures often disappearing against the rugose or coriaceous background; tergite 3 often with punctures, but these usually with margins indistinct (Fig. 18A). Bright coloration of scutellum and shoulder marks usually ivory. Females with fore coxa orange and often slightly dark basally, mid coxa entirely orange; in males, at least hind coxa partly orange.
+6
+-
+Tergites 2 and 3 distinctly punctate on a largely smooth and polished background, margins of punctures well defined (Fig. 18B). Bright coloration of scutellum and shoulder marks yellow. Fore and usually also mid coxae of female entirely yellow, only hind coxa orange; in males, all coxae usually entirely yellow.
+7
+6
+Tergites 2 and 3 with punctures disappearing against the strongly coriaceous background sculpture which extends across transverse impressions onto hind part of the tergites. Mesopleuron weakly punctate, coriaceous and matt on about lower half, metapleuron mostly coriaceous and matt. First tergite as long as wide in females, 1.1 times longer than wide in males.
+TAXON= Diplazon nordicus sp. nov.
+-
+Tergite 2 rugose with some coriaceous areas in front of the transverse impression, smooth and punctate behind transverse impression; at least tergite 3 often with some indication of punctures. First tergite 1.0–1.25 times as long as wide in females, 1.2–1.4 in males.
+TAXON= Diplazon tetragonus (Thunberg)
+7
+Hind margin of tergite 1 yellow, tergite 2 apically and most of tergite 3 orange, following tergites largely yellow. Tergites smooth and shining, sparsely and faintly punctate. (Corsica, female unknown).
+TAXON= Diplazon aubertiator Diller
+-
+Metasoma mainly black, tergites at most with orange or yellow bands or spots behind transverse impressions. Tergites strongly punctate.
+8
+8
+Hind coxa orange in females, often entirely yellow in male. Tergite 2 0.55–0.7 times as long as apically wide in females, 0.6–0.8 in males. Female metasoma dorsoventrally depressed, broad, gradually and evenly tapered posterior to third segment. Male and often female with hind margins of tergites 1 to sometimes 3 broadly marked with yellow bands or lateral spots.
+TAXON= Diplazon scutatorius Teunissen
+-
+Hind coxa largely yellow in both sexes, sometimes with some orange basally. Tergite 2 0.75–0.9 times as long as apically wide. Female metasoma narrow, parallel-sided, tapered posterior to fourth segment, black or brown.
+TAXON= Diplazon pallicoxa Manukyan
+9
+Tergites 2 and 3 basally without distinct punctures but with a strongly coriaceous or rugose background, without smooth areas, matt. Coriaceous sculpture of tergite 2 often extending across transverse impression onto apical part of tergite (cf. Fig. 18C; this character requires some experience and is often less reliable in males; D. varicoxa can be traced through both halves of the couplet).
+10
+-
+Tergites 2 and 3 basally distinctly punctate on a more or less smooth or rugose background, at least some punctures with distinct margins, and with some smooth and shining areas between the punctures. Rugose sculpture of tergite 2 not extending across transverse impression, apical part smooth and shining, with or without punctures. (cf. Fig. 18B).
+15
+10
+Metasoma extensively marked with orange, tergites 2 and 3 orange at least behind transverse impressions. Hind tibia often with some orange or orange-brown in the apical dark band.
+TAXON= Diplazon deletus (Thomson)
+-
+Metasoma entirely black or with narrow orange or yellow bands along hind margins of the tergites. Hind tibia usually entirely black apically.
+11
+11
+Tergites 2 and 3 with coriaceous or rugose sculpture only in front of transverse impressions, apical part smooth and shining between weak or strong punctures. Female face usually with a yellow central spot.
+12
+-
+Tergites 2 and 3 with coriaceous sculpture extending across transverse impressions, apical part at least weakly coriaceous between the punctures, at most partly shining. Female face usually without a yellow central spot.
+13
+12
+Female metasoma strongly laterally compressed behind tergite 4. Tergites 2 and 3 without punctures but strongly coriaceous. Tergite 2 0.7–0.85 times as long as wide in females, 0.9 in males. Mesopleuron often with a coriaceous area centrally. Female face without a yellow central spot.
+TAXON= Diplazon cascadensis Dasch
+-
+Metasoma at most gradually tapered, dorsoventrally depressed except for the apical segments. Tergites 2 and 3 at least with traces of punctures. Tergite 2 0.55–0.75 times as long as wide in both sexes. Mesopleuron smooth between the weak or strong punctures. Female face almost always with a yellow central spot.
+TAXON= Diplazon varicoxa (Thomson)
+13
+Mesopleuron strongly punctate also on upper half, smooth and shining between the punctures. Face distinctly punctate on a coriaceous background, at least on central, elevated area. Mesoscutum often with large yellow shoulder marks.
+TAXON= Diplazon angustus Dasch
+-
+Mesopleuron usually sparsely punctate on lower part but also with irregular coriaceous areas, on upper part at most with a few weak punctures. Face strongly coriaceous, at most indistinctly punctate. Mesoscutum at most with small yellow shoulder marks.
+14
+14
+Smaller species, fore wing length 3.9–5 mm. Transverse impression usually absent from tergite 4. Mesoscutum without yellow shoulder marks, male with mesopleuron and mesosternum entirely black. Male face often with two black lines from antennal sockets to clypeus.
+TAXON= Diplazon hyperboreus (Marshall)
+-
+Larger species, fore wing length 5.2–6.5 mm. Transverse impression usually present on tergite 4. Mesoscutum often with small yellow shoulder marks, male with a small yellow spot on mesosternum. Male face all whitish-yellow.
+TAXON= Diplazon zetteli sp. nov.
+15
+Small species, fore wing length 3.5–4.5 mm. Antenna usually with 15, rarely 16 flagellomeres. Tergite 1 0.8–1.1 times as long as wide, tergite 2 0.5–0.6. Male with face usually black with yellow along inner orbits but sometimes with yellow central face patch. Metasoma often marked with white on hind margin of first tergite and with orange on second and third tergites.
+TAXON= Diplazon multicolor (Gravenhorst)
+-
+On average larger species, fore wing length 3.9–7 mm. Antenna with at least 16 flagellomeres, or if with 15, then fore wing length at least 4.8mm. Tergite 1 usually longer than wide, especially in males, tergite 2 often longer. Male with face entirely yellow or at least with a large yellow central face patch. Metasoma usually entirely black but sometimes with apical bands on some tergites.
+16
+16
+Hind coxa mostly orange, sometimes with base dark. Face of both sexes with yellow along inner orbits, in females without, in males with a yellow central spot. Mesopleuron, face and tergites 2 and 3 strongly punctate, at least tergite 3 entirely smooth and shining between the strong punctures.
+17
+-
+Hind coxa black, with or without a yellow apex (rarely partly orange). Female face with or without a yellow central spot, often in males and rarely in females entirely yellow. Punctures often less distinct, especially on face, upper half of mesopleuron, and tergite 2 (except for D. schachti).
+18
+17
+Larger species, fore wing length 5.0–7.0 mm. Tergites 2 and 3 both very strongly punctate both in front of and behind transverse impressions, smooth and shining between the punctures. Tergite 4 often with a transverse impression. Scutellum marked with white or ivory on most of its surface. Mesopleuron strongly punctate over most of its surface, with impunctate area around mesopleural fovea small, so that most of upper half of mesopleuron is punctate.
+TAXON= Diplazon tibiatorius (Thunberg)
+-
+Smaller species, fore wing length 4.0–5.2 mm. Tergites 2 and 3 strongly punctate, but punctures often weak behind transverse impressions; especially tergite 2 often with some rugose to coriaceous sculpture. Transverse impressions absent on tergite 4 but usually with a change in sculpture instead. Scutellum marked with an ivory to yellow spot that usually only covers part of scutellum. Mesopleuron strongly punctate over lower half and along anterior margin, but with a large impunctate area around mesopleural fovea, so that more than half of upper half of mesopleuron is entirely smooth.
+TAXON= Diplazon parvus sp. nov.
+18
+Femora with black marks ventro-basally. Female metasoma laterally compressed apically. Hind tibia often with some orange or orange-brown in the apical band. Smaller species, fore wing length at most 3.9–5.1 mm.
+TAXON= Diplazon flixi sp. nov.
+-
+Femora without black markings. Female metasoma dorsoventrally depressed. Hind tibia usually with apical band uniformly dark. Smaller or larger species.
+19
+19
+Hind tibia white with a dark apex, without a dark basal band. Face, mesopleuron, mesoscutum and tergites 1 to 4 very strongly punctate. First and often following tarsomeres white with a dark apex. Both sexes with face all yellow. Metasoma with broad yellow bands behind transverse impressions on tergites 1 to 4 or 5.
+TAXON= Diplazon schachti Diller
+-
+Hind tibia black-white-black banded. Punctures less distinct, on face almost disappearing against the coriaceous background. Hind tarsus all dark. At least female with face usually mostly black. Metasoma with yellow colouration usually less prominent.
+20
+20
+Face of female usually with a yellow central patch, and with yellow inner orbits often extending on gena. Coxae in females black with yellow apices, prominent at least on fore and mid coxae, the latter more yellow than black. Tergites 2 and 3 sometimes marked with yellow apically.
+TAXON= Diplazon varicoxa (Thomson)
+-
+Face of female without a yellow central face patch. Coxae mostly black, only fore coxa often with a yellow apex, mid coxa at most with a small yellow apical spot. Metasoma entirely black, but sometimes tergite 1 with a white apex.
+21
+21
+Tergites 2 and 3 with some punctures but also with more rugose or even coriaceous areas. Mesopleuron with punctures usually restricted to lower half and anterior of upper half. Tergite 4 without a distinct transverse impression. Smaller species, fore wing length 4.2–4.7 mm.
+TAXON= Diplazon annulatus (Gravenhorst)
+-
+Tergites 2, 3 and even 4 with strong punctures with distinct margins, area between the punctures largely smooth and shining. Mesopleuron strongly punctate over most of its surface. Tergite 4 with a distinct transverse impression at least centrally. Larger species, fore wing length 5.0–7.0 mm.
+TAXON= Diplazon cf. tibiatorius (Thunberg)

@@ -1,0 +1,12 @@
+TYPE= key
+
+ID= Campocraspedon
+
+TITLE=Key to species
+
+1
+Hind tibia and first tarsomere white with apices dark. Female antenna usually with 18 flagellomeres. Male face entirely yellow and metasoma usually entirely black.
+TAXON= Campocraspedon annulitarsis (Hedwig)
+-
+Hind tibia orange, apically dark. Female antenna usually with 17 flagellomeres, only rarely with 18. Male face yellow but often with a black median stripe arising from below antennal sockets, and with hind margins of tergites 2 to 4 often yellow-marked.
+TAXON= Campocraspedon caudatus (Thomson)

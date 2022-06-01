@@ -1,0 +1,421 @@
+TYPE= key
+
+ID= Coelichneumon-females
+
+TITLE= Bestimmungsschlüssel der westpaläarktischen Arten der Gattung Coelichneumon THOMSON - Females
+
+1
+Tibia III mit weißlichen oder gelblichen Ringen.
+2
+-
+Tibia III ohne weißliche oder gelbliche Ringe, aber manchmal mit solchen Längsstreifen.
+5
+2
+Tergit 7 mit einem langen weißlichen Fleck, Vertex ohne weißlichen Fleck. Fühlergeißel mit 37-40 Gliedern, basale Geißelglieder schlank, Geißel-Augen-Index 0,55, breiteste Glieder etwa 2,0-2,5x so breit wie lang. Coxa III mit Scopa. 9-17 mm.
+TAXON= Ichneumon deliratorius [LINNAEUS 1758]
+-
+Tergit 7 schwarz, ohne weißliche Zeichnung, Vertex fast immer mit weißlichem Fleck. Merkmale sonst unterschiedlich.
+3
+3
+Große Art (18-20 mm), Fühlergeißel mit 53-54 Gliedern, Geißel-Augen-Index etwa 0,45, breiteste Geißelglieder etwa 1,3-1,5x so breit wie lang. Ausgedehnte gelbe Zeichnung an Kopf, Mesosoma und Beinen: zwei Längsstreifen des Mesoscutums, Scutellum, Fleck der Mesopleura und des Propodeums sowie Orbiten breit (außen und hinten) gelb. Coxa III ohne Scopa.
+-
+Kleinere Arten, Fühlergeißel höchstens mit 43 Gliedern. Basale Geißelglieder schlanker, Geißel-Augen-Index mehr als 0,5. Helle Zeichnung weißlich und weniger ausgedehnt: Mesoscutum, Mesopleura und Propodeum schwarz.
+4
+4
+Coxa III mit deutlicher Scopa. Wange unten zerstreut punktiert, Abstand der Punkte etwa so groß wie ihr Durchmesser. Spitze des Scutellums (mit wenigen Ausnahmen), Collare, Hinterecke oder Oberrand des Pronotums und Subalarleiste weißlich. Fühlergeißel mit 34-39 Gliedern, basal schlank, Geißel-Augen-Index 0,55-0,60, breiteste Geißelglieder etwa 2,0-2,5x so breit wie lang. 10-16 mm .
+TAXON= C. desinatorius (THUNBERG 1824)
+-
+Coxa III ohne Scopa. Wange unten sehr zerstreut punktiert, Abstand der Punkte deutlich größer als ihr Durchmesser. Mesosoma ganz schwarz. Fühlergeißel mit 40-43 Gliedern, Geißel-Augen-Index 0,52-0,55, breiteste Geißelglieder etwa 1,4-1,7x so breit wie lang. 12-18 mm.
+TAXON= C. dubius (TISCHBEIN 1876)
+5
+Dorsolaterale Ecken des zweites Tergits, gewöhnlich auch des dritten mit weißlichen Flecken. Beine schwarz, Scutellum mit weißlichem Fleck. Fühlergeißel mit weißlichem Ring, hinter der Mitte stark erweitert (breiteste Glie der mindestens 2,5x so breit wie lang). Seitenfelder des Postpetiolus höchstens 0,6x so breit wie das Mittelfeld.
+6
+-
+Zweites und drittes Tergit dorsolateral ohne weiße Flecken.
+8
+6
+Coxa III ohne Scopa. Fühlergeißel mit 44-49 Gliedern, basal sehr schlank, erstes Geißelglied etwa 2,2-2,5x so lang wie breit, Geißel-Augen-Index 0,62-0,64. Malarindex 1,0. Thyridium breit, etwa 1,2-1,5x so breit wie das Intervall, 18-20 mm.
+TAXON= C. bohemani (H OLMGREN 1864)
+-
+Coxa III mit Scopa. Erstes Geißelglied gewöhnlich weniger als 2x so lang wie breit. Fühlergeißel mit weniger Gliedern, Geißel-Augen-Index <0,5. Körper gewöhnlich kleiner.
+7
+7
+Metasoma schwarz, mehr oder weniger bläulich glänzend. Fühlergeißel mit 36-38 Gliedern. Wange unten sehr zerstreut punktiert (wie Abb. 20b). Postpetiolus ohne oder mit kleinen weißlichen Flecken, diese gewöhnlich kleiner als die des zweiten Tergits. Coxen schwarz, Frontalorbita schmal und kurz weißlich. 11-15 mm.
+TAXON= C. cyaniventris (WESMAEL 1859)
+-
+Metasoma schwarz, nicht oder wenig violett glänzend. Fühlergeißel mit 38-41 Gliedern. Wange unten meist zerstreut punktiert (wie Abb. 20a). Postpetiolus gewöhnlich mit großen weißlichen Flecken. Coxa III anterolateral oft mit weißlichen Flecken. Frontalorbita gewöhnlich breit und bis zum Vertex weißlich. 12-16 mm.
+TAXON= C. sugillatorius (LINNAEUS 1758)
+8
+Basale Geißelglieder sehr gedrungen (Abb. 4f), zweites Geißelglied höchstens 1,2x so lang wie breit, Geißel-Augen-Index nur 0,28-0,30, breiteste Glieder etwa 1,3-1,6x so breit wie lang. Femur III sehr gedrungen, 2,6-3,2x so lang wie hoch. Coxa III ohne Scopa (Abb. 23b). Thyridium schmaler als das Intervall der Thyridien (Abb. 19b). Femora und Tibien rot, Tibien I und II mit zahlreichen kräftigen Borsten auf den Außenseiten.
+9
+-
+Fühlergeißel weniger gedrungen, zweites Geißelglied gewöhnlich mehr als 1,5x so lang wie breit und Geißel-Augen-Index mindestens 0,35; wenn kleiner (bei C. biannulatus (GRAVENHORST ) und C. validus (WESMAEL )), dann Coxa III mit deutlicher Scopa. Beine schlanker, Femur III mindestens 3,0x so lang wie hoch. Thyridium oft mindestens so breit wie das Intervall. Femora und/oder Tibien oft schwarz.
+11
+9
+Schläfe hinter dem Auge deutlich erweitert, Occiput tief eingeschritten, der Abstand der lateralen Ocellen zur Occipitalleiste etwa so groß wie ihr Durchmesser, Occiput in der Mitte ohne deutliche Quergrube.
+10
+-
+Schläfe hinter dem Auge kaum erweitert. Occiput nicht so tief eingeschnitten, Abstand der lateralen Ocellen zur Occipitalleiste mindestens 2x so groß wie ihr Durchmesser, Occiput zentral vor der Occipitalleiste mit tiefer Quergrube (wie Abb. 30). Mesosoma ganz schwarz. 14-15 mm.
+TAXON= C. pararudis RIEDEL 2008
+10
+Große Art, 15-17 mm. Mesosoma mit weißlicher Zeichnung (Oberrand des Pronotums, Subalarleiste und Scutellum apikal weißlich).
+TAXON= C. rudis (F ONSCOLOMBE 1847)
+-
+Kleine Art, 11 mm, Mesosoma ganz schwarz.
+TAXON= C. graecator r nov.sp.
+11
+Coxa III mit deutlicher Scopa (Abb. 23a, c, d, e, 24a-d); wenn diese schwächer (bei C. bilineatus), dann auf einer schwachen apikalen Erhebung liegend (und Mesoscutum ganz schwarz.
+12
+-
+Coxa III ohne Scopa (Abb. 23b, d), selten mit Spuren davon, dann Mesoscutum mit weißlichen Längsstreifen (bei großen Exemplaren von n C. dorsosignatus).
+52
+NOTE= Die Ausbildung der Scopa kann bei einigen Arten variieren, in Zweifelsfällen sollten beide Alternativen verfolgt werden.
+12
+Scutellum ganz weißlich oder mit weißlichem Fleck an der Spitze, dieser oft seitlich verengt, aber ganz selten in der Mitte abgeschwächt (Abb. 5a-d, 7b). Präscutellarleiste schwarz. Fühlergeißel mit weißlichem Ring oder Streif. Metasoma schwarz.
+13
+-
+Scutellum ganz oder überwiegend schwarz, manchmal mit weißlichen Seitenstreifen oder zwei kleinen Flecken an der Spitze (Abb. 9b, 11c), manchmal diese Flecke auch hantelförmig verschmolzen (selten bei C. nobilis). Wenn das Scutellum überwiegend weißlich, dann Metasoma ± rot. Präscutellarleiste nicht selten weißlich, Fühlergeißel selten ohne weißlichen Ring oder Streif.
+19
+13
+Femur III und Tibia III rot. Fühlergeißel mit 50-51 Gliedern, hinter der Mitte schwach verbreitert, breiteste Geißelglieder weniger als 2x so breit wie lang, die basalen Glieder weniger als 2x so lang wie breit, Geißel-Augen-Index etwa 0,45. Coxa III mit kleiner erhabener Scopa (wie Abb. 23f). Femur III sehr gedrungen, 3,0-3,2x so lang wie hoch. Frontalorbiten, teils auch die äußeren Orbiten, Fleck auf dem Vertex, Scutellum und Subalarleiste, manchmal auch Längsstreifen auf dem Mesoscutum weißlich. 15-17 mm.
+TAXON= C. atratorius (V ILLERS 1789)
+-
+Femur III und Tibia III mehr oder weniger schwarz. Fühlergeißel mit höchstens 45 Gliedern, oft hinter der Mitte deutlich verbreitert, basale Glieder gewöhnlich länger, Geißel-Augen-Index mindestens 0,5. Femur III schlanker, Index mindestens 3,3.
+14
+14
+Kleine Arten, 8-12 mm.
+15
+-
+Größere Arten, mindestens 14 mm. Fühlergeißel mit 41-46 Gliedern. Scopa der Coxa III deutlich abgegrenzt. Pterostigma dunkler.
+16
+15
+Fühlergeißel mit 39 Gliedern. Coxa III mit kleiner unscharf abgegrenzter Scopa. Pterostigma gelblich.
+TAXON= C. zwakhalsi nov.sp.
+-
+Fühlergeißel mit 44-47 Gliedern. Coxa III mit deutlicher Scopa, Pterostigma bräunlich.
+TAXON= C. impressor r (ZETTERSTEDT 1838) in part
+16
+Coxa III mit großer Scopa auf ebener Fläche. Schläfe hinter dem Auge mehr oder weniger deutlich verengt. Basale Geißelglieder schlanker, Geißel-Augen-Index mindestens 0,57.
+17
+-
+Coxa III mit kleiner, mehr oder weniger erhabener Scopa. Schläfe direkt hinter dem Auge schwach verengt oder mehr oder weniger parallel. Basale Geißelglieder gedrungener, Geißel-Augen-Index höchstens 0,57.
+18
+17
+Femur III schlank, etwa 4,3x so lang wie hoch, Thyridium sehr r breit, etwa 1,8x so breit wie das Interval der Thyridien. Mesosoma außer dem Scutellum schwarz. Fühlergeißel mit 44-46 Gliedern. 18 mm.
+TAXON= C. sardinicus nov.sp. in part
+-
+Femur III etwa (3,5)3,8-3,9x so lang wie hoch. Thyridium höchstens 1,2x so breit wie das Intervall der Thyridien. Mesosoma mit weißlicher Zeichnung. Fühlergeißel mit 41-44 Gliedern. 14-18 mm.
+TAXON= C. leucocerus (GRAVENHORST 1820)
+18
+Femur III schlanker, 3,8-4,0x so lang wie hoch. Scopa der Coxa III auf kleiner Erhebung (ähnlich wie bei Stenichneumon culpator r S CHRANK , Abb. 23f). Fühlergeißel mit 42-44 Gliedern, hinter der Mitte kaum verbreitert, breiteste Geißelglied etwa 1,3x so breit wie lang. Basale Geißelglieder gestreckt, zweites Geißelglied länger als das erste, von lateral betrachtet das 10. bis 11. Geißelglied quadratisch, Geißel-Augen-Index 0,57. Collare schwarz. 15-18 mm.
+TAXON= C. sinister (WESMAEL 1848)
+-
+Femur III gedrungener, etwa 3,4-3,5x so lang wie hoch. Scopa der Coxa III auf größerer Erhebung (breiter als die Klauenlänge) (Abb. 23a). Fühlergeißel mit 41-44 Gliedern, hinter der Mitte deutlich verbreitert, breiteste Geißelglieder 2,5-3,0x so breit wie lang. Basale Geißelglieder etwas breiter, etwa das siebente quadratisch, Geißel-Augen-Index 0,50. Collare oft weißlich gefleckt. 2mcu meist distal der Mitte der R 1875) Areola. 15-17 mm.
+TAXON= C. biguttulatus (KRIECHBAUMER 1875)
+19
+Fühlergeißel ohne weißlichen Ring (selten schwache weiße Flecken auf zwei bis drei Gliedern) und hinter der Mitte nicht deutlich erweitert. Schläfe hinter dem Auge ± parallel. Coxa II überwiegend und Coxa III neben der Scopa sehr zerstreut punktiert.Postpetiolus deutlich verbreitert, Seitenfelder mindestens 0,8x so breit wie das Mittelfeld. Femur III gedrungen, höchstens 3,5x so lang wie hoch. Metasoma schwarz.
+20
+-
+Fühlergeißel mit weißlichem Ring oder Streif auf mehreren Gliedern. Merkmale sonst anders.
+24
+20
+Beine ganz schwarz, nur Vorderbeine vorn etwas aufgehellt. Fühlergeißel mit 50-53 Gliedern. Mesosoma ganz schwarz.
+TAXON= C. nigritor RIEDEL , CORUH & ÖZBEK 2010
+-
+Beine ± rot, wenigstens die Femora III.
+21
+21
+Größer, 14-19 mm. Fühlergeißel fast fadenförmig: basale Geißelglieder etwas länger, von lateral erst das achte bis 10. quadratisch, erst die präapikalen Glieder mehr oder weniger deutlich quer. Präscutellarleiste meist weißlich. Femur III 3,1-3,5x so lang wie hoch.
+22
+-
+Kleiner, 8-12 mm. Fühlergeißel hinter der Mitte deutlicher verbreitert, breiteste Geißelglieder etwa 1,6-2,0x so breit wie lang.
+23
+22
+15-17 mm. Fühlergeißel mit 42-48 Gliedern. Coxa III mit deutlicher Scopa. Mesosoma mit weißlicher Zeichnung des Collare und meist der Präscutellarleiste.
+TAXON= C. validus (BERTHOUMIEU 1894)
+-
+14-19 mm. Fühlergeißel mit 46-53 Gliedern. Coxa III mit schwacher Scopa (diese manchmal ganz fehlend). Mesosoma mit ausgedehnter weißlicher Zeichnung, gewöhnlich Mesoscutum mit zwei weißlichen Längsstreifen.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894) in part
+23
+Fühlergeißel mit 44-47 Gliedern, basale Geißelglieder sehr gedrungen, von lateral gewöhnlich das dritte bis fünfte Geißelglied, selten erst das sechste bis achte quadratisch. Mesosoma ohne weißliche Zeichnung. Femur III 2,9-3,2x so lang wie hoch.
+TAXON= C. impressor (ZETTERSTEDT 1838)
+-
+Fühlergeißel mit 32-39 Gliedern, basale Geißelglieder etwas länger, etwa das sechste bis achte Geißelglied quadratisch. Hinterecke des Pronotums oft weißlich. Femur III 3,0-3,5x so lang wie hoch.
+TAXON= C. consimilis (WESMAEL 1845) in part
+24
+Fühlergeißel hinter der Mitte deutlich verbreitert, breiteste Geißelglieder etwa 2,0-3,5x so breit wie lang. Präscutellarleiste und Metasoma schwarz. Area superomedia ± glatt, apikal gewöhnlich schwach begrenzt (außer bei C. nobilis).
+25
+-
+Fühlergeißel schwach erweitert, breiteste Geißelglieder gewöhnlich weniger als 2x so breit wie lang, wenn breiter, dann Präscutellarleiste weißlich. Gewöhnlich Präscutellarleiste, Streif der äußeren Orbiten, Hinterecke des Pronotums und Subtegularleiste weißlich. Metasoma schwarz oder ± rot.
+29
+25
+Thyridium sehr breit, mehr als 2x so breit wie das Intervall (Abb. 16c). Mesoscutum neben der Punktierung deutlich granuliert, matt. Fühlergeißel mit 33-36 Glieder, basale Glieder schlank, erstes Geißelglied etwa 2,2-2,5x so lang wie breit, Geißel-Augen-Index 0,57-0,64. Collare und Hinterecke des Pronotums mit weißlicher Zeichnung. 10-14 mm.
+TAXON= C. eburnifrons (WESMAEL 1857)
+-
+Thyridium schmaler, höchstens 1,5x so breit wie das Intervalll. Mesoscutum oft ± glänzend. Fühlergeißel mit 39-46 Gliedern, erstes Geißelglied höchstens 2,2x so lang wie breit, Geißel-Augen-Index höchstens 0,50. 14-18 mm.
+26
+26
+Coxa III apikal mit leichter Erhebung, darauf mit einer (manchmal undeutlichen) umschriebenen weißlichen Scopa. Collare und Hinterecke des Pronotums weißlich. Fühlergeißel mit 41-43 Gliedern, breiteste Geißelglieder 2-2,5x so breit wie lang. Beine meist überwiegend rot bis rotbraun, selten Beine III überwiegend schwarz. 15-17 mm.
+TAXON= C. bilineatus (GMELIN 1790)
+-
+Coxa III mit deutlicher und größerer Scopa, diese nicht auf einer Erhebung. Pronotum ganz schwarz. Beine überwiegend schwarz.
+27
+27
+Fühlerbasis schlank, erstes Geißelglied etwa 2,2x so lang wie breit, etwa das siebente quadratisch, breiteste Glieder etwa 2,0x so breit wie lang. Coxa III mit kleiner aber deutlicher Scopa, diese etwa 0,25x so groß wie die Coxa.
+TAXON= C. pedemontanus nov.sp.
+-
+Fühlerbasis gedrungener, schon das zweite bis fünfte Geißelglied quadratisch, die breitesten mindestens 2,5x so breit wie lang. Scopa der Coxa III gewöhnlich größer.
+28
+28
+Fühlergeißel mit 44-46 Gliedern, basale Glieder sehr gedrungen, von lateral betrachtet das zweite oder dritte Geißelglied quadratisch (Abb. 3b), Mittelfeld des Postpetiolus mit etwa 7-12 gröberen Streifen. Femur III gedrungen, 3,2-3,6x so lang wie hoch. Scutellum höchstens mit der Spur weißer Färbung an der Spitze. 14-17 mm.
+TAXON= C. biannulatus (GRAVENHORST 1820)
+-
+Fühlergeißel mit 39-41 Gliedern, basale Geißelglieder etwas länger, von lateral betrachtet das vierte oder fünfte Geißelglied quadratisch (Abb. 2b). Femur III schlanker, 3,7-3,9x so lang wie hoch. Scutellum oft seitlich mit weißlichen Flecken. 14-18 mm.
+TAXON= C. nobilis (WESMAEL 1857)
+29
+Metasoma ± rot, wenigstens die apikalen Tergite.
+30
+-
+Metasoma schwarz.
+40
+30
+Scutellum zentral mit einem großen gelblichen Fleck, Präscutellarleiste schwarz. Fühlergeißel mit 51 Gliedern, Geißel-Augen-Index 0,51. Femur III schlank, 4,0x so lang wie hoch. 15 mm.
+TAXON= C. rufigaster RIEDEL 2008
+-
+Scutellum gewöhnlich nicht oder nur an den Seiten weißlich, Präscutellarleiste meist weißlich gefleckt. Femur III oft gedrungener.
+31
+31
+Femur III schlank, 4,1-4,4x so lang wie hoch. Scutellum etwas konvex, schwarz oder mit zwei runden weißen Flecken auf der Spitze (Abb. 9b). Präscutellarleiste schwarz. Fühlergeißel mit 47-52 Gliedern, hinter der Mitte wenig erweitert. Erstes Geißelglied 2,3-2,5x so lang wie breit, Geißel-Augen-Index 0,55-0,63. Schläfe recht deutlich verengt. Metasoma überwiegend rot, nur das erste Tergit ganz, manchmal auch das zweite basal schmal schwarz. 13-14 mm.
+TAXON= C. ophiusae (KRIECHBAUMER 1890)
+-
+Femur III höchstens 3,7x so lang wie hoch. Scutellum flach. Präscutellarleiste meist weißlich (Abb. 10b,d), Fühlergeißel gewöhnlich gedrungener. Merkmalskombination sonst anders.
+32
+32
+Fühlergeißel mit 31-32 Gliedern. Präscutellarleiste schwarz. Metasoma rotbraun, gewöhnlich Basis des ersten Tergits und Tergite 6 und 7 verdunkelt. Körperlänge 9mm.
+TAXON= C. quadriannulatus (GRAVENHORST 1829)
+-
+Fühlergeißel mit mindestens 37 Gliedern. Metasoma oft frontal schwarz und kaudal rotbraun (bei C. singularis und C. lacrymator meist ganz rot). Präscutellarleiste oft weiß gezeichnet.
+33
+33
+Beine einschließlich der Coxen rot, Tarsus III ± verdunkelt. Oft Gesichtsmitte, Mandibeln, Mund, Scapus und Propodeum mehr r oder weniger rötlich. Metasoma ganz rot. Mesopleura unten und Mesosternum sehr zerstreut punktiert.
+TAXON= C. singularis (BERTHOUMIEU 1894)
+-
+Coxen schwarz. Gesicht und Mesosoma gewöhnlich ohne rote Zeichnung. Mesopleura und Mesosternum gewöhnlich dichter punktiert.
+34
+34
+Fühlergeißel mit 37-41 Gliedern. Stirn zentral auf glattem Grund fein und mehr oder weniger dicht punktiert, nicht gerunzelt (bei C. lacrymator r (FONSCOLOMBE ) manchmal fein runzelig-punktiert). 10-13 mm.
+35
+-
+Fühlergeißel mit mindestens 45 Gliedern. Stirn zentral dicht runzelig punktiert (Punkte durch Runzeln verbunden), teils mit Querrunzeln. Mindestens 13 mm (außer C. graecus HORSTMANN).
+37
+35
+Basale Geißelglieder schlank, das zweite etwa 2,0x so lang wie breit, etwa das 10. quadratisch. Drittes Segment des Tarsus II etwa 1,7x so lang wie breit. Femur III etwa 3,6-3,8x so lang wie breit. Nur das erste Tergit ± schwarz, Metasoma sonst ganz rot.
+TAXON= C. lacrymator (FONSCOLOMBE 1847)
+-
+Basale Geißelglieder gedrungener, das zweite höchstens 1,7x so lang wie breit, höchstens das siebente Geißelglied quadratisch. Drittes Segment des Tarsus II 1,2-1,3x so lang wie breit. Femur III 2,8-3,2x so lang wie hoch. Basale Tergite ± schwarz, Metasoma gewöhnlich nur kaudal rot.
+36
+36
+Fühlergeißel gedrungen (Abb. 2d), zweites Geißelglied 1,2-1,3x so lang wie breit, das vierte oder fünfte quadratisch, das breiteste 1,9-2,1x so breit wie lang. Geißel-Augen-Index 0,41-0,45. Coxa II ventral auf den vorderen 0,1-0,2 mäßig dicht punktiert, sonst sehr spärlich punktiert. Coxa III neben der Scopa mit großer, wenig punktierter Stelle, diese so lang wie die Scopa. Femur III 2,8-3,0x so lang wie hoch. Tibia III in der Regel wie der Femur III hell rotbraun, Metasoma in der Regel frontal bis zur Basis des zweiten Tergits schwarz, dahinter rotbraun.
+TAXON= C. orbitator (THUNBERG 1824)
+-
+Fühlergeißel etwas schlanker, zweites Geißelglied 1,3-1,6x so lang wie breit, das sechste oder siebente quadratisch, das breiteste 1,7-1,8x so breit wie lang. Geißel-Augen-Index 0,43-0,48. Coxa II ventral auf den vorderen 0,3-0,4 mäßig dicht punktiert, sonst spärlich punktiert, Coxa III neben der Scopa mit einer kleinen wenig punktierten Stelle, diese etwa halb so lang wie die Scopa. Femur III 2,9-3,2x so lang wie hoch. Tibia III gewöhnlich dunkler als der Femur III. Metasoma in der Regel frontal bis zur Mitte des vierten Tergits schwarz, dahinter rotbraun.
+TAXON= C. ruficauda (WESMAEL 1845)
+37
+Schläfe sehr breit, direkt hinter dem Auge etwa parallel. Wangen-Augen-Index 1,2. Fühlergeißel mit 47-48 Gliedern, sehr gedrungen, zweites Geißelglied 1,2-1,3x so lang wie breit, etwa das vierte oder fünfte quadratisch, das breiteste 2,2-2,4x so breit wie lang. Drittes Segment des Tarsus II 1,1-1,2x so lang wie breit. Coxa III neben der Scopa mit einer kleinen wenig punktierten Stelle, diese kürzer als und etwa so breit wie die Scopa. Femur III 3,2-3,3x so lang wie hoch. Collare dorsal schwarz oder wenig braun gezeichnet. 14-15 mm.
+TAXON= C. oltensis CONSTANTINEANU , PIRVESCU & MIHALACHE 1979
+-
+Schläfe direkt hinter dem Auge gewöhnlich verengt (Ausnahme: C. metidjensis). Fühlergeißel schlanker. Drittes Segment des Tarsus II 1,4-1,6x so lang wie breit. Coxa III neben der Scopa mit einer größeren wenig punktierten Stelle (Abb. 24a). Femur III 3,3-3,7x so lang wie hoch. Collare oft f dorsal weißlich gezeichnet (Ausnahme: C. biguttorius (THUNBERG)
+38
+38
+Fühlergeißel etwas schlanker, mit 45-48 Gliedern, zweites Geißelglied 1,8x so lang wie breit, etwa das 10. quadratisch, das breiteste 1,7x so breit wie lang. Femur III 3,6-3,7x so lang wie hoch. 11-12 mm.
+TAXON= C. graecus HORSTMANN 2002
+-
+Fühlergeißel etwas gedrungener, zweites Geißelglied 1,3-1,6x so lang wie breit, mindestens das 6., höchstens das 9. quadratisch. Femur III 3,3-3,5x so lang wie hoch.
+39
+39
+Fühlergeißel mit 48-52 (59) Gliedern, etwas das 5. bis 8. Geißelglied quadratisch, das breiteste 2,0-2,1x so breit wie lang. Femur III außen auf dem ventralen Drittel spärlich punktiert. Collare gewöhnlich schwarz, selten weißlich gezeichnet. 14-16 mm.
+TAXON= C. biguttorius (THUNBERG 1789)
+-
+Fühlergeißel mit 46-47 Gliedern, gewöhnlich das 8. oder 9. Geißelglied quadratisch (manchmal schon das fünfte), das breiteste 1,7-1,8x so breit wie lang. Femur III außen auf den ventralen 0,4-0,5 spärlich punktiert. Collare oft deutlich weißlich. Mesoscutum und Scutellum schwarz. 13-14 mm.
+TAXON= C. metidjensis (BERTHOUMIEU 1894)
+40
+Fühlergeißel mit 32-37 Gliedern, Mesosoma ganz schwarz. Stirn gewöhnlich fein punktiert und überwiegend glänzend. Femora und Tibien vorwiegend rot. Kleine Art, 8-12 mm.
+TAXON= C. consimilis (WESMAEL 1845)
+-
+Fühlergeißel mit mindestens 39 Gliedern. Mesosoma gewöhnlich mit weißlicher Zeichnung (außer bei C. merula (BERTHOUMIEU ), C. sardinicus nov.sp. und C. litoralis HORSTMANN ). Stirn oft ± runzelig-punktiert. Meist größere Arten, gewöhnlich über 11 mm (außer C. parvulus nov.sp.)
+41
+41
+Kleine Art, Körperlänge 9 mm. Femora III recht schlank, etwa 3,7x so lang wie hoch. Fühlergeißel mit 41 Gliedern. Präscutellarleiste weißlich, Mesosoma sonst ganz schwarz.
+TAXON= C. parvulus nov.sp.
+-
+Größere Arten, Körperlänge mindestens 11 mm. Femur III meist gedrungener, weißliche Zeichnung des Mesosomas meist ausgedehnter (außer bei C. merula (BERTHOUMIEU )
+36
+42
+Flügel deutlich bräunlich getrübt, Meso- und Metasoma ganz schwarz, Beine (außer der Tibia I vorn) ganz schwarz. Coxa II überwiegend und Coxa III apikal sehr zerstreut punktiert, Fühlergeißel mit 48 Gliedern.
+TAXON= C. merula (BERTHOUMIEU 1894)
+-
+Flügel nicht oder weniger getrübt. Mesosoma gewöhnlich mit weißlicher Zeichnung. Merkmale sonst anders.
+43
+43
+Vertex ohne weißlichen Fleck, Mesosoma bis auf kleine rötliche Flecken am Apex des Scutellums schwarz. Coxa III dicht punktiert und granuliert (wie Abb. 24d). Femur III schlank, etwa 4,3x so lang wie hoch. Thyridium sehr breit, etwa 1,8x so breit wie das Intervall.
+TAXON= C. sardinicus nov.sp.
+-
+Vertex gewöhnlich mit weißlichem Fleck. Mesosoma meist mit ausgedehnter weißlicher Zeichnung. Coxa III oft apikal ± zerstreut punktiert und dazwischen glatt. Femur gewöhnlich gedrungener. Thyridium meist schmaler.
+44
+44
+Thyridium sehr breit, etwa 1,8x so breit wie das Intervall (Abb. 16b). Femur III recht schlank, etwa 3,5-3,9x so lang wie hoch. Beine einschließlich des Femurs III überwiegend schwarz. Fühlergeißel mit 39-42 Gliedern, basale Geißelglieder recht schlank, Geißel-Augen-Index 0,50-0,60. 17-19 mm.
+TAXON= C. anthrax (DALLA TORRE 1901)
+-
+Thyridium nicht so breit, höchstens 1,5x so breit wie das Intervall (Abb. 16d). Femur III meist gedrungener (außer bei C. litoralis HORSTMANN ). Beine oft rot. Fühlergeißel mit mindestens 42 Gliedern (meist deutlich mehr).
+45
+45
+Coxa II ventral nur auf den basalen 0,2 dichter, sonst sehr zerstreut punktiert, die Intervalle viel breiter als die Punkte. Fühlergeißel mit 44-47 Gliedern. Femur III wenig gedrungen, etwa 3,6-3,9x so lang wie hoch. Gewöhnlich Mesosoma ganz schwarz, Metasoma mit violettem Glanz. Behaarung des Propodeums und der unteren Thoraxseite hellbraun. Flügel etwas bräunlich ge trübt. 13-15 mm.
+TAXON= C. litoralis HORSTMANN 2000
+-
+Coxa II unten gleichmäßig und ziemlich dicht punktiert, wenn sehr zerstreut (bei C. biguttorius und C. madritinus), dann Fühlergeißel mit 47-59 Gliedern. Femur III oft schlanker. Mesosoma meist mit weißlicher Zeichnung.
+46
+46
+Coxa II sehr zerstreut punktiert. Fühlergeißel mit 47-59 Gliedern, basale Geißelglieder kurz, Geißel-Augen-Index 0,40-0,45. Collare und gewöhnlich Subalarleiste schwarz. Beine schwarz.
+47
+-
+Coxa II ventral auf den frontalen 0,4-0,6 recht dicht punktiert (Punkte stellenweise so breit wie die Intervallle). Fühlergeißel gewöhnlich mit weniger Gliedern, wenn mit 47 oder mehr, dann Mesoscutum mit weißlichen Längsstreifen (bei C. dorsosignatus (BERTHOUMIEU).
+48
+
+47
+Stirn gewöhnlich quer runzelig-punktiert. Schläfe hinter dem Auge mehr oder weniger deutlich verengt
+TAXON= C. biguttorius var. concolor HEINRICH 1949
+-
+Stirn fein punktiert, überwiegend glatt. Schläfe hinter dem Auge fast parallel, apikal wenig verengt.
+49
+48
+Femur III überwiegend rot.
+49
+-
+Beine einschließlich des Femurs III überwiegend schwarz.
+51
+49
+Mesoscutum gewöhnlich mit zwei weißlichen Längsstreifen. Fühlergeißel mit 47-53 Gliedern, fast fadenförmig, hinter der Mitte kaum verbreitert (breiteste Glieder etwa 1,2x so breit wie lang), etwa das 10. Geißelglied quadratisch. Scopa der Coxa III schwach oder ganz fehlend. Femora, Tibien und Tarsen rot, nur Tarsus III ± verdunkelt.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894)
+-
+Mesoscutum gewöhnlich ganz schwarz, nur sehr selten mit zwei weißlichen Längsstreifen (bei einigen C. comitator (LINNAEUS ). Fühlergeißel meist mit weniger Gliedern, die breitesten mindestens 1,5x so breit wie lang, etwa das 7. oder 8. Geißelglied quadratisch. Coxa III mit deutlicher Scopa. Beine oft ausgedehnter verdunkelt.
+50
+50
+Femur III rot, apikal schmal verdunkelt. Tibia III und Tarsus III schwärzlich. Metasoma mit bläulichem Glanz. Fühlergeißel mit 43-46 Glieder, erstes Geißelglied etwa 1,9-2,2x so lang wie breit, Geißel-Augen-Index gewöhnlich 0,50-0,58, die breitesten etwa 1,5-2,0x so breit wie lang.
+TAXON= C. erythromerus (RUDOW 1888) in part
+-
+Femora III ganz rot, Tibia III nur apikal verdunkelt, Tarsus III schwärzlich. Metasoma schwarz, ohne violetten Glanz. Fühlergeißel mit 43-48 Gliedern, erstes Geißelglied etwa 1,7-2,0x so lang wie breit, Geißel-Augen-Index etwa 0,48-0,50, die breitesten 2,0-2,5x so breit wie lang.
+TAXON= C. comitator var. ferreus (GRAVENHORST 1829)
+51
+Fühlergeißel mit 43-48 Gliedern, erstes Geißelglied etwa 1,7-2,0x so lang wie breit, Geißel-Augen-Index etwa 0,48-0,50, breiteste Glieder 2,0-2,5x so breit wie lang. Metasoma schwarz, ohne bläulichen Glanz (selten mittlere Tergite rötlich oder dunkelbraun). Collare und Subalarleiste fast immer weißlich. 13-16 mm.
+TAXON= C. comitator (LINNAEUS 1758) in part
+-
+Fühlergeißel mit 43-46 Glieder, erstes Geißelglied etwa 1,9-2,2x so lang wie breit, Geißel-Augen-Index 0,50-0,58, breiteste Glieder etwa 1,5-2,0x so breit wie lang. Metasoma schwarz, mit mehr oder weniger bläulichem Glanz.
+TAXON= C. erythromerus (RUDOW 1888) in part
+52
+Fühlergeißel hinter der Mitte gewöhnlich stark verbreitert und abgeflacht, breiteste Glieder mehr als 2,0x so breit wie lang (selten bei C. nigerrimus (STEPHENS ) nur etwa 2,0x). Seitenfelder des Postpetiolus höchstens 0,6x so breit wie das Mittelfeld (Abb. 14d). Präscutellarleiste schwarz.
+53
+-
+Fühlergeißel hinter der Mitte nur leicht verbreitert, breiteste Glieder höchstens 1,7x so breit wie lang (bei C. falsificus (WESMAEL ) manchmal breiter). Seitenfelder des Postpetiolus gewöhnlich mindestens 0,7x so breit wie das Mittelfeld. Präscutellarleiste manchmal weißlich.
+56
+53
+Metasoma ± rot, wenigstens die Tergite 2-3, gewöhnlich nur der Petiolus schwarz. Area superomedia vorn fast glatt, Apikalleiste oft undeutlich. Scutellum schwarz. Femur III gewöhnlich rot. 11-15 mm.
+54
+-
+Metasoma schwarz. Area superomedia mit gut entwickelten Leisten, hinten meist geschlossen. Scutellum oft mit weißlichen Seitenrändern. Femora schwarz oder rot.
+55
+54
+Fühlergeißel mit 37-41 Gliedern, etwas gedrungener, drittes oder viertes Geißelglied quadratisch (Abb. 1d), Geißel-Augen-Index etwa 0,42. Vertex oft mit weißlichem Fleck, Tergit 7 schlank, meist länger als breit, Bohrerklappen weiter vorstehend, 0,8-1,3x so lang wie das Tergit 7 (Abb.27b). Area superomedia apikal gewöhnlich ohne deutliche Leiste. Femur III 3,3-3,5x so lang wie hoch. Metasoma gewöhnlich kastanienbraun, etwas dunkler r als das Pterostigma. Tibia III neben der Behaarung oft ohne Dornen auf der Außenseite. 11-15 mm.
+TAXON= C. haemorrhoidalis (GRAVENHORST 1820)
+-
+Fühlergeißel mit 41 Gliedern, etwas gestreckter, erst das fünfte oder sechste Geißelglied quadratisch (Abb. 1e), Geißel-Augen-Index etwa 0,46. Vertex meist ohne weißlichen Fleck. Tergit 7 gedrungen, von oben gesehen gewöhnlich breiter als lang, Bohrerklappen weniger vorstehend, etwa 0,7x so lang wie das Tergit 7 (Abb. 27a). Area superomedia hinten mit mehr oder weniger deutlicher Querleiste. Femur III sehr gedrungen, etwa 3,1-3,2x so lang wie hoch. Metasoma rotbraun, etwa so hell wie das Pterostigma. Tibia III auf der Außenseite neben der Behaarung mit mehreren Dornen. 14-15 mm.
+TAXON= C. torsor (THUNBERG 1824)
+55
+Pterostigma gewöhnlich gelblich-rot. Scutellum schwarz (Abb. 8c), Mesosoma bräunlich behaart. Femora, Tibien und Tarsen rot bis schwarz. Fühlergeißel hinter der Mitte stark verbreitert, breiteste Geißelglieder etwa 2,5-3,0x so breit wie lang (selten nur 2x). Femur III recht schlank, etwa 3,5-3,9x so lang wie breit. Von lateral betrachtet Wangen breiter als die Augen, Schläfe direkt hinter dem Auge verengt. 11-16 mm.
+TAXON= C. nigerrimus (STEPHENS 1835)
+-
+Pterostigma dunkelbraun. Scutellum breiter als lang, gewöhnlich mit weißen Seitenrändern (Abb. 6c). Behaarung des Mesosomas hell. Beine schwarz. Vorderseite der Tibien II und III meist mit weißlichen Längsstreifen. Fühlergeißel hinter der Mitte weniger deutlich verbreitert, breiteste Geißelglieder etwa 2,0-2,5x so breit wie lang. Von lateral betrachtet Wangen etwas schmaler r als die Augen. Schläfe direkt hinter dem Auge nicht verengt. 10-15 mm.
+TAXON= C. cretatus (GRAVENHORST 1820)
+56
+Metasoma apikal mehr oder weniger rot, wenigstens die kaudalen Tergite. Occipitalleiste in der Mitte deutlich aufgebogen, davor mit Quergrube (Abb. 30). Fühlergeißel mit 48-52 Gliedern und weißlichem Streif der Glieder 9-14, Hinterecke des Pronotums, Präscutellarleiste und Hinterecken des Scutellums weißlich.
+TAXON= C. nudicoxator AUBERT 1966
+-
+Metasoma ganz schwarz.
+57
+57
+Kleinere Arten, 8-13 mm. Fühlergeißel höchstens mit 39 Gliedern. Präscutellarleiste schwarz.
+58
+-
+Größere Arten, 12-17 mm. Fühlergeißel mit 41-49 Gliedern. Präscutellarleiste oft weißlich.
+61
+58
+Mesosoma ganz schwarz oder nur Hinterecke des Pronotums weißlich. Alle Coxen schwarz.
+59
+-
+Mesosoma mit ausgedehnter weißlicher Zeichnung (gewöhnlich Collare, Oberrand des Pronotums, Subalarleiste und Seiten des Scutellums weißlich). Manchmal Coxen I und II rötlich.
+60
+59
+Fühlergeißel recht gedrungen, erstes Geißelglied etwa 1,7-2,0x so lang wie breit (Abb. 3e), Geißel-Augen-Index 0,46-0,54. Thyridium etwa 1,0-1,3x so breit wie das Intervall. (Hierher einige Exemplare mit undeutlicher Scopa der Coxa III).
+TAXON= C. consimilis (WESMAEL 1845) in part
+-
+Fühlergeißel sehr schlank, erstes Geißelglied etwa 2,7x so lang wie breit, Geßel-Augen-Index 0,6. Thyridium etwa 2,2x so breit wie das Intervall.
+TAXON= C. italicus nov.sp.
+60
+Fühlergeißel mit 29-31 Gliedern, Thyridium breit, etwa 1,2-1,5x so breit wie das Intervall (Abb. 17d). Alle Coxen schwarz, Coxen I und II manchmal weißlich gefleckt.
+TAXON= C. probator HORSTMANN 2000
+-
+Fühlergeißel mit 33-36 Gliedern, Thyridium schmaler, etwa 0,8x so breit wie das Intervall, Coxen I-II rot, Coxa III schwarz.
+TAXON= C. moestus (GRAVENHORST 1829)
+61
+Scutellum ganz gelb. (Hierher führen seltene Exemplare, bei denen die Scopa der Coxa III undeutlich ist).
+TAXON= C. sinister (WESMAEL 1848) in part
+-
+Scutellum höchstens in der apikalen Hälfte gelb, oft ganz schwarz.
+62
+62
+Mesosoma mit weißlichen Flecken (Collare, Hinterecke des Pronotums, manchmal Subalarleiste, Scutellum apikal, manchmal Fleck am Apikalrand des Postpetiolus). Femora und Tibien ± schwarz. Coxa II in der apikalen Hälfte zerstreut punktiert. Kopf aufgetrieben (Abb. 20c), Schläfe direkt hinter dem Auge verbreitert. Fühlergeißel mit 39-44 Gliedern, breiteste Geißelglieder etwa 1,5-2,0x so breit wie lang, Geißel-Augen-Index 0,55-0,6. Femur III 3,3-4,0x so lang wie breit. 16-19 mm.
+TAXON= C. falsificus (WESMAEL 1845)
+-
+Mesosoma ganz schwarz; wenn mit weißlichen Flecken, dann Beine ± rot.
+63
+63
+Mesosoma ganz schwarz (selten bei C. funebrator HORSTMANN Hinterecke des Pronotums aufgehellt). Beine manchmal schwarz.
+64
+-
+Mesosoma mit weißlichen Flecken (wenigstens Präscutellarleiste weißlich). Beine überwiegend rot.
+68
+64
+Femur III wie alle Beine überwiegend schwärzlich.
+65
+-
+Femur III überwiegend rot.
+66
+65
+Pterostigma gelbrot. Coxen II und III dicht punktiert. Fühlergeißel mit 41-43 Gliedern, mit weißlichem Streif oder Ring, Geißel-Augen-Index 0,55-0,60. Seitenfelder des Postpetiolus nur 0,5-0,6x so breit wie das Mittelfeld.
+TAXON= C. funebrator HORSTMANN 2006
+-
+Pterostigma schwarz. Coxen II und III sehr zerstreut punktiert (wie Abb. 23b). Fühlergeißel mit 49 Gliedern, ganz schwarz. Geißel-Augen-Index 0,47. Seitenfelder des Postpetiolus etwa 0,8x so breit wie das Mittelfeld.
+TAXON= C. problematicus RIEDEL, CORUH & ÖZBEK 2010
+66
+Scutellum, Mesoscutum, Mesopleura, Coxen II und III überwiegend zerstreut punktiert, teilweise fast unpunktiert. Fühlergeißel mit 49 Gliedern, Geißel-Augen-Index 0,43. Area superomedia breiter als lang, längs runzelig. Weißlich sind Geißelglieder 11-14, Frontalorbiten und Vertex. Femur rot. Tibia III dunkelrot, im apikalen Drittel schwarz, Flügel getrübt.
+TAXON= C. nigratus (BERTHOUMIEU 1894) in part
+-
+Punktierung des Mesosomas und der Coxen dichter.
+67
+67
+Größer, 13-15 mm. Fühlergeißel mit 42-45 Gliedern. Femur III gedrungener, 3,3-3,5x so lang wie hoch. Coxa II überwiegend und Coxa III apikal zerstreut bis sehr zerstreut punktiert, selten Coxa III apikal mit kleiner dicht und fein punktierter Stelle und oft mit rudimentärer Scopa.
+TAXON= C. subviolaceiventris (PIC 1908)
+-
+Kleiner, 10 mm. Fühlergeißel mit 39 Gliedern. Femur III schlanker, 3,7-3,8x so lang wie hoch. Coxen II und III dicht punktiert.
+TAXON= C. paraviolaceiventris RIEDEL 2008
+68
+Fühlergeißel mit 43-49 Gliedern. Mesosoma schwarz, nur Präscutellarleiste weißlich.
+TAXON= C. nigratus (BERTHOUMIEU , 1894)
+-
+Fühlergeißel mit mindestens 45 Gliedern. Mesosoma mit ausgedehnter weißlicher Zeichnung.
+69
+69
+Coxa III dicht punktiert. Fühlergeißel mit 45 Gliedern, erstes Geißelglied 1,5x so lang wie breit, etwa das sechste oder siebente Geißelglied quadratisch. Femur III 3,6x so lang wie hoch.
+TAXON= C. albicillus (GRAVENHORST 1820)
+-
+Coxa III apikal sehr zerstreut punktiert. Fühlergeißel mit 47-53 Gliedern, erstes Geißelglied 1,7-2,4x so lang wie breit, etwa das 10. bis 12. quadratisch. Femur III gedrungen, 3,2-3,5x so lang wie hoch.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894) in part

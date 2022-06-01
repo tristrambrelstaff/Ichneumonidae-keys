@@ -1,5 +1,0 @@
-TYPE= Key
-
-ID= Ichneumon-females-A1
-
-TITLE= Gruppe A1

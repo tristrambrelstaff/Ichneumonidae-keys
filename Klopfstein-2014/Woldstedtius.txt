@@ -1,0 +1,51 @@
+TYPE= key
+
+ID= Woldstedtius
+
+TITLE= Key to species
+
+NOTE= There is rather little morphological variation found in the Western Palaearctic species and one often has to rely on colour characters. Males of most species are often difficult to identify because of large intra-specific variation, especially in the colour of the coxae. The key given below thus only partly works for male specimens.
+
+1
+Hind tibia black with a white base (Fig. 13B), or entirely black. Propodeum usually with carinae completely reduced.
+2
+-
+Hind tibia mostly orange or yellow with a dark apex. Propodeum with petiolar area at least partly enclosed or indicated by car-
+inae, its surface rugose.
+7
+2
+Mid coxa mainly black, either with a yellow or reddish apex, hind coxa at least basally black (males may have to be traced through both halves of the couplet).
+3
+-
+Mid and hind coxae entirely orange.
+4
+3
+Antenna with 24 to 25 flagellomeres. Mid coxa black with a yellow stripe or spot on outer surface. Central face patch in females large, covering almost entire elevated central part. Larger species, fore wing length 4.1–5.5 mm.
+TAXON= Woldstedtius holarcticus (Diller)
+-
+Antenna with 21 to 23 flagellomeres. Mid coxa black basally, irregularly yellow apically, or with some reddish parts. Central face patch in females smaller, distinctly narrower than elevated central part. Smaller species, fore wing length 3.5–4.9 mm.
+TAXON= Woldstedtius bauri sp. nov.
+4
+Hind tibia entirely black or dark brown. Propodeum with carinae mostly reduced but with apical parts of median longitudinal carinae present, often with transverse carina indicated by rugae and with some rugae centrally on petiolar area.
+TAXON= Woldstedtius melanocnemis (Bauer)
+-
+Hind tibia black with more or less extended white base. Propodeum with carinae reduced, at most with very short posterior parts of longitudinal carinae, coriaceous and matt also on petiolar area.
+5
+5
+Antenna with 21 or fewer flagellomeres, very rarely with 22. In males, face conspicuously widened ventrally, inner orbits much further apart from each other below than above (Fig. 27A), less so in females (Fig. 27B). Propodeum sometimes with orange markings which can extend to mesopleuron and/or to first metasomal tergite.
+TAXON= Woldstedtius citropectoralis (Schmiedeknecht)
+-
+Antenna with 22 or more flagellomeres. Face not conspicuously widened ventrally (Fig. 27C, D). Propodeum black, but metasoma sometimes marked with orange.
+6
+6
+Yellow coloration reduced, females without central face patch and shoulder marks, males with mesopleuron yellow only in front of epicnemial carina, at most with small shoulder marks. Smaller species, fore wing 3.5–4.5 mm. Face broad and not very high (Fig. 27C).
+TAXON= Woldstedtius biguttatus (Gravenhorst)
+-
+Yellow coloration well developed, females with yellow face patch, males with mesopleuron yellow on more than half of its surface, both sexes usually with yellow shoulder marks. Large species, fore wing length 4.3–6.3 mm. Face not conspicuously broad (Fig. 27D).
+TAXON= Woldstedtius flavolineatus (Gravenhorst)
+7
+Fore and mid coxae black with yellow apices, hind coxa orange with a black base and yellow apex. Femora usually with a black line on ventral surface, hind femur with base and apex often yellow. Mesopleuron irregularly wrinkled. Metapleuron black. Larger species, fore wing length 4.9–5.2 mm.
+TAXON= Woldstedtius nigrolineatops (Bauer)
+-
+Coxae red, only base of fore coxa dark, but trochanters marked with black. Femora all red. Mesopleuron evenly coriaceous and with inconspicuous punctures. Metapleuron marked with red below. Smaller species, fore wing length 4.6–4.8 mm.
+TAXON= Woldstedtius patei Dasch

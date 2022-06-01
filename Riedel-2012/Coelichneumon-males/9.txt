@@ -1,6 +1,0 @@
-9
-Fühlergeißel mit weißlichem Streif oder Ring. Metasoma ± stark bläulich glänzend. Postpetiolus meist ohne oder seltener mit kleinen weißlichen Flecken, diese kleiner als die Flecke des zweiten Tergits. Coxen gewöhnlich schwarz, selten Coxen I und II mit weißlichen Flecken.
-TAXON= C. cyaniventris (WESMAEL 1859)
--
-Fühlergeißel gewöhnlich ohne weißlichen Streif, wenn mit weißlichem Ring (var. descrescens), dann Coxen I-II mit weißlichen Flecken. Metasoma schwächer oder nicht bläulich glänzend. Postpetiolus gewöhnlich mit großen weißlichen Flecken.
-TAXON= C. sugillatorius (LINNAEUS 1758)

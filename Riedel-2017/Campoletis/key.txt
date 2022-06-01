@@ -1,7 +1,0 @@
-TYPE= key
-
-ID= Campoletis
-
-TITLE= Identification key for the Western Palearctic species of Campoletis
-
-NOTE= The key is mainly for ♀♀, identification of ♂♂ is not possible for all species.

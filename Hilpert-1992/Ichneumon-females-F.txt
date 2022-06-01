@@ -1,0 +1,78 @@
+TYPE= key
+
+ID= Ichneumon-females-F
+
+TITLE= Gruppe F
+
+1 (8)
+T(4)-5-7 mit weißen Flecken. (37-42 Gg.) (Tibiae und Femora nie ganz gelbrot).
+2 (3)
+Beine III ab dem Trochantellus ganz rot. Oberer Rand des Pronotum in 5 (6) der ganzen Länge gelb. Subalarleiste dick und gelb. (Abdomen außer den Terminalflecken schwarz. Vorletztes Gg stark quer).
+TAXON= I. subalpinus HOLMGREN
+3 (2)
+Femora schwarz.
+4 (7)
+CoIII ventral und Außenseite des FIII gleichmäßig punktiert. Keine Spur einer Bürste. (Gg1 kürzer, ca. 1,50). Gastrocoelen deutlich schmaler als der Raum dazwischen (20:32). TiIII dicker.
+5 (6)
+Vorletztes Gg wenig quer, ca. 0,88. Oberer Rand des Pronotum nicht bis ganz vorn gelb, Zeichnung nach vorn keilförmig verschmälert, sehr breit unterbrochen. Obere Orbiten nur schmal weiß. (Breiteste Gg weniger quer, ca. 0,61. Area superomedia etwas quer. TiIII, deutlich mit rot in der Mitte.) 39-42Gg.
+TAXON= I. haglundi HOLMGREN
+6 (5)
+Vorletztes Gg stark quer, ca. 0,63. Oberer Rand des Pronotum vorn nur schmal unterbrochen weiß. Weiße Farbe rostrad nicht keilförmig verschmälert, sondern gleichmäßig breit. Obere Orbiten bis hinter die posterioren Ocellen breit weiß (so breit wie ein Ocellus). 38Gg.
+TAXON= I. ustzazae HEINRICH
+7 (4)
+CoIII ungleichmäßig punktiert, bei großzügiger Auslegung mit Bürste. Außenseite des FIII im ventralen 1/3 weitläufig punktiert. [Gg1 länger, ca. 1,7. Breiteste Gg-stärker quer, ca. 0,52. Area superomedia etwas verlängert. Gastrocoelen fast so breit wie der Zwischenraum (27:28). TiIII schlanker, undeutlich rot in der Mitte. 41-42Gg.]
+TAXON= I. hinzi HEINRICH
+8 (1)
+Höchstens T6-7 mit weißem Fleck. (Oder Tibiae und Femora ganz rot.) [Tibiae nie mit abgesetztem gelbem oder weißem Ring, siehe melanotis]
+9 (16)
+FIII rot. (39-45 Gg.)
+10 (13)
+TiIII apikal zu 1/10 schwarz. TsIII zu 4/5 dunkel. Außenseite des FIII im ventralen 1/4 weitläufig punktiert.
+11 (12)
+T6 mit großem Fleck. Scutellum mit gelbem Fleck, der selten reduziert ist. TiIII nur zu 1/10 schwarz. FIII apikal nicht schwarz. 40-43Gg.
+TAXON= I. freyi KRIECHBAUMER
+12 (11)
+T6 mit sehr kleinem Fleck. Gelber Fleck auf dem Scutellum reduziert. TiIII zu fast 1/4 schwarz. FIII apikal schmal schwarz. [Ansonsten fast identisch mit voriger Art].
+TAXON= I. monospilus THOMSON
+13 (10)
+TiIII und TsIII ganz rot.
+14 (15)
+Scutellum ganz schwarz. Antenne mit Ring. Färbung des Gasters richtig schwarz. Nur T6-7 mit Terminalflecken (manchmal aber doch auch T5 mit einem größeren Fleck.). CoIII innen mit ziemlich dichter Punktierung, manchmal mit einer schwachen Bürste. Außenseite des Fill im ventralen 1/3 weitläufig punktiert. 41-45Gg.
+TAXON= I. luteipes WESMAEL
+15 (14)
+Scutellum mit rotem Fleck. Antenne höchstens mit Spur eines Rings. Färbung des Gasters (außer dem schwarzen Petiolus) dunkelrot-schwarz. T5 immer mit Terminalfleck, meist aber einem kleineren auf T6. Keine Spur einer Bürste, CIII weniger ungleichmäßig punktiert 39-40Gg.
+TAXON= I. lapponicus HELLÉN
+16 (9)
+FIII schwarz. (37-39 Gg oder 47 Gg. TiIII apikal zu 2/5 und TsIII ganz schwarz).
+17 (18)
+43-47 Gg. (Große Art: 15,2). Außenseite des FIII in der ventralen Hälfte weitläufig punktiert. Halsrand zum Teil gelb. (Oft mit Bürste !).
+TAXON= I. nebulosae HINZ
+18 (17)
+37-40 Gg.
+19(22)
+TiIII ganz schwarz. CoIII ungleichmäßig punktiert oder mit schwacher Bürste. Vorletztes Gg deutlich quer.
+20 (21)
+Kleine Art (10,9). Scutellum nur teilweise gelb. [Außenseite des FIII im ventralen 1/3 weitläufig punktiert. (37 Gg). Terminalflecken des Abdomen schmal. Mittelfeld des Postpetiolus schmal (12:16).]
+TAXON= I. almeriae sp. n.
+21(20)
+Größere Art (14,6). Scutellum ganz gelb. [Terminalflecken des Abdomen breit. Mittelfeld des Postpetiolus breit (14:31). Vorletztes Gg sehr deutlich quer. CoIII mit deutlicher Spur einer Bürste.]
+TAXON= I. albicollis haemorrhoicus KRIECHB.
+22 (19)
+TiIII nur apikal (1/3) schwarz, oder vorletztes Gg kaum quer. (Scutellum fast ganz gelb. CoIII ventral gleichmäßig punktiert. Größere Arten 13,5-15,5).
+23 (24)
+Abgeflachte Seite der Geißel sehr schmal (In Relation zu Breite des Gg: 29:82). Schläfen nach hinten etwas erweitert. Ohne Spur einer Bürste.
+TAXON= I. buryas HEINRICH
+24 (23)
+Abgeflachte Seite der Geißel breit und auffallend.
+25 (28)
+Kleinere Arten (12,7-13,5). 35-38 Gg. Vorletztes Gg deutlich quer. Gg1 kürzer. Außenseite des FIII im ventralen 1/3 weitläufig punktiert.
+26 (27)
+Area superomedia nicht oder kaum länger als breit, die Seiten an Stelle der Einmündung der Costulae gewinkelt. Leisten wesentlich kräftiger. Gastrocoelen schmaler (der Zwischenraum deutlich breiter als das Mittelfeld des Postpetiolus). Postpetiolus mit groben Leisten. Oberer Mandibelzahn sehr breit und rund. Innere Orbiten breit rotgelb. (Helle Flecken deutlich gelb, insbesondere das Scutellum dottergelb.) Ecken des Clypeus und Halsrand fast immer rotgelb, vor allem die Färbung des Clypeus sehr charakteristisch.
+TAXON= I. inquinatus WESMAEL
+
+27 (26)
+Area superomedia deutlich verlängert (28/22), die seitlichen Leisten gleichmäßig gebogen und an Stelle der Einmündung der (fehlenden) Costulae ganz ohne Winkel. Gastrocoelen breiter (Der Zwischenraum kaum schmaler als das Mittelfeld des Postpetiolus). Postpetiolus mit feinen Leisten. Oberer Mandibelzahn nicht so extrem größer und breiter als der untere, insgesamt unauffallend. Innere Orbiten rein gelb. Ecken des Clypeus ebenfalls rot gezeichnet, aber nicht so abgesetzt. 37 Gg.
+TAXON= I. sibiricus ROMAN
+28 (25)
+Größere Art (15,5). Vorletztes Gg kaum quer. 38-42 Gg. Oberer Mandibelzahn schmaler und spitzer als bei inquinatus. 1. Gg länger. Ecken des Clypeus nicht rot. TiIII (vor allem dorsal) oft fast schwarz.
+TAXON= I. languidus WESMAEL

@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Ichneumon-females-G2.1
-
-TITLE= Gruppe G2.1

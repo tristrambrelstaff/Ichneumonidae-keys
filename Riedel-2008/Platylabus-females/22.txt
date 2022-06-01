@@ -1,7 +1,0 @@
-22
-Spots on vertex not confluent with ivory frontal orbits, not inwards directed apically (rarely completely lacking). Malar index about 1.0. Metatarsus III short, tarsal III-index 1.3-1.4. Tergite 2 in basal half coarsely coriaceous. Lateral meso scutal lobes with coarser punctures, intervals with fine microsculpture, ± shining. Flagellum with 31-33 segments, apical segment characteristically blunt at tip.
-TAXON= P. dolorosus (Gravenhorst, 1829)
-–
-Spots on vertex confluent with ivory frontal orbits and inwards directed apically. Malar index 0.7. Metatarsus III longer, tarsal III-index 1.1. Tergite 2 with fine aciculation basally. Lateral mesoscutal lobes with finer punctures, intervals with dense microsculpture, usually ± dull. Flagellum with 34-36 segments, apical segment narrowed at tip (as usual).
-TAXON= P. baueri spec. nov.
-NOTE= [here key some specimens of P. concinnus with dark femora III: lateral mesoscutal lobes without microsculpture, tergite 2 with scattered punctures and shining]

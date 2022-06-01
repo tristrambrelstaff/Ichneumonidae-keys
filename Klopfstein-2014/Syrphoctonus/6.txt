@@ -1,7 +1,0 @@
-6
-Scutellum yellow or with a yellow apical spot. Metasoma usually orange on tergites 2 and 3 and with yellow posterior bands on tergites 2–5, especially in males. Male antenna with tyloids on flagellomeres 7–14.
-TAXON= Syrphoctonus desvignesii (Marshall)
--
-Scutellum with a yellow margin, black centrally. Metasoma black, in males with two yellow spots on basal corners of tergite 3. Male antenna with tyloids on flagellomeres 2 to 10 or 11.
-TAXON= Syrphoctonus fissorius (Gravenhorst)
-

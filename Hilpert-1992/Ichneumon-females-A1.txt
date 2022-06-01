@@ -1,0 +1,17 @@
+TYPE= Key
+
+ID= Ichneumon-females-A1
+
+TITLE= Gruppe A1
+
+1 (4)
+Große Arten (13,2-15,5)
+2 (3)
+TiIII apikal zu 1/4 schwarz.
+TAXON= I. xanthorius FORSTER
+3 (2)
+TiIII apikal nicht schwarz, nur wenig rot
+TAXON= I. sexcinctus GRAVENHORST
+4(1)
+Kleinere Art (bis 11,6). (Scutellum oft nicht ganz weiß, weißer Fleck nur nierenförmig.)
+TAXON= I. ostentator HEINRICH

@@ -1,0 +1,28 @@
+TYPE= key
+
+IDE= Ichneumon-females-A2
+
+TITLE= Gruppe A2
+
+1 (2)
+Farbbänder des Abdomens alle gelb. Kleinere Art (9,3). 33 Gg.
+TAXON= I. veressi KISS
+2 (1)
+Farbbänder des Abdomens wenigstens teilweise rot (oder die Farbbänder selten fehlend). Größere Arten (11,2-12,6). 36-39 Gg.
+3 (4)
+Pterostigma dunkel. Tergite (außer dem 6.) schwarz. FIII ganz schwarz. Flügel geschwärzt. CoIII mit schwacher Bürste.
+TAXON= I. sarcitorius corsus KRIECHBAUMER
+4 (3)
+Pterostigma hell. T2-3 rot und/oder gelb gezeichnet. FIII zum TeU rot. Flüget normal hell. (CoIII ohne deutliehe Bürste, aber ungleichmäßig punktiert.)
+5 (6)
+T2-3 apikal rot, basal schwarz.
+TAXON= I. sarcitorius repetitor KRIECHBAUMER
+6 (5)
+T2-3 mit verschiedenen Farbmustern.
+7 (8)
+T2 rot, T3 apikal gelb, basal schwarz.
+TAXON= I. lautatorius DESVIGNES
+8 (7)
+Beide Tergite rot, oder beide rotgelb gefärbt; 13 basal schwarz.
+TAXON= I. sarcitorius sarcitorius L.
+[a) Farbe der Tergite rot: I. sarcitorius sarcitorius LINNAEUS; b) Farbe der Tergite rotgelb: I. sarcitorius caucasicus MEYER.]

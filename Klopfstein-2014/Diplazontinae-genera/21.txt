@@ -1,6 +1,0 @@
-21
-Spiracle of third tergite dorsal, above lateral fold. Epicnemial carina complete ventrally (Fig. 16A). Clypeus with a preapical impression, rendering basal three-quarters convex (Fig. 16C).
-TAXON= Homotropus (part)
--
-Spiracle of third tergite level with or below the fold separating the lateral from the dorsal part. Epicnemial carina usually broadly interrupted ventrally behind fore coxae (Fig. 16B). Clypeus usually flat or with a subbasal transverse impression which is often only present on lateral parts, clypeus thus convex or flat centrally but concave in cross section laterally (Fig. 16D).
-TAXON= Syrphoctonus

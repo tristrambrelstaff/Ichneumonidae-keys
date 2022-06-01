@@ -1,0 +1,100 @@
+TYPE= key
+
+ID= Ichneumon-females-C
+
+TITLE= Gruppe C
+
+1 (16)
+FIII mit erheblichem Anteil rot oder ganz rot, oder Mandibelzähne annähernd gleichlang bzw. Mandibel zur der Spitze hin nicht stark verschmälen.
+2(13)
+T5-7 mit weißen Flecken. [Wenigstens das 2. Tergit fast ganz rot, oder Mandibelzähne nahezu gleichlang (bei cinxiae)].
+3 (6)
+Mandibelzähne ungefähr gleich lang und breit. Mandibeln außerdem zur Spitze hin kaum verschmälert. (34-36 Gg. Area superomedia wenig quer. Körperlänge 11,5-11,9).
+4 (5)
+Gg1 länger (2,6). Nur T2 ganz rot, T3 wenigstens apikal in der Mitte schwarz. FIII größtenteils schwarz. TiIII auch an der Basis schwarz, apikal zu 1/4 schwarz, dazwischen rot. Tarsus III ganz dunkel.
+TAXON= I. cinxiae KRIECHBAUMER
+5 (4)
+Gg1 kürzer (1,7). T2 und T3 rot, oft mit Gelb gemischt. FIII rot-schwarz. (TiIII und TsIII oft ganz rot).
+TAXON= I.silaceus GRAVENHORST
+6 (3)
+Mandibelzähne sehr unterschiedlich lang. Mandibeln zur Spitze hin deutlich verschmälert. (T5 mit einem großen weißen Fleck. T3 meist vom Hinterrand
+ausgehend teilweise schwarz. FIII mit einem erheblichen Anteil rot, oder wenigstens 37 Gg).
+7 (10)
+TiIII fast ganz rot, höchstens zu 1/20 apikal geschwärzt
+8 (9)
+Gastrocoelen lang, FIII ganz rot. 38-41 Gg. (1. Gg mehr als 2 mal so lang wie breit. Weiße Färbung des Scuteüum oft reduziert. Area superomedia quer.) Gastrocoelenbreiter als der Zwischenraum. TiIII apikal zu 1/20 schwarz. (Größere Art 11,5-13.)
+TAXON= I. cynthiae KRIECHBAUMER
+9 (8)
+Gastrocoelen ziemlich kurz, aber sehr breit und tief. FIII rot-schwarz (basal und apikal oberseits rot). Nur 35Gg. T2-3 ganz rot. Kleinere Art (10,1). Scutellum ganz weiß. Gg1 weniger als 2 mal so lang wie breit.
+TAXON= I. emancipatops HEINRICH
+10(7)
+TiIII apikal zu wenigstens 1/7 schwarz. FIII überwiegend rot (bei gracilicornis selten ganz schwarz, dann aber Schläfen nach hinten stärker und geradliniger verschmälert. 34-42 Gg. T3 immer rot. Scutellum immer gelb). [Zur Unterscheidung dieser Arten siehe auch S. 57].
+11 (12)
+Gg1 stärker verlängert (2,4-3,1). Vorletztes Gg leicnt verlängert. Mittlere Gg weniger quer (0,8-0,9). (Sehr variable Art: Färbung der Antennenbasis, Länge des 1. Gg, Breite der Abdommalflecken und Farbe des FIII sehr unterschiedlich.)
+TAXON= I. gracilicornis GRAVENHORST
+12 (11)
+1. Gg weniger verlängert (2,1). Vorletztes Gg quadratisch. Mittlere Gg stärker quer (0,65).
+TAXON= I. emancipatus WESMAEL
+13 (2)
+Höchstens T6-7 mit weißen Flecken.
+14 (15)
+T6-7 mit Terminalflecken. Mittlere Tergite höchstens verwaschen rot gefärbt. (39Gg.) Vorletztes Gg deutlich verlängert. Mittlere Gg schwach verbreitert (0,9). 1. Gg stark verlängert ei (3,0). Scutellum weiß. FIII rot. TiIII zu 1/5 schwarz. TsIII ganz dunkel.
+TAXON= I. quadrialbatus GRAVENHORST
+15 (14)
+Nur T7 mit einem weißen Fleck. T2-3 rot, T2 apikal medial schwarz, T3 apikal in ganzer Breite, medial in ganzer Länge schwarz. (35Gg). Vorletztes Gg quadratisch. Gg1 weniger als 2 mal so lang wie breit. Scutellum nur mit kleinem hellem Fleck. Beine III ab den Trochantellen rot, TsIII apikal zu 1/5 geschwärzt. Gastrocoelen kurz, etwas breiter als der Raum dazwischen, ganz gerade (der Hinterrand orthogonal zur Körperlängsachse stehend.)
+TAXON= I. norvegicus sp. n.
+16 (1)
+FIII (fast) ganz schwarz. Zähne der Mandibeln von sehr verschiedener Größe.
+17 (18)
+Abdomen ohne Terminalflecken. (Flügel und Pterostigma dunkel. Beine ganz schwarz.) Nur. T2 rot. Geißel ohne Ring. Scutellum schwarz.
+TAXON= I. nigriceps sp. n.
+18 (17)
+Terminalflecken des Abdomens vorhanden.
+19 (28)
+T5 mit einem großen weißen Fleck. (38-40 Gg).
+20 (21)
+Abdomen ohne rot Beine fast ganz schwarz. Flügel dunkel, besonders das Pterostigma. Antenne ohne deutlichen Ring. 43 Gg. T4-6 mit sehr breiten weißen Flecken, die halb so lang wie die Tergite sind.
+TAXON= I. sublunatus sp. n.
+21 (20)
+Wenigstens ein Tergit rot, fast immer zwei. TiIII wenigstens in der Basalhälfte rot.
+22 (23)
+Antennenring reduziert, nur auf Gg 9-11.
+TAXON= I. nifftntennator nom. nov.
+NOTE= [Individuen mit einem großen Fleck auf T5.]
+23 (22)
+Antennenring nicht reduziert.
+24 (25)
+1. Gg stärker verlängert (2,4-3,0). Mittlere Gg weniger quer (0,7-0,9).
+TAXON= I. gracilicornis GRAVENHORST
+25 (24)
+1. Gg weniger verlängert (2,1). Mittlere Gg stärker quer (0,6).
+26 (27)
+Größere Art (12,2). Terminalflecken des Abdomens sehr breit. TiIII weniger breit schwarz.
+TAXON= I. emancipatus WESMAEL
+27 (26)
+Kleiner (10,1). Terminalflecken schmal. TiIII zu 2/5 apikal und basal schmal schwarz.
+TAXON= I. sp. H
+28 (19)
+T5 höchstens mit einem kleinen weißen Fleck. (FIII schwarz. 34-39 Gg).
+29 (32)
+Geißelring reduziert, fehlend oder nur auf den Geißelgliedern 9-11 (33-38 Gg).
+30 (31)
+TiIII am Ende relativ breit schwarz (1/8-1/4). Scutellum wenigstens zum Teil gelb. Oft auch T5 mit einem Fleck. (Körpergröße 8,8-9,3). 1. Gg länger.
+TAXON= I. nigrantennator nom. nov.
+31 (30)
+TiIII ganz rot oder nur sehr schmal (1/10) dunkel. Scutellum oft ganz schwarz. T5 ohne Fleck. (Körpergröße 10,1). 1. Gg kürzer.
+TAXON= I. pinquicornis BAUER R.
+32 (29)
+Geißel mit deutlichem Ring, wenigstens über vier Glieder. 34-39 Gg.
+33 (36)
+38-39 Gg.
+34 (35)
+Scutellum höchstens mit einem zentralen roten Fleck. [TiIII und TsIII ganz rot. Area superomedia stark quer (0,7).]
+TAXON= I pulvinatus KRIECHBAUMER
+35 (34)
+Scutellum weiß. TiIII zu 3/7 bis ganz schwarz. TsIII ganz schwarz. Area superomedia schwach quer. (Die Gastrocoelen sind für diese Gruppe nicht typisch, sondern manchmal ziemlich schräg.)
+TAXON= I. sp H
+NOTE= [wenn der Fleck auf Tergit 5 fehlt.]
+36(33)34
+Gg. [Breiteste Gg stärker quer (0,6). 1. Gg stärker verlängert (2,3). Gastrocoelen schmaler als der Zwischenraum (20:25). TsIII ganz hell).
+TAXON= I. rogenlioferops HEINRICH

@@ -1,6 +1,0 @@
-65
-Pterostigma gelbrot. Coxen II und III dicht punktiert. Fühlergeißel mit 41-43 Gliedern, mit weißlichem Streif oder Ring, Geißel-Augen-Index 0,55-0,60. Seitenfelder des Postpetiolus nur 0,5-0,6x so breit wie das Mittelfeld.
-TAXON= C. funebrator HORSTMANN 2006
--
-Pterostigma schwarz. Coxen II und III sehr zerstreut punktiert (wie Abb. 23b). Fühlergeißel mit 49 Gliedern, ganz schwarz. Geißel-Augen-Index 0,47. Seitenfelder des Postpetiolus etwa 0,8x so breit wie das Mittelfeld.
-TAXON= C. problematicus RIEDEL, CORUH & ÖZBEK 2010

@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Xestopelta
-
-TITLE= Key to species

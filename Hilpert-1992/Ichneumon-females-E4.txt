@@ -1,0 +1,18 @@
+TYPE= key
+
+ID= Ichneumon-females-E4
+
+TITLE= Gruppe E4
+
+1 (4)
+FIII schwarz.
+2 (3)
+TiIII rot-gelb-rot-schwarz. Nur T2-3 rot, teilweise gelb. Area superomedia stark verlängert (31:25). Breiteste Gg stärker quer (0,52). 35-40 Gg. Keine deutliche Leiste ausgebildet, aber CoIII ventral an der Innenseite leicht gewinkelt, mit einem erhabenen Wulst. Dieser und seine Umgebung sind ist bürstenähnlich dicht behaart. Größere Art, um 14,6.
+TAXON= I. stramentarius GRAVENHORST
+NOTE= [Die Unterart I. s. boreomaritimus ssp. nov. weicht durch ganz rote TiIII ab, der FIII ist aber nur basal und apikal rot.]
+3 (2)
+TiIII ganz rot. T1-3 rot. [Area superomedia fast quadratisch (23:22). Breiteste Gg weniger quer (0,69). 36 Gg. Die CoIII trägt auf der ventralen Innenseite meist eine kleine Leiste, die aber manchmal nur angedeutet ist. Von einer Bürste ist aber nicht einmal eine Spur vorhanden. Kleinere Art, ca. 11,5. (Sehr variabel: manchmal das 5. Tergit nur mit einem kleinen Fleck, manchmal T4-7 mit einem Großen. Manchmal Mesonotum vorn rot. Postpetiolus manchmal schwarz.]
+TAXON= I. rufigena KRIECHBAUMER
+4 (1)
+FIII rot. T1-3 rot. (ansonsten genau wie die Nominatform).
+TAXON= I. stramentarius septentrionalis HOLMGREN

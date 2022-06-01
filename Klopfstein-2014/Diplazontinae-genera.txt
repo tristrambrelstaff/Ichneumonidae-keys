@@ -1,0 +1,132 @@
+TYPE= key
+
+ID= Diplazontinae-genera
+
+TITLE= Key to the Western Palaearctic genera of Diplazontinae
+
+1
+Metasomal tergite 2 with spiracle on laterotergite, well below lateral fold (Fig. 11A). Hind wing with one basal hamulus (Fig. 11C).
+2
+-
+Metasomal tergite 2 with spiracle on dorsal part, above lateral fold (Fig. 11B). Hind wing with one or more basal hamuli (Fig. 11D).
+4
+2
+Female with metasomal tergites 4–6 with hind margins convex, extending at least as far back dorsally as laterally (Fig. 11E). Ovipositor sheaths at most 0.5 times as long as hind tibia. Scutellum with lateral carinae usually extending at least to middle (Fig. 11G). Face usually with large smooth areas; if entirely coriaceous (S. punctiventris and S. placita), then tyloids of male located around flagellomeres 6 to 8 and more than half as long as respective flagellomeres.
+TAXON= Sussaba
+-
+Female with metasomal tergites 4–6 with hind margins concave, extending further back laterally than dorsally (Fig. 11F); if indistinct (sometimes in Episemura) then ovipositor sheaths at least 0.6 times as long as hind tibia. Scutellum with carinae distinct only on about basal third (Fig. 11H). Face largely to entirely coriaceous. Tyloids of male either restricted to first three flagellomeres (Eurytyloides) or less than half as long as respective flagellomere (Episemura).
+3
+3
+Ovipositor sheath more than 0.6 times as long as hind tibia, basal half transversely striate (Fig. 11I). Mesoscutum, scutellum and mesopleuron strongly punctate, distance between punctures less than their diameter.
+TAXON= Episemura
+-
+Ovipositor sheath less than 0.5 times as long as hind tibia, smooth and polished (Fig. 11J). Mesoscutum, scutellum and mesopleuron mainly smooth and shining, at most with some weak punctures that are more than their diameter apart.
+Eurytyloides umbrinus sp. nov.
+4
+Mesoscutum with notauli distinctly impressed, although quite short (Fig. 12A). Fore wing areolet always open (Fig. 12C)
+5
+-
+Mesoscutum with notauli absent (Fig. 12B). Fore wing areolet open or closed (Fig. 12D).
+10
+5
+Face smooth and shining, sometimes weakly punctate, with two vertical impressions arising from tentorial pits (Fig. 12E). Spiracle of third tergite on laterotergite (Fig. 11B). Hind wing often with only one (Fig. 11C) but sometimes with more basal hamuli.
+TAXON= Promethes
+-
+Face not entirely smooth, at least distinctly punctate but usually coriaceous and matt, never with vertical impressions arising from tentorial pits (Fig. 12F). Spiracle of third tergite on dorsal or on lateral part. Hind wing usually with two or more basal hamuli (Fig. 11D).
+6
+6
+Clypeus with apical margin thin and often with a basal elevation, concave or flat in profile; apical margin often bilobed but sometimes truncate or evenly concave (Figs 12G, 12H). Females with face black with yellow along inner orbits and sometimes with a central yellow spot.
+7
+-
+Clypeus with apical margin thickened, convex and protruding in profile; apical margin convex, truncate or weakly concave, at most weakly bilobed (Figs 12I, 12J, 12K). Female with face usually entirely black but sometimes with yellow along inner orbits.
+8
+7
+Hind tibia white with a black apical band, or black-white-black banded (Fig. 12L), or black-white-black-orange banded. Tergites 1–3 and often 4 of metasoma with distinct preapical transverse impressions (Fig. 13A); if impressions not very distinct (Diplazon neoalpinus and Diplazon pectoratorius), then propodeal carinae reduced, not enclosing basal and petiolar areas (Fig. 13B).
+TAXON= Diplazon (most)
+-
+Hind tibia mainly orange or yellow with apex dark. At most with indistinct transverse impressions on tergite one or one and two. Propodeum always with a full set of carinae defining basal, lateral and petiolar areas (Fig. 13C).
+TAXON= Tymmophorus
+8
+Scutellum mainly yellow or white. Female metasoma laterally compressed. Mesoscutum centrally impunctate and strongly shining, punctures restricted to front and sides. Yellow shoulder marks often with inner corners extending back over mesoscutum as two parallel lines (Fig. 13D).
+TAXON= Xestopelta (part)
+-
+Scutellum usually black, rarely with a small apical yellow spot. Metasoma dorsoventrally depressed in both sexes. Mesoscutum with obvious punctures over entire surface, shining between punctures or finely coriaceous and matt. Shoulder marks, if present, with inner corner never extending back.
+9
+9
+Metasomal tergites 3–5 with hind margins concave even in males, extending conspicuously further back laterally than dorsally (Figs 13E, 13F). Spiracle of third tergite on laterotergite (cf. Fig. 11B). Clypeus with apical margin truncate or weakly concave (Fig. 12J). Metasoma entirely black, or in males sometimes with yellow on posterior part of some tergites.
+TAXON= Campocraspedon
+-
+Tergites 3–5 with hind margins at most very weakly concave, extending about as far back dorsally as medially (Fig. 13G). Spiracle of third tergite on dorsal part. Clypeus with apical margin convex (Fig. 12I). Metasoma dark orange at least on apical parts of tergites 2 and 3.
+TAXON= Daschia brevitarsis (Thomson)
+10
+Fore wing areolet closed, although vein 3rs-m usually unpigmented (Fig. 12D). Male antenna always with tyloids, which can be narrow or broad (Figs 13H, 13I).
+11
+-
+Fore wing areolet open (Fig. 12C). Male antenna with or without tyloids.
+14
+11
+Female with metasomal tergites 3–5 with hind margins clearly concave, extending conspicuously further back laterally than dorsally (Fig. 14A) (usually indicated also in males). Face shining, finely coriaceous only along inner orbits, distinctly punctate.
+TAXON= Phthorima
+-
+Metasomal tergites convex or truncate in both sexes. Face matt, punctures usually almost disappearing among the coriaceous sculpture.
+12
+12
+First metasomal tergite with median dorsal carinae strongly converging over basal half and very close to each other on apical half (Figs 14E, 14F). Male with tyloids usually bar-like and broad (Fig. 13I, except for E. schwarzi). Female with hind tibia black with a white base (Fig. 14B), male similar or with white part extending over half the tibia, especially on ventral side (Fig. 14C). Clypeus when viewed in profile concave laterally, rather flat centrally, and with apical margin somewhat elevated (Fig. 14I).
+TAXON= Enizemum (most)
+-
+First tergite of metasoma with median dorsal carinae absent or strongly reduced (Fig. 14G), or if strong (crassicornis group), then they are almost as far apart from each other as from the lateral margins of the tergite (Fig. 14H). Male with tyloids usually narrowly linear (Fig. 13H, except for the rare H. venustus and H. tauriscorum). Hind tibia usually orange or white with subbasal and apical dark bands (Fig. 14D). Clypeus usually apically impressed, basal three-quarters convex (Fig. 14J).
+13
+13
+Male with narrow tyloids each with an adjacent dark pit (Fig. 14K). Propodeum with two or more parallel, arcuate carinae around petiolar area (Fig. 14L). Female usually with a yellow line on lower mesopleuron.
+TAXON= Fossatyloides gracilentus (Holmgren)
+-
+Male with narrow tyloids without adjacent pits (Fig. 13H). Propodeum various, often lacking transverse carinae (Fig. 14M), or with regular carinae around petiolar area (Fig. 14N). Female with mesopleuron usually entirely black.
+TAXON= Homotropus (part)
+14
+Propodeum with a full set of strong carinae delimiting at least basal and petiolar areas (Fig. 13C).
+15
+-
+Propodeum with carinae reduced, not delimiting complete set of areas, at least basal or petiolar area not fully enclosed by carinae (Fig. 14M).
+17
+15
+Female with face black with yellow along inner orbits. Male antenna without tyloids. Tergites one and two often with weak subapical transverse impressions (Fig. 15A). Clypeus basally convex, remainder concave (Figs 12G, 12H).
+TAXON= Syrphophilus
+-
+Female with face entirely black or with a yellow central spot. Male antenna with tyloids which are usually narrow and linear (Fig. 13H). Metasomal tergites without transverse impressions (Fig. 15B). Clypeus usually apically impressed, basal three-quarters convex (Fig. 14J).
+16
+16
+Propodeal spiracle and spiracle of first tergite with conspicuously enlarged and sometimes pale margins (Fig. 15C). Female with tergites 3–5 with hind margins concave, extending conspicuously further back laterally than dorsally (Fig. 15E). Antenna of female stout, apical flagellomeres wider than long, and with strong setae almost as long as the diameter of the segments (Fig. 15F).
+TAXON= Bioblapsis
+-
+Propodeal spiracle not enlarged, with margin inconspicuous (Fig. 15D). Female with metasomal tergites convex or truncate. Antenna slenderer, with setae at most half as long as the diameter of a flagellomere.
+TAXON= Homotropus (part)
+17
+Ovipositor sheaths broadly and transversely truncate, thus apically open; last visible sternite in females large and triangular (Fig. 15G). Hind tibia usually black with a white base (Figs 14B, 14C) but sometimes entirely black or orange with a dark apex. Clypeus usually flat or with a subbasal transverse impression which is often only present on lateral parts, clypeus thus convex or flat centrally but concave in cross section laterally (Fig. 16D). Tyloids on male antenna, if present, usually broad (Fig. 13I).
+18
+-
+Ovipositor sheaths either pointed or rounded and closed apically (Fig. 15H), or diagonally truncate (Fig. 15I); last visible sternite, if triangular, then less conspicuous. Hind tibia mainly white, yellow or orange, often with apex dark. Clypeus various but often (genus Homotropus) with a preapical impression, rendering basal three-quarters convex (Fig. 16C). Tyloids on male antenna, if present, usually narrow (Fig. 13H).
+19
+18
+First tergite at most with short median dorsal carinae which are broadly separated. Male antenna without tyloids. Face including clypeus, mesosoma, legs and metasoma finely and evenly coriaceous and matt, punctures indistinct.
+TAXON= Woldstedtius
+-
+First metasomal tergite with median dorsal carinae reaching at least to middle and very close to each other on apical half (Figs 14E, 14F). Male antenna with tyloids which are most often bar-like (Fig. 13I). Sculpture not entirely fine, mesopleuron with both strong punctures and smooth parts.
+TAXON= Enizemum (part)
+19
+Female with yellow along inner orbits. Male antenna without tyloids.
+20
+-
+Female with face black, often with a central yellow spot. Male antenna with narrow tyloids (Fig. 13H).
+21
+20
+Clypeus with apical margin thin and often with a basal elevation, making it concave or flat in profile (Figs 12G). Epicnemial carina complete. Mesoscutum distinctly punctate on a smooth and polished background, yellow shoulder marks with inner corners not extending over most of mesoscutum.
+TAXON= Diplazon (part)
+-
+Clypeus with apical margin thickened, convex and protruding in profile; apical margin convex (Fig. 12K). Epicnemial carina broadly interrupted behind fore coxa. Mesoscutum mostly smooth and shining, with punctures very weak or indistinct, yellow shoulder marks usually with inner corners extending over most of mesoscutum (Fig. 13D).
+TAXON= Xestopelta (part)
+21
+Spiracle of third tergite dorsal, above lateral fold. Epicnemial carina complete ventrally (Fig. 16A). Clypeus with a preapical impression, rendering basal three-quarters convex (Fig. 16C).
+TAXON= Homotropus (part)
+-
+Spiracle of third tergite level with or below the fold separating the lateral from the dorsal part. Epicnemial carina usually broadly interrupted ventrally behind fore coxae (Fig. 16B). Clypeus usually flat or with a subbasal transverse impression which is often only present on lateral parts, clypeus thus convex or flat centrally but concave in cross section laterally (Fig. 16D).
+TAXON= Syrphoctonus

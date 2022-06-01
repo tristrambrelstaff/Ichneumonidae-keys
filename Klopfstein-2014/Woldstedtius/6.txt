@@ -1,6 +1,0 @@
-6
-Yellow coloration reduced, females without central face patch and shoulder marks, males with mesopleuron yellow only in front of epicnemial carina, at most with small shoulder marks. Smaller species, fore wing 3.5–4.5 mm. Face broad and not very high (Fig. 27C).
-TAXON= Woldstedtius biguttatus (Gravenhorst)
--
-Yellow coloration well developed, females with yellow face patch, males with mesopleuron yellow on more than half of its surface, both sexes usually with yellow shoulder marks. Large species, fore wing length 4.3–6.3 mm. Face not conspicuously broad (Fig. 27D).
-TAXON= Woldstedtius flavolineatus (Gravenhorst)

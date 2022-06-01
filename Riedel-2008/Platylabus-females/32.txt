@@ -1,6 +1,0 @@
-32
-Pterostigma dark brown or black. Lateral mesoscutal lobes with microsculpture, but ± shining. Tarsal III-index 1.0-1.1. Thyridia more oblique (fig. 34). Flagellum with 35-40 segments. Tibia III darkened in the apical 0.6-0.7. Body length 8-10 mm.
-TAXON= P. odiosus Perkins, 1953
--
-Pterostigma brownish-yellow centrally. Lateral mesoscutal lobes smooth in the center, shining. Tarsal III-index 1.1-1.2. Thyridia less oblique (fig. 33). Flagellum with 32-37 segments. Tibia III darkened in the apical 0.4-0.6. Body length 6.5-10 mm.
-TAXON= P. heteromallus Berthoumieu , 1910

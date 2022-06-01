@@ -1,6 +1,0 @@
-7
-Hind tibia white with a black apical band, or black-white-black banded (Fig. 12L), or black-white-black-orange banded. Tergites 1–3 and often 4 of metasoma with distinct preapical transverse impressions (Fig. 13A); if impressions not very distinct (Diplazon neoalpinus and Diplazon pectoratorius), then propodeal carinae reduced, not enclosing basal and petiolar areas (Fig. 13B).
-TAXON= Diplazon (most)
--
-Hind tibia mainly orange or yellow with apex dark. At most with indistinct transverse impressions on tergite one or one and two. Propodeum always with a full set of carinae defining basal, lateral and petiolar areas (Fig. 13C).
-TAXON= Tymmophorus

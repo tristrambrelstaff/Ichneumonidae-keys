@@ -1,0 +1,110 @@
+TYPE= key
+
+ID= Ichneumon-females-E2
+
+TITLE= Gruppe E2
+
+1 (34)
+Breitestes Gg maximal 2,2 mal so breit wie lang. (27-48 Gg.)
+2(3)
+Scutellum schwarz. Geißel ohne Ring. 42-45 Gg. Gaster außer den Terminalflecken schwarz. FIII rot. TsII etwas verdickt.
+TAXON= I. melanosomus WESMAEL
+NOTE= [Hierher führt auch monospilus THOMSON, wenn eine Bürste vorhanden ist. Scutellum aber teilweise gelb, Antenne mit Ring und TsII keinesfalls verdickt. Hierher kann auch luteipes führen, mit undeutlicher Bürste, aber Antennenring vorhanden, TsIII hell und Gg1 kürzer, ca. 1,55.]
+3 (2)
+Scutellum weiß.
+4 (5)
+Gaster ganz schwarz. Flügel verdunkelt, einschließlich des Pterostigma. 39Gg.
+TAXON= I. sarcitorius corsus KRIECHBAUMER
+5(4)
+Gaster nicht ganz schwarz.
+6(7)
+T2-5 rot. 48Gg. (T6-7 mit weißem Fleck.)
+TAXON= I. diversor WESMAEL
+7(6)
+Höchstens T2-3 rot oder gelb, oder wesentlich weniger Gg.
+8 (9)
+Nur 27-28 Gg und Petiolus rot. T(5)-6-7 mit weißem Reck. Außenseite des FIII in der ventralen Hälfte weitläufig punktiert. TiIII in der Mitte gelb. Vorletztes Gg stark quer (0,66). (Bürste oft reduziert.)
+TAXON= I. validicornis HOLMGREN
+9 (8)
+Geißel mit wenigstens 30 Gliedern, oder Petiolus schwarz.
+10 (13)
+Alle Tarsen stark verbreitert. (32-36 Gg. T2-3 rot. T6-7 mit weißen Flecken.)
+11 (12)
+Größere Art (11,8). 36 Gg.
+TAXON= I. ligatorius THUNBERG
+12 (11)
+Kleinere Art (7,9). 32 Gg.
+TAXON= I. plautus sp. n.
+13 (10)
+Tarsen nicht verbreitert, oder weniger und nicht an allen Beinen.
+14 (15)
+Petiolus apikal rot und mittlere Tarsen mäßig stark verbreitert. [38-42 Gg. T(5)-6-7 mit weißem Fleck. Fleck auf T5 oft groß. Außenseite des FIII im ventralen 1/3-1/2 weitläufig punktiert. TiIII ganz rot. Area superomedia meist quer. Bürste manchmal etwas reduziert.]
+TAXON= I. nigroscutellatus KRIECHBAUMER
+NOTE= [Die Unterart fennicola HEINRICH unterscheidet sich durch: Seitenlap- pen des Mesonotum rot, FHI basal bis ganz rot und Terminalflecken nur aufT6-7]
+15 (14)
+Petiolus schwarz und mittlere Tarsen nicht verbreitert.
+16 (25)
+TiIII in der Mitte mit reinem Gelb.
+17 (18)
+T2-3 gelb. 35-38 Gg. T(5)-6-7 mit gelbem Fleck. Außenseite des FIII weitgehend gleichmäßig punktiert. Große Art, um 15,5.
+TAXON= I. stramentor RASNITSYN
+18 (19)
+T2-3 rot. (bei crassifemur manchmal verdunkelt.)
+19 (22)
+Ventrale Hälfte der Außenseite des FIII weitläufig punktiert.
+20 (21)
+Gaster fast ganz schwarz. CoIII ventral nicht weitläufig punktiert. 32 Gg. TiIII schwarz-gelb-schwarz.
+TAXON= I. crassifemur THOMSON
+21 (20)
+T2-3 ganz rot. 29Gg. Clypeus nur mit sehr wenigen (ca. 5) Punkten, seine Seiten, ebenso wie die inneren Orbiten breit hellrot. CoIII neben der schwachen Bürste relativ weitläufig punktiert. Gastrocoelen und Thyndien noch kleiner. TiIII an der Basis und vor der schwarzen Spitze deutlich mit rot. (Die Körperoberfläche insgesamt glatter als bei crassifemur).
+TAXON= I. sp. N
+22 (19)
+Außenseite des FIII höchstens im ventralen 1/3 und nur in der vorderen Hälfte deutlich weitläufig punktiert.
+23 (24)
+TiIII schwarz-gelb-schwarz. FIII außen ventral in der vorderen Hälfte weitläufig punktiert. (TiIII zu 2/5 schwarz. 35-36 Gg. Vorletztes Gg weniger quer, ca. 0,64).
+TAXON= I. molitorius LINNAEUS
+24 (23)
+TiIII rot-gelb-rot-schwarz. FIII außen auf fast der gesamtenFläche gleichmäßig punktiert. (TIII nur zu 1/4 schwarz. 32-34 Gg. Vorletztes Gg stärker quer, ca. 0,49).
+TAXON= I. confusor GRAVENHORST
+25 (16)
+TiIII in der Mitte nicht gelb gezeichnet.
+26 (31)
+Außenseite des FIII im ventralen 1/3-1/2 weitläufig punktiert.
+27 (28)
+T2-3 rot. T6-7 mit weißen Flecken. Area superomedia verlängert. Die Bürste der CoIII schwach.
+TAXON= I. extensorius LINNAEUS
+NOTE= [a) TiIII zu 1/10 schwarz. TsIII rot: I. extensorius extensorius LINNAEUS.  b) TiIII und TsIII ganz schwarz: I. extensorius militaris GRAVENHORST]
+28 (27)
+T2-3 schwarz.
+29 (30)
+43-47 Gg.
+TAXON= I. nebulosae HINZ
+30 (29)
+Nur 32-33 Gg.
+TAXON= I. magistratus sp. n.
+31 (26)
+Außenseite des FIII gleichmäßig punktiert.
+32 (33)
+Halsrand weiß. Flügel leicht verdunkelt. Bein III schwarz. (T6-7 mit Terminalfleck. 40 Gg). T2-3 rot und 3. an der Basis schwarz oder T2 nur leicht rötlich.
+TAXON= I. albicollis haemorrhoicus KRIE.
+33 (32)
+Halsrand nicht weiß, höchstens rot. TiIII rot-schwarz. Nur 31Gg. [Bürste als vorhanden angenommen]
+TAXON= I. decurtatus WESMAEL
+34 (1)
+Breiteste Gg ca. 2,5 mal so breit wie lang. (34-43 Gg.)
+35 (36)
+Gesicht, Wange und Mesonotum (dieses überwiegend) rot. 1. Gg kürzer als bei albicollis (1,35). Halsrand ganz weiß, von rot umgeben. [Strukturell genau wie albicollis.]
+TAXON= I. zoologicus sp. n
+36 (35)
+Gesicht nicht ganz rot, Mesonotum schwarz.
+37 (40)
+T2-3 ganz rot. (Nur T6-7 mit weißem Fleck.)
+38 (39)
+37-42 Gg. Vorletztes Gg stark quer (0,53). Größere Art (12,9-15,5). Halsrand rein weiß. (TiIII manchmal mit etwas Gelb. Außenseite des FIII im ventralen 1/4 oft weitläufig punktiert. TsIII überwiegend dunkel. TiIII im apikalen 1/4 schwarz. CoIII mit Bürste oder ungleichmäßig punktiert.)
+TAXON= I. albicollis WESMAEL
+39(38)
+34 Gg. Vorletztes Gg wenig quer (0,83). Kleinere Art (10,5). [TiIII ohne Gelb. Außenseite des FIII in der ventralen Hälfte weitläufig punktiert. TsIII ganz hell. TiIII apikal nur sehr schmal (1/15) schwarz. CoIII mit wenig deutlicher Bürste.]
+TAXON= /. grandicornis THOMSON
+40 (37)
+T2-3 höchstens zum Teil rot. T5 mit kleinem Fleck. CoIII mit Bürste, aber relativ undeutlich. Außenseite des FIII in der ventralen Hälfte weitläufig punktiert. TsIII fast ganz dunkel. 38 Gg. Körpergröße um 13,6.
+TAXON= I. computatorius MÜLLER

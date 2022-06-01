@@ -1,0 +1,30 @@
+TYPE= key
+
+ID= Syrphophilus
+
+TITLE= Key to species
+
+1
+Sternaulus very strongly impressed on anterior half of mesopleuron (Fig. 25A), usually with transverse carinulae in the impression. Metasoma marked with orange at least on hind margins of tergites 2 and 3. Tergites 1–3 usually distinctly punctate on a smooth and shining background, more rugose in males.
+TAXON= Syrphophilus bizonarius (Gravenhorst)
+-
+Sternaulus visible but never as strongly impressed, without transverse carinulae (Fig. 25B). Metasoma black with yellow or sometimes with orange markings.Tergites usually more rugose and coriaceous and matt, only rarely smooth and strongly punctate (only in Syrphophilus stibarus Momoi).
+2
+2
+Antenna with at least 19 flagellomeres in both sexes. Metasoma in females entirely black or with yellow spots apico-laterally on tergites 2 to 3 or 4, in males black with yellow apical bands on tergites 1 or 2 to 4 or 5. Femora usually entirely orange, male face usually entirely yellow, and scutellum at least marked with a yellow apical spot.
+TAXON= Syrphophilus tricinctorius (Thunberg)
+-
+Antenna with 16–19 flagellomeres. Metasoma in both sexes entirely black or with orange or yellow hind margins. Femora often marked with black below, male face often with yellow inner orbits and a central yellow spot, scutellum with or without yellow markings.
+3
+3
+Mesopleuron, mesosternum and scutellum mainly orange, metasoma black or with diffuse dark red coloration. Coxae, trochanters and legs entirely orange.
+TAXON= Syrphophilus asperatus Dasch
+-
+Mesosoma black, scutellum black or yellow-marked. Coxae black or yellow, trochanters yellow.
+4
+4
+Mesopleuron, mesoscutum and tergites 1 to 3 smooth and shining and strongly punctate.
+TAXON= Syrphophilus stibarus Momoi
+-
+Mesopleuron impunctate but with weakly coriaceous areas; mesoscutum with smooth and indistinctly punctate areas laterally but coriaceous towards middle and along the lines extending the notauli; tergites strongly coriaceous and matt.
+TAXON= Syrphophilus scabriculus (Holmgren)

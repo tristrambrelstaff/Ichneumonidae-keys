@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Coelichneumon-females
-
-TITLE= Bestimmungsschlüssel der westpaläarktischen Arten der Gattung Coelichneumon THOMSON - Females

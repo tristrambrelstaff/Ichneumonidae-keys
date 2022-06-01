@@ -1,0 +1,87 @@
+TYPE= Key
+
+ID= Ichneumon-females
+
+TITLE= Bestimmungsschlüssel für die Weibchen
+
+NOTE= Der Bestimmungsschlüssel enthält alle aus der Palaearktis untersuchten Arten. Es sind ausschließlich Taxa berücksichtigt, von denen Material untersucht werden konnte. Das Arteninventar der Westpalaearktis kann dabei als weitgehend vollständig betrachtet werden. Ostpalaearktische Arten sind nur berücksichtigt, wenn sie von HEINRICH oder ROMAN erstmals beschrieben wurden oder sich Material in der Zoologischen Staar«aininliing München befindet. Einige nicht klar einer Artengruppe zuzuordnende Arten werden dabei an verschiedenen Stellen erwähnt, bei der Artengruppe, der sie formal nicht untergeordnet wurden, in Kleindruck. Bei Merkmalen, die nicht für alle Arten eine klare Zuordnung erlauben, empfiehlt es sich, beide Altenativen zu verfolgen. Das gut insbesondere fur die Proportionen des vorletzten Geißelgliedes und die Bürste der CoIII. Die Unterarten sind nur teilweise berücksichtigt. (Die Proportionen der Geißelglieder, des FIII oder der Area superomedia sind, wenn nicht abweichend vermerkt, immer als Verhältnis von Länge zu Breite angegeben.)
+
+1 (4)
+Abdomen mit Farbbändern: Alle Tergite apikal gelb, oder T6 mit weißem Band bei gleichzeitig schwarzem T7. (Scutellum gelb).
+2 (3)
+Alle Tergite apikal gelb. CoIII dorsal mit gelbem Fleck. [Unterer Mandibelzahn sehr kurz. CoIII unserseits mit ungleichmäßiger Punktierung. Scutellum gelb. Vorletztes Gg quadratisch bis quer, das breiteste Gg 1,8-2,1 (Breite:Länge). 36-44 Gg. Gastrocoelen schmaler als der Zwischenraum.]
+TAXON= Gruppe AI
+3 (2)
+T6 mit einem weißen transversalen Band, gleichzeitig T7 schwarz. (CoIII ungleichmäßig punktiert, oder sogar mit Bürste. CoIII ganz schwarz. Vorletztes Gg1. stark quer. Breitestes Gg1. 1,6-2,1 (Breite:Länge). Geißel mit 33-39 Gliedern.)
+TAXON= Gruppe A2
+4. (1)
+Abdomen ohne solche regelmäßigen Farbbänder und T6 nicht alleine weiß gezeichnet. (Höchstens T2-3 mit Bändern). Wenn T6 weiß gefleckt ist, dann immer auch T7. Oft aber ganze Tergite gelb oder rot gefärbt.
+5 (6)
+CoIII dorsal gelb gezeichnet oder Propodeum mit Zahnen (wenn undeutlich, dann die hintere Querleiste der Areae dentiparae mit einem Knick). Große Arten, 41-46 Gg. (Geißel borstenförmig, d.h. vorletztes Gg quadratisch oder verlängert. Immer ohne Bürste.)
+Taxon= Gruppe B
+6 (5)
+CoIII schwarz und Propodeum ohne Zähne.
+7 (10)
+Vorletztes Gg quadratisch oder verlängert, selten etwas quer.(Antenne borstenförmig. CoIII nie mit Sonderbildungen. Wenn Gastrocoelen breiter als der Raum zwischen ihnen, dann sind sie relativ lang und ihr Hinterrand ist gerade, d.h. orthogonal auf der Körperlängsachse stehend.)
+8 (9)
+Gastrocoelen wenigstens so breit wie der Raum zwischen ihnen, meist deutlich breiter, (selten schmaler, dann aber T5-7 mit weißem Fleck oder Mandibelzähne gleichlang bzw. Mandibel nach der Spitze hin nicht stark verschmälert.) Gastrocoelen lang und tief, ihr Hinterrand gerade, d.h orthogonal zur Körperlängsachse stehend.
+TAXON= Gruppe C
+9 (8)
+Gastrocoelen schmaler als der Raum dazwischen. (Wenn doch etwas breiter, dann deren Hinterrand schräg und Gastrocoelen in der Mitte des 2. Tergits kurz oder flach.)
+TAXON= Gruppe D
+10 (7)
+Vorletztes Gg (von ventral gesehen) quer. [Antenne fadenförmig. CoIII ventral oft mit Sonderbildungen: mit Bürste (manchmal einen kleinen Höcker vortäuschend), Leiste, oder sehr weitläufig punktiert. In diesen Fällen das vorletzte Gg manchmal quadratisch. CoIII meist wenigstens ungleichmäßig punktiert, d.h. ventral innen dichter als außen. Gastrocoelen oft breiter als der Zwischenraum, Hinterrand derselben immer schräg.]
+11 (32)
+Gastrocoelen nicht breiter als der Raum zwischen ihnen.
+12 (19)
+CoIII mit Bürste, Leiste, "Höcker", oder auffallend weitläufiger Punktierung auf der Ventralseite.
+13 (14)
+CoIII auf der Ventralseite mit einer auf ein kleines Areal beschränkten Bürste, die einen Höcker vortäuscht. [T6-7 gelb gefleckt oder auf dem 5. Tergit ein nur kleiner Fleck (oder die Flecken sehr stark quer). Scutellum gelb. Vorletztes Gg1. schwach bis stark quer. Breitestes Gg1. 1,5-2,2. Geißel mit 36-44 Gliedern. Gastrocoelen ca. so breit wie der Zwischenraum, mäßig bis sehr tief. TsIII zu 3/4 (oder mehr) schwarz.]
+TAXON= Gruppe El
+14 (13)
+CoIII ohne höckerartige Bürste auf der Ventralseite; Bürste, wenn vorhanden, größer.
+15 (16)
+CoIII ventral mit Bürste.
+TAXON= Gruppe E2
+16 (15)
+CoIII ohne Bürste, (mit Leiste oder weitläufig punktiert).
+17 (18)
+CoIII ventral auffallend weitläufig punktiert. (Breitestes Gg oft ca. 2,3 mal so breit wie lang. 32-43 Gg).
+TAXON= Gruppe E3
+18 (17)
+CoIII an der Inenseite ventral mit einer Leiste oder wenigstens einer gewinkelten Kante. (T5-7 fast immer mit großen weißen Flecken. 36-38 Gg).
+TAXON= Gruppe E4
+19 (12)
+CoIII ventral ohne Bürste oder Leiste und nicht auffallend weitläufig punktiert. Oft aber an Stelle der Bürste dichter punktiert als daneben.
+20 (21)
+Abdomen außer den terminalen Flecken schwarz. (37-43 Gg)
+TAXON= Gruppe F
+21 (20)
+Abdomen mit roten oder gelben Tergiten.
+22 (31)
+Scutellum gelb oder wenigstens 30Gg. (Scutellum öfter rot oder schwarz bei Arten mit rot gezeichne-tem Mesonotum)
+23 (24)
+TiIII in der Mitte mit reinem Gelb.
+TAXON= Gruppe Gl
+24 (23)
+TiIII in der Mitte ohne reines Gelb. (Selten mit Spuren davon, z.B. bei albiger.)
+25 (28)
+T5-7 mit großen Terminalflecken oder apikalen Bändern (und Geißel mit wenigstens 32 Gliedern.)
+TAXON= Gruppe G2
+26 (27)
+Terminalflecken nicht auffallend breit.
+TAXON= Gruppe G21
+27 (26)
+Terminalflecken auffallend breit. Gesicht meist reichlich rot gezeichnet. (Kleine Arten.)
+Gruppe G22
+28 (25)
+T5 höchstens mit einem deutlich kleineren Fleck (oder Geißel mit weniger als 31 Gliedern.)
+30 (29)
+Geißel mit wenigstens 27 Gliedern.
+TAXON= Gruppe G4
+31 (22)
+Scutellum schwarz. (T5 ohne weißen Fleck. 22-29 Gg).
+TAXON= Gruppe H
+32 (11)
+Gastrocoelen deutlich breiter als der Raum dazwischen, schräg und tief; der Abstand der Thyndien vom Vorderrand des Tergits in der Mitte gering. (Nur T6-7 oder nur T7 mit weißen Flecken).
+TAXON= Gruppe I

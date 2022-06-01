@@ -1,6 +1,0 @@
-2
-Malar space with a deep subocular groove (Fig. 21A). Scutellum yellow-marked.
-TAXON= Promethes bridgmani Fitton
--
-Malar space without subocular groove (Fig. 21B). Scutellum black.
-TAXON= Promethes sulcator (Gravenhorst)

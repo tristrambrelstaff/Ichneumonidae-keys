@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Enizemum
-
-TITLE= Key to species

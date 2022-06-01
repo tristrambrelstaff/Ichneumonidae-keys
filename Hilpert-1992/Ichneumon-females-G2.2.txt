@@ -1,0 +1,18 @@
+TYPE= key
+
+ID= Ichneumon-females-G2.2
+
+TITLE= Gruppe G2.2
+
+1 (4)
+Hypopygium nicht verlängert und Spitze des Abdomens depress. Schläfen stark verschmälert.
+2 (3)
+TiIII meist ganz rot. Größere Art (10,4). 1. Gg länger (1,8). Geißel vor dem Ring ganz rot. FIII apikal und basal etwas rot, seltener ganz schwarz, schlanker (3,3). T3 basal nicht schwarz. Terminalfleck auf T5 meist sehr breit.
+TAXON= I. curtulus KRIECHBAUMER
+3 (2)
+TiIII apikal (1/6) schwarz. Kleinere Art (f,9). 1. Gg kürzer (1,1-1,6). Geißel vor dem Ring nicht ganz rot. FIII ganz schwarz, dicker (2,6). T3
+basal meist schwarz gezeichnet. Terminalfleck auf T5 oft schmal, manchmal ganz fehlend.
+TAXON= I. caedator GRAVENHORST
+4 (1)
+Hypopygium etwas verlängert. Gaster an der Spitze kompress. Geißel ohne deutlichen Ring. Clypeus etwas versenkt. Mandibeln dick. 1. Gg kürzer als bei den anderen Arten, ca. 1,2. FIII sehr dick. Schläfen unmittelbar hinter den Augen nicht oder kaum konvergierend.
+TAXON= I. intricator WESMAEL

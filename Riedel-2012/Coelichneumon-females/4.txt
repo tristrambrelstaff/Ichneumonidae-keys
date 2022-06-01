@@ -1,6 +1,0 @@
-4
-Coxa III mit deutlicher Scopa. Wange unten zerstreut punktiert, Abstand der Punkte etwa so groß wie ihr Durchmesser. Spitze des Scutellums (mit wenigen Ausnahmen), Collare, Hinterecke oder Oberrand des Pronotums und Subalarleiste weißlich. Fühlergeißel mit 34-39 Gliedern, basal schlank, Geißel-Augen-Index 0,55-0,60, breiteste Geißelglieder etwa 2,0-2,5x so breit wie lang. 10-16 mm .
-TAXON= C. desinatorius (THUNBERG 1824)
--
-Coxa III ohne Scopa. Wange unten sehr zerstreut punktiert, Abstand der Punkte deutlich größer als ihr Durchmesser. Mesosoma ganz schwarz. Fühlergeißel mit 40-43 Gliedern, Geißel-Augen-Index 0,52-0,55, breiteste Geißelglieder etwa 1,4-1,7x so breit wie lang. 12-18 mm.
-TAXON= C. dubius (TISCHBEIN 1876)

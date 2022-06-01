@@ -1,0 +1,249 @@
+TYPE= key
+
+ID= Homotropus
+
+TITLE= Key to species
+
+NOTE= [Review (by Malcolm Storey) from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a> (<a href="https://web.archive.org/web/20200112160139/https://www.bioinfo.org.uk/html/b160134.htm">archived</a>): A nice key to use, although apparently the Homotrophus keys doesn’t work very well.]
+
+1
+Areolet closed, although vein 3rs-m often unpigmented (Fig. 12D), at least with some indication of vein 3rs-m.
+2
+-
+Areolet open, without a trace of vein 3rs-m (Fig. 12C).
+37
+2
+Female. Antenna with ventral surface of flagellomeres 10 to apex covered by short, thick bristles, devoid of multiporous plate sensilla which are present only on lateral and dorsal sides of the flagellomeres (Fig. 5).
+3
+-
+Female or male. Antenna with ventral surface of all flagellomeres similar to dorsal surface, with multiporous plate sensilla evenly distributed.
+4
+3
+Mesopleuron and mesosternum black, coriaceous over entire surface, punctures almost disappearing against the finely rugose background. Scutellum with a small apical spot and sometimes with two yellow lateral stripes. Fore coxa dark, at least basally.
+TAXON= Homotropus dimidiatus (Schrank) ♀
+-
+Mesopleuron and mesosternum extensively orange-marked, with dense and distinct punctures over entire surface, background coriaceous only in part. Scutellum with two yellow lateral stripes and a small yellow blotch at hind margin, medially usually orange. Fore coxa usually entirely orange or yellow.
+TAXON= Homotropus haemorrhoidalis Szépligeti ♀
+4
+Hind tibia of female whitish with dark apex and often with a subbasal dark spot (Fig. 14D); in males similar or white ventrally and brown dorsally; AND metasoma black, in males usually with yellow markings, never marked with orange.
+5
+-
+Hind tibia in both sexes mainly yellow or orange, never white, apex often dark, or entire tibia mainly dark. If hind tibia with some whitish areas, then metasoma broadly marked with orange.
+24
+5
+Female (face mainly black, antenna without tyloids).
+6
+-
+Male (face mainly yellow, antenna with tyloids).
+12
+6
+Metasoma strongly compressed from fourth segment (Fig. 20A). Scutellum black. Coxae black or orange.
+TAXON= Homotropus melanogaster (Holmgren) ♀
+-
+Metasoma less compressed or gradually tapered (Fig. 20B). Scutellum often marked with yellow. Coxae usually orange.
+7
+7
+Antenna all bright orange, not much darker than legs. Propodeum with rugae and sometimes an indication of petiolar carina (Fig. 20C). Face medially, pronotum and mesopleuron strongly punctate. Scutellum with a whitish hind margin.
+TAXON= Homotropus strigator (Fabricius) ♀
+-
+Antenna brown or black at least on dorsal side, distinctly darker than legs. Propodeum with evenly fine sculpture, without indication of petiolar carinae (Fig. 20D). Punctures of face, pronotum and mesopleuron often faint or almost disappearing against the coriaceous background. Scutellum often with sides and hind margin light marked, light colour often yellow.
+8
+8
+Scutellum black, mesoscutum with or without small yellow shoulder marks. Clypeus very strongly excised (Fig. 20E). Larger species, fore wing length 4.5–6.2 mm. Mesopleuron strongly coriaceous in lower half, sometimes strongly punctate, especially along anterior margin.
+TAXON= Homotropus collinus (Stelfox) ♀
+-
+Scutellum marked with yellow, mesoscutum with yellow shoulder marks. Clypeus usually less strongly excised (cf. Fig. 20F). Larger or smaller species. Mesopleuron various, often mainly smooth and shining.
+9
+9
+Metasoma elongate and middle segments parallel-sided, first tergite short and narrow, second tergite at least 1.2 times length of first tergite (Fig. 20G). Fore and mid coxae yellow. Yellow central face patch confluent with yellow clypeus.
+TAXON= Homotropus longiventris Thomson ♀
+-
+Metasoma not elongate, first tergite larger, second tergite usually shorter but at most 1.1 times length of first tergite (Fig. 20H). Mid coxa often orange. Yellow central face patch may or may not be confluent with yellow clypeus.
+10
+10
+Mesoscutum and lower half of mesopleuron strongly coriaceous and matt, with punctures less obvious than background sculpture. Often metapleuron and also mesopleuron beneath with dark orange coloration.
+TAXON= Homotropus frontorius (Thunberg) ♀
+-
+Mesoscutum and mesopleuron with fine sculpture but partially also smooth and shining, with punctures more obvious than background sculpture. Metapleuron and mesopleuron entirely black.
+11
+11
+Larger species, fore wing length 5.5–7 mm. Yellow central face patch often confluent with yellow clypeus. Mid coxa often yellow. Second tergite 0.65–0.7 times as long as wide apically. Pterostigma uniformly brown, of the same colour as the surrounding veins.
+TAXON= Homotropus megaspis Thomson ♀
+-
+Smaller species, fore wing length 3.8–5.5 mm. Yellow central face patch separated from yellow or orange clypeus by a dark bar. Mid coxa orange. Second tergite 0.7–0.8 times longer than wide apically (Fig. 20H). Pterostigma light brown medially, with darker margins and surrounding veins.
+TAXON= Homotropus pictus (Gravenhorst) ♀
+12
+Mesopleuron with conspicuous punctures over most of its surface, usually smooth between the punctures, at most with restricted coriaceous areas (pictus Holmgren can be traced through both halves of the couplet).
+13
+-
+Mesopleuron with a strongly coriaceous background, at least on lower part, with punctures indistinct and restricted to anterior margin or even absent.
+17
+13
+Mesopleuron and mesosternum and usually also metapleuron with orange markings.
+TAXON= Homotropus haemorrhoidalis Szépligeti ♂
+-
+Mesopleuron and mesosternum black or yellow, without orange markings.
+14
+14
+Propodeum with transverse carina present centrally, at least indicated by strong rugae.
+15
+-
+Propodeum without indication of transverse carina (cf. Fig. 20D).
+16
+15
+Face often with two black stripes below antennal sockets. First tergite with median dorsal carinae at most present basally. Antenna dark on dorsal half.
+TAXON= Homotropus nigritarsus (Gravenhorst) ♂
+-
+Face entirely yellow. First metasomal tergite with median dorsal carinae surpassing middle of the tergite. Antenna orange-brown dorsally.
+TAXON= Homotropus strigator (Fabricius) ♂
+16
+Larger species, fore wing length 4.5–5.5 mm. Shoulder marks often large, with inner hind corners extending over half of the mesoscutum. Metasoma with large yellow markings basally on third and often fourth tergites. Mesopleuron extensively marked with yellow.
+TAXON= Homotropus megaspis Thomson ♂
+-
+Smaller species, fore wing length 3.9–4.5 mm. Shoulder marks usually small, inner hind corners at most weakly extended. Yellow markings on metasoma and mesopleuron often reduced, often restricted to fourth tergite and a narrow yellow line on mesopleuron.
+TAXON= Homotropus pictus (Gravenhorst) ♂
+17
+Hind coxa mainly black, fore and mid coxae marked with black basally. Mesopleuron black, yellow markings absent or restricted to epicnemium. Scutellum and clypeus basally usually black.
+18
+-
+Hind coxa black or orange, fore and mid coxae entirely yellow. Mesopleuron usually with a longitudinal yellow stripe, sometimes mainly yellow. Scutellum often marked with yellow, clypeus usually entirely yellow.
+19
+19
+Mesopleuron entirely black, even in front of epicnemial carina. Scutellum black. Hind tibia with subbasal mark absent. Metasoma rather stout, first tergite at most about 1.3 times longer than broad.
+TAXON= Homotropus collinus (Stelfox) ♂
+-
+Mesopleuron marked with yellow at least in front of epicnemial carina, often also with yellow markings on main part. Scutellum usually marked with yellow laterally and apically. Hind tibia often with subbasal mark present. Metasoma stout to more elongate.
+20
+20
+Mesoscutum with few punctures on a coriaceous background, punctures often only distinct along anterior margin. Mesopleuron with coriaceous sculpture extending onto upper half. Hind tibia with banding pattern often indistinct, outer surface often brown.
+21
+-
+Mesoscutum densely punctate on a mostly smooth background, at most with restricted coriaceous areas. Mesopleuron often mainly smooth on upper half. Hind tibia often with banding pattern distinct, with white band extending also on outer surface.
+23
+21
+Mesoscutum with punctures disappearing against the coriaceous background. Metasoma often with background colour of tergites 2 and 3 rather brownish to reddish than black. Most of first tergite and second tergites basally often with longitudinal wrinkles. Scutellum often either entirely yellow or with an apical yellow spot.
+TAXON= Homotropus pallipes (Grav.) (part) ♂
+-
+Mesoscutum with punctures distinct against the coriaceous background. Metasoma with background colour black, with yellow markings. Scutellum often yellow laterally and apically. First and second tergites at most with very restricted longitudinal wrinkles.
+22
+22
+Hind tibia with banding pattern distinct, with white band extending to dorsal part. Yellow colouration of mesopleuron and hind coxa often less expanded.
+TAXON= Homotropus frontorius (Thunberg) ♂
+-
+Hind tibia brown dorsally, banding pattern thus only distinct ventrally. Mesosternum, lower half of mesopleuron, and most of hind coxa often yellow.
+TAXON= Homotropus dimidiatus (Schrank) ♂
+23
+Metasoma elongate and parallel-sided, first tergite small, narrow, second tergite 1.0–1.2 times longer than apically wide, at least 1.15 times length of first tergite (cf. Fig. 20G). Mesopleuron with both punctures and coriaceous areas restricted to lower half, with large smooth areas.
+TAXON= Homotropus longiventris Thomson ♂
+-
+Metasoma less elongate, first tergite larger, second tergite 0.7–0.85 times longer wide, 0.9–1.05 times as long as first tergite (cf. Fig. 20H). Mesopleuron with coriaceous areas and punctures usually extended to upper half.
+TAXON= Homotropus pictus (Gravenhorst) ♂
+
+24
+Metasoma marked with orange at least medially, in females usually on most of tergites 2 and 3, in males at least with some orange apically on these tergites.
+25
+-
+Metasoma entirely black or with yellow markings.
+31
+25
+Mesosoma and propodeum mostly orange, dark coloration restricted to sutures and front of tergites 1–3. Face mainly yellow also in females (only known from Madeira).
+TAXON= Homotropus coloratus Hellén
+-
+Mesosoma and propodeum black with yellow markings. Female face entirely black or with a yellow central spot, male face yellow.
+26
+26
+Mesopleuron strongly and densely punctate also on upper half, in males at least on lower half. Female with all coxae mainly black.
+27
+-
+Mesopleuron with punctures indistinct, at most present on lower half. In females, fore and mid coxae mainly yellow, hind coxa black or orange.
+28
+27
+Hind tibia orange with apex dark. Mesopleuron extensively coriaceous between the dense punctures. Male with tyloids narrow-linear (cf. Fig. 13H).
+TAXON= Homotropus elegans (Gravenhorst)
+-
+Hind tibia mainly white, with basal and apical dark bands. Mesopleuron mostly smooth and shining between the punctures. Male with tyloids broadly oval (Fig. 20I).
+TAXON= Homotropus venustus Dasch
+28
+Petiolar area of propodeum higher than broad, enclosed by usually several parallel carinae, although they are sometimes interrupted, areas between carinae coriaceous (Fig. 14L). Male with dark pits beside the narrow tyloids (Fig. 14K). Female mesopleuron usually with a yellow longitudinal stripe.
+TAXON= cf. Fossatyloides gracilentus (Holmgren)
+-
+Petiolar area of propodeum, if present, as broad as high but often with carinae largely reduced; if almost fully enclosed by carinae, then area between carinae rugose, with some rugae almost as strong as carinae. Male without pits beside the narrow tyloids (cf. Fig. 13H). Female mesopleuron usually entirely black.
+29
+29
+Mesoscutum entirely polished, shining over entire surface, only with some sculpture along anterior margin. Male with tyloids on flagellomeres 8 to 11.
+TAXON= Homotropus vitreus Dasch
+-
+Mesoscutum with sculpture or punctures extending at least to middle, often coriaceous and matt. Male with tyloids on flagellomeres 7 to 14/15.
+30
+30
+Scutellum often with a large yellow spot. First tergite 1.3–1.6 times longer than wide in females, 1.4–1.7 in males. Female metasoma gradually tapering, not strongly compressed. Hind coxa of female black or orange, but hind trochanter always with dark marks. Spiracle of third tergite dorsal, above lateral fold. Mesoscutum and mesopleuron extensively coriaceous and matt.
+TAXON= Homotropus pallipes (Gravenhorst)
+-
+Scutellum at most with a small yellow spot apically, usually black. First tergite 1.0–1.4 times longer than wide in females, 1.2–1.5 in males. Female metasoma more strongly compressed apically. Hind trochanter the same colour as coxa, or paler. Spiracle of third tergite on or behind lateral fold. Mesoscutum partly with smooth and shining areas, mesopleuron with coriaceous areas restricted to lower half.
+TAXON= Homotropus signatus (Gravenhorst)
+31
+First tergite with median dorsal carinae distinct, clearly surpassing middle of the tergite. Hind coxa smooth and strongly punctate. Mesopleuron smooth and very strongly and densely punctate. Antenna in females usually bright orange.
+32
+-
+First tergite with median dorsal carinae, if present, not reaching beyond middle of the tergite. Hind coxa smooth or finely coriaceous, at most weakly punctate. Antenna in females usually black or brown but rarely orange.
+33
+32
+Antenna stout, with 18–20 orange flagellomeres, male with (rather inconspicuous) tyloids on flagellomeres 2 to 12. Scutellum and mesoscutum usually entirely black, in males often with yellow shoulder marks. First tergite short, at most as long as wide in females.
+TAXON= Homotropus crassicornis Thomson
+-
+Antenna slenderer, with 22–24 brown flagellomeres, male with tyloids on flagellomeres 7 to 15. Scutellum marked with yellow, mesoscutum with yellow shoulder marks. First tergite always longer than wide.
+TAXON= Homotropus sundevalli (Holmgren)
+33
+Male. Propodeum carinate, at least with basal area indicated and petiolar area with distinct carina around half its border; areas between carinae rugose. Face with punctures more obvious than background sculpture, which is often weak. Tergites with hind margins extending slightly further back laterally than medially.
+TAXON= cf. Phthorima ♂
+-
+Male or female. Propodeum at most carinate on hind side, never with a distinct basal area; rugose at most on petiolar area, remainder finely coriaceous. Face strongly coriaceous and usually impunctate. Tergites with hind margins convex.
+34
+34
+Hind coxa orange, in males sometimes with yellow apex. Mesoscutum and mesopleuron finely coriaceous over entire surface.
+35
+-
+Hind coxa black, in males sometimes with yellow apex. Mesoscutum and mesopleuron various but often smooth and shining between the obvious punctures.
+36
+35
+Spiracle of third tergite dorsal, above lateral fold. Epicnemical carina complete (cf. Fig. 16A). Scutellum usually with a small apical yellow blotch.
+TAXON= Homotropus pectoralis (Provancher)
+-
+Spiracle of third tergite on or below lateral fold. Epicnemical carina medially interrupted behind fore coxae (Fig. 16B). Scutellum usually mainly yellow.
+TAXON= cf. Syrphoctonus tarsatorius (Panzer)
+36
+Femora ventrally marked with black. Hind tibia with a subbasal dark spot. Mesopleuron with punctures weak and inconspicuous, especially in males. Female with metasoma compressed from tergite 4 posteriorly. Male with face entirely yellow, and usually with two yellow spots basolaterally on tergites 3 and sometimes 4.
+TAXON= Homotropus nigrolineatus Strobl
+-
+Femora orange, without black markings. Hind tibia without a subbasal dark mark. Mesopleuron distinctly punctate also in males. Female with metasoma more gradually tapered. Male with face often with two vertical black stripes but sometimes entirely yellow, metasoma entirely black or dark brown.
+TAXON= Homotropus nigritarsus (Gravenhorst)
+37
+Scutellum with two yellow markings at basal corners.
+38
+-
+Scutellum usually black, rarely with a small apical yellow spot.
+40
+38
+Mesoscutum strongly coriaceous. Male with narrow tyloids (cf. Fig. 13H) on flagellomeres 2 to 10 or 11. Metasoma black, in males often with yellow markings. Femora not marked with black ventrally.
+TAXON= cf. Syrphoctonus fissorius (Gravenhorst)
+-
+Mesoscutum with sparse punctures on a smooth and shining background. Male with broad tyloids on flagellomeres 7 to 13 or 14 (Figs 13I and 20I). Metasoma often partly orange on tergites 2–4. Femora usually marked with black ventrally.
+39
+39
+Antenna with 21 flagellomeres, in males with broad, barlike tyloids (Figs 13I). First tergite at least 1.2 times longer than wide in females, at least 1.6 times in males.
+TAXON= Homotropus tauriscorum Strobl
+-
+Antenna with 17–19 flagellomeres, in males with broad, oval tyloids (Figs 20I). First tergite at most 1.1 times longer than wide in females, at most 1.3 times in males.
+TAXON= Homotropus venustus Dasch
+40
+Mesoscutum centrally entirely smooth and shining, with indistinct punctures restricted to its margins and anterior quarter. Propodeum and first tergite with spiracles enlarged. Female with hind margins of tergites 4 to 6 concave, extending further back laterally than medially. Female antenna with apical segments short and with long setae.
+TAXON= cf. Bioblapsis cultiformus (Davis)
+-
+Mesoscutum coriaceous or distinctly puncate. Propodeum and first tergite with spiracles not enlarged. Female with hind margins of tergites convex, extending at least as far back medially as laterally. Female antenna with apical segments often longerthan wide, without long setae.
+41
+41
+Mesopleuron strongly punctate over a smooth and shining background. Metasoma dorsoventrally depressed, black. Spiracle of third tergite distinctly above the strong lateral fold. Male with (rather inconspicuous) tyloids on flagellomeres 2 to 12.
+TAXON= Homotropus crassicornis Thomson
+-
+Mesopleuron with lower half irregularly coriaceous, with sparse and inconspicuous punctures. Metasoma compressed apically, usually orange-marked on tergites 2 and 3. Spiracle of third tergite below or behind lateral fold. Male with tyloids on flagellomeres 7/8 to 14/15.
+TAXON= Homotropus signatus (Gravenhorst)

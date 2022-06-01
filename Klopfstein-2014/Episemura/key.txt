@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Episemura
-
-TITLE= Key to species

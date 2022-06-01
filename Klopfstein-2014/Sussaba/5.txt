@@ -1,6 +1,0 @@
-5
-Mesoscutum centrally entirely smooth and mostly impunctate, at most with some very sparse, irregular punctures, and punctate anteriorly. Antenna with 14/15 flagellomeres. Metasoma compressed from third segment, broadest part is at apex of second tergite (Fig. 23A). Face conspicuously protruding between mandibles and lower margin of the eye.
-TAXON= Sussaba erigator ♀ (Fabricius)
--
-Mesoscutum punctate over entire surface. Antenna with 16 or rarely 15 flagellomeres. Metasoma conspicuously knife-like, compressed behind second segment, broadest part is at front half of second tergite (Fig. 23B). Face less protruding between mandibles and lower margin of the eye.
-TAXON= Sussaba roberti ♀ n.sp

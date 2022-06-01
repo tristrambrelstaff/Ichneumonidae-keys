@@ -1,6 +1,0 @@
-13
-All flagellomeres longer than wide (Fig. 5); hind femur red, rarely slightly darkened at apex; hind metatarsus whitish in the basal 0.3-0.5 (Fig. 14). Larger, body length 6-7 mm, flagellum with 29-32 segments.
-TAXON= C. latrator (Gravenhorst, 1829) ♀♂
--
-Preapical flagellomeres transverse (Fig. 8); hind femur red, often darkened at apex; hind metatarsus whitish in the basal 0.2 (Fig. 16). Smaller, body length 5.5-6 mm; flagellum with 27-29 segments.
-TAXON= C. flagellator spec. nov. ♀♂

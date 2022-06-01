@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Ichneumon-females-G3
-
-TITLE= Gruppe G3

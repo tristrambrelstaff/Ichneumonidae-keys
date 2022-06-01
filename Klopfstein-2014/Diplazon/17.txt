@@ -1,6 +1,0 @@
-17
-Larger species, fore wing length 5.0–7.0 mm. Tergites 2 and 3 both very strongly punctate both in front of and behind transverse impressions, smooth and shining between the punctures. Tergite 4 often with a transverse impression. Scutellum marked with white or ivory on most of its surface. Mesopleuron strongly punctate over most of its surface, with impunctate area around mesopleural fovea small, so that most of upper half of mesopleuron is punctate.
-TAXON= Diplazon tibiatorius (Thunberg)
--
-Smaller species, fore wing length 4.0–5.2 mm. Tergites 2 and 3 strongly punctate, but punctures often weak behind transverse impressions; especially tergite 2 often with some rugose to coriaceous sculpture. Transverse impressions absent on tergite 4 but usually with a change in sculpture instead. Scutellum marked with an ivory to yellow spot that usually only covers part of scutellum. Mesopleuron strongly punctate over lower half and along anterior margin, but with a large impunctate area around mesopleural fovea, so that more than half of upper half of mesopleuron is entirely smooth.
-TAXON= Diplazon parvus sp. nov.

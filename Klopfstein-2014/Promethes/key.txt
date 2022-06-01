@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Promethes
-
-TITLE= Key to species

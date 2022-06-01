@@ -1,0 +1,27 @@
+TYPE= key
+
+ID= Ichneumon-females-B
+
+TITLE= Gruppe B
+
+1 (2)
+FIII rot. Mittelsegment mit Zähnen bzw. apikale Querleiste des Mittelsegment mit je einem zusätzlichen Knick (wie bei primatorius). Abdomen schwarz, außer den terminalen Flecken auf Segment (4-5)-6-7. 41 Gg. TiIII nur sehr schmal geschwärzt (1/15). CoIII ganz schwarz.
+TAXON= I. quaesitorius LINNAEUS
+2 (1)
+FIII schwarz. CoIII gelb gezeichnet.
+3 (4)
+Mittelsegment mit Zähnen. Hintere Querleiste der Areae dentiparae mit einer zusätzlichen rechtwinkligen Ecke, die von der Seite gesehen als Zahn erscheint. Sehr große Art (22,3). 46 Gg. (T2-3 rot. T5-7 mit weißen Flecken. TiIII schwarz-gelb-schwarz. Tsui ganz schwarz.)
+TAXON= I. primatorius FORSTER
+4 (3)
+Mittelsegment ohne Zähne, ohne die zusätzliche Ecke der apikalen Querleiste des Mittelsegments. (Tergite oft mit Gelb).
+5 (6)
+Apikale Tergite ohne Flecken. TiIII schwarz-gelb-schwarz. 43-44 Gg.
+TAXON= I. vorax GEOFFROY
+6 (5)
+T(5)-6-7 mit weißen Flecken.
+7(8)
+TiIII rot-schwarz. Gelber Fleck auf der CoIII klein.
+TAXON= I. mttneri HEINRICH
+8 (7)
+TiIII fast ganz gelb. Gelber Fleck auf der CoIII sehr groß. Alle drei Coxae apikal breit gelb. Hypopygium verlängert.
+TAXON= I. pofyxanthus KRIECHBAUMER

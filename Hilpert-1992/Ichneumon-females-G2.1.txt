@@ -1,0 +1,31 @@
+TYPE= key
+
+ID= Ichneumon-females-G2.1
+
+TITLE= Gruppe G2.1
+
+1 (2)
+Mandibeln auffallend verdickt. Hypostomalleiste aufgebogen und verbreitert. [TiIII basal rot, apikal schwarz. Größere Arten (13,6-14,1).]
+TAXON= I. bucculentus WESMAEL
+NOTE= a) T2-3 ganz rot: Nominatform. b) T3 nur in der Mitte rot: I.
+bucculentus teberdensis HEINRICH
+2 (1)
+Mandibeln nicht verdickt. Hypostomalleiste normal. [TiIII ganz rot oder apikal schwarz. Kleinere Arten (10,4-11,5).]
+3 (4)
+Mesonotum fast ganz rot. T1-3 rot. Stirnränder bis hinter die Ocelles weiß. 39Gg. Breiteste Gg stark quer (0,49). TiIII im apikalen 1/6 verdunkelt.
+TAXON= I. karpatica HEINRICH
+
+4 (3)
+Mesonotum schwarz.
+5(6)
+Vorletztes Gg stark quer (0,53). 34-37 Gg. Area superomedia stark verlängert (27:19). Außenseite des FIII in den ventralen 2/5 weitläufig punktiert. FIII schlanker (33). TiIII schwarz-rot-schwarz.
+TAXON= I. suspiciosus WESMAEL
+NOTE= [Dunklere spanische Unterart.]
+6(5)
+Vorletztes Gg schwächer quer (ca. 0,81). Außenseite des FIII gleichmäßig punktiert.
+7 (8)
+33-35 Gg. Kleinere Art. Area superomedia wenig verlängert (19,0:17,5). FIII dicker (2,2). TiIII ganz rot.
+TAXON= I. curtulus KR1ECHBAUMER
+8 (7)
+37-40Gg. Größere Art. FIII schlanker (3,5). TiIII apikal schwarz. Auch T4 mit einem (kleineren) Fleck. Flügel braun getrübt. Körperlänge um 12,4.
+TAXON= I. vafer vafer TISCHBEIN

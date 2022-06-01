@@ -1,0 +1,43 @@
+TYPE= key
+
+ID= Ichneumon-females-E3
+
+TITLE= Gruppe E3
+
+1 (4)
+T3 basal schwarz. (Geissel basal rot, stark verbreitert. CoIII ventral kaum weitläufig punktiert, zwischen den Punkten aber stark glänzend.)
+2 (3)
+Area superomedia verlängert. T5 schwarz. T2-3 rot, gelb und schwarz gezeichnet. (35 Gg. TiIII im apikalen 1/8 schwarz. Körperlänge 10,7).
+TAXON= I. confundor HEINRICH
+3 (2)
+Area superomedia quer. T5 mit großem weißem Fleck. T2-3 rot, nur T3 basal schwarz. 39Gg. (FIII 3,1). TiIII ganz rot (in der Mitte aber gelblich). Körperlänge 11,6.
+TAXON= I. pseudocaedator HEINRICH
+4 (1)
+T2-3 fast immer ganz rot, selten mit etwas gelb, nie nur basal schwarz. Manchmal aber T3 oder T2-3 ganz schwarz.
+5 (6)
+FIII ganz rot. [Vorletztes Gg stark quer (0,54). Außenseite des FIII in der unteren Hälfte weitläufig punktiert. TiIII und TsIII ganz rot. Körperlänge 12,4]. Tarsi etwas verbreitert.
+TAXON= I. haeselbarthi HEINRICH
+6 (5)
+FIII schwarz (oder kleinere Arten).
+7 (8)
+TiIII (fast) ganz rot, manchmal mit gelber Färbung in der Mitte. (TsIII ganz rot. 32-33 Gg. T2-3 manchmal mit etwas gelb, meist gelbrot. Wangen, Ecken des Clypeus und Ecken des Postpetiolus oft gelbrot. Geißelbasis rot. Antenne nicht auffallend verbreitert. Selten das Mesonotum teilweise rot.)
+TAXON= I. mordax KRIECHBAUMER
+8 (7)
+TiIII apikal zumindest schmal deutlich schwarz und Tergite ganz ohne gelbe Färbung.
+9 (10)
+TiIII in der Mine ganz gelb. Nur 29 Gg.
+TAXON= I. sp. N
+10 (9)
+TiIII ohne reine gelbe Färbung in der Mitte. 35-38 Gg.
+11 (12)
+Sehr große Art. 45 Gg. Außen- und Innenseite der TiHI sehr stark differenziert (d. h. die Grenze zwischen der äußeren, wenig punktierten Fläche und der inneren ist auffallend scharf). FIII in den unteren 2/3 weitläufig punktiert. CoIII meist deutlich, manchmal aber nur wenig weitläufig punktiert. (TIII manchmal fast ganz schwarz.)
+TAXON= I. hypolius THOMSON
+12 (11)
+Kleinere Arten mit weniger Fühlergliedern.
+13 (14)
+T2-3 schwarz (höchstens leicht rötlich). Kopf mit reichlich roter Färbung: Wangen, obere Orbiten bis zu den lateralen Ocelli, Antenne basal unterseits (oben schwarz). [CoIII ventral auffallend weitläufig punktiert. FIII zumindest im unteren 1/4 weitläufig punktiert. Außenseite des FIII relativ dick. (3 mal so lang wie breit.). (35-37 Gg.). Vorletztes Gg. deutlich quer.]
+TAXON = I. helenae sp. n.
+14 (13)
+T2-3 rot. Geißel sehr stark verbreitert (Breiteste Gg ca. 0,42) 34-38Gg.
+TAXON= I. alius TISCHBEIN
+

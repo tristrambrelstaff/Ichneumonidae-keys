@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Ichneumon-females-G4
-
-TITLE= Gruppe G4

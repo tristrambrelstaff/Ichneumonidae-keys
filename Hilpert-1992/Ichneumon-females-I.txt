@@ -1,0 +1,143 @@
+TYPE= key
+
+ID= Ichneumon-females-I
+
+TITLE= Gruppe I
+
+1 (22)
+Scutellum gelb. (29-36 Gg.)
+2 (13)
+Petiolus rot.
+3 (4)
+FIII schwarz. Größere Art (9,9). [30-35 Gg. T6-7 mit weißem Fleck. Area superomedia quer (17:23). {Dies auch als Unterschied zu dilleri}. TiIII apikal zu 1/6 schwarz.]
+TAXON= I. sulcatoriops nom. nov.
+4 (3)
+FIII überwiegend rot oder kleinere Arten (7,6-8,2). (29-31 Gg.)
+5 (10)
+Mesonotum schwarz. Scutellum gelb. nur T1-3 rot. T6-7 mit weißem Fleck. TiIII apikal zu 1/8 dunkel.
+6 (9)
+Schläfen stark konvergierend.
+7 (8)
+Geißel basal rot. Antennenring unauffällig.
+TAXON= . multipictus GRAVENHORST
+8 (7)
+Geißel basal schwarz. Manchmal der Antennenring nur auf Gg 9-11 und nur dorsal.
+TAXON= I. sp. X
+9(6)
+Schläfen schwach konvergierend, konvex. Geißel basal rot, vor dem Ring schwarz. FIII überwiegend bis ganz rot.
+TAXON= I. micropnygus THOMSON
+10 (5)
+Mesonotum rot. Scutellum rotgelb bis gelb.
+11 (12)
+Apikale Tergite ohne deutliche Flecken. TiIII ganz rot. Gg1 schlanker (1,72). Schläfen viel stärker konvergierend. T1-4 (T4 nicht ganz) rot.
+TAXON= I. aquilonius Perkins
+NOTE= [Hierher kann auch I. rufidorsatus führen, wenn die Gastrocoelen als sehr breit angenommen werden.]
+12 (11)
+Terminalflecken deutlich. Gg1 dicker (1,59). Schläfen viel schwächer konvergierend. Nur T1-3 rot. (FIII ganz rot).
+TAXON= I. ventus sp. n.
+13 (2)
+Petiolus schwarz.
+14 (15)
+Tarsi deutlich verbreitert. T5 mit kleinem weißem Fleck. 31-34 Gg. T2-3 rot, manchmal auch T4. Area superomedia quadratisch. CoIII ventral differenziert. TiIII apikal zu 1/4, Tsm zu 3/4 dunkel. CoIII am ventralen Hinterrand mit einer erhabenen Kante, davor konkav und dicht behaart, fast mit einer Bürste (wie bei memorator) [Dieses Merkmal ist recht deutlich].
+TAXON= I. alpinator HINZ
+15 (14)
+Tarsi nicht verbreitert.
+16 (17)
+34-36 Gg. T2-4 rot. Auf T5 meist ein kurzer transversaler weißer Fleck. [Area superomedia etwas quer. TiIII apikal schwarz (1/10) Größere Art (12,2)]
+TAXON= I. parengensis KISS
+17 (16)
+30-33 Gg.
+18 (21)
+T6-7 mit Terminalflecken.
+19 (20)
+T2 rot. TiIII rot-schwarz, apikal zu 1/4 schwarz. (T4 meist schwarz. T5 ohne weißen Fleck. CoIII unterseits ungleichmäßig punktiert). Area superomedia quadratisch bis etwas verlängert [Dadurch auch von sulcatoriops nom. nov. unterschieden].
+TAXON= I. dilleri HEINRICH
+20 (19)
+T2 schwarz, in der apikalen Hälfte gelb. TiIII schwarz-gelb-schwarz. Area superomedia quer.
+TAXON= I. rudolphi HOLMGREN
+21 (18)
+Ohne Terminalflecken. T2-3 rot bis nur die Ränder von T2 und Hinterränder der folgenden Tergite hell. Area superomedia quer, groß, regelmäßig rechteckig. FIII rot bis schwarz. TiIII ganz rot. TsIII apikal nur schmal geschwärzt. Gastrocoelen oft kaum breiter als der Zwischenraum.
+TAXON= I. modestus ROMAN
+22 (1)
+Scutellum rot oder schwarz.
+23 (36)
+Scutellum rot, zumindest apikal.
+24 (33)
+Antenne mit gut ausgebildetem Ring. 31-33 Gg.
+25 (26)
+Flecken auf den apikalen Tergiten weitgehend reduziert. (Mesonotum meist ganz oder fast ganz schwarz. T4 zum Teil rot. Körpergröße 10,2). CoIII mit Bürste oder Spur davon. TiIII apikal zu 1/8 schwarz (manchmal weniger, aber meist deutlich). (Sehr variabel: Scutellum von orangerot bis schwarz; Postpetiolus von rot bis schwarz; Fill selten rot). Geißel basal rötlich bis rot.
+TAXON= I. stigmatorius ZETTERSTEDT
+26 (25)
+Wenigstens das 7. Tergit mit gut entwickeltem weißem Fleck. CoIII ohne Bürste. TiIII ganz rot. (Petiolus meist ganz rot).
+27 (30)
+Mesonotum und Fill ganz schwarz. Mesonotum seltener mit zwei roten Längsstreifen. Scutellum nur zum Teil rot.
+28(29)
+Tarsen deutlich verbreitert 30 Gg. Gg1 dicker (1,62).
+TAXON= I. sp. D
+29 (28)
+Tarsen nicht verbreitert. 31-34 Gg. Gg1 schlanker (1,89). Scutellum selten ganz schwarz. [Die einzigen deutlichen Unterschiede zur Nominatform sind die Anzahl der Geißelglieder und die Farbe des FIII.]
+TAXON= I. vulneratorius revulnerator HEINRICH
+30 (27)
+Mesonotum oder FIII erheblich rot ;ezeichnet. Scutellum meist ganz rot. (30-33 Gg. Area superomedia quer. CoIII ventral ungleichmäßig punktiert.)
+31 (32)
+Gg1 schlanker (1,89). FIII oft ganz rot und Mesonotum oft nicht ganz rot [Breitestes Gg weniger quer (0,77).] Mittelfeld des Gesichts oft ganz rot.
+TAXON= I. vulneratorius vulneratorius ZETTERSTEDT
+32 (31)
+1. Gg dicker (1,41). Scutellum ganz rot. FIII nur zu einem geringen Teil rot und Mesonotum ganz rot. [Breitestes Gg stärker quer (0,54).]
+TAXON= I. haematonotus WESMAEL
+33 (24)
+Antenne höchstens mit rudimentärem Ring. (Scutellum und Mesonotum ganz rot. FIII schwarz. Kleine Arten: 7,1-8,4)
+34 (35)
+T6-7 mit Terminalflecken. Antenne mit rudimentärem Ring (auf den Gg 9-10). FIII dicker (3,2). 28 Gg. Area superomedia quer (12:15). TiIII ganz rot. Petiolus schwarz.)
+TAXON= I. ? alpestris HOLMGREN
+35 (34)
+Terminalflecken fehlend. Antenne ganz schwarz. 29-31 Gg. Area superomedia oft verlängert. TiIII apikal breit schwarz. Petiolus meist ganz rot. FIII schlanker (3,8).
+TAXON= I. asiaticus ROMAN
+36 (23)
+Scutellum schwarz, oder nur in der Mitte mit einem roten Reck. (27-34 Geißelglieder. TiIII an der Spitze fast immer schwarz.)
+37 (42)
+Höchstens T2 ganz rot. (TiIII rot-schwarz. 29-31 Gg.)
+38 (39)
+Area superomedia quer (14:16,5), die Längsleisten vorn konvergierend, seitlich leicht gebrochen. Kleiner, typisch um 9,1, sonst (Österreich) um 10,1. Schläfen auffallend stark konvergierend.
+TAXON= I. boreellus THOMSON
+39 (38)
+Area superomedia quadratisch oder verlängert. Die Leisten seitlich nicht gebrochen. Mandibeln breiter. Schläfen nach hinten wenig verschmälert.
+40 (41)
+Gg1 kürzer (1,63). Area superomedia verlängert. Größere Art. CoIII ventral ohne Spur einer Bürste. TiIII ohne seitliche Einkerbung im apikalen 1/3.
+TAXON= I. amphibolus KRIECHBAUMER
+41 (40)
+Gg1 länger (2,26). Area superomedia quadratisch bis quer. Kleinere Art CoIII ventral oft mit Spur einer Bürste (jedenfalls dicht behaart). TiIII meist mit einer seitlichen Einkerbung im apikalen 1/3. (Oft ist der Antennenring reduziert oder fehlt ganz)
+TAXON= I. ingratus HELLÉN
+42 (37)
+T2-3 ganz rot.
+43 (52)
+Postpetiolus rot (und CoIII ohne erhabene Kante am ventralen Hinterrand). (27-34 Gg).
+44(45)
+27-29 Gg. CoIII ventral deutlich ungleichmäßig punktiert oder mit Spur einer Bürste. TiIII seitlich im apikalen 1/3 meist mit einer Einkerbung. (TiIII rot-schwarz. Ring auf der Geißel manchmal nur auf 2-3 Segmenten und nur dorsal). Gastrocoelen sehr breit (wie bei Aoplus).
+TAXON= I. ingratus HELLÉN
+45 (44)
+29-31 Gg. CoIII ventral gleichmäßig punktiert. TiIII ohne solche Kerbe.
+46 (47)
+T6 nur mit einem kurzen Fleck. Tarsen II verbreitert. Gastrocoelen kaum breiter als der Zwischenraum. Scutellum apikal leicht rot.
+TAXON= I. sp. Y
+47 (46)
+T6-7 mit einem großen Fleck. TsIII nicht verbreitert. Gastrocoelen meist deutlich breiter als der Zwischenraum [Ausnahme: I. factor]. Scutellum schwarz (seltener in der Mitte mit gelbem Fleck.)
+48 (49)
+26-29 Gg. TiIII apikal zu 1/5 schwarz. Gastrocoelen weniger breit, kaum breiter als der Zwischenraum. [Hierher kann auch acuticornis rühren, bei diesem aber die Schläfen nach hinten sehr stark konvergierend.]
+TAXON= I. factor DALLA TORRE
+49 (48)
+29-33 Gg. TiIII apikal nur zu 1/10 geschwärzt. Gastrocoelen deutlich breiter als der Zwischenraum (oder Hypopygium verlangert.)
+50 (51)
+Hypopygium unauffällig kurz und Abdomenspitze nicht depress. Gastrocoelen sehr deutlich breiter als der Zwischenraum.
+TAXON= I. boreellus THOMSON
+51 (50)
+Hypopygium verlängert. Abdomenspitze depress. Gastrocoelen nicht wesentlich breiter als der Zwischenraum. Clypeus und hintere, abschüssige Hälfte des Scutellum längsgerunzelt. Scutellum oft mit kleinem gelbem Fleck. Gastrocoelen etwas schmaler als der Zwischenraum (15:17) bis etwas breiter (21:19). Sehr variable Art Körperlänge 9,5-11,6. Area superomedia weniger quer (15:16) bis stärker quer (14:20).
+TAXON= I. ignobilis WESMAEL
+52 (43)
+Postpetiolus schwarz, oder CoIII ventral am Hinterende mit einer erhabenen Kante. (29-34 Gg).
+53(54)
+27-30 Gg. Kleine Art (8,8). Kopf ohne auffallende Behaarung. CoIII am ventralen Hinterrand mit einer erhabenen Kante. (TiIII und TsIII mit schwarzer Spitze). Gastrocoelen nur wenig breiter als der Raum zwischen ihnen.
+TAXON= I. memorator WESMAEL
+54(53)
+33-34 Gg. Größere Art (11,S). Kopf von vorn gesehen mit langen Wangen, diese etwas konkav. Kopf von auffalllenden längeren dunklen Haaren umgeben. TiIII am Ende kaum geschwärzt, aber auch basal dunkel. TsIII ganz hell.
+TAXON= I. occidentis nom. nov.

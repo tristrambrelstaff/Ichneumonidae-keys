@@ -1,7 +1,0 @@
-TYPE= key
-
-ID= Sussaba
-
-TITLE= Key to species
-
-NOTE= [Errata, Corrigenda & Comments from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a> (<a href="https://web.archive.org/web/20200112160139/https://www.bioinfo.org.uk/html/b160134.htm">archived</a>):  <b>Sussaba</b> Couplet 12 is actually the second half of couplet 11. Couplet 13 and all following couplets should be renumbered one less (13->12, 14->13 etc). These corrections have been applied to the couplets below.] 

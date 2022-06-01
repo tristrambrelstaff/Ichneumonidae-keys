@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Tymmophorus
-
-TITLE= Key to species

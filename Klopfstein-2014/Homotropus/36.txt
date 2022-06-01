@@ -1,6 +1,0 @@
-36
-Femora ventrally marked with black. Hind tibia with a subbasal dark spot. Mesopleuron with punctures weak and inconspicuous, especially in males. Female with metasoma compressed from tergite 4 posteriorly. Male with face entirely yellow, and usually with two yellow spots basolaterally on tergites 3 and sometimes 4.
-TAXON= Homotropus nigrolineatus Strobl
--
-Femora orange, without black markings. Hind tibia without a subbasal dark mark. Mesopleuron distinctly punctate also in males. Female with metasoma more gradually tapered. Male with face often with two vertical black stripes but sometimes entirely yellow, metasoma entirely black or dark brown.
-TAXON= Homotropus nigritarsus (Gravenhorst)

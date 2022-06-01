@@ -1,6 +1,0 @@
-3
-Mesosoma almost always with extensive orange coloration at least on mesopleuron. Transverse impressions distinct on tergites 1 to 3. Metasoma dorsoventrally depressed in both sexes. Often larger species, fore wing length 4.5–7 mm.
-TAXON= Diplazon pectoratorius (Gravenhorst)
--
-Mesosoma black with yellow markings, at most with some orange on scutellum. Transverse impressions distinct only on tergites 1 and 2, present at most as a change in sculpture on tergite 3. Metasoma of female laterally compressed behind third segment. Smaller species, fore wing length 4.1–5.1 mm.
-TAXON= Diplazon neoalpinus Zwakhals

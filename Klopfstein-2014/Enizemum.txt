@@ -1,0 +1,30 @@
+TYPE= key
+
+ID= Enizemum
+
+TITLE= Key to species
+
+1
+Antenna with 20 to 22 flagellomeres in both sexes. Female antenna orange to reddish brown at least on basal segments, with multiporous plate sensilla present on entire antenna, although often sparser ventrally. Median dorsal carinae on first tergite very long, almost reaching posterior margin, converging over basal half of first tergite, then more or less parallel, thus forming a quite distinct angle (Fig. 14E). Mesosternum entirely black in females and black with yellow markings in males. Subtegular ridge usually black. Male mesopleuron black and yellow, without orange markings.
+TAXON= Enizemum ornatum (Gravenhorst)
+-
+Antenna 23 to 25, rarely with 22 flagellomeres, usually dark brown, very rarely reddish brown. Female antenna apical flagellomeres ventrally often devoid of multiporous plate sensilla, covered with a short velvety pile (cf. Fig. 5). Median dorsal carinae on first tergite various, sometimes as described above, but often weak or even absent on posterior half, often converging over most of the tergite, thus not forming a quite distinct angle (cf. Fig. 14F). Mesosoma sometimes partly orange. Subtegular ridge usually marked with yellow. Male mesopleuron often orange below.
+2
+2
+Mesosoma, propodeum and metasoma mainly orange in both sexes. Male antenna with narrow, linear tyloids (cf. Fig. 13H).
+TAXON= Enizemum schwarzi Diller
+-
+At most mesopleuron, mesosternum and metapleuron marked with orange, metasoma black. Male antenna with broad, bar-like to oval tyloids (cf. Fig. 13I).
+3
+3
+Median dorsal carinae on first tergite very long, almost reaching posterior margin, converging over basal half of first tergite, then more or less parallel, thus forming a quite distinct angle (cf. Fig. 14E). Propodeum with carinae around basal area at least indicated, less so in males. In females, ventral area of apical flagellomeres evenly covered with plate sensilla. Male face entirely yellow, mesopleuron orange on at least lower half.
+TAXON= Enizemum scutellare (Lange)
+-
+Median dorsal carinae on tergites 1 and 2 often partly reduced, usually converging about three quarters or less of the tergite length, and more evenly and roundedly converging towards each other (cf. Fig. 14F). Propodeum often without any indication of basal area. Female antenna with ventro-apical area devoid of plate sensilla but with a short velvety pile (cf. Fig. 5). Mesopleuron with orange colouration usually absent or more restricted.
+4
+4
+Mesoscutum coriaceous between the very dense punctures. Mesosternum entirely black in females. (Male unknown).
+TAXON= Enizemum nigricorne (Thomson)
+-
+Mesoscutum smooth and shining between the punctures. Mesosternum often marked with orange, more so in males. Male face often with two black vertical lines below antennal sockets.
+TAXON= Enizemum tridentatum Dasch

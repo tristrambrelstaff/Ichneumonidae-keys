@@ -1,0 +1,474 @@
+TYPE= key
+
+ID= Ichneumon-males
+
+TITLE= Bestimmungsschlüssel Für die Männchen
+
+NOTE= Der Bestimmungsschlüssel enthält ausschließlich Taxa, von denen Material untersucht werden konnte. Das sind 1. Arten, die von HINZ durch Zucht geklärt wurden, 2. Arten, die zweifelsfrei aufgrund morphologischer Übereinstimmung mit den 99 seit langem bekannt sind, 3. Arten, die aufgrund gemeinsamen Fangs mit den 99, Vorliegen eines die Zuordnung beweisenden Gynanders, oder aufgrund morphologischer Übereinstimmung zwischen beiden Geschlechtern zugeordnet wurden; bestehen dabei Zweifel an der Zuordnung, so sind die entsprechenden Artnamen mit "?" versehen; 4. Arten, deren Zuordnung zu den 99 noch unklar ist und deshalb in einigen Fällen nur mit einer Nummer versehen sind. Seltener ist für diese ein Name verfügbar, wenn sie unabhängig von den 99 beschrieben worden sind. Der Bestimmungsschlüssel für die dV ist pragmatisch und unabhängig von dem der 99 erstellt worden. Er entspricht deshalb nicht der Einteilung in die Artenguppen.
+
+NOTE= Bei der Anwendung dieses Schlüssels muß beachtet werden, daß nicht alle Individuen bestimmt werden können. Bei vielen Arten ist zur eindeutigen Diagnose das Vorliegen einer größeren Serie nötig, weil es bei den meisten Merkmalen Ausnahmen gibt, oder weil die Variationsbreite eines Merkmals größer ist als der Unterschied zwischen den Arten. Wesentlich vereinfacht wird die Bestimmung, wenn von einem Fundort umfangreiches Material vorliegt und dadurch die vorkommenden und häufigen Arten durch die OT bekannt sind. In einigen Fällen sind die Alternativen wegen der Variabilität der Merkmale nicht eindeutig. In diesen Fällen müssen beide Wege geprüft werden.
+
+NOTE= Wenn mittlere Tergite ohne weiße Flecken, Gaster ohne regelmäßige gelbe Bänder, T4 schwarz, T2 rot oder gelb und Gastrocoelen nicht deutlich breiter als der Raum dazwischen, dann weiter bei 117.
+
+1 (2)
+T1-3 mit weißen Flecken in den Hinterecken. T6 mit kleinem Fleck, T7 mit großem. (Geißel schwarz, aber mit weißem Sattel. TiIII schwarz-gelb-schwarz, apikal zur Hälfte schwarz. Gesicht gelb-schwarz. 38-39Gg, Tyloiden 8,9-16,18, Tyloiden sehr breit. FIII ganz schwarz. Scutellum ganz hell. Area superomedia quer. Thyridien wesentlich schmaler als der Raum zwischen ihnen. Körperlänge 14,3-15,8. Pterostigma dunkel. CoI-II weiß gefleckt.)
+TAXON= I. albiomatus TISCHBEIN
+2 (1)
+T1-3 ohne weiße Flecken (oder anderweitig abweichend).
+3 (20)
+Gaster mit regelmäßigen gelben Bändern auf mehreren Tergiten. (Diese Bänder sind gut abgegrenzt. Normalerweise keine ganzen Tergite so gefärbt. Die gelben Bänder liegen immer im apikalen Teil der Tergite).
+4 (9)
+CIII dorsal mit einem großen gelben Fleck.
+5 (6)
+Geißel schwarz. TiIII apikal breit schwarz. (FIII gelb mit schwarzem Ende. Gesicht ganz gelb. 40Gg, Tyloiden 6-18. TsIII nur zu 1/10 schwarz. Thyridien schmaler als der Raum zwischen ihnen. Körperlänge 14-14,7.)
+TAXON= I. xanthorius FORSTER
+6 (5)
+Geißel oben und unten ganz rötlich.
+7 (8)
+TiIII ganz gelb. Area superomedia quer. [FIII schwarz_aber manchmal ganz gelb, bei den Übergangsfonnen apikal und "oben" gelb (nach RASNITSYN's Schlüssel). Gesicht und Clypeus in der Mitte schwarz. Tyloiden 5-16. Gelbe Bänder auf T1-6, sehr regelmäßig und ziemlich schmal.]
+TAXON= I. sexcinctus GRAVENHORST
+8 (7)
+TiIII apikal schwarz. Area superomedia leicht verlängert bis quer. T1-6 mit ziemlich gleichbreiten weiß-gelben apikalen Querbändern. T7 mit weißem Terminalfleck. 39Gg, Tyl 5-19.
+TAXON= I. ostentator HEINRICH
+9 (4)
+CoIII dorsal ohne großen gelben Fleck. [Manchmal ein kleinerer gelber Fleck vorhanden, dann aber Geißel und Tyloiden ventral ganz hell.]
+10(19)
+T2 schwarz mit gelbem apikalem Band. (Antenne ventral ganz hell. Tiin gelb-schwarz, apikal zu 1/4 schwarz. 37-4 lGg, Tyloiden hell. Thyridien wesentlich schmaler als der Raum zwischen ihnen.)
+11 (18)
+FIII basal breit hell (gelb oder rot). T5-7 wenigstens zum Teil gelb gezeichnet.
+12(13)
+FIII rot-schwarz. Kleine Art (10,7). [37 Gg. Tyl 3-19. Gesicht ganz gelb. T2-3 apikal zu 1/3 (in der Mitte nur 1/6) gelb. T4-5 ganz schwarz, T1 schwarz. Trochantellus III gelb. Halsrand und Subalarleiste rein weiß.]
+TAXON= I. veressi KISS
+13 (12)
+FIII gelb-schwarz. Größere Arten (13-14,6)
+14 (15)
+Gelbes Band auf T2 kürzer, vor allem in der Mitte, dort eingebuchtet. Gesicht mit größerem Anteil schwarzer Färbung. Tyloiden 5-20,21. Gelbes Band auf T4 fast immer unterbrochen.
+TAXON= I. sarcitorius sarcitorius LINN.
+15 (14)
+Gelbes apikales Band auf dem T2 länger, in der Mitte nur wenig eingebuchtet (bzw. verkürzt). Gesicht meist ganz gelb, seltener Clypeus apikal medial, Supraclypealfurche und ein medialer Strich unter den Antennensockeln dunkel.
+16 (17)
+Geißel auch oberseits rotgelb. Tyloiden 3,4-19,23.
+TAXON= I. sarcitorius repetitor KRIECHB.
+17 (16)
+Geißel oberseits braun bis schwarz, wesentlich dunkler als unten,
+TAXON= I. sarcitorius turkestanicus HEINRICH und I. sarcitorius corsus KRIECHBAUMER
+18 (11)
+FIII schwarz. T5-7 ganz schwarz.
+TAXON= I. iranicus HEINRICH
+19 (10)
+T2 basal rot, apikal gelb. Das rot wird in verschiedenem Maße (0-1) von caudal beginnend durch schwarz verdrängt. Gesicht überwiegend bis ganz gelb, FIII rot, apikal schwarz. Geißel nur oberseits dunkel, sonst, einschließlich der Tyloiden gelbrot. Tyl 4,5-21,24. 38-42G& T3 apikal ununterbrochen gelb. Halsrand und Subalarleiste schön gelb.
+TAXON= I. lautatorius DESVIGNES
+20 (3)
+Gaster ohne regelmäßige gelbe Bänder. Oft aber Tergite ganz oder teilweise gelb (oder rot).
+21 (34)
+T2-4 ganz gelb und wenigstens 31Gg.
+22 (23)
+Apikale Querleiste des Mittelsegments hinter den Areae dentiparae mit je einem Knick. Mittelsegment deshalb von lateral gesehen leicht gezähnt. Sehr große Art: 22,8-25. CoIII dorsal mit einem großen gelben Fleck. Auch CoI und II gelb gefleckt. (Gesicht überwiegend gelb. Geißel ganz schwarz. TiIII gelb-schwarz, apikal zu 1/10 schwarz. 45-46Gg, Tyloiden 8-18,20. Ecken des Postpetiolus mit gelben Flecken. Gastrocoelen so breit wie der Raum zwischen ihnen.)
+TAXON= I. primatorius FORSTER
+23 (22)
+Apikale Querleiste des Mittelsegments ohne Knick. Kleinere Arten.
+24 (25)
+Kleinere Art: 11-12,4. Farbe des Abdomens rein gelb (auch der Postpetiolus breit gelb). 30-35Gg, Tyloiden 5,6-12,14. FIII schwarz. TiIII gelb, apikal zu 1/4 schwarz. Geißel ganz schwarz. (Gesicht ganz gelb.)
+TAXON= I. validicornis HOLMGREN
+25 (24)
+Größere Art: über 14. Farbe des Abdomens gelb.
+26 (31)
+36-42Gg.
+27 (30)
+TsIII ganz hell.
+28 (29)
+Tyloiden 4,5-12,16. 36-41Gg. FIII meist rot, aber oft auch schwarz. TiIII gelb-rot, apikal zu 1/7-1/10 schwarz. (Geißel ventral nicht ganz schwarz, apikal wesentlich heller als basal. Im Bereich der Tyloiden und davor ganz dunkel. Gesicht ganz oder fast ganz gelb. Abdomenfarbe gelb mit etwas rot. Körperlänge 15-17,5.) Tyloiden ziemlich klein.
+TAXON= I. computatorius MÜLLER und I. grandicornis THOMSON
+29 (28)
+Tyl 6,7-15,16. 39-42Gg. FIII immer schwarz. TiIII apikal zu gut 1/4 schwarz. Geißel ventral höchstens wenig aufgehellt. Gesicht überwiegend, aber nicht ganz gelb. Hell gefärbte Tergite rein gelb. Färbung des Gesichts blaß-gelb. Meist T6-7 mit gelben Flecken.
+TAXON= I. ? karpatica HEINRICH
+30(27)
+TsIII zu wenigstens 0,5 ziemlich abgesetzt schwarz. Auch TsIII1 apikal dunkel. Gesicht ganz gelb (außer bei einem Exemplar aus dem Iran). 42Gg, Tyl 6-18. FIII basal bis zu 0,5 gelb (wenigstens basal schmal). TiIII apikal nur zu 1/6 oder weniger schwarz. U.a. Halsrand und Subalarleiste breit weiß. T4 apikal schwarz.
+TAXON= I. albicollis haemorrhoicus KRIECHBAUMER
+31 (26)
+33-36Gg.
+32 (33)
+Area superomedia rechteckig. Tyloiden groß, breit und lang. Geißel basal ventral dunkel. Gesiebt ganz gelb! (FIII meist schwarz, seltener teilweise oder sogar ganz gelb, aber nicht rot!) TiIII apikal breiter (1/5) schwarz.
+TAXON= I. crassifemur THOMSON
+33 (32)
+Area superomedia leicht verlängert, die Seiten konvex, wie aufgebläht. Tyl (4),5,(6)-12,15. Tyloiden schmal und kurz. 33-36Gg. Wenigstens der Clypeus apikal deutlich dunkel, meist breit schwarz. Clypeus apikal in der Mitte deutlich fein längsgestreift.
+TAXON= I. gracilentus WESMAEL
+34 (21)
+T2-4 nicht ganz gelb (T4 kann bei einigen Arten aber überwiegend gelb sein). Tergite oft rot.
+35 (76)
+Gaster (außer den Ternunalflecken) schwarz, ohne überwiegend (oder ganz) hell gefärbte Tergite.
+36 (37)
+Areae dentiparae hinten in einen Zahn auslaufend (hintere Begrenzung dieses Feldes meist mit einem deutlichen Knick). TiIII apikal kaum dunkel (weniger als 1/20). FIII rot. 40-43-(45) Gg. Tyloiden 7-14, größtes Tyloidum 81-27:117. Geißel ventral kaum heller. [1 Exemplar untersucht: Gesichtsseiten weiß, Subalarleiste dick und weiß. Scutellum mit kleinem gelbem Fleck. T2 in den Hinterecken mit kleinen gelben Flecken.]
+TAXON= I. quaesitorius LINNAEUS
+
+37 (36)
+Mittelsegment ohne Zähne.
+38 (47)
+Scutellum schwarz und FIII ganz rot.
+39 (40)
+Beine III ab dem Femur ganz gelbrot. Tyloiden 6,8-18,20. 43-46Gg. Schläfen mit auffallenden langen braunen Haaren. Gesicht ganz schwarz bis seitlich gelb und Clypeus mit 2 gelben Flecken. (Scutellum selten apikal gelb.)
+TAXON= I. luteipes WESMAEL
+
+40 (39)
+TsIII apikal deutlich geschwärzt oder ganz dunkel.
+41 (42)
+Geißel auch ventral ganz schwarz. TiIII nur ganz apikal und sehr schmal dunkel. Tyloiden 7,8-17,20. 39-45Gg. TsIII ganz schwarz. Pterostigma dunkel. (Scutellum immer ganz schwarz. Gesicht ganz schwarz. Gaster violett schimmernd. Praescutellarleisten an der konkavsten Stelle meist rötlich oder noch heller.)
+TAXON= I. melanosomus WESMAEL
+42 (41)
+Geißel ventral deutlich heller (wenigstens basal).
+43 (44)
+Gastrocoelen gleichzeitig lang, tief und der Hinterrand orthogonal zur Körperlängsachse stehend. TiIII apikal sehr schmal (höchstens 1/10) schwarz. TsIII im basalen 1/4-1/2 ganz hell. Gesicht fast immer schwarz, manchmal gelb gezeichnet. Scutellum manchmal mit gelbem Fleck. 39-41Gg. Tyl 6,7-16,18. (Färbung von T2-3 sehr variabel).
+TAXON= I. cynthiae KRIECHBAUMER
+44 (43)
+Gastrocoelen nicht gleichzeitig lang, tief und Hinterrana orthogonal zur Körperlängsachse stehend. TiIII apikal breiter und deutlich dunkel. Tyloiden 8,9-17,19. TsIII (fast) ganz schwarz. Körperlänge 16,7-18,3. Gesicht höchstens seitlich gelb und Clypeus mit zwei hellen Flecken, oft ganz schwarz. [Hierher führt auch I. freyi wenn Scutellum schwarz. Schläfen aber rundlicher als bei cessator, Tyloiden viel länger als bei T. camelinus, außerdem ist das Pterostigma bei I. freyi hell.]
+45 (46)
+Geißel ventral stark heller bis ganz hell. 40-44GE. Die längsten Tyloiden ca. 2/3 - 4/5 so lang wie das Geißelglied, ca. 4-6 mal so lang wie breit.
+TAXON= I. cessator MÜLLER
+46 (45)
+Geißel ventral ebenfalls heller, aber nicht so gleichmäßig, vor allem im Bereich der Tvloiden ventral oft ziemlich dunkel. Längste Tyloiden kürzer, nur 1/2 mal so lang wie das Geißelglied, in dessen Basalhälfte liegend, kürzer: 2,5-3 mal so lang wie breit. 35-39Gg. CoIII dorsal vor dem Gelenk fast immer rötlich bis sehr deutlich gelbrot. Tergit 2 (selten auch 3) teilweise rot. Selten Scutellum mit relativ kleinem Fleck.
+TAXON= Thyrateles camelinus WESMAEL
+47 (38)
+Scutellum wenigstens zu einem erheblichen Anteil hell (rot oder gelb) oder FIII schwarz.
+48 (69)
+Apikale Tergite ohne Recken.
+49 (60)
+FIII ganz rot.
+50 (51)
+Subalarleiste ganz oder überwiegend weiß. Schläfenleiste vor dem Erreichen der Hypostomalleiste meist breit unterbrochen, der Bereich der Unterbrechung konkav. Geißel nur zur Spitze hin deutlich heller. TiIII apikal kaum geschwärzt. TsIII fast ganz schwarz. Gesicht seitlich weiß. Tyl 6,7-16,17, halb so lang wie die zugehörigen Gg. 43-44Gg. Gastrocoelen meist breiter als ihr Zwischen raum und ziemlich tief.
+TAXON= I. coniger TISCHBEIN
+51 (50)
+Subalarleiste nicht breit weiß. Schläfenleiste nicht unterbrochen.
+52 (59)
+TsIII zu erheblichem Anteil dunkel.
+53 (57)
+TiIII apikal deutlich geschwärzt.
+54 (58)
+Scutellum gelb (selten schwarz, jedenfalls nicht rot).
+55 (56)
+Tyloiden 7,9-17,20 (längstes Tyloidum 80-20:102). 41-45Gg. TiIII mit deutlicher Beimischung von weißgelb. Höchstens die Gesichtsseiten und Ecken des Clypeus gelb. TsIII 1 zu 4/5 oder ausgedehnter hell. Pterostigma ganz hell. Scutellum überwiegend gelb (in der Mittellinie aber kürzer als seitlich), selten" schwarz. (T2-3 manchmal teilweise rot. Geißel ventral nur apikal oder ganz hell.)
+TAXON= I. freyi KRIECHBAUMER
+56 (55)
+Tyloiden 6,8-16,19. 37-40Gg. Gastrocoelen breit, tief, lang und der Hinterrand annähernd orthogonal zur Körperlängsachse stehend, aber nicht so typisch wie bei gracilicornis. aber nicht so ausgeprägt wie bei den anderen Arten dieser Gruppe). TsIII schwarz [bei cynthiae hingegen basal zu 1/4-1/2 ganz hell], TiIII apikal zu 1/10 dunkel. Gesicht fast ganz schwarz, höchstens seitlich mit je einem kleinen hellen Fleck. Scutellum meist weiß.
+TAXON= I. quadrialbatus GRAVENHORST
+57(53)
+TiIII apikal nicht geschwärzt, ganz rot. Gesicht fast ganz oder ganz schwarz. (44Gg, Tyl 7,8-18,19). T2 vorn grob netzrunzlig skulpturiert, vor allem zwischen den Gastrocoelen. T2-3 stellenweise leicht rötlich aufgehellt.
+TAXON= I. bellipa WESMAEL.
+58 (54)
+Scutellum rot. TiIII apikal zu 1/20 schwarz. Gesicht ganz schwarz. Höchstens der Bereich um die Gastrocoelen oder Postpetiolus apikal medial rot. Pterostigma stark geschwärzt. T2 zwischen den Gastrocoelen mit sehr weit durchlaufenden feinen Leisten, zwischen denen feine Punkte liegen. Area superomedia stark quer. Schläfen mit auffallenden langen dunklen Haaren.
+TAXON= I. chernovi HEINRICH
+59 (52)
+TsIII ganz hell. Nur die Gesichtsseiten gelb. Alle Beine ab den Trochantellen ganz gelbrot, die TiIII basal vorne gelblich. 39-40Gg. Tyl 6,7-17, unauffällig. Geissei fast ganz dunkel. Area superomedia quadratisch.
+TAXON= I. lapponicus HELLEN
+60 (49)
+FIII schwarz.
+61 (62)
+TiIII und TsIII fast ganz rotgelb. Tyloiden 5,6-16,17. 38-42Gg. Gesicht gelb-schwarz. Scutellum weiß bis schwarz. Körperlänge 13,5-16. Geißel ventral kaum heller, oder ganz schwarz. Tyloiden sehr groß, das längste 89-30:100. FIII oft basal und apikal rotgelb, manchmal mit einer dorsalen Linie ebenfalls hell. [Gastrocoelen unauffällig, so breit wie ihr Zwischenraum.]
+TAXON= I. vafer TISCHBEIN
+62 (61)
+TiIII und TsIII mit erheblichem Anteil schwarzer Färbung.
+63 (64)
+TiIII gelb-schwarz, basal nicht schwarz! Tyloiden dick und schwarz, 8-16,17.
+TAXON= I. divenor WESMAEL]
+64 (63)
+TiIII basal schwarz.
+65 (68)
+TiIII schwarz-weiß-schwarz, apikal zu 1/3-3/5 schwarz. (Oder Tyloiden schon ab 5,6).
+66 (67)
+TsIII basal kaum heUer. Clypeus nicht längsgerunzelt. 39-40Gg, Tyloiden 5,6-15,16. [Antenne ventral leicht heller, ohne Ring. Gastrocoelen wesentlich schmaler als der Zwischenraum. Gesicht gelb-schwarz bis fast ganz gelb. (Tibiae eher gelblich, bei haglundi eher weiß.) Wenn die TiIII keinen Ring hat, ist ihre Vorderseite ziemlich ausgedehnt rein gelb.]
+TAXON= I. languidus WESMAEL
+67 (66)
+TsIII bis 9/10 (ganz) hell. Clypeus ziemlich längsgerunzelt. 40-42Gg, Tyloiden 6,7-16,18. (T2-3 manchmal mit weißen Flecken, aber nicht in den Hinterecken, sondern auf der Oberfläche und deren Ränder nicht scharf begrenzt Auf T3 manchmal als weißes Transversalband. Geißel ventral schwarz oder apikal etwas heller. Gastrocoelen schmaler als der Raum zwischen ihnen. Gesicht gelb schwarz bis ganz gelb. Subalarleiste dick und ganz weiß. Apikale Tergjte manchmalmit weißen Fleckea)
+TAXON= I. haglundi HOLMGREN
+68 (65)
+TiIII nur ventral heiler (weißlich, ohne eigentlichen Ring), apikal zu 1/2-2/3 dunkel (schwarz). 43-44G& Tyloiden 7-16,17, schmaler als bei voriger Art. (Pterostigma dunkel, aber nicht so stark wie bei languidus. TsIII ganz schwarz. Gesicht gelb-schwarz.) (TiIII schlanker als bei languidus.} TiIII vorn nur schwach heller.
+TAXON= I. tuberculipes WESMAEL
+69 (48)
+Apikale Tergite, wenigstens T7, mit weißen Terminalflecken.
+70 (71)
+TiIII mit weißem Ring. [Wenn Terminalflecken vorhanden sind.]
+TAXON= I. haglundi HOLMGREN
+71 (70)
+TiIII ohne Ring
+72 (73)
+Subalarleiste dick und ganz weiß. Oberer Rand des Pronotum davor sehr lang und hinten breit weiß. Geißel ganz schwarz, meist mit weißem Sattel, ventral nicht heller. TiIII hinten ganz schwarz. CoIII sehr stark weiß gefleckt. Pterostigma ganz dunkel. (40-41Gg. Tyloiden 7-17. Körpergröße 17,8. Gastrocoelen schmaler als der Raum zwischen ihnen, aber nicht wesentlich.)
+TAXON= I. hinzi HEINRICH
+73 (72)
+Subalarleiste schwarz oder wenig weiß. Geißel ventral wenig heller oder ohne weißen Ring. TiIII rotschwarz oder schwarz-rot-schwarz, apikal zu 1/5-1/2 schwarz. (41-43Gg. Gesicht fast ganz gelb. Tyloiden 6,7-16,19. Gastrocoelen oft etwas schmaler als der Raum zwischen ihnen, oft sogar etwas breiter. T6-7 mit weißem Fleck, manchmal auch das 5. Körperlänge 12,7-17,1).
+74 (75)
+Abdomen ohne rote Farbe. Geißel ventral leicht heller, meist mit Ring. TiIII schwarz-gelb, apikal zu 1/4-1/2 schwarz. (Scutellum immer mit erheblichem Anteil weißer Färbung.)
+TAXON= I. formosus microcephalus STEPHENS
+75 (74)
+Abdomen mit roter Farbe. Geißel ganz schwarz. TiIII rot, apikal zu 1/7-1/3 schwarz. (Scutellum manchmal ganz schwarz.)
+I. formosus formosus GRAV.
+76 (35)
+Gaster mit überwiegend oder ganz rot oder gelb gefärbten Tergiten.
+77 (82)
+Höchstens T2 oder T3 überwiegend rot. TsIII ganz schwarz. Gastrocoelen schmaler als der Raum zwischen ihnen.
+78 (81)
+Rote Färbung auf T2. (Pterostigma dunkel).
+79 (80)
+Scutellum weiß. Gesicht gelb schwarz. TiIII vorne zum Teil weiß, apikal zu 1/2-2/3 schwarz. Geißel ventral kaum heller. 43-44Gg, Tyloiden 7-16,17, klein und schmal. (Manchmal auch T2 ganz schwarz.) Hügel hell.
+TAXON= I. tuberculipes WESMAEL
+80 (79)
+Scutellum, Gesicht und TiIII ganz schwarz. 38-41Gg, Tyl 7-16,17, unauffällig. Flügel braun.
+TAXON= I. ampliventris BERTHOUMIEU
+81 (78)
+T3 hellrot, basal zu 1/5 und apikal zu 1/10 schwarz. Scutellum schwarz bis zentral orangerot. Gesicht höchstens lateral orangerot. (Pterostigma nicht dunkel).
+TAXON= I. nubigenus ROMAN
+82 (77)
+T2-3 (oder mehr) mit erheblichem Anteil gelber oder roter Farbe.
+83 (116)
+Gastrocoelen (meist wesentlich) breiter als der Raum zwischen ihnen, aber nicht gleichzeitig tief, lang und der Hinterrand orthogonal zur Körperlängsachse stehend, sondern schräg und in der Mitte kurz.
+84 (93)
+Gesicht fast ganz oder ganz schwarz.
+85 (92)
+Wangen nicht konkav, kürzer und oft nicht mit so auffallenden langen Haaren. Beine relativ schlank, FIII ca. 4,2. Geißel ventral kaum heller oder ganz schwarz.
+86 (89)
+TsIII fast ganz rotgelb. TiIII apikal weniger als 1/5 schwarz. FIII schlanker, ca. 4,2.
+87(88)
+31-34, meist 32 Gg, Tyloiden 6,7-14,17.
+TAXON= I. v. vulneratorius ZETTERSTEDT
+88 (87)
+31-35, meist 33 Gg. Tyloiden (6)7-14,16.
+TAXON= I. vulneratorius revulnerator HEINRICH
+89 (86)
+TsIII (fast) ganz dunkel. TiIII apikal breit schwarz (2/5-1/2). Beine dicker (FIII ca. 3,6).
+90 (91)
+Gastrocoelen sehr breit (20:11). Mehr Gg (32-34). Tyl 6,7-13,15.
+TAXON= I. alpinator AUBERT
+91 (90)
+Gastrocoelen weniger breit (16:11). Nur 28-30Gg. Tyl 5,6-12,13. T3 vom Hinterrand her oft verdunkelt. (Manchmal auch T2 apikal oder basal lateral dunkel. Antenne nur apikal vorn deutlich heller. Scutellum immer ganz schwarz.)
+TAXON= I. ? memorator WESMAEL
+92 (85)
+Wangen von vorn gesehen deutlich konkav, relativ lang. Kopf mit langen dunklen Haaren (im Vergleich zu anderen Arten sehr auffällig). TiIII ganz rot bis apikal breit schwarz bis ganz schwarz. TsIII überwiegend hell bis ganz schwarz. Scutellum ganz schwarz. T2-3 rot. Gesicht meist schwarz, Clypeus manchmal mit hellen Flecken. TiIII auch basal schwarz. Geißel ganz schwarz. Tyloiden sehr klein: 44-17:85(Gg12).
+TAXON= I. occidentis nom. nov.
+93 (84)
+Gesicht mit erheblichem Anteil gelber Färbung.
+94 (95)
+TiIII rot, apikal zu 2/5 dunkel. 31Gg, Tytoiden 5-13. TsIII (fast) ganz dunkeL. (Körperlänge 9,6-10,4. Gesicht fast ganz gelb. Antenne ventral wenig heller.)
+TAXON= I. suturalis HOLMGREN
+95 (94)
+ TiIII gelb, apikal dunkel.
+96 (109)
+Gaster mit roten Tergiten (2-3)
+97 (104)
+TsIII ganz dunkel
+98 (99)
+37-41Gg. Gastrocoelen nur wenig (oder nicht) breiter als der Zwischenraum. Tyl 6(7)-14,16. T3 meist basal schwarz.
+TAXON= I. balleatus WESMAEL.
+99(98)
+Weniger Gg. Gastrocoelen breiter. Tergite nicht so gezeichnet.
+100(101)
+34-36Gg. Tyloiden 6-14,15. Gesicht überwiegend bis ganz blass-gelb. Geißel ventral mäßig heller. Scutellum bei allen Exemplaren hellgelb. TiIII apikal zu 1/3-1/2 dunkel. (TsI1 mit sehr spitzem Zahn)
+TAXON= I. ? dilleri HEINRICH
+101 (100)
+Ca. 31Gg. Tyloiden 5-13.
+102 (103)
+Antenne unterseits nicht ganz hell, sondern basal nur schwach, apikal stärker. Schon das Tyloidum auf Gg5 recht groß. 31Gg. (TsI1 mit sehr spitzem Zahn).
+TAXON= I. ? suturalis HOLMGREN [= ? I. alpinator sensu HINZ, 1984:43]
+103 (102)
+Antenne unterseits ganz hell (rötlichgelb). Gesicht ganz oder fast ganz gelb. T2-3 und Postpetiolus hellrot. 30Gg. TsIII basal nur schmal heller, aber insgesamt nicht stark verdunkelt. (Metatarsus I mit sehr spitzem Zahn).
+TAXON= I. suturalis HOLMGREN
+104 (97)
+TsIII wenigstens basal breit hell.
+105(106)
+TsIII (fast) ganz gelbrot. TiIII apikal nur schmal schwarz, davor gelb, allmählich in rotgelb übergehend. Gesicht blaßgelb (deutlich blasser als bei parengensis). Scutellum mit gelbem Fleck bis ganz schwarz. T2-3 ganz orangerot. Geißel ventral nur apikal deutlich heller.
+TAXON= I. leptostigma KRIECHBAUMER
+106(105)
+TsIII nur basal hell (ca. 1/2). TiIII apikal breit schwarz (l/4), ganz basal dunkel, in der Mitte rein gelb.
+107(108)
+TiIII vor der schwarzen Spitze deutlich rötlich. Gesicht fast ganz hellgelb. Scutellum mit kleinem gelbem Fleck bis ganz schwarz, selten der Fleck größer. T2-3 rot, das 3. oft stellenweise verdunkelt, bis fast ganz schwarz. Geißel ventral nicht (oder kaum) heller. 30-33(34)Gg. Tyloiden (4)^,(6)-13,15., dunkel, das längste 67-19:79.
+TAXON= I. ? ingratus HELLEN
+108(107)
+TiIII kaum mit rötlichem Anteil. Gesicht etwas ausgedehnter schwarz. 31-33Gg. Tyloiden 6-13,15, meist rötlich, etwas kürzer, das längste z.B. 63-18:84. (Gesichtsfarbe gelber als bei voriger Art). Gastrocoelen oft kaum breiter als der Zwischenraum.
+TAXON= I. ? ignobilis WESMAEL
+109(106)
+Gaster mit gelben oder rötlich-gelben Tergiten (2-3-4).
+110(113)
+Gaster mit gelb ohne deutlich rötliche Beimischung.
+111(112)
+TsIII fast ganz gelb, nur TsIII5 abgesetzt dunkel. 33-34Gg. Tyloiden 6,8-15,16. TsIII nur zu 1/10 dunkel. (Körperlänge 10,7-12,1. Gesicht gelb-schwarz bis ganz gelb. Antenne ganz schwarz.) Scutellum bei fast allen Exemplaren gelb, vorn mit einer schwarzen Einbuchtung. TiIII apikal zu 1/4 dunkel. Pterostigma hell.
+TAXON= I. stigmatorius ZETTERSTEDT
+112(111)
+TsIII apikal breiter dunkel und nicht abgesetzt, sondern ab dem 3. Tarsenglied allmählich. 32-35Gg. Tyloiden 6-13,16. Gesicht gelb mit wenig schwarz. Scutellum überwiegend gelb. Postpetiolus oft mit gelben Hinterecken. Pterostigma nur am Rand dunkler. Geißel ventral dunkel, nur apikal wenig heller.
+TAXON= I. ? amphibolus KRIECHB.
+113(110)
+T2-3(4) mit deutlichem roten Anteil
+114(115)
+Geissei unterseits nicht hell. T2-3 rötlich-gelb, besonders um die Suturen stärker orangerot. 34-36Gg. Tyloiden 6,7-15,16. TsIII orangerot, apikal nur wenig verdunkelt. Gesicht gelb-schwarz (das Gelb nicht blass). Scutellum schwarz bis überwiegend gelb, aber immer vorn ohne rundliche Einbuchtung, sondern eher die Mitte des Scutellum hell. Pterostigma dunkel. Thyridien sehr steil stehend, Gastrocoelen daher auffallend tief und auch der Vorderrand steil. TiIII apikal breiter (1/3) schwarz.
+TAXON= I. parengensis Kiss
+115(114)
+Geissei unterseits ganz hell, vom ersten Glied an. Postpetiolus apikal breit gelblichrot. T4 ebenfalls zum größten Teil rötlichgelb. Scutellum in der Apikaihälfte mit rötlich-gelbem Fleck. Gesicht größtenteils gelb. Tyl 5-14,33Gg.
+TAXON= I. ferrandi Pic
+116 (83)
+Gastrocoelen nicht (wesentlich) breiter als der Raum zwischen ihnen oder in der Mitte lang und der Hinterrand orthogonal zur Körperlängsachse stehend.
+117(142)
+Die drei folgenden Merkmale gleichzeitig zutreffend: • Gesicht ganz gelb. (Höchstens eine kurze Linie in der Mitte unter den Antennen dunkel) • Hell gefärbte Tergite gelb. • Geißel ventral wenigstens etwas heller. (Oft ganz gelb, nie ganz schwarz.)
+118(137)
+Mäßig große Arten mit höchstens 40Gg. Körperlänge 10,5-17,4.
+119(128)
+Tyloiden 6,7-15,19 (wenn 5-14, dann Tyloiden kurz und schmal, und TsIII apikal kaum oder nur schmal dunkel).
+120(121)
+CoI,II fast ganz gelb. CoIII oft oben und unten gelb gefleckt. 38-40Gg, Tyloiden 6-15,16, mäßig breit und relativ lang. (Geißel ventral ganz hell. TsIII apikal meist nur schmal dunkel.) Die Tergite auffallend grob punktiert, T4 in der Mitte dadurch längsgerunzelt. T2 basal meist dunkel.
+TAXON= I. inquinatus WESMAEL
+121(120)
+CoI,II oft gelb gefleckt, aber nicht überwiegend so gefärbt.
+122(123)
+30-32Gg. Tyl 6-15,16. Antenne sehr hell, unterseits bis weit über die dunklen Tyloiden ganz gelb. Gesicht meist mit einem medialen schwarzen Strich unter den Antennen. Gelbe Färbung kräftig. TsIII apikal nur schwach verdunkelt. T2-3 gelb, basal (zu 2/3) gelbrot (oder gar schwarz, aber selten). Oft T1 und T4 apikal gelb. TiIII gelb, apikal zu 1/5 schwarz, das gelb aber auf der Hinterseite fast das Ende erreichend. Gastrocoelen wesent lich schmaler als der Zwischenraum.
+TAXON= I. fulvicornis GRAVENHORST
+123(122)
+Mehr Gg.
+124(125)
+Langgestreckte Art, Tergite schlanker. 37-41 Gg, Tyloiden (6V7-15.17, kurz und schmal. Geißel ventral ganz hell. TiIII gelb-rot-schwarz, apikal zu fast 1/2 schwarz. TsIII meist überwiegend dunkel, oft aber auch fast ganz hell. Gelbe Tergite meist deutlich mit rot gemischt (selten ganz rot). Halsrand und Subalarleiste fast immer breit gelb. Größere Art: 14.
+TAXON= I. suspiciosus WESMAEL
+125(124)
+Kürzere gedrungene Arten, Tergite stärker quer. 34-37Gg. TiIII gelb, apikal zu 1/4-2/5 schwarz.
+126(127)
+Geißel ventral ganz hell. 37Gg, Tyloiden 6-18,19, auffallend breit und lang. TsIII zu 1/3-1/2 dunkel. Ecken des Postpetiolus mit großen gelben Flecken. [Färbung des Gasters: T2-3 gelb, T2 basal verdunkelt, um die Suturen rötlich. Oft auch T4 teilweise hell (dann meist als seitliche Flecke oder transversales Band in der Mitte). Halsrand immer breit gelb. T7 oft mit hellem Fleck.] TsI1 mit deutlichem Zahn. (Körperlänge 11,6-12,7.)
+TAXON= I. submarginatus GRAVENHORST
+127(126)
+Geißel ventral heller, aber nicht ganz hell. 34-37Gg, Tyloiden 5,7-14,18 (schmal und kurz). TsIII (fast) ganz hell (höchstens TsIII5 etwas verdunkelt). Gesicht fast immer schwarz gezeichnet.
+TAXON= I. caloscelii WESMAEL
+128(119)
+Tyloiden 4,5-12,15. (Geißel ventral me ganz schwarz, meist sogar ventral ganz hell [wenigstens bei confusor und albiger]. TiIII gelb-schwarz. TsIII immer ausgedehnt verdunkelt.) [Die hierher gehörenden 6 Arten sind nur schwer bzw. nicht unterscheidbar und bedürfen noch weiterer Untersuchung. Ausführliche Besprechung siehe S. 68.]
+129(132)
+Tyloiden kurz und schmal.
+130(131)
+Geißel ventral ganz hell. Tyloiden im Mittel etwas kürzer. Kleinere Arten, 11,3-14,4.
+TAXON= I. confusor GRAVENHORST I. albiger WESMAEL
+131(130)
+Geißel ventral nicht ganz hell, wenigstens die ersten Gg ventral deutlich verdunkelt. Tyloiden im Mittel etwas länger. Größere Art, 14,9-16,9.
+TAXON= I. melanotis HOLMGREN
+132(129)
+Tyloiden breit und lang.
+133(134)
+Geißel ventral ganz hell.
+TAXON= I. molitorius LINNAEUS
+134(133)
+Wenigstens die ersten Gg ventral deutlich verdunkelt.
+135(136)
+T2-3 immer ganz gelb. Geißel unterseits ziemlich dunkel, [größere Art].
+TAXON= I. stramentor RASNITSYN
+136(135)
+T2-3 oft teilweise verdunkelt.
+TAXON= I. crassifemur THOMSON
+137(118)
+Große Arten mit 42-47Gg. Körperlänge 16,2-20,5. (Geißel ventral wenig heller. TiIII gelb, apikal zu 1/7 bis 1/3 schwarz.)
+138(139)
+41-44Gg, Tyloiden (5),6-18,20. FIII basal gelb. T4 schwarz. Kleinere Art 16,1-18. Gastrocoelen schmaler als der Raum zwischen ihnen. TsIII überwiegend dunkel, mit ziemlich scharfem Kontrast zwischen der hellen Basis und dem dunklen Ende. Trochantellus III gelb. Subalarleiste ziemlich dick. Diese, sowie der Halsrand ganz gelb. Gesicht oft mit geringem Anteil schwarz (Oft in der Mitte mit dunkler Zeichnung). T2-3 gelb, oft mit leichten rötlichen Zeichnungen, vor allem an den Suturen.
+TAXON= I. albicollis WESMAEL
+139(138)
+43-47Gg, Tyloiden 8,9-17,19. FIII (fast) ganz schwarz. T4 teilweise hell gefärbt. Größere Arten 18,3-20,6. Gastrocoelen nicht wesentlich schmaler als der Raum zwischen ihnen, manchmal breiter. Geißel oft mit weißem Ring.
+140(141)
+Tyloiden 8-17,18.
+TAXON= I. didymus GRAVENHORST
+141(140)
+Tyloiden 9-17,19.
+TAXON= I. vorax GEOFFROY
+142(117)
+Eines der folgenden Merkmale zweifellos zutreffend: • Gesicht wenigstens teilweise schwarz. • Gefärbte Tergite des Gasters rot • Geißel ventral ganz schwarz.
+143(164)
+Kleine Arten: höchstens 10,1. Höchstens 3lGg. Farbe des Gasters rot
+144(163)
+Tyloiden (2),5-ll,12.
+145(148)
+Scutellum überwiegend hell.
+146(147)
+TiIII rot, apikal zu 2/5 schwarz. Gesicht una Clypeus nur seitlich gelb. Geißel ventral nur wenig heller. 26-30Gg, Tyl 4,5-11,12. Schläfen stärker und weniger rundlich konvergierend. T4 ganz schwarz. (FIII schwarz. Thyridien deutlich schmaler als der Raum zwischen ihnen. Körpergröße: 9-9.5.)
+TAXON= I. p. proletarius GRAVENHORST
+147(146)
+TiIII schwarz, vor der Mitte nur undeutlich heller, basal aber keinesfalls deutlich rot. Gesicht auch in der Mitte mit gelben Flecken; gelbe Flecken des Clypeus von denen des Gesichts getrennt. Geißel ventral deutlich heller. 25-26Gg, Tyl 4,5-11,12. Schläfen stärker und rundlicher konvergierend. Oft T2-4 ganz rot.
+TAXON= I. proletarius flavomaculatus LUCAS
+148(145)
+Scutellum schwarz.
+149(152)
+Gesicht ganz gelb. Thyridien ca. so breit wie der Raum zwischen ihnen, jedenfalls nicht wesentlich schmaler. Körperlänge 7,0-7,5. Nur T2-3 rot.
+150(151)
+Geißel ventral unscharf heller, nur apikal ganz hell. TiIII rot, apikal zu 2/5 schwarz. Area superomedia leicht verlängert bis quadratisch, vorn abgerundet. Tyloiden 4,(5)-10,12. 24-26Gg. Gesicht oft teilweise geschwärzt, manchmal Clypeus apikal medial dunkel, oder unter den Antennen schwarze Buchten.
+TAXON= I. spurius WESMAEL
+151(150)
+Geißel ventral ganz hell (gelb). TiIII gelb, apikal zu ca. 2/5 schwarz. Area superomedia quer, vom nicht oder nur wenig abgerundet. 26Gg. FIII rot-schwarz bis ganz schwarz, T4 teilweise rot bis ganz schwarz. Gesicht ganz gelb.
+TAXON= I. simulans TISCHBEIN
+152(149)
+Gesicht gelb-schwarz bis ganz schwarz.
+153(156)
+T2-4 rot (T4 manchmal apikal schwarz) und Gesicht überwiegend bis ganz schwarz.
+154(155)
+Tyloiden 5-11,12. Gesicht schwarz. Geißel ventral fast ganz hell (Antenne basal aber noch heller, dort auch dorsal etwas hell). 26-30Gg. TiIII rot-schwarz, apikal zu 1/3 schwarz. TsIII überwiegend dunkel. (Gastrocoelen so breit wie der Raum zwischen ihnen.) T2 weniger verlängert.
+TAXON= I. latrator FABRICIUS
+155(154)
+Tyl 2,4-9,11. Gesicht schwarz bis teilweise gelb. Geißel ventral nicht ganz hell, apikal stärker hell als basal. (25)-27-29Gg. TiIII mit Beimischung von gelb, apikal meist schmaler schwarz (ca. 1/4). T2 stärker verlängert. Antenne insgesamt dunkler.
+TAXON= I. delator WESMAEL
+156(153)
+Nur T2-3 rot.
+157(162)
+Gesicht gelb-schwarz.
+158(159)
+Mandibeln größtenteils gelb. Größere Art (11,2). T4 manchmal bis zur Hälfte basal rot. Clypeus meist über die ganze Breite gelb. Area superomedia quadratisch bis verlängert Antenne ventral ganz hell. Tyl 4,5-11,12, auffallend schlank. Gg28-31. Mittelfeld des Postpetiolus deutlich über die Seitenfelder erhaben.
+TAXON= I. analis WESMAEL
+159(158)
+Mandibeln rot, nicht leuchtend gelb. Gesicht ausgedehnter schwarz (oft ganz schwarz.)
+160(161)
+Pterostigma nicht auffallend dunkel. Antenne unterseits teilweise bis ganz hell. Kleinere Art (8,5).
+TAXON= I. ? factor DALLA TORRE
+161(160)
+Pterostigma auffallend dunkel. Antenne unterseits ganz schwarz. Größere Art (9,8).
+TAXON= I. ? pygolissus HEINRICH
+162(157)
+Gesicht fast ganz bis ganz schwarz. T4 manchmal basal bis ganz rot (dann aber an der Gestalt des Gesichts erkennbar.) Das Gesicht geht sehr flach, ohne Furche, in den Clypeus über. Clypeus höchstens seitlich gelb. Antenne ventral heller, aber nicht abgesetzt. Tyloiden unauffällig, 5-11,12. 28-30(32)Gg. TiIII basal gelb, apikal zu 1/4-1/2 schwarz. Area superomedia verlängert. Mittelfeld des Postpetiolus flach in die Seitenfelder übergehend.
+TAXON= I. ? analisorius HEINRICH
+163(144)
+Tyl 7-14,15. 31Gg. Gesicht gelbschwarz. Pterostigma etwas verdunkelt. (TsI1 ohne spitzen Zahn). Schläfen in Ansicht von dorsal außergewöhnlich stark konvergierend und keinesfalls gewölbt, sondern ganz gerade.
+TAXON= I. ? acuticornis THOMSON
+164(143)
+Größere Arten (meist über 70.) Wenigstens 31Gg.
+165(166)
+Geißel ganz schwarz, Gesicht ganz oder fast ganz gelb (Clypeus apikal medial oft schwarz) und T2-3 gelb. TiIII gelb, apikal zu 1/3 schwarz. 43-44Gg, Tyl 6-15,17, schmal und kurz. TsIII (einschließlich TsIII5) ganz hell.
+TAXON= I. terminatorius GRAVENHORST
+166(165)
+Eines der folgenden Merkmale zweifellos zutreffend: • Geißel ventral hell. • Gesicht zum erheblichen Teil schwarz. • Färbung des Gasters rot. • TsIII erheblich geschwärzt.
+167(184)
+Sehr große Arten: 17,8-21,7. 43-48Gg. (TiIII gelb-schwarz.) [Die folgenden Arten sind trotz ihrer beträchtlichen Größe oft schwer zu diagnostizieren].
+168(169)
+Hintere Querleiste der Areae dentiparae mit einem rechtwinkligen Knick in der Mitte. CoIII dorsal ganz gelb.
+TAXON= I. pnmatoiius FÖRSTER
+169(168)
+Querleiste ohne rechtwinkligen Knick und CoIII dorsal höchstens mit einem kleineren gelben Fleck.
+170(171)
+Gesicht ganz oder fast ganz gelb, (höchstens die Supraclypealfurche und ein medialer Strich unter den Antennensockeln schwach dunkel). Geißel ventral ganz schwarz. Tyl 7-16,17, relativ kurz und schmal (z. B. auf Gg11: 48-16:108). (TsIII oft erheblich dunkel. T4 zu einem roßen Anteil hell. 45-47Gg. ärbung des Gasters gelbrot.) CoI,II überwiegend gelb. TiIII gelb, apikal zu 2/5 schwarz.
+TAXON= I. nebulosae HINZ
+171(170)
+Gesicht nicht ganz gelb (aber oft fast ganz). Tyloiden 8,9-16,19, länger. TsIII ganz hell.
+172(181)
+Geißel meist ventral ganz schwarz. Ecken des Postpetiolus ohne gelbe Flecken.
+173(174)
+Färbung des Gasters gelbrot, aber unterschiedlich ausgedehnt: manchmal nur das T2 apikal, oft aber T2-7 ganz hell gefärbt. Tyl 8-16,17. Subalarleiste weniger dick, aber gelb. T2-7 meist ganz rot. Area superomedia weniger quer oder sogar etwas verlängert. Gesicht ausgedehnter gelb. (Tyloiden größer).
+TAXON= I. diversor WESMAEL
+175(180)
+CoIII dorsal ohne gelben Fleck.
+176(179)
+Tyloiden kurz, nicht auffallend schmal. Trochantellus III gelb.
+177(178)
+T2-4 fast ganz gelbrot. Gesicht mit mehr schwarz. TsIII apikal deutlich verdunkelt. 41-45Gg. Tyl 8-17,19, relativ kurz (z.B. auf Gg12: 48-20:102). Petiolus mit hellen Flecken in den Hinterecken. Area superomedia stark quer (ca. 2 mal so breit wie lang). Subalarleiste dick und ausgedehnter weiß. TsIII ganz hell. Gesicht ausgedehnter schwarz. [Sehr ähnlich vorax und d'ufymus, bei diesen aber die Tyloiden in der Mitte der Gg liegend und länger, bei bellipes hingegen in der Basalhälfte und kürzer.]
+TAXON= I. bellipes WESMAEL
+178(177)
+T2-3(-4) gelb mit dunkel gemischt. Gesicht mit weniger schwarz, (meist) fast ganz gelb. TsIII fast nicht (höchstens TsIII5 teilweise) geschwärzt. 45-46Gg. Tyl 7,8-16,19. Petiolus ganz schwarz. Trochantellus i n nicht gelb. Körperlänge 18,6-19,7.
+TAXON= I. ? pofyxanthus KRIECHB.
+179(176)
+Tyloiden lang und schmal (z. B. auf Gg12: 90-20:110). Trochantellus III nicht gelb, fast schwarz. Petiolus ganz schwarz. Gesicht fast ganz bis ganz gelb. TsIII apikal zu 1/3 dunkel. T2-4 ganz rot, ohne schwarz.
+TAXON= I. melanobatus GRAVENHORST
+180(175)
+CoIII dorsal mit gelbem Fleck. Gesicht meist ganz gelb, mit wenig schwarz. Trochantellus m ganz gelb. TsIII apikal fast nicht (höchstens TsIII5 teilweise) verdunkelt. Tyl 7,8-17,19, relativ breit (z.B. auf Gg12: 87-28:113). 45-47Gg. Petiolus ganz schwarz. T4 fast immer überwiegend schwarz. (Gastrocoelen kleiner als bei didymus und vorax.)
+TAXON= I. ruttneri HEINRICH
+181(172)
+Geißel ventral heller (nicht ganz hell), oft mit Ring. Ecken des Postpetiolus mit gelben Flecken. T2-3 gelbrot bis gelb. T4 zu einem erheblichen Anteil ebenfalls hell gefärbt. Subalarleiste sehr dick und ganz gelb.
+182(183)
+Tyloiden 8-17,19, relativ groß (größer als bei bellipes, z.B. auf Gg12: 76-23:110). CoI+II gelb gefleckt. Geißel ventral kaum (oder nicht) heller. Trochantellus III gelb. Schläfen von lateral gesehen breiter. Augen von lateral gesehen kürzer als die Schläfen (25:58).
+TAXON = I. didymus GRAVENHORST
+183(182)
+Tyloiden 8,10-18,20. Col+II gelb gefleckt, aber nicht überwiegend gelb. Geißel ventral deutlich heller, oft mit Ring oder Ringrudiment. CoIII dorsal meist mit großem gelbem Fleck. Körperlänge 18,1-18,8, 43-46Gg. Augen in Ansicht von lateral so lang wie oder länger als die Schläfen (30:59). (Gastrocoelen breiter und tiefer als bei ruttneri). [Siehe auch Thyrateles haereticus S. 359. Diese Art hat deutlich weniger Geißelglieder und ist kleiner.]
+TAXON= I. vorax GEOFFROY
+184(167)
+Kleinere Arten: 8,8-17,4.29-42Gg.
+185(188)
+Kleine Arten (8,8-11,2). 32-34Gg. T(5),6-7 mit sehr breiten weißen Flecken, die fast die gesamte Breite der Tergite einnehmen.

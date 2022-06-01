@@ -1,0 +1,12 @@
+TYPE= key
+
+ID= Xestopelta
+
+TITLE= Key to species
+
+1
+Propodeum with carinae mostly reduced, at most with pleural and traces of lateral longitudinal carinae. Hind tibia orange, apex slightly dark.
+TAXON= Xestopelta gracillima (Schmiedeknecht)
+-
+Propodeum with pleural and lateral carinae usually complete, apical transverse carina partly present or at least indicated by carinulae. Hind tibia white with dark subbasal and apical bands. (Female unknown).
+TAXON= Xestopelta sexcincta (Brauns)

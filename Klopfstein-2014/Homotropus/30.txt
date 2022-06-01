@@ -1,6 +1,0 @@
-30
-Scutellum often with a large yellow spot. First tergite 1.3–1.6 times longer than wide in females, 1.4–1.7 in males. Female metasoma gradually tapering, not strongly compressed. Hind coxa of female black or orange, but hind trochanter always with dark marks. Spiracle of third tergite dorsal, above lateral fold. Mesoscutum and mesopleuron extensively coriaceous and matt.
-TAXON= Homotropus pallipes (Gravenhorst)
--
-Scutellum at most with a small yellow spot apically, usually black. First tergite 1.0–1.4 times longer than wide in females, 1.2–1.5 in males. Female metasoma more strongly compressed apically. Hind trochanter the same colour as coxa, or paler. Spiracle of third tergite on or behind lateral fold. Mesoscutum partly with smooth and shining areas, mesopleuron with coriaceous areas restricted to lower half.
-TAXON= Homotropus signatus (Gravenhorst)

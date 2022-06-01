@@ -1,5 +1,0 @@
-TYPE= key
-
-ID= Diplazontinae-genera
-
-TITLE= Key to the Western Palaearctic genera of Diplazontinae

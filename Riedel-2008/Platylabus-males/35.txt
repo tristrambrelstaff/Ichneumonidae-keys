@@ -1,6 +1,0 @@
-35
-Flagellum less slender, often with ivory stripe, with 35-37 segments. Postpetiole and tergite 2 basally aciculate. Collare usually with ivory spot. Hind angles of pronotum black.
-TAXON= P. intermedius Holmgren, 1871
--
-Flagellum more slender, often entirely black, with 37-40 segments. Postpetiole and tergite 2 in the basal third rugulose. Collare usually black. Hind angles of pronotum often ivory.
-TAXON= P. opaculus Thomson

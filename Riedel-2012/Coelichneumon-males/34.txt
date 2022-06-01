@@ -1,6 +1,0 @@
-34
-Beine überwiegend schwarz oder braun.
-TAXON= C.spec 1
--
-Beine überwiegend rot.
-35

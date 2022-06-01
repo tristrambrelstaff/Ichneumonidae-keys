@@ -1,0 +1,42 @@
+TYPE= key
+
+ID= Syrphoctonus
+
+TITLE= Key to species
+
+1
+Hind coxa red or yellow.
+2
+-
+Hind coxa black, at least basally.
+3
+2
+Epicnemial carina indistinct on mesosternum, only present laterally. Metasoma black, tergites often with yellow hind margins, first tergite as long as or shorter than wide. In females, metasoma dorsoventrally depressed to gradually tapered.
+TAXON= Syrphoctonus tarsatorius (Panzer)
+-
+Epicnemial carina fully developed. Metasoma usually orange on tergites 2 and 3, first tergite longer than wide. In females, metasoma usually laterally compressed posterior to fourth segment.
+TAXON= cf. Homotropus signatus (Gravenhorst)
+3
+Scutellum black.
+4
+-
+Scutellum marked with yellow.
+6
+4
+Clypeus more than 2.5 times broader than high, smooth and polished, with apical lobes very weakly developed. Mesoscutum distinctly punctate, the punctures separated by less than their diameter, on a more or less smooth background, mespleuron weakly punctate at least along anterior margin. Metasoma black with yellow spots on posterior corners of tergite 3 in females and 3 or 4 to 5 in males.
+TAXON= Syrphoctonus borealis Holmgren
+-
+Clypeus usually about 1.5–2.0 times broader than high, with some coriaceous sculpture and apical lobes well developed. Mesoscutum mostly coriacesous and matt, punctures usually weak and rather sparse. Metasoma either entirely black, marked with orange, or with yellow spots on basal corners of some tergites, or with narrow yellow hind margins.
+5
+5
+Epicnemial carina broadly interrupted on mesosternum, only present laterally. Metasoma black. Hind tibia white or yellow with a dark apex. Mesosoma evenly shiny-coriaceous. First tergite as long as or shorter than wide.
+TAXON= Syrphoctonus idari Diller
+-
+Epicnemial carina fully developed. Metasoma usually orange on tergites 2 and 3. Hind tibia uniformly orange. Mesosoma with irregular sculpture, often coriaceous only on lower half of mesopleuron. First tergite longer than wide.
+TAXON= cf. Homotropus signatus (Gravenhorst)
+6
+Scutellum yellow or with a yellow apical spot. Metasoma usually orange on tergites 2 and 3 and with yellow posterior bands on tergites 2–5, especially in males. Male antenna with tyloids on flagellomeres 7–14.
+TAXON= Syrphoctonus desvignesii (Marshall)
+-
+Scutellum with a yellow margin, black centrally. Metasoma black, in males with two yellow spots on basal corners of tergite 3. Male antenna with tyloids on flagellomeres 2 to 10 or 11.
+TAXON= Syrphoctonus fissorius (Gravenhorst)

@@ -1,6 +1,0 @@
-60
-Fühlergeißel mit 29-31 Gliedern, Thyridium breit, etwa 1,2-1,5x so breit wie das Intervall (Abb. 17d). Alle Coxen schwarz, Coxen I und II manchmal weißlich gefleckt.
-TAXON= C. probator HORSTMANN 2000
--
-Fühlergeißel mit 33-36 Gliedern, Thyridium schmaler, etwa 0,8x so breit wie das Intervall, Coxen I-II rot, Coxa III schwarz.
-TAXON= C. moestus (GRAVENHORST 1829)

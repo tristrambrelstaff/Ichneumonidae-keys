@@ -1,0 +1,122 @@
+TYPE= key
+
+ID= Sussaba
+
+TITLE= Key to species
+
+NOTE= [Errata, Corrigenda & Comments from <a href="https://www.bioinfo.org.uk/html/b160134.htm">BioInfo (UK)</a> (<a href="https://web.archive.org/web/20200112160139/https://www.bioinfo.org.uk/html/b160134.htm">archived</a>):  <b>Sussaba</b> Couplet 12 is actually the second half of couplet 11. Couplet 13 and all following couplets should be renumbered one less (13->12, 14->13 etc). These corrections have been applied to the couplets below.] 
+
+1
+Face entirely coriaceous and matt, with punctures indistinct. Metasoma entirely black or with yellow markings.
+2
+-
+Face mostly smooth and shining, usually punctate, with coriaceous areas restricted to inner orbits and central elevation. Metasoma often extensively marked with orange but sometimes black.
+3
+2
+Female with flagellomeres 10 to 20 ventrally with conspicuous areas bearing a short velvety pile and lacking multiparous plate sensilla (cf. Fig. 5). Male with tyloids on flagellomeres 6 to 8. In female, all trochanters marked with black. Male with main part of pronotum and mesosternum black.
+TAXON= Sussaba placita Dasch
+-
+Female antenna with multiporous plate sensilla present also ventrally on apical flagellomeres, without conspicuous velvety areas. Males with tyloids on flagellomeres 6 or 7 to 11 or 12. Females with fore and mid trochanters yellow. Males with pronotum and mesosternum mainly yellow.
+TAXON= Sussaba punctiventris (Thomson)
+3
+Female (face mainly black, often with a yellow central spot; antenna without tyloids; slender ovipositor sheaths protruding).
+4
+-
+Male (face mainly or entirely yellow; antenna usually with tyloids; stout parameres usually concealed in apex of metasoma).
+12
+4
+Antenna with 16 or fewer flagellomeres. Mesopleuron and face distinctly punctate.
+5
+-
+Antenna with 17 or more flagellomeres. Mesopleuron and face usually smooth and impunctate, or partly coriaceous.
+6
+5
+Mesoscutum centrally entirely smooth and mostly impunctate, at most with some very sparse, irregular punctures, and punctate anteriorly. Antenna with 14/15 flagellomeres. Metasoma compressed from third segment, broadest part is at apex of second tergite (Fig. 23A). Face conspicuously protruding between mandibles and lower margin of the eye.
+TAXON= Sussaba erigator ♀ (Fabricius)
+-
+Mesoscutum punctate over entire surface. Antenna with 16 or rarely 15 flagellomeres. Metasoma conspicuously knife-like, compressed behind second segment, broadest part is at front half of second tergite (Fig. 23B). Face less protruding between mandibles and lower margin of the eye.
+TAXON= Sussaba roberti ♀ n.sp
+6
+Fore and mid coxae entirely yellow, hind coxa either orange or black only on basal half, remainder yellow. First metasomal tergite 1.7–2.2 times as long as wide.
+TAXON= Sussaba cognata ♀ (Holmgren)
+-
+At least hind coxa mainly black, often all coxae black basally. First tergite of metasoma at most 1.5 times as long as wide.
+7
+7
+Metasoma strongly compressed from third segment, knife-like (Fig. 23C); sixth and seventh segments often mostly exposed, not retracted beneath fifth segment.
+8
+-
+Metasoma less strongly compressed, evenly tapering from fourth segment to apex (Fig. 23D); sixth and seventh segments sometimes mostly retracted beneath fifth segment (although this depends a lot on the way the specimens are mounted).
+9
+8
+Fore and mid coxae mainly or entirely yellow, hind coxa black or black-marked basally. Metasoma with at least some restricted orange markings. Mesopleuron entirely smooth on upper half, impunctate.
+TAXON= Sussaba dorsalis ♀ (Holmgren)
+-
+Fore and mid coxae black with yellow apices, hind coxa entirely black. Metasoma black with yellow markings. Mesopleuron distinctly punctate even on upper half.
+TAXON= Sussaba montana ♀ Manukyan
+9
+Antenna with 17, sometimes 18 flagellomeres. Metasoma mainly black, at most with restricted yellow and dark orange markings.
+TAXON= Sussaba hinzi ♀ Diller
+-
+Antenna with at least 19 flagellomeres. Metasoma often with at least tergite 2 apically and entire tergite 3 orange but sometimes entirely black.
+10
+10
+Fore and mid trochanters and apex of hind trochanter yellow. Hind surface of hind coxa with at least some coriaceous sculpture. Mesoscutum without or at most with small shoulder marks.
+TAXON= Sussaba flavipes ♀ (Lucas)
+-
+Fore or at least mid trochanters marked with black, hind trochanter mainly black. Hind coxa often smooth and shining at least centrally, or if coriaceous, then all coxae and trochanters dark. Mesoscutum with or without yellow shoulder marks.
+11
+11
+Outer hind surface of hind coxa mainly coriaceous and matt, with very small smooth areas. All trochanters black-marked, hind trochanter mainly black. Mesoscutum and subtegular ridge usually entirely black. Mesopleuron usually with some coriaceous sculpture on lower part.
+TAXON= Sussaba aciculata ♀ (Ruthe)
+-
+Hind coxa smooth and shining between some faint punctures and irregular sculpture on outer side. Mesoscutum usually with yellow shoulder marks, subtegular ridge yellow. Mesopleuron usually entirely smooth and shining.
+TAXON= Sussaba pulchella ♀ (Holmgren)
+12
+Antenna without tyloids. First tergite more than 1.8 times longer than wide.
+TAXON= Sussaba cognata ♂ (Holmgren)
+-
+Antenna with tyloids on segments 6 to 9 or similar. First tergite at most 1.9 times longer than wide, often shorter.
+13
+13
+Tyloids two-coloured, yellow on ventral side, dark brown dorsally.
+14
+-
+Tyloids uni-coloured dark brown.
+16
+14
+Hind coxa black at most on basal third, remainder yellow, other coxae and trochanters entirely yellow. Metasoma somewhat elongate, with second tergite at least 1.6 times longer than basally wide. Tergite 3 usually orange with a black diamond-shaped mark in the middle. Femora without black markings.
+TAXON= Sussaba dorsalis ♂ (Holmgren)
+-
+Hind coxa mainly black, mid coxa and hind trochanter often black-marked basally. Metasoma not so elongate, second tergite at most 1.5 times longer than wide. Third tergite usually with two yellow basal markings and an orange apical stripe, dark centrally or entirely dark. Femora often marked with black lines ventrally.
+15
+15
+Antenna with 19 to 20 flagellomeres. Metasoma entirely black or marked with dark red. First tergite of metasoma at most 1.4 times as long as wide, second 0.9–1.1 times as long as wide.
+TAXON= Sussaba hinzi ♂ Diller
+-
+Antenna with 21–22 flagellomeres. Metasoma marked with yellow and orange. First tergite of metasoma at least 1.5 times as long as wide, second at least 1.1 times as long as wide.
+TAXON= Sussaba pulchella ♂ (Holmgren)
+16
+Mesopleuron distinctly punctate at least on lower half. First tergite at most 1.4 times longer than wide apically.
+17
+-
+Mesopleuron almost completely smooth and shining, impunctate, at most with some irregular sculpture on lower half. First tergite often more than 1.4 times longer than wide apically.
+19
+17
+Antenna with tyloids on flagellomeres 6 to 12. Metasoma black with yellow markings on third and fourth tergites. Larger species, fore wing length 4.5–5.5mm.
+TAXON=Sussaba montana ♂ Manukyan
+-
+Antenna with tyloids on flagellomeres 5 to 8 or 9. Metasoma with second to fourth tergites usually orange-marked. Smaller species, fore wing length at most 4.2mm.
+18
+18
+Antenna with tyloids on flagellomeres 5 to 8, rarely 5 to 9, first tyloid of about the same size as second tyloid. Face more strongly protruding between clypeus and compound eye.
+TAXON= Sussaba erigator ♂ (Fabricius)
+-
+Antenna with tyloids on flagellomeres 5 to 9 or 5 to 10, first tyloid often distinctly smaller than second tyloid. Face less strongly protruding between clypeus and compound eye.
+TAXON= Sussaba roberti ♂ sp. nov.
+19
+Fore and mid coxae and all trochanters yellow. Mesonotal shoulder marks and subtegular ridge usually yellow. Hind coxa with some smooth and shining and some irregularly sculptured areas. Face entirely yellow.
+TAXON= Sussaba flavipes ♂ (Lucas)
+-
+All coxae mostly black, trochanters at least marked with black. Mesoscutum and subtegular ridge black. Hind coxa with strongly coriaceous sculpture rendering it matt over entire surface. Face often black-marked below antennal sockets.
+TAXON= Sussaba aciculata ♂ (Ruthe)

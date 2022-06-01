@@ -1,0 +1,345 @@
+TYPE= key
+
+ID= Coelichneumon-males
+
+TITLE= Bestimmungsschlüssel der westpaläarktischen Arten der Gattung Coelichneumon THOMSON - Males
+
+NOTE= (von C. graecator, C. italicus, C. madritinus, C. nigritor, C. paraviolaceiventris, C. parvulus, C. pedemontanus, C. rufigaster und C. zwakhalsi unbekannt)
+
+1
+Tibia III basal oder subbasal mit weißlichem Ring.
+2
+-
+Tibia III basal oder subbasal ohne einen weißlichen Ring, aber manchmal mit weißlichen Längsstreifen.
+7
+2
+Metasoma überwiegend rot, Scutellum ganz weißlich.
+TAXON= C. torsor (THUNBERG 1824)
+-
+Metasoma ganz schwarz, Scutellum oft mehr oder weniger schwarz.
+3
+3
+Große Art, 18-20 mm. Fühlergeißel mit 52 Gliedern und breitem gelblichen Ring auf den Geißelgliedern 9-17. Kopf, Mesosoma und Beine mit ausgedehnter gelblicher Zeichnung.
+TAXON= C. opulentus (TASCHENBERG 1871)
+-
+Kleinere Arten, 11-17 mm, Fühlergeißel schwarz, mit höchstens 47 Geißelgliedern. Zeichnung des Körpers weniger ausgedehnt und gewöhnlich weißlich.
+4
+4
+Tibia III und Metatarsus III basal weißlich.
+5
+-
+Tibia III subbasal weißlich, basal schwarz, Metatarsus III gewöhnlich ganz schwarz.
+6
+5
+[Gesicht ganz weißlich, Vertex und Collare immer schwarz. Fühlergeißel mit 38-43 Gliedern, Tyloide linear (wie Abb. 23a), auf den Geißelgliedern 5/6-13/15. Scutellum ± weißlich, manchmal Mesosoma ganz schwarz. 11-17 mm.
+TAXON= Ichneumon deliratorius LINNAEUS 1758]
+-
+Gesicht in der Mitte schwarz, Vertex und Collare gewöhnlich weißlich. Fühlergeißel mit 43-47 Gliedern, Tyloide lang oval (Abb. 22d), auf den Geißelgliedern 3/5-16/18. Scutellum schwarz oder nur mit zwei weißlichen Flecken in den Hinterecken. 17-19 mm.
+TAXON= C. biannulatus (GRAVENHORST 1820)
+6
+Scutellum apikal gewöhnlich weißlich (wie Abb. 7b), ebenso Subalarleiste und
+Hinterecke oder Oberrand des Pronotums. Gesicht in der Mitte und Trochanteren
+schwarz. Fühlergeißel mit 35-39 Gliedern. 12-18 mm.
+TAXON= C. desinatorius (THUNBERG 1824)
+-
+Scutellum schwarz, ganz selten apikal weißlich. Gesicht ganz und Trochanteren I und II weißlich. Fühlergeißel mit 41-42 Gliedern. 12-18 mm.
+TAXON= C. dubius (TISCHBEIN 1876)
+7
+Tergit 2 und meist auch Tergit 3 dorsolateral mit weißlichen Flecken. Beine überwiegend schwarz, Scutellum weißlich.
+8
+-
+Tergite 2 und 3 ohne weißlich Flecken.
+10
+8
+Tyloide ab dem siebten oder achten Geißelglied, linear bis lang oval. Fühlergeißel mit 40-44 Gliedern. Thyridium groß, meist deutlich breiter als das Intervall. Drittes Tergit dorsolateral gewöhnlich ohne weißliche Flecken. Große Art, 16-19 mm.
+TAXON= C. bohemani (HOLMGREN 1864)
+-
+Tyloide gewöhnlich ab dem fünften oder sechsten Geißelglied, kurz bis lang oval. Fühlergeißel mit 35-41 Gliedern. Drittes Tergit dorsolateral gewöhnlich mit weißlichen Flecken. Meist kleinere Arten, 12-16 mm.
+9
+9
+Fühlergeißel mit weißlichem Streif oder Ring. Metasoma ± stark bläulich glänzend. Postpetiolus meist ohne oder seltener mit kleinen weißlichen Flecken, diese kleiner als die Flecke des zweiten Tergits. Coxen gewöhnlich schwarz, selten Coxen I und II mit weißlichen Flecken.
+TAXON= C. cyaniventris (WESMAEL 1859)
+-
+Fühlergeißel gewöhnlich ohne weißlichen Streif, wenn mit weißlichem Ring (var. descrescens), dann Coxen I-II mit weißlichen Flecken. Metasoma schwächer oder nicht bläulich glänzend. Postpetiolus gewöhnlich mit großen weißlichen Flecken.
+TAXON= C. sugillatorius (LINNAEUS 1758)
+10
+Scutellum ganz weißlich oder apikal mit weißlichem Fleck, dieser oft seitlich verengt, aber ganz selten in der Mitte abgeschwächt (manchmal bei C. falsificus (WESMAEL ). Präscutellarleiste schwarz. Fühler manchmal mit weißlichem Ring. Metasoma schwarz.
+11
+-
+Scutellum ganz oder überwiegend schwarz, manchmal mit weißlichen Streifen am Seitenrand oder mit zwei apikalen Flecke, selten diese Flecken verschmolzen, aber in der Mitte nur schmal verbunden (hantelförmig). Wenn Scutellum vorwiegend weiß, dann Metasoma apikal mehr oder weniger rot. Präscutellarleiste oft weißlich gezeichnet. Fühlergeißel ohne weißlichen Ring.
+17
+11
+Femora und Tibien rot. Schläfe hinter dem Auge parallel oder verbreitert. Fühlergeißel ohne weißlichen Ring.
+12
+-
+Beine überwiegend schwarz; wenn sehr selten mehr oder weniger rötlich, dann Schläfe hinter dem Auge verengt.
+13
+Fühlergeißel gedrungen, mit 45-48 Gliedern, Geißel-Augen-Index etwa 0,41. Gesicht und Clypeus ganz weißlich. Oberrand des Pronotums weißlich, aber Collare schwarz. Schläfe hinter dem Auge etwas verbreitert, Occiput tief ausgeschnitten. Postpetiolus breit, Seitenfelder mindestens so breit wie das Mittelfeld. Thyridium schmaler als das Intervall (Index etwa 0,7). Femur III gedrungen, etwa 3,2-3,6x so lang wie hoch. 15-17 mm.
+TAXON= C. rudis (FONSCOLOMBE 1847)
+-
+Fühlergeißel weniger gedrungen, mit 43-46 Gliedern, Geißel-Augen-Index 0,47-0,56. Gesicht in der Mitte schwarz. Schläfe hinter dem Auge nicht deutlich verbreitert, Occiput nicht ungewöhnlich tief ausgeschnitten. Seitenfelder des Postpetiolus schmaler als das Mittelfeld. Thyridium größer, etwa so breit wie das Intervall. Femur III schlanker, etwa 3,8x so lang wie hoch. 17-18 mm.
+TAXON= C. atratorius (VILLERS 1789)
+14
+Fühlergeißel mit 39-41 Gliedern und einem weißlichen Streif auf den Gliedern 10/11-15. Gesichtsorbiten breit weißlich (gewöhnlich breiter als der schwarzer Längsstreifen in der Gesichtsmitte) (Abb. 26a) oder Gesicht ganz weißlich. Schläfe hinter dem Auge ± deutlich verengt. Postpetiolus wenig verbreitert, Seitenfelder nur 0,5-0,6x so breit wie das Mittelfeld, dieses mit 10-15 feinen Längsstreifen. Tergit 2 länger als breit (1,1-1,3x). Metatarsus I mit mehr oder weniger deutlichem Apikalzahn. Femur III schlanker, etwa 4,1-4,4x so lang wie hoch. Pterostigma bräunlich. 16-19 mm.
+TAXON= C. nobilis (WESMAEL 1857)
+-
+Fühlergeißel mit 39-43 Gliedern und einem weißlichen Streif auf den Gliedern 8/10-12. Gesichtsorbiten schmaler weißlich (gewöhnlich schmaler als die schwarze Färbung der Gesichtsmitte; Abb 26b). Schläfe hinter r dem Auge wenig verengt. Postpetiolus breiter, Seitenfelder 0,7-0,9x so breit wie das Mittelfeld, dieses mit etwa sechs bis acht groben Längsstreifen. Tergit 2 etwas breiter als lang oder quadratisch. Metatarsus I ohne oder mit schwachem Apikalzahn, Femur III gedrungener, 3,6-4,1x so lang wie hoch. Pterostigma rotgelb. 15-18 mm.
+TAXON= C. sinister (WESMAEL 1848)
+15
+Metatarsus I mit großem Apikalzahn (Abb. 27b). Fühlergeißel mit 38-42 Gliedern. Tyloide linear, ab dem siebenten bis neunten Geißelglied. Postpetiolus apikal oft mit weißlichen Flecken. 16-20 mm.
+TAXON= C. falsificus (WESMAEL 1845)
+-
+Metatarsus I ohne deutlichen Apikalzahn(Abb. 27c); wenn dieser manchmal deutlicher ist (bei C. biguttulatus (KRIECHBAUMER )), dann weißliche Färbung ausgedehnter (Coxen I-II weißlich gefleckt) und Tyloide ab dem sechsten bis siebenten Geißelglied.
+16
+16
+Coxen I und II gewöhnlich ganz schwarz, nur selten Coxa I mit einem kleinen weißlichen Fleck. Fühlergeißel mit 39-44 Gliedern, Tyloide (Abb. 21d) ab dem siebenten bis neunten Geißelglied. Schläfe f hinter dem Auge deutlich verengt, Wange schmal, im Profil etwa 0,9x so breit wie die Augen. Femur III schlank, etwa 4,1-4,3x so lang wie hoch. Scutellum ganz oder in der apikalen Hälfte weißlich, Postscutellum gewöhnlich schwarz. 14-19 mm.
+TAXON= C. leucocerus (GRAVENHORST 1820)
+-
+Coxen I und II gewöhnlich ausgedehnt weißlich gefleckt. Fühlergeißel mit 39-42 Gliedern, Tyloide ab dem sechsten oder siebenten Geißelglied. Schläfe gewöhnlich weniger stark verengt, Wange breiter, im Profil mehr als 1,0x so breit wie die Augen. Femur III gedrungener, etwa 3,5-3,8x so lang wie hoch. Scutellum apikal mit rechteckigem weißlichen Fleck, auch Postscutellum gewöhnlich weißlich gefleckt. 18-20 mm.
+TAXON= C. biguttulatus (KRIECHBAUMER 1875)
+17
+Tyloide ab dem zweiten oderr dritten Geißelglied. Fühler schwarz, Gesichtsorbiten und Seiten des Clypeus breit weißlich, oft auch die äußeren Orbiten. Metatarsus I mit deutlichem Apikalzahn. Mesosoma hell behaart, mit ausgedehnter weißlicher Zeichnung. Metasoma schwarz. Beine ausgedehnt rot. 15-17 mm.
+TAXON= C. bilineatus (GMELIN 1790)
+-
+Tyloide erst ab dem fünften Geißelglied; wenn (selten) ab dem dritten Geißelglied vorhanden, dann Merkmale sonst anders.
+18
+18
+Kleine Art, 10-11 mm. Coxen und Trochanteren I-II ganz weißlich, Coxen III dorsal weißlich gefleckt. Gesicht ganz weißlich, Körper mit ausgedehnter weißlicher Zeichnung. Tyloide nicht erkennbar abgegrenzt.
+TAXON= C. moestus (GRAVENHORST 1829)
+-
+Körper meist größer. Coxen und Trochanteren gewöhnlich mehr oder weniger schwarz. Weißliche Zeichnung des Körpers weniger ausgedehnt, Gesicht meist nicht ganz weißlich. Tyloide gewöhnlich deutlich abgegrenzt.
+19
+19
+Gesicht ganz weißlich, Scutellum mit weißlichen Rändern oder Hinterecken, Präscutellarleiste schwarz. Fühlergeißel mit 32-36 Gliedern. Mesoscutum neben der Punktierung deutlich granuliert, matt (Abb. 29a). Thyridium sehr breit, mehr als 2x so breit wie das Intervall (wie Abb. 15c). 12-14 mm.
+TAXON= C. eburnifrons (WESMAEL 1857)
+-
+Wenn (ganz selten) Gesicht ganz weißlich, dann auch Tibien III und Postpetiolus mit weißlicher Zeichnung. Thyridium schmaler, höchstens 1,5x so breit wie das Intervall. Mesoscutum zwischen den Punkten ± glänzend.
+20
+20
+Seitenfelder des Postpetiolus hinter den Stigmen höchstens 0,6x so breit wie das Mittelfeld (Abb. 13a, 14d). Metatarsus I mit deutlichem Apikalzahn oder Tyloide lang und linear. Kopf, Mesosoma und Postpetiolus oft mit ausgedehnter weißlicher Zeichnung. Präscutellarleiste schwarz.
+21
+-
+Seitenfelder des Postpetiolus mindestens 0,7x so breit wie das Mittelfeld. Metatarsus I gewöhnlich ohne Apikalzahn. Tyloide meist oval; wenn schmaler, dann auch kürzer. Äußere Orbiten oft we ißlich gestreift
+25
+21
+Tyloide mehr oder weniger linear (wie Abb. 22a), die längsten etwa 0,8x so lang wie die Glieder. Metatarsus I mit schwachem Apikalzahn. Weißlich sind gewöhnlich Längsstreifen auf der Vorderseite aller Tibien, Flecken der Coxen I und II und Trochanteren, fast das ganze Gesicht und Clypeus, äußere Orbiten (unten breit) und Fleck auf dem Mittelfeld des Postpetiolus. Behaarung des Mesosomas unten hell. 13-15 mm.
+TAXON= C. cretatus (GRAVENHORST 1820)
+-
+Tyloide gewöhnlich kürzer und/oder mehr oder weniger oval (Abb. 22c). Metatarsus I mit mehr oder weniger deutlichem Apikalzahn. Scutellum höchstens apikal mit weißlichen Flecken. Mittelfeld des Gesichts ganz oder fast ganz und äußere Orbiten schwarz. Coxen, Trochanteren, Tibia III und Metasoma ohne weiße Zeichnung. Femora, Tibien und Tarsen rot bis schwarz.
+22
+22
+Meso- und Metasoma schwarz, selten Hinterecke des Pronotums mit weißlichem Fleck.
+23
+-
+Mesosoma gewöhnlich mit ausgedehnter weißlicher Zeichnung und/oder Metasoma oft mehr oder wenig rot. Mesosoma hell behaart.
+24
+23
+Pterostigma gelblich-braun., Mesosoma unten mit bräunlicher Behaarung. Femora und Tibien schwarz bis rot. 11-15 mm.
+TAXON= C. nigerrimus (STEPHENS 1835)
+-
+Pterostigma schwärzlich. Mesosoma hell behaart. Beine schwarz, Tibien vorn mit weißlichen Streifen. 16 mm.
+TAXON= C. sardinicus nov.sp.
+24
+Tyloide auffallend groß, oval (wie Abb. 22d), maximal die ganze Länge des Gliedes einnehmend. Fühlergeißel mit 44-46 Gliedern. Metasoma schwarz. Vertex ohne weißlichen Fleck. Femur III und Tibia III schwärzlich oder bräunlich. Area superomedia mit deutlichen Apikalleiste. 13-16 mm.
+TAXON= C. funebrator HORSTMANN 2006
+-
+Tyloide kleiner, oval (wie Abb. 21c), maximal höchstens 0,6x so lang wie das Glied. Fühlergeißel mit 37-43 Gliedern. Metasoma fast immer mindestens mit ± breiten roten Rändern der mittleren Tergite, nicht selten die Tergite 2-7 ganz rot. Area superomedia gewöhnlich hinten nicht begrenzt. 13-16 mm.
+TAXON= C. haemorrhoidalis (GRAVENHORST 1820)
+25
+Kopf groß, Schläfe hinter dem Auge parallel oder etwas verbreitert. Femora und Tibien rot, Tibia III höchstens apikal wenig verdunkelt. 14-19 mm.
+TAXON= C. validus (BERTHOUMIEU 1894)
+-
+Schläfe hinter dem Auge mehr oder weniger deutlich verengt. Beine rot oder schwarz (oft wie bei der Gattung üblich).
+26
+26
+Mesosoma gewöhnlich schwarz, höchstens Hinterecke des Pronotums aufgehellt. Metasoma schwarz.
+27
+-
+Wenigstens die Präscutellarleiste weißlich, Mesosoma oft mit ausgedehnter weißlicher Zeichnung; wenn ganz schwarz, dann Metasoma ± rot.
+33
+27
+Clypeus in der Mitte fein längsrissig. Metatarsus I mit sehr großem Apikalzahn. Vertex ohne weißlichen Fleck. Collare gelblich, Mesosoma sonst ganz schwarz. Femur II apikal und ventral konkav ausgehöhlt.
+TAXON= Barichneumon gemellus (GRAVENHORST 1829)
+-
+Merkmalskombination anders.
+28
+28
+Beine ganz überwiegend schwarz, nur die Beine I vorn mehr oder weniger weißlich, manchmal auch Femur III basal schmal rötlich. Flügel mehr oder weniger deutlich bräunlich getrübt, Pterostigma schwärzlich.
+TAXON= Hierher vermutlich die ♂♂ von C. italicus nov.sp., C. merula (BERTHOUMIEU ), C. litoralis HORSTMANN C. pedemontanus nov.sp. und C. problematicus RIEDEL, CORUH & ÖZBEK
+-
+Beine überwiegend rot, wenigstens der Femur III.
+29
+29
+Fühlergeißel gedrungen, Geißel-Augen-Index 0,49, Femur III sehr gedrungen, etwa 3,1x so lang wie hoch. Tyloide sehr groß, oval, fast die Länge des Gliedes einnehmend (Abb. 22d). Occiput vor der Occipitalleiste in der Mitte mit deutlicher Quergrube.
+TAXON= C. pararudis RIEDEL 2008
+-
+Fühlergeißel gewöhnlich schlanker, Geißel-Augen-Index >0,5. Femur III schlanker, Tyloide meist kleiner. Occiput vor der Occipitalleiste ohne deutliche Quergrube.
+30
+30
+Kopf und Mesosoma mit auffallend langer bräunlicher Behaarung. Metasoma mehr oder weniger bläulich glänzend. Fühlergeißel mit 44-48 Gliedern. Beine überwiegend schwarz, nur Femur III, manchmal auch Femur II überwiegend rot. 14-15 mm.
+TAXON= C. subviolaceiventris (PIC 1908)
+-
+Kopf und Mesosoma kürzer, meist auch heller behaart. Metasoma gewöhnlich ohne bläulichen Glanz oder Fühlergeißel mit weniger Gliedern. Beine ausgedehnter rot.
+31
+31
+Flügel deutlich bräunlich getrübt, Pterostigma schwarz. Fühlergeißel mit 48 Gliedern. Gesicht mit weißlichen Vertexflecken, sonst ganz schwarz. Femur III etwa 3,7x so lang wie hoch. 17 mm.
+TAXON= C. nigratus (BERTHOUMIEU 1894)
+-
+Flügel wenig oder nicht getrübt. Pterostigma bräunlich. Fühlergeißel mit höchstens 47 Gliedern.
+32
+32
+Kleiner, 9-13 mm. Fühlergeißel mit 33-39 Gliedern. Femur III 3,5-4,0x so lang wie hoch.
+TAXON= C. consimilis (WESMAEL 1845)
+-
+Größer, 13-14 mm. Fühlergeißel mit 42-47 Gliedern. Femur III 3,9-4,3x so lang wie hoch. Beine überwiegend hellrot, Tarsus III mehr oder weniger verdunkelt.
+TAXON= C. impressor (ZETTERSTEDT 1838)
+33
+Mesoscutum gewöhnlich mit weißlichen Längsstreifen, oft auch Mesopleurum weißlich gefleckt. Helle Seitenstreifen des Scutellums hinten gewöhnlich verschmolzen (Abb. 11c). Metasoma schwarz. Tyloide lang oval bis linear.
+34
+-
+Mesoscutum und Mesopleurum gewöhnlich ganz schwarz; wenn mit weißlicher Zeichnung, dann Metasoma mehr oder weniger rot. Tyloide oft breit bis lang oval.
+37
+34
+Beine überwiegend schwarz oder braun.
+TAXON= C.spec 1
+-
+Beine überwiegend rot.
+35
+35
+ühlergeißel mit 35-38 Gliedern. Thyridium sehr breit, etwa 1,8-2,5x so breit wie das Intervall, zweites Tergit 0,9-1,1x so lang wie breit. Tibien und Tarsen III mehr oder weniger verdunkelt. Tyloide linear bis lang oval. 12-14 mm.
+TAXON= C. albicillus (GRAVENHORST 1820)
+-
+Fühlergeißel mit mindestens 40 Gliedern.
+36
+36
+Fühlergeißel mit 40-47 Gliedern, Tyloide breit oval (Abb. 21a). 14-16 mm.
+TAXON= C. comitator var. numeratus (BERTHOUMIEU 1894)
+-
+Fühlergeißel mit 47-49 Gliedern. Beine III rotgelb, Tibia III manchmal apikal schmal und Tarsus III mehr oder weniger verdunkelt. Tyloide lang oval. 12-19 mm.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894)
+37
+Metasoma schwarz.
+38
+-
+Metasoma ± rot.
+46
+38
+Fühlergeißel recht schlank, erstes Geißelglied etwa 2,5-2,6x so lang wie breit, Geißel-Augen-Index 0,56-0,60. Thyridium sehr breit, mindestens 1,3x so breit wie das Intervall. Metatarsus I ohne Apikalzahn.
+39
+-
+Fühlergeißel gedrungener, Geißel-Augen-Index höchstens 0,55. Merkmale sonst anders.
+40
+39
+Kleine Art, 10 mm, Fühlergeißel mit 32 Gliedern. Femur III überwiegend rot. Scutellum gewöhnlich seitlich weißlich gefleckt.
+TAXON= C. probator HORSTMANN 2000
+-
+Große Art, 16-17 mm. Fühlergeißel mit 39-44 Gliedern. Femur III dunkelbraun bis schwarz. Scutellum schwarz.
+TAXON= C. anthrax (DALLA TORRE 1901)
+40
+Präscutellarleiste weißlich, Mesosoma sonst schwarz. Beine schwarz, nur die Vorderbeine vorn mehr oder weniger aufgehellt.
+TAXON= C. problematicus RIEDEL, CORUH & ÖZBEK 2010
+-
+Mesosoma meist mit ausgedehnter weißlicher Zeichnung und/oder Beine mehr oder weniger rot.
+41
+41
+Größere Arten, 15-20 mm. Fühlergeißel mit (44)46-52 Gliedern. Hinterecke des Pronotums meist weißlich, aber Collare gewöhnlich schwarz. Pterostigma dunkelbraun bis schwarz. Tyloide linear bis schmal oval (Abb. 21c).
+42
+-
+Kleinere Arten, 10-16 mm. Fühlergeißel mit 40-47 Gliedern. Wenn Hinterecke des Pronotums weißlich, dann gewöhnlich auch Collare. Pterostigma bräunlich. Tyloide etwas breiter oval (Abb. 21a).
+44
+42
+Tyloide linear bis lang oval. Weißliche Zeichnung des Körpers ausgedehnter. Beine III rotgelb, Tibia III manchmal apikal schmal und Tarsus III mehr oder weniger verdunkelt. 12-19 mm.
+TAXON= C. dorsosignatus (BERTHOUMIEU 1894)
+-
+Tyloide breit oval (Abb. 21c). Weißliche Zeichnung des Körpers weniger ausgedehnt. Beine III oft mehr oder weniger verdunkelt oder schwarz.
+43
+43
+Scutellum wenig aber gleichmäßig gerundet, gewöhnlich im basalen 0,2-0,5 gerandet.
+TAXON= C. biguttorius var. concolor HEINRICH 1949
+-
+Scutellum flach, im basalen 0,7-0,8 gerandet.
+TAXON= C. oltensis CONSTANTINEAU , PIRVESCU & MIHALACHE 1979
+44
+Flügel mehr oder weniger getrübt. Coxa III oft zerstreut punktiert. Fühlergeißel mit 45 Gliedern, Tyloide lang oval. 12 mm.
+TAXON= C. nigratus (BERTHOUMIEU 1894)
+-
+Flügel häufig hyalin. Coxa III dicht punktiert.
+45
+45
+Mesosoma meist ausgedehnt weißlich: gewöhnlich Collare, Hinterecke des Pronotums, Subalarleiste, Präscutellarleiste und oft Seiten und/oder Hinterecken des Scutellums. III und Tibia III gewöhnlich gleichförmig rot oder schwarz. 12-16 mm.
+TAXON= C. comitator (LINNAEUS 1758)
+-
+Mesosoma gewöhnlich weniger ausgedehnt t weißlich gefleckt. Gewöhnlich Femur III rot, apikal schmal verdunkelt und Tibia III ganz verdunkelt.
+TAXON= C. erythromerus (RUDOW 1888)
+46
+Occiput zentral vor der Occipitalleiste mit ± deutlicher Quergrube (Abb. 30). Fühlergeißel mit 45-50 Gliedern. Femur III recht gedrungen, 3,5-3,8x so lang wie hoch.
+TAXON= C. nudicoxator AUBERT 1966
+-
+Occiput ohne oder nur mit schmaler Quergrube vor der Occipitalleiste. Femur III gewöhnlich schlanker.
+47
+47
+[Femur III sehr schlank, 4,7-5,0x so lang wie hoch. Scutellum ganz oder im apikalen 2/3 gelb. Area superomedia deutlich länger als breit.
+TAXON= Paracoelichneumon rubens (FONSCOLOMBE 1847)]
+-
+Femur III gedrungener; wenn so schlank, dann Scutellum weniger ausgedehnt weißlich und Area superomedia kürzer.
+48
+48
+Scutellum mäßig erhaben, apikal mit zwei rundlichen weißlichen Flecken oder überwiegend weißlich (Abb. 9b). Femur III schlank, etwa 4,3-4,9x so lang wie hoch. Präscutellarleiste schwarz. Fühlergeißel mit etwa 47-50 Gliedern, vom ersten Glied an deutlich gerippt. Tyloide linear bis lang oval. 15-19 mm.
+TAXON= C. ophiusae (KRIECHBAUMER 1890)
+-
+Scutellum ± flach; wenn mit weißlichen Seitenstreifen oder Flecken, dann auch Präscutellarleiste weißlich. Femur III oft weniger schlank, höchstens 4,4x so lang wie hoch. Basale Geißelglieder nicht deutlich gerippt.
+49
+49
+Kleine Art, 10 mm, Fühlergeißel mit 34 Gliedern. Mesosoma ganz schwarz. Tergite 1-5 schwarz, Tergite 6-7 braunrot.
+TAXON= C. quadriannulatus (GRAVENHORST 1829)
+-
+Größere Arten, mindestens 11 mm. Fühlergeißel mit mehr Gliedern. Mesosoma oft mit weißlicher Zeichnung.
+50
+50
+Mesosoma ganz schwarz. Scutellum im basalen 0,7 gerandet. Area basalis sehr groß und breit. Fühlergeißel mit 45 Gliedern, Tyloide auf den Geißelgliedern 6-21, breit oval. Femur III etwa 4,3x so lang wie hoch. Beine ± schwarz, Femur III abgesetzt rot.
+TAXON= C. metidjensis (BERTHOUMIEU 1894)
+-
+Mesosoma meist mit weißlicher Zeichnung. Femur III oft gedrungener (außer bei C. graecus HORSTMANN ).
+51
+51
+Meso- und Metasoma auffallend lang behaart, Coxen sehr dicht und lang, fast buschartig behaart. Fühlergeißel mit 43 Gliedern, Femur III 4,4x so lang wie hoch.
+TAXON= C. graecus HORSTMANN 2002
+-
+Behaarung, besonders an den Coxen weniger dicht und lang. Merkmale anders.
+52
+52
+Fühlergeißel mit höchstens 43 Gliedern. Tyloide schmal und weniger lang, nicht ganz die Apikalseite erreichend, auf den Geißelgliedern (7) 9-18 (22). Seitenfelder des Gesichts vorwiegend oder ganz weißlich.
+53
+-
+Fühlergeißel mit mehr als 43 Gliedern. Tyloide meist kurz. Femora und Basis des Metasomas oft schwarz. Innere Orbiten meist nicht so breit weißlich.
+55
+53
+Beine einschließlich der Coxen und Metasoma rot, erstes Tergit ± schwarz. Orbiten ausgedehnt weißlich, mit ein oder zwei schmalen Unterbrechungen. Tyloide manchmal recht kurz. 10-14 mm.
+TAXON= C. singularis (BERTHOUMIEU 1894)
+-
+Coxen schwarz, manchmal Coxen I und II weißlich gefleckt.
+54
+54
+Präscutellarleiste weißlich. Coxen I-II mit gelben Flecken. Metasoma oft nur apikal rot. Weißliche Ränder der Orbiten mit etwa drei Unterbrechungen. Tyloide lang. 9-15 mm.
+TAXON= C. lacrymator (FONSCOLOMBE 1847)
+-
+Präscutellarleiste schwarz.
+TAXON= C. haemorrhoidalis (GRAVENHORST 1820) in part
+55
+Metasoma höchstens an der Spitze rot. Femur III rot. Schläfe direkt hinter dem Augekaum verengt. Tyloide nicht groß, oval, auf den Geißelgliedern 5/6-19/21. 11-15 mm.
+TAXON= C. orbitator (THUNBERG 1824)
+-
+Metasoma gewöhnlich ausgedehnt rot. Femur III ± schwarz oder Schläfe stark verengt.
+56
+56
+Scutellum im mitteleren Drittel abgeflacht und im basalen 0,7-0,8 gerandet.
+TAXON= C. oltenensis CONSTANTINEANU , PIRVESCU & MIHALACHE 1979
+-
+Scutellum gleichmäßig flach gerundet und gewöhnlich nur im basalen 0,1-0,5 gerandet.
+57
+57
+Kopf stärker verengt. Stirn und Seiten des Pronotums stärker punktiert. Femora und Gaster rot bis schwarz, oft nur das erste Tergit schwarz. 15-17 mm.
+TAXON= C. biguttorius (THUNBERG 1789)
+- Kopf weniger stark verengt. Stirn und Seiten des Pronotums schwächer punktiert. Tyloide auf den Geißelgliedern 7-21. Femur III teils oder ganz schwarz. Metasoma nur apikal rot, gewöhnlich die Tergite 5-7 rot. 11-12 mm.
+TAXON= C. ruficauda (WESMAEL 1845)
+NOTE= This couplet is labelled 58 in the original but this does not fit in with the other couplets so I have changed it to 57.

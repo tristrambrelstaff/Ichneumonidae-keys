@@ -1,6 +1,0 @@
-28
-Pterostigma brownish-yellow. Flagellum strongly widened in the apical half, widest segments square or transverse. Hypostomal carina strongly raised. Ivory stripes on the flagellum usually covering 3-4 segments. Outer orbits usually with ivory marks. Thyridia somewhat oblique, gastrocoeli usually ± impressed (fig. 29). Tarsal III-index 1.2-1.3. Larger, body length 5.5-7.0 mm.
-TAXON= P. iridipennis (Gravenhorst, 1829)
--
-Pterostigma pale yellow. Flagellum moderately widened in the apical half, widest segments square or longer than wide. Hypostomal carina not raised. Ivory stripes on the flagellum often obsolete or entirely lacking. Outer orbits usually black. Thyridia straight, gastrocoeli usually not impressed (fig. 30). Tarsal III-index 1.1-1.2. Smaller, body length 5.0 mm.
-TAXON= P. minor spec. nov.

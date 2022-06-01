@@ -1,0 +1,30 @@
+TYPE= key
+
+ID= Ichneumon-females-E1
+
+TITLE= Gruppe E1
+
+1 (6)
+Kleinere Arten (11-14). 36-41 Gg. Immer ganze Tergite rot.
+2 (5)
+37-41 Gg. Vorletztes Gg nur schwach quer. (0,92). T3 basal oft schwarz gezeichnet. FIII schlanker (3,15).
+3 (4)
+Flecken auf T(5-)6-7 sehr breit. FIII meist wenigstens zur Hälfte rot. TsIII dicker (2. Glied: 34:10). TsIII ganz dunkel. T3 rot ohne gelben Anteil.
+TAXON= I. balteatus WESMAEL
+4 (3)
+Flecken nur auf T6-7. Flecken nicht besonders breit. FIII ganz schwarz. T3 teilweise mit Gelb. TsIII2 schlanker (37:10). TsIII heller, nur zu 0,6 dunkel.
+TAXON= I. altaicola HEINRICH
+5 (2)
+36-38 Gg. Vorletztes Gg stärker quer (0,67). Mitlere Tarsen stark verdickt. (T3 basal seltener schwarz gezeichnet, hlll ganz schwarz. Außenseite des FIII im ventralen 1/3-1/4 weitläufig punktiert.) FIII dicker (3,05).
+TAXON= I. cerebrosus WESMAEL
+6 (1)
+Größere Arten (12,1-15,5). 42-44 Gg. Oft alle Tergite, außer den apikalen, schwarz. (Hypostomalleiste vor dem Erreichen der Wangenleiste meist breit erloschen. Vorletztes Gg deutlich quer. Gg1 mehr als 2 mal so lang wie breit, ca. 2,15).
+7 (8)
+FIII rot, Gaster schwarz. TiIII apikal nur zu 1/20 geschwärzt. Kleinere Art (12,1). [Ist außer durch die Farbe des FIII nicht von tuberculipes unterscheidbar !]
+TAXON= I. coniger sensu HEINRICH
+8(7)
+Färbung von FIII, Abdomen und TiIII sehr variabel. Nie aber Abdomen schwarz, wenn FIII rot. Größere Art (13,2-15,5).
+TAXON= I. tuberculipes WESMAEL
+NOTE= a) Tergite und FIII schwarz: Nominatform.
+NOTE= b) T2-4 und FIII rot.
+NOTE= c) T2-3 rot und FIII schwarz.

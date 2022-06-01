@@ -1,6 +1,0 @@
-23
-Pterostigma gelblich-braun., Mesosoma unten mit bräunlicher Behaarung. Femora und Tibien schwarz bis rot. 11-15 mm.
-TAXON= C. nigerrimus (STEPHENS 1835)
--
-Pterostigma schwärzlich. Mesosoma hell behaart. Beine schwarz, Tibien vorn mit weißlichen Streifen. 16 mm.
-TAXON= C. sardinicus nov.sp.

@@ -1,0 +1,30 @@
+TYPE= key
+
+ID= Tymmophorus
+
+TITLE= Key to species
+
+1
+Notauli only weakly impressed, without transverse carinulae.
+TAXON= cf. Syrphophilus sp.
+-
+Notauli very strongly impressed, often with fine transverse carinulae in the impressions and sometimes interrupting yellow shoulder marks, if present.
+2
+2
+All coxae and at least most of hind trochanter black. Femora usually extensively marked with black. Metasoma black, at most with orange hind margins of tergites 2 to 4 or 5.
+3
+-
+Fore and mid coxae mostly yellow, hind coxa black with a yellow tip, trochanters yellow. Femora orange, very rarely with some ventral black marks. Metasoma with at least most of tergite 3 orange.
+4
+3
+Mesoscutum smooth and shining between rather sparse punctures. Antenna with 18 to 20 flagellomeres. Mesopleuron mostly smooth but sometimes with some restricted coriaceous sections and weak punctures, especially along epicnemical carina.
+TAXON= Tymmophorus obscuripes (Holmgren)
+-
+Mesoscutum with notauli continued as strongly coriaceous bands towards scutellum. Antenna with 15 to 16 flagellomeres. Mesopleuron shiny coriaceous over most of its surface.
+TAXON= Tymmophorus gelidus Dasch
+4
+Female metasoma dorsoventrally depressed, gradually tapered (Fig. 26A). Tergite 2 in females as long as basally wide, or at most 1.2 times longer. Orange on metasoma usually covering all of tergites 3, 4 and often 2, and at least part of tergite 5. Antenna usually all orange, often a bit darker dorsally (males can be difficult to identify).
+TAXON= Tymmophorus suspiciosus (Britschke)
+-
+Female metasoma dorsoventrally depressed basally but strongly compressed laterally posterior to segment 4 (Fig. 26B). Tergite 2 at least 1.3 times as long as basally wide in females. Metasoma darker, with most of tergite 2 and all of tergite 5 dark. Antenna brown dorsally, orange or brown ventrally (males can be difficult to identify).
+TAXON= Tymmophorus erythrozonus (Förster)

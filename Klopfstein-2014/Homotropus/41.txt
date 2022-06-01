@@ -1,6 +1,0 @@
-41
-Mesopleuron strongly punctate over a smooth and shining background. Metasoma dorsoventrally depressed, black. Spiracle of third tergite distinctly above the strong lateral fold. Male with (rather inconspicuous) tyloids on flagellomeres 2 to 12.
-TAXON= Homotropus crassicornis Thomson
--
-Mesopleuron with lower half irregularly coriaceous, with sparse and inconspicuous punctures. Metasoma compressed apically, usually orange-marked on tergites 2 and 3. Spiracle of third tergite below or behind lateral fold. Male with tyloids on flagellomeres 7/8 to 14/15.
-TAXON= Homotropus signatus (Gravenhorst)

@@ -1,6 +1,0 @@
-39
-Kleine Art, 10 mm, Fühlergeißel mit 32 Gliedern. Femur III überwiegend rot. Scutellum gewöhnlich seitlich weißlich gefleckt.
-TAXON= C. probator HORSTMANN 2000
--
-Große Art, 16-17 mm. Fühlergeißel mit 39-44 Gliedern. Femur III dunkelbraun bis schwarz. Scutellum schwarz.
-TAXON= C. anthrax (DALLA TORRE 1901)
