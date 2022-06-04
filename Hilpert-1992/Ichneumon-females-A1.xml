@@ -2,39 +2,53 @@
 <key ref="Ichneumon-females-A1" type="singlet" document="Hilpert-1992" lang="de">
   <title>Gruppe A1</title>
   <singlet ref="1">
-    <lead>
+    <else>
       (<fail>4</fail>)
+    </else>
+    <if>
       <character>
         Große Arten (13,2-15,5)
       </character>
-    </lead>
+    </if>
   </singlet>
   <singlet ref="2">
-    <lead>
+    <else>
       (<fail>3</fail>)
+    </else>
+    <if>
       <character>
         TiIII apikal zu 1/4 schwarz.
       </character>
+    </if>
+    <then>
       <taxon>I. xanthorius FORSTER</taxon>
-    </lead>
+    </then>
   </singlet>
   <singlet ref="3">
-    <lead>
+    <else>
       (<fail>2</fail>)
+    </else>
+    <if>
       <character>
         TiIII apikal nicht schwarz, nur wenig rot
       </character>
+    </if>
+    <then>
       <taxon>I. sexcinctus GRAVENHORST</taxon>
-    </lead>
+    </then>
   </singlet>
   <singlet ref="4">
-    <lead>
+    <else>
       (<fail>1</fail>)
+    </else>
+    <if>
       <character>
         Kleinere Art (bis 11,6). (Scutellum oft nicht ganz weiß,
         weißer Fleck nur nierenförmig.)
       </character>
+    </if>
+    <then>
       <taxon>I. ostentator HEINRICH</taxon>
-    </lead>
+    </then>
   </singlet>
 </key>

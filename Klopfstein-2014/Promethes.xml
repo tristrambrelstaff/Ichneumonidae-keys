@@ -2,7 +2,7 @@
 <key ref="Promethes" document="Klopfstein-2014" lang="en">
   <title>Key to species</title>
   <couplet ref="1">
-    <lead>
+    <if>
       <character>
         Antenna orange or brown, long and slender, with 22 or more
         flagellomeres; first flagellomere more than 5 times as long
@@ -10,9 +10,11 @@
         dark. Metasoma in females and often also in males marked
         with orange on at least some of tergites 2 to 5.
       </character>
+    </if>
+    <then>
       <pass>2</pass>
-    </lead>-
-    <lead>
+    </then>
+  - <if>
       <character>
         Antenna black or sometimes brown, stouter, with 22 or fewer
         flagellomeres; first flagellomere at most 4.5 times as long
@@ -20,27 +22,33 @@
         apical band. Metasoma in females entirely black, in males
         often with yellow markings.
       </character>
+    </if>
+    <then>
       <pass>3</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="2">
-    <lead>
+    <if>
       <character>
         Malar space with a deep subocular groove
         (Fig. 21A). Scutellum yellow-marked.
       </character>
+    </if>
+    <then>
       <taxon>Promethes bridgmani Fitton</taxon>
-    </lead>
-    <lead>-
+    </then>
+  - <if>
       <character>
         Malar space without subocular groove (Fig. 21B). Scutellum
         black.
       </character>
+    </if>
+    <then>
       <taxon>Promethes sulcator (Gravenhorst)</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="3">
-    <lead>
+    <if>
       <character>
         Second metasomal tergite rugose, matt, wider than
         long. Mesopleuron distinctly punctate over most of its
@@ -48,9 +56,11 @@
         carinulae. Females with metasoma dorsoventrally depressed to
         apex.
       </character>
+    </if>
+    <then>
       <taxon>Promethes nomininguis Dasch</taxon>
-    </lead>
-    <lead>-
+    </then>
+  - <if>
       <character>
         Second metasomal tergite smooth and shining at least on
         apical half, basally with longitudinal wrinkles, longer than
@@ -59,11 +69,13 @@
         carinulae restricted to its margins. Females with metasoma
         laterally compressed.
       </character>
+    </if>
+    <then>
       <pass>4</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="4">
-    <lead>
+    <if>
       <character>
         Scutellum with a large yellow blotch covering most of its
         surface. Mesoscutum with large yellow shoulder marks which
@@ -71,9 +83,11 @@
         more than 2.5 times wider than long, with apical carina
         often partly reduced (Fig. 22A).
       </character>
+    </if>
+    <then>
       <taxon>Promethes nigriventris (Thomson)</taxon>
-    </lead>
-    <lead>-
+    </then>
+    <if>-
       <character>
         Scutellum usually black but sometimes marked with yellow on
         anterior part, especially in males. Mesoscutum without or at
@@ -81,7 +95,9 @@
         over notauli. Basal area of propodeum usually less than 2
         times wider than long, with apical carina strong (Fig. 22B).
       </character>
+    </if>
+    <then>
       <taxon>Promethes melanaspis (Thomson)</taxon>
-    </lead>
+    </then>
   </couplet>
 </key>

@@ -2,88 +2,108 @@
 <key ref="Casinaria" document="Riedel-2018b" lang="en">
   <title>Key to the Western Palaearctic species of Casinaria HOLMGREN</title>
   <couplet ref="1">
-    <lead>
+    <if>
       <character>
         Metasoma slender, 2nd tergite more than 1.5x longer than
         wide, 3rd tergite usually longer than wide (figs 2, 3, 8).
       </character>
+    </if>
+    <then>
       <pass>2</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Metasoma stouter, 2nd tergite at most 1.5x longer than wide;
         3rd tergite usually wider than long (figs 1, 4-7).
       </character>
+    </if>
+    <then>
       <pass>23</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="2">
-    <lead>
+    <if>
       <character>
         Metasome very slender; apicaltergites from the 3th on
         stringly compressed (figs 2 ,8).
       </character>
+    </if>
+    <then>
       <pass>3</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Metasoma stouter; apical tergites not strongly compressed
         (fig 3).
       </character>
+    </if>
+    <then>
       <pass>4</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="3">
-    <lead>
+    <if>
       <character>
         Mandibles yellowish (fig 42). Preapical flagellomeres
         transverse. Mesopleural discs granulate and superficially
         punctate, matte. Genal carinae ± straight ventrally.
       </character>
+    </if>
+    <then>
       <taxon>C. compressiventris nov.sp. ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Mandibles blackish. Preapical flagellomeres slightly longer
         than wide. Mesopleura discs with fine granulation and
         distinct punctation, ± shining. Genal carinae ± bent
         outwards ventrally.
       </character>
+    </if>
+    <then>
       <taxon>C. cultellator AUBERT, 1959 ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="4">
-    <lead>
+    <if>
       <character>
         Hind femora red, sometimes apically ± infuscate.
       </character>
+    </if>
+    <then>
       <pass>5</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind femora black or chestnut-brown.
       </character>
+    </if>
+    <then>
       <pass>17</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="5">
-    <lead>
+    <if>
       <character>
         Mandibles black or reddish-brown (figs 38, 39, 43). Tegulae
         yellow or blackish. Hind tibiae ivory or pale yellow basally
         and (often) externo-medially.
       </character>
+    </if>
+    <then>
       <pass>6</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Mandibles yellow (figs 40, 41, 42). Tegulae yellow.
       </character>
+    </if>
+    <then>
       <pass>11</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="6">
-    <lead>
+    <if>
       <character>
         Mesosterna moderately bent forward behind fore coxae;
         prepectal carina slightly elevated ventrally. Discs of
@@ -91,94 +111,114 @@
         Area petiolaris with a narrow and deep longitudinal trough
         (fig 15). Tegulae yellow.
       </character>
+    </if>
+    <then>
       <taxon>C. horstmanni nov.sp. ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Mesosterna not bent forward behind fore coxae; prepectal
         carina narrow or lamelliform elevated ventrally.
       </character>
+    </if>
+    <then>
       <pass>7</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="7">
-    <lead>
+    <if>
       <character>
         Prepectal carina strongly and lamelliform elevated behind
         fore coxae (fig 49).
       </character>
+    </if>
+    <then>
       <pass>8</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Prepectal carina narrow behind fore coxae.
       </character>
+    </if>
+    <then>
       <pass>9</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="8">
-    <lead>
+    <if>
       <character>
         Tegulae usually black, rarely yellowish. Hind tibiae yellow
         basally, pale reddish or brownish externo-medially. Area
         petiolaris slightly and widely impressed (as fig 17).
       </character>
+    </if>
+    <then>
       <taxon>C. trochanterator AUBERT, 1960 ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Tegulae yellow. Hind tibiae ivory basally and
         externo-medially. Area petiolaris with strong and narrow
         central trough (as fig 11).
       </character>
+    </if>
+    <then>
       <taxon>C. lamellata nov.sp. ♀♂, in part</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="9">
-    <lead>
+    <if>
       <character>
         Hind tibiae dark brownish to blackish, ivory basally and ±
         externo-medially. Discs of mesopleura rugose and punctate,
         matte. Area petiolaris with rather deep and narrow
         longitudinal trough (fig 16).
       </character>
+    </if>
+    <then>
       <taxon>C. kriechbaumeri (COSTA, 1884) ♀♂, part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae reddish, ivory basally, brownish, reddish or
         yellowish-red externo-medially.  Area petiolaris with
         slightly or moderately deep and wider longitudinal
         impression (fig 25)
       </character>
+    </if>
+    <then>
       <pass>10</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="10">
-    <lead>
+    <if>
       <character>
         Tegulae yellow. Flagella with 29-33 flagellomeres. Propodeum
         usually with basal carinae present (fig. 25). Smaller, body
         length 6.5-7.5 mm.
       </character>
+    </if>
+    <then>
       <taxon>C. tenuiventris (GRAVENHORST, 1829) ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Tegulae black. Flagella with 35-37 flagellomeres. Propodeum
         usually without distinct carinae (fig. 27). Larger, body
         length, 7.5-10 mm.
       </character>
+    </if>
+    <then>
       <taxon>C. tegulata nov.sp. ♀♂</taxon>
       <note>
         [here run some ♂♂ of Casinaria scabra with longer basal
         tergites, but then central tergites with characteristic
         reddish colour pattern (fig 6)]
       </note>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="11">
-    <lead>
+    <if>
       <character>
         Fore and middle coxae completely, hind coxae apically and
         all trochanters and trochantelli yellow; hind tibiae
@@ -186,134 +226,166 @@
         and apically. Tergites from 2nd on reddish laterally and
         apically.
       </character>
+    </if>
+    <then>
       <taxon>C. pyreneator AUBERT, 1960 ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Coxae black or reddish
       </character>
+    </if>
+    <then>
       <pass>12</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="12">
-    <lead>
+    <if>
       <character>
         Prepectal carina lamelliform elevated behind fore coxae (as
         fig 49). Hind tibiae reddish-brown to black, ivory basally
         and externo-medially. Area petiolaris with deep and narrow
         central trough (as fig 11).
       </character>
+    </if>
+    <then>
       <taxon>C. lamellata nov.sp. ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Prepectal carina narrow behind fore coxae.
       </character>
+    </if>
+    <then>
       <pass>13</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="13">
-    <lead>
+    <if>
       <character>
         Genal carinae not bent outwards and usually obsolete
         ventrally, reaching hypostomal carinae in an acute angle
         (fig 35). Metasoma completely black. Preapical flagellomeres
         usually wider than long.
       </character>
+    </if>
+    <then>
       <pass>14</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Genal carinae ± bent outwards, reaching mandibular bases
         (fig 36). Central metasomal tergites often ± red.
       </character>
+    </if>
+    <then>
       <pass>15</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="14">
-    <lead>
+    <if>
       <character>
         Hind tibiae ivory basally and externo-medially. Fore and
         middle trochanters and trochantelli yellow.
       </character>
+    </if>
+    <then>
       <taxon>C. albipalpis (GRAVENHORST, 1829) ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae ivory basally and yellowish-red
         externo-medially. Trochanters and trochantelli mainly black.
       </character>
+    </if>
+    <then>
       <taxon>C. flagellator nov.sp. ♀</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="15">
-    <lead>
+    <if>
       <character>
         Hind tibiae blackish, ivory basally and
         externo-medially. Fore and middle trochanters and all
         trochantelli ± blackish. Area petiolaris with a narrow deep
         median trough covered with strong transverse rugae.
       </character>
+    </if>
+    <then>
       <taxon>C. kriechbaumeri (COSTA, 1884) ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae reddish, basally ivory, externo-medially ivory,
         yellowish or reddish. Fore and middle trochanters and
         trochantelli yellowish. Median trough of area petiolaris
         less distinct.
       </character>
+    </if>
+    <then>
       <pass>16</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="16">
-    <lead>
+    <if>
       <character>
         Hind tibiae red, ivory basally ivory, but reddish or
         yellowish-red externo-medially, infuscate subbasally and
         apically.
       </character>
+    </if>
+    <then>
       <taxon>C. mesozosta (GRAVENHORST, 1829) ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae red, ivory basally and externo-medially.
       </character>
+    </if>
+    <then>
       <taxon>C. ischnogaster THOMSON, 1887 ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="17">
-    <lead>
+    <if>
       <character>
         Prepectal carina with small lamella or ridge on transversal
         parts (fig 48). Large, body length usually 9-12 mm.
       </character>
+    </if>
+    <then>
       <taxon>C. nigripes (GRAVENHORST, 1829) ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Prepectal carina without lamella or ridge on transversal
         parts. Smaller, body length 6-8.5 mm.
       </character>
+    </if>
+    <then>
       <pass>18</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="18">
-    <lead>
+    <if>
       <character>
         Prepectal carina lamelliform elevated behind fore coxae.
       </character>
+    </if>
+    <then>
       <taxon>C. meridionator AUBERT, 1960 ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Prepectal carina narrow behind fore coxae
       </character>
+    </if>
+    <then>
       <pass>19</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="19">
-    <lead>
+    <if>
       <character>
         Clypeus apically elevated, in profile nose-like expanded
         (fig 37). Mandibles and tegulae brown to black. Areae
@@ -321,212 +393,262 @@
         superomedia c.2x wider than long (fig 19). 2nd tergite
         length at most 1.8x width.
       </character>
+    </if>
+    <then>
       <taxon>C. moesta (GRAVENHORST, 1829) ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Clypeus slightly convex, not raised apically. Mandibles and
         tegulae often yellow.
       </character>
+    </if>
+    <then>
       <pass>20</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="20">
-    <lead>
+    <if>
       <character>
         Genal carinae strongly bent outwards ventrally and reaching
         mandibular bases (fig 36).
       </character>
+    </if>
+    <then>
       <pass>21</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Genal carinae not bent outwards and usually obsolete
         ventrally, reaching hypostomal carinae far from mandibular
         bases with an acute angle (fig 35). Metasoma usually
         completely black.
       </character>
+    </if>
+    <then>
       <pass>22</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="21">
-    <lead>
+    <if>
       <character>
         Flagella with 35 flagellomeres. Hind tibiae ivory basally
         and externo-medially. Distances of lateral ocelli to eyes
         about as long as their diameter (fig. 44).
       </character>
+    </if>
+    <then>
       <taxon>C. hinzi nov.sp. ♀</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Flagella with 31-32 flagellomeres. Hind tibiae ivory
         basally, reddish-yellow to blackish
         externo-medially. Lateral ocelli larger than their distance
         to eyes (fig 45).
       </character>
+    </if>
+    <then>
       <taxon>C. dubia TSCHEK, 1871 ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="22">
-    <lead>
+    <if>
       <character>
         Trochanters and trochantelli mainly blackish, sometimes with
         yellowish apical margins. Areae basalis and superomedia
         usually with lateral carinae; area superomedia longer than
         wide (fig 21).
       </character>
+    </if>
+    <then>
       <taxon>C. nigrotrochanterata nov.sp. ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Fore and middle trochanters and trochantelli mainly
         yellowish. Area superomedia usually without distinct lateral
         carinae (fig 10).
       </character>
+    </if>
+    <then>
       <taxon>C. albipalpis (GRAVENHORST, 1829) ♀♂, in part</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="23">
-    <lead>
+    <if>
       <character>
         Metasoma with ± reddish tergites centrally.
       </character>
+    </if>
+    <then>
       <pass>24</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Metasoma black.
       </character>
+    </if>
+    <then>
       <pass>29</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="24">
-    <lead>
+    <if>
       <character>
         Fore and middle coxae and trochanters yellow or red.
       </character>
+    </if>
+    <then>
       <pass>25</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         All coxae and trochanters black.
       </character>
+    </if>
+    <then>
       <pass>26</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="25">
-    <lead>
+    <if>
       <character>
         Fore and middle coxae and trochanters pale yellow, hind
         coxae black, yellow apically. Flagella without ivory
         rings. Hind femora slenderer, length 4.5-4.8x height.
       </character>
+    </if>
+    <then>
       <taxon>C. pyreneator AUBERT, 1960 ♀♂, in part</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Fore and middle coxae and trochanters red, hind coxa red,
         brownish or black. Flagella of ♀ with ivory rings. Hind
         femora stouter, length 3.9-4.2x height.
       </character>
+    </if>
+    <then>
       <taxon>C. affinis TSCHEK, 1871 ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="26">
-    <lead>
+    <if>
       <character>
         Hind tibiae with ivory basal spots. Propodeum with carinae,
         area superomedia c.2x wider than long (fig 19). Outer
         discoidal angles of fore wings acute (70-80°) (fig 47).
       </character>
+    </if>
+    <then>
       <pass>27</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae not ivory basally. Mandibles and tegulae
         dark. Outer discoidal angles of fore wings about rectangular
         (c.90°) (fig 46).
       </character>
+    </if>
+    <then>
       <pass>28</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="27">
-    <lead>
+    <if>
       <character>
         Hind femora and hind tibiae red; hind tibiae infuscate
         subbasally and apically. Seen in profile, clypeus rounded.
       </character>
+    </if>
+    <then>
       <taxon>C. scabra THOMSON, 1887 ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
          Hind femora brownish or blackish; hind tibiae except pale
          basal spot blackish. Clypeus apically elevated, in profile
          nose-like expanded (fig 37).
       </character>
+    </if>
+    <then>
       <taxon>C. moesta (GRAVENHORST, 1829) ♀♂, in part</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="28">
-    <lead>
+    <if>
       <character>
         Hind femora brown to black.
       </character>
+    </if>
+    <then>
       <taxon>C. subglabra THOMSON, 1887 ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
          Hind femora red, sometimes infuscate apically.
       </character>
+    </if>
+    <then>
       <taxon>C. petiolaris (GRAVENHORST, 1829) ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="29">
-    <lead>
+    <if>
       <character>
         Hind femora red; hind tibiae reddish, with indistinct darker
         coloration.
       </character>
+    </if>
+    <then>
       <pass>30</pass>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind femora black or brownish.
       </character>
+    </if>
+    <then>
       <pass>31</pass>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="30">
-    <lead>
+    <if>
       <character>
         Flagella shorter, with 23-26 flagellomeres, preapical
         flagellomeres wider than long (fig 31). Hind tibiae reddish,
         basally and apically often slightly infuscate.
       </character>
+    </if>
+    <then>
       <taxon>C. morionella HOLMGREN, 1860 ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Flagella longer, with 27-29 flagellomeres; preapical
         flagellomeres longer than wide or square (fig 33). Hind
         tibiae usually reddish-yellow or yellowish, without distinct
         dark color pattern.
       </character>
+    </if>
+    <then>
       <taxon>C. paramorionella nov.sp. ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
   <couplet ref="31">
-    <lead>
+    <if>
       <character>
         Hind tibiae black, reddish or brownish basally and
         externo-medially. Preapical flagellomeres wider than
         long. Area superomedia less widened, c.1.5x wider than long
         (fig 23). In ♂ mesopleura finely granulate and ± shining.
       </character>
+    </if>
+    <then>
       <taxon>C. stygia TSCHEK, 1871 ♀♂</taxon>
-    </lead>
-  - <lead>
+    </then>
+  - <if>
       <character>
         Hind tibiae yellowish or ivory basally and externo-medially,
         brownish-red subbasally and apically. Preapical
@@ -534,7 +656,9 @@
         very wide, c.2x wider than long. In ♂ mesopleura granulate
         and finely rugulose, matte.
       </character>
+    </if>
+    <then>
       <taxon>C. pallipes BRISCHKE, 1880 ♀♂</taxon>
-    </lead>
+    </then>
   </couplet>
 </key>
