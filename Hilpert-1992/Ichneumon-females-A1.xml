@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <key ref="Ichneumon-females-A1" type="singlet" document="Hilpert-1992" lang="de">
   <title>Gruppe A1</title>
-  <couplet ref="1">
+  <singlet ref="1">
     <lead>
       (<fail>4</fail>)
       <character>
         Große Arten (13,2-15,5)
       </character>
     </lead>
-  </couplet>
-  <couplet ref="2">
+  </singlet>
+  <singlet ref="2">
     <lead>
       (<fail>3</fail>)
       <character>
@@ -17,8 +17,8 @@
       </character>
       <taxon>I. xanthorius FORSTER</taxon>
     </lead>
-  </couplet>
-  <couplet ref="3">
+  </singlet>
+  <singlet ref="3">
     <lead>
       (<fail>2</fail>)
       <character>
@@ -26,8 +26,8 @@
       </character>
       <taxon>I. sexcinctus GRAVENHORST</taxon>
     </lead>
-  </couplet>
-  <couplet ref="4">
+  </singlet>
+  <singlet ref="4">
     <lead>
       (<fail>1</fail>)
       <character>
@@ -36,5 +36,5 @@
       </character>
       <taxon>I. ostentator HEINRICH</taxon>
     </lead>
-  </couplet>
+  </singlet>
 </key>
