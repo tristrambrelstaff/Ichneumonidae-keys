@@ -9,7 +9,7 @@
       </character>
     </if>
     <then>
-      <pass>2</pass>
+      <ref>2</ref>
     </then>
   - <if>
       <character>
@@ -18,7 +18,7 @@
       </character>
     </if>
     <then>
-      <pass>23</pass>
+      <ref>23</ref>
     </then>
   </couplet>
   <couplet ref="2">
@@ -29,7 +29,7 @@
       </character>
     </if>
     <then>
-      <pass>3</pass>
+      <ref>3</ref>
     </then>
   - <if>
       <character>
@@ -38,7 +38,7 @@
       </character>
     </if>
     <then>
-      <pass>4</pass>
+      <ref>4</ref>
     </then>
   </couplet>
   <couplet ref="3">
@@ -71,7 +71,7 @@
       </character>
     </if>
     <then>
-      <pass>5</pass>
+      <ref>5</ref>
     </then>
   - <if>
       <character>
@@ -79,7 +79,7 @@
       </character>
     </if>
     <then>
-      <pass>17</pass>
+      <ref>17</ref>
     </then>
   </couplet>
   <couplet ref="5">
@@ -91,7 +91,7 @@
       </character>
     </if>
     <then>
-      <pass>6</pass>
+      <ref>6</ref>
     </then>
   - <if>
       <character>
@@ -99,7 +99,7 @@
       </character>
     </if>
     <then>
-      <pass>11</pass>
+      <ref>11</ref>
     </then>
   </couplet>
   <couplet ref="6">
@@ -122,7 +122,7 @@
       </character>
     </if>
     <then>
-      <pass>7</pass>
+      <ref>7</ref>
     </then>
   </couplet>
   <couplet ref="7">
@@ -133,7 +133,7 @@
       </character>
     </if>
     <then>
-      <pass>8</pass>
+      <ref>8</ref>
     </then>
   - <if>
       <character>
@@ -141,7 +141,7 @@
       </character>
     </if>
     <then>
-      <pass>9</pass>
+      <ref>9</ref>
     </then>
   </couplet>
   <couplet ref="8">
@@ -187,7 +187,7 @@
       </character>
     </if>
     <then>
-      <pass>10</pass>
+      <ref>10</ref>
     </then>
   </couplet>
   <couplet ref="10">
@@ -236,7 +236,7 @@
       </character>
     </if>
     <then>
-      <pass>12</pass>
+      <ref>12</ref>
     </then>
   </couplet>
   <couplet ref="12">
@@ -257,7 +257,7 @@
       </character>
     </if>
     <then>
-      <pass>13</pass>
+      <ref>13</ref>
     </then>
   </couplet>
   <couplet ref="13">
@@ -270,7 +270,7 @@
       </character>
     </if>
     <then>
-      <pass>14</pass>
+      <ref>14</ref>
     </then>
   - <if>
       <character>
@@ -279,7 +279,7 @@
       </character>
     </if>
     <then>
-      <pass>15</pass>
+      <ref>15</ref>
     </then>
   </couplet>
   <couplet ref="14">
@@ -323,7 +323,7 @@
       </character>
     </if>
     <then>
-      <pass>16</pass>
+      <ref>16</ref>
     </then>
   </couplet>
   <couplet ref="16">
@@ -363,7 +363,7 @@
       </character>
     </if>
     <then>
-      <pass>18</pass>
+      <ref>18</ref>
     </then>
   </couplet>
   <couplet ref="18">
@@ -381,7 +381,7 @@
       </character>
     </if>
     <then>
-      <pass>19</pass>
+      <ref>19</ref>
     </then>
   </couplet>
   <couplet ref="19">
@@ -404,7 +404,7 @@
       </character>
     </if>
     <then>
-      <pass>20</pass>
+      <ref>20</ref>
     </then>
   </couplet>
   <couplet ref="20">
@@ -415,7 +415,7 @@
       </character>
     </if>
     <then>
-      <pass>21</pass>
+      <ref>21</ref>
     </then>
   - <if>
       <character>
@@ -426,7 +426,7 @@
       </character>
     </if>
     <then>
-      <pass>22</pass>
+      <ref>22</ref>
     </then>
   </couplet>
   <couplet ref="21">
@@ -482,7 +482,7 @@
       </character>
     </if>
     <then>
-      <pass>24</pass>
+      <ref>24</ref>
     </then>
   - <if>
       <character>
@@ -490,7 +490,7 @@
       </character>
     </if>
     <then>
-      <pass>29</pass>
+      <ref>29</ref>
     </then>
   </couplet>
   <couplet ref="24">
@@ -500,7 +500,7 @@
       </character>
     </if>
     <then>
-      <pass>25</pass>
+      <ref>25</ref>
     </then>
   - <if>
       <character>
@@ -508,7 +508,7 @@
       </character>
     </if>
     <then>
-      <pass>26</pass>
+      <ref>26</ref>
     </then>
   </couplet>
   <couplet ref="25">
@@ -542,7 +542,7 @@
       </character>
     </if>
     <then>
-      <pass>27</pass>
+      <ref>27</ref>
     </then>
   - <if>
       <character>
@@ -552,7 +552,7 @@
       </character>
     </if>
     <then>
-      <pass>28</pass>
+      <ref>28</ref>
     </then>
   </couplet>
   <couplet ref="27">
@@ -602,7 +602,7 @@
       </character>
     </if>
     <then>
-      <pass>30</pass>
+      <ref>30</ref>
     </then>
   - <if>
       <character>
@@ -610,7 +610,7 @@
       </character>
     </if>
     <then>
-      <pass>31</pass>
+      <ref>31</ref>
     </then>
   </couplet>
   <couplet ref="30">

@@ -12,7 +12,7 @@
       </character>
     </if>
     <then>
-      <pass>2</pass>
+      <ref>2</ref>
     </then>
   - <if>
       <character>
@@ -24,7 +24,7 @@
       </character>
     </if>
     <then>
-      <pass>3</pass>
+      <ref>3</ref>
     </then>
   </couplet>
   <couplet ref="2">
@@ -71,7 +71,7 @@
       </character>
     </if>
     <then>
-      <pass>4</pass>
+      <ref>4</ref>
     </then>
   </couplet>
   <couplet ref="4">

@@ -3,7 +3,7 @@
   <title>Gruppe A1</title>
   <singlet ref="1">
     <else>
-      (<fail>4</fail>)
+      (<ref>4</ref>)
     </else>
     <if>
       <character>
@@ -13,7 +13,7 @@
   </singlet>
   <singlet ref="2">
     <else>
-      (<fail>3</fail>)
+      (<ref>3</ref>)
     </else>
     <if>
       <character>
@@ -26,7 +26,7 @@
   </singlet>
   <singlet ref="3">
     <else>
-      (<fail>2</fail>)
+      (<ref>2</ref>)
     </else>
     <if>
       <character>
@@ -39,7 +39,7 @@
   </singlet>
   <singlet ref="4">
     <else>
-      (<fail>1</fail>)
+      (<ref>1</ref>)
     </else>
     <if>
       <character>
