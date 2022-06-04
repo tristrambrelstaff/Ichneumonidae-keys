@@ -1,89 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <key ref="Promethes" document="Klopfstein-2014" lang="en">
   <title>Key to species</title>
-  <couplets type="">
-    <couplet ref="1">
-      <lead>
-        <character>
-          Antenna orange or brown, long and slender, with 22 or more
-          flagellomeres; first flagellomere more than 5 times as long
-          as wide. Hind tibia orange or yellow, apex sometimes
-          dark. Metasoma in females and often also in males marked
-          with orange on at least some of tergites 2 to 5.
-        </character>
-        <pass>2</pass>
-      </lead>-
-      <lead>
-        <character>
-          Antenna black or sometimes brown, stouter, with 22 or fewer
-          flagellomeres; first flagellomere at most 4.5 times as long
-          as wide. Hind tibia white or yellow with a dark subbasal and
-          apical band. Metasoma in females entirely black, in males
-          often with yellow markings.
-        </character>
-        <pass>3</pass>
-      </lead>
-    </couplet>
-    <couplet ref="2">
-      <lead>
-        <character>
-          Malar space with a deep subocular groove
-          (Fig. 21A). Scutellum yellow-marked.
-        </character>
-        <taxon>Promethes bridgmani Fitton</taxon>
-      </lead>
-      <lead>-
-        <character>
-          Malar space without subocular groove (Fig. 21B). Scutellum
-          black.
-        </character>
-        <taxon>Promethes sulcator (Gravenhorst)</taxon>
-      </lead>
-    </couplet>
-    <couplet ref="3">
-      <lead>
-        <character>
-          Second metasomal tergite rugose, matt, wider than
-          long. Mesopleuron distinctly punctate over most of its
-          surface. Petiolar area of propodeum filled with
-          carinulae. Females with metasoma dorsoventrally depressed to
-          apex.
-        </character>
-        <taxon>Promethes nomininguis Dasch</taxon>
-      </lead>
-      <lead>-
-        <character>
-          Second metasomal tergite smooth and shining at least on
-          apical half, basally with longitudinal wrinkles, longer than
-          wide. Mesopleuron with punctures weak, distinct at most on
-          lower half. Petiolar area of propodeum mostly smooth, with
-          carinulae restricted to its margins. Females with metasoma
-          laterally compressed.
-        </character>
-        <pass>4</pass>
-      </lead>
-    </couplet>
-    <couplet ref="4">
-      <lead>
-        <character>
-          Scutellum with a large yellow blotch covering most of its
-          surface. Mesoscutum with large yellow shoulder marks which
-          usually expand over notauli. Basal area of propodeum usually
-          more than 2.5 times wider than long, with apical carina
-          often partly reduced (Fig. 22A).
-        </character>
-        <taxon>Promethes nigriventris (Thomson)</taxon>
-      </lead>
-      <lead>-
-        <character>
-          Scutellum usually black but sometimes marked with yellow on
-          anterior part, especially in males. Mesoscutum without or at
-          most with small yellow shoulder marks which do not expand
-          over notauli. Basal area of propodeum usually less than 2
-          times wider than long, with apical carina strong (Fig. 22B).
-        </character>
-        <taxon>Promethes melanaspis (Thomson)</taxon>
-      </lead>
-    </couplet>
-  </couplets>
+  <couplet ref="1">
+    <lead>
+      <character>
+        Antenna orange or brown, long and slender, with 22 or more
+        flagellomeres; first flagellomere more than 5 times as long
+        as wide. Hind tibia orange or yellow, apex sometimes
+        dark. Metasoma in females and often also in males marked
+        with orange on at least some of tergites 2 to 5.
+      </character>
+      <pass>2</pass>
+    </lead>-
+    <lead>
+      <character>
+        Antenna black or sometimes brown, stouter, with 22 or fewer
+        flagellomeres; first flagellomere at most 4.5 times as long
+        as wide. Hind tibia white or yellow with a dark subbasal and
+        apical band. Metasoma in females entirely black, in males
+        often with yellow markings.
+      </character>
+      <pass>3</pass>
+    </lead>
+  </couplet>
+  <couplet ref="2">
+    <lead>
+      <character>
+        Malar space with a deep subocular groove
+        (Fig. 21A). Scutellum yellow-marked.
+      </character>
+      <taxon>Promethes bridgmani Fitton</taxon>
+    </lead>
+    <lead>-
+      <character>
+        Malar space without subocular groove (Fig. 21B). Scutellum
+        black.
+      </character>
+      <taxon>Promethes sulcator (Gravenhorst)</taxon>
+    </lead>
+  </couplet>
+  <couplet ref="3">
+    <lead>
+      <character>
+        Second metasomal tergite rugose, matt, wider than
+        long. Mesopleuron distinctly punctate over most of its
+        surface. Petiolar area of propodeum filled with
+        carinulae. Females with metasoma dorsoventrally depressed to
+        apex.
+      </character>
+      <taxon>Promethes nomininguis Dasch</taxon>
+    </lead>
+    <lead>-
+      <character>
+        Second metasomal tergite smooth and shining at least on
+        apical half, basally with longitudinal wrinkles, longer than
+        wide. Mesopleuron with punctures weak, distinct at most on
+        lower half. Petiolar area of propodeum mostly smooth, with
+        carinulae restricted to its margins. Females with metasoma
+        laterally compressed.
+      </character>
+      <pass>4</pass>
+    </lead>
+  </couplet>
+  <couplet ref="4">
+    <lead>
+      <character>
+        Scutellum with a large yellow blotch covering most of its
+        surface. Mesoscutum with large yellow shoulder marks which
+        usually expand over notauli. Basal area of propodeum usually
+        more than 2.5 times wider than long, with apical carina
+        often partly reduced (Fig. 22A).
+      </character>
+      <taxon>Promethes nigriventris (Thomson)</taxon>
+    </lead>
+    <lead>-
+      <character>
+        Scutellum usually black but sometimes marked with yellow on
+        anterior part, especially in males. Mesoscutum without or at
+        most with small yellow shoulder marks which do not expand
+        over notauli. Basal area of propodeum usually less than 2
+        times wider than long, with apical carina strong (Fig. 22B).
+      </character>
+      <taxon>Promethes melanaspis (Thomson)</taxon>
+    </lead>
+  </couplet>
 </key>
