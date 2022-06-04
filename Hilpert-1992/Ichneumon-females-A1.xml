@@ -6,9 +6,7 @@
       (<ref>4</ref>)
     </else>
     <if>
-      <character>
-        Große Arten (13,2-15,5)
-      </character>
+      Große Arten (13,2-15,5)
     </if>
   </singlet>
   <singlet ref="2">
@@ -16,9 +14,7 @@
       (<ref>3</ref>)
     </else>
     <if>
-      <character>
-        TiIII apikal zu 1/4 schwarz.
-      </character>
+      TiIII apikal zu 1/4 schwarz.
     </if>
     <then>
       <taxon>I. xanthorius FORSTER</taxon>
@@ -29,9 +25,7 @@
       (<ref>2</ref>)
     </else>
     <if>
-      <character>
-        TiIII apikal nicht schwarz, nur wenig rot
-      </character>
+      TiIII apikal nicht schwarz, nur wenig rot
     </if>
     <then>
       <taxon>I. sexcinctus GRAVENHORST</taxon>
@@ -42,10 +36,8 @@
       (<ref>1</ref>)
     </else>
     <if>
-      <character>
-        Kleinere Art (bis 11,6). (Scutellum oft nicht ganz weiß,
-        weißer Fleck nur nierenförmig.)
-      </character>
+      Kleinere Art (bis 11,6). (Scutellum oft nicht ganz weiß, weißer
+      Fleck nur nierenförmig.)
     </if>
     <then>
       <taxon>I. ostentator HEINRICH</taxon>
