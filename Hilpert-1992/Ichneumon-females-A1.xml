@@ -36,8 +36,13 @@
       (<ref>1</ref>)
     </else>
     <if>
-      Kleinere Art (bis 11,6). (Scutellum oft nicht ganz weiß, weißer
-      Fleck nur nierenförmig.)
+      <and>
+        Kleinere Art (bis 11,6).
+      </and>
+      <and>
+        (Scutellum oft nicht ganz weiß, weißer Fleck nur
+        nierenförmig.)
+      </and>
     </if>
     <then>
       <taxon>I. ostentator HEINRICH</taxon>
