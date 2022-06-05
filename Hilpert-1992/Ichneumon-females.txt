@@ -76,6 +76,9 @@ Terminalflecken auffallend breit. Gesicht meist reichlich rot gezeichnet. (Klein
 Gruppe G22
 28 (25)
 T5 höchstens mit einem deutlich kleineren Fleck (oder Geißel mit weniger als 31 Gliedern.)
+29 (30)
+Geißel mit nur ca. 24 Gliedern.
+TAXON=Gruppe G3
 30 (29)
 Geißel mit wenigstens 27 Gliedern.
 TAXON= Gruppe G4
