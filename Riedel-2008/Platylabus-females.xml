@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../key.dtd">
+
+<key ref="Platylabus-females" doc_ref="Riedel-2008">
+
+<title>English key for the Platylabus species of the Western Palearctic region - Females</title>
+
+<couplet ref="1">
+  <lead then_ref="2">
+    <property>
+      Body metallic violett or blue (rarely darkened and copper-like).
+    </property>
+  </lead>
+  <lead then_ref="3">
+    <property>
+      Body black or black and red, without metallic shine.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="2">
+  <lead>
+    <property>
+      Temples behind eyes strongly narrowed, their sides straight or concave.
+    </property>
+    <property>
+      All tibiae with ivory rings basally.
+    </property>
+    <property>
+      Larger, body length 15-20 mm.
+    </property>
+    <taxon>
+      P. uranius (Dalman, 1823)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Temples behind eyes moderately and convexly narrowed.
+    </property>
+    <property>
+      Only tibiae I ivory in front. Body length 8-11 mm.
+    </property>
+    <taxon>
+      P. nigrocyaneus (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="3">
+  <lead then_ref="4">
+    <property>
+      Mesosoma ± reddish.
+    </property>
+  </lead>
+  <lead then_ref="5">
+    <property>
+      Mesosoma black, often with ivory or yellow patterns.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="4">
+  <lead>
+    <property>
+      Larger, body length 8.5-11 mm.
+    </property>
+    <property>
+      Flagellum with 34-37 segments.
+    </property>
+    <property>
+      Head ± reddish, vertex with ivory spots.
+    </property>
+    <property>
+      Thyridia much wider than their interval, index > 3.0.(fig. 44).
+    </property>
+    <taxon>
+      P. rufus Wesmael, 1845
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Smaller, body length about 6.5 mm.
+    </property>
+    <property>
+      Flagellum with 29 segments (in 1 specimen).
+    </property>
+    <property>
+      Head black, without reddish pattern, vertex without ivory spot.
+    </property>
+    <property>
+      Thyridia about as wide as their interval.
+    </property>
+    <taxon>
+      P. cabrerai Berthoumieu, 1903
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="5">
+  <lead>
+    <property>
+      Mesosoma black, with conspicuously yellow pattern, usually mesopleurum and metapleurum yellow centrally.
+    </property>
+    <property>
+      Thyridia small, somewhat smaller than their interval (fig. 46).
+    </property>
+    <property>
+      Femur III very slender, index 4.7-4.8.
+    </property>
+    <taxon>
+      P. mesoleucus (Heinrich, 1936)
+    </taxon>
+  </lead>
+  <lead then_ref="6">
+    <property>
+      Mesosoma black, sometimes with ivory pattern, but not yellow marked in the center of meso- and metapleura.
+    </property>
+    <property>
+      Thyridia often wider.
+    </property>
+    <property>
+      Femur III usually stouter, index &lt; 4.5.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="6">
+  <lead then_ref="7">
+    <property>
+      Metasoma ± red, at least postpetiole apically and tergites 2-3.
+    </property>
+    <property>
+      Frons punctate, rugose or aciculate.
+    </property>
+    <property>
+      Hypostomal carina strongly raised, usually much higher than the width of the apical segment of maxillar palpi (except in P. borealis ).
+    </property>
+    <property>
+      Femur III entirely or in greater part red.
+    </property>
+  </lead>
+  <lead then_ref="15">
+    <property>
+      Metasoma black, tergites sometimes with small ivory or red apical margins, rarely tergite 2 ± red.
+    </property>
+    <property>
+      Frons sometimes entirely smooth.
+    </property>
+    <property>
+      Hypostomal carina different.
+    </property>
+    <property>
+      Femur III sometimes black.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="7">
+  <lead>
+    <property>
+      Scutellum black, rarely with a small pale spot at apex, Mesosoma entirely black.
+    </property>
+    <property>
+      Femur III very stout, index about 3.1.
+    </property>
+    <property>
+      Metatarsus III short, only 0.3 as long as the tibia III (fig. 10).
+    </property>
+    <property>
+      Hypostomal carina not raised.
+    </property>
+    <property>
+      Vertex with ivory spots.
+    </property>
+    <taxon>
+      P. borealis Holmgren, 1871
+    </taxon>
+  </lead>
+  <lead then_ref="8">
+    <property>
+      Scutellum ± ivory.
+    </property>
+    <property>
+      Hypostomal carina usually strongly raised, much higher than the width of the apical segment of maxillar palpi.
+    </property>
+    <property>
+      Femur III slenderer, metatarsus III usually longer.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="8">
+  <lead then_ref="9">
+    <property>
+      Temples parallel or moderately narrowed behind the eyes (figs. 16-18, 24-25).
+    </property>
+    <property>
+      Genae often swollen.
+    </property>
+    <property>
+      Postpetiole moderately widened, its width not more than 0.85 of the distance of the outer dentiparal angles, with the dorsal carinae usually ± obsolete.
+    </property>
+    <property>
+      Thyridia moderately large, index &lt; 1.5, their interval usually not smaller than middle field of postpetiole.
+    </property>
+    <property>
+      In most cases, tergites 2-4 of Metasoma entirely red.
+    </property>
+    <property>
+      Vertex sometimes with ivory spots.
+    </property>
+  </lead>
+  <lead then_ref="14">
+    <property>
+      Temples strongly, sometimes almost linearly narrowed (figs. 26-27).
+    </property>
+    <property>
+      Genae not swollen.
+    </property>
+    <property>
+      Postpetiole very strongly widened, its width at least 0.85 of the distance of the outer dentiparal angles, the dorsal carinae strong (figs. 26-27).
+    </property>
+    <property>
+      Thyridia very large, index > 2.0, their interval much smaller than median field of postpetiole.
+    </property>
+    <property>
+      Tergite 4 usually black.
+    </property>
+    <property>
+      Vertex without ivory spots.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="9">
+  <lead>
+    <property>
+      Segments 2-4 of tarsus III very short, tarsal III-index 1.8 (fig. 9).
+    </property>
+    <property>
+      Flagellum with 29 segments (in 1 specimen).
+    </property>
+    <property>
+      Ovipositor sheaths long and slender, slightly down-curved (fig. 3).
+    </property>
+    <property>
+      Temples swollen, enlarged behind the eyes (fig. 42).
+    </property>
+    <property>
+      Vertex with ivory spots.
+    </property>
+    <property>
+      Genae swollen, genal index about 1.0.
+    </property>
+    <taxon>
+      P. helveticus spec. nov.
+    </taxon>
+  </lead>
+  <lead then_ref="10">
+    <property>
+      Segments 2-4 of tarsi III longer, tarsal III-index not exceeding 1.3 (figs. 8, 10).
+    </property>
+    <property>
+      Flagellum with at least 30 segments.
+    </property>
+    <property>
+      Ovipositors sheaths shorter.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="10">
+  <lead then_ref="11">
+    <property>
+      Temples convexly narrowed behind the eyes (figs. 16-18).
+    </property>
+    <property>
+      Genae not swollen.
+    </property>
+    <property>
+      Vertex usually without ivory spots.
+    </property>
+    <property>
+      Flagellum with 30-38 segments.
+    </property>
+    <property>
+      Metasoma red, ± darkened apically.
+    </property>
+  </lead>
+  <lead then_ref="12">
+    <property>
+      Temples parallel or slightly narrowed behind the eyes (figs. 24-25).
+    </property>
+    <property>
+      Vertex usually with ivory spots.
+    </property>
+    <property>
+      Genae ± swollen.
+    </property>
+    <property>
+      Flagellum with at least 35 segments.
+    </property>
+    <property>
+      Metasoma often entirely red.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="11">
+  <lead>
+    <property>
+      Vertex usually without ivory spots.
+    </property>
+    <property>
+      Upper lateral margin of pronotum black, at most hind angle with ivory spot.
+    </property>
+    <property>
+      Malar space smaller, index &lt; 1.0.
+    </property>
+    <property>
+      Postpetiole moderately widened, its width 0.65-0.75 of the distance of the outer dentiparal angles (figs. 16-17).
+    </property>
+    <property>
+      Flagellum with 30-38 segments, widened in the apical half, widest segments square or transverse.
+    </property>
+    <property>
+      A very variable species (or probably a species-group).
+    </property>
+    <taxon>
+      P. orbitalis (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Vertex usually with ivory spots.
+    </property>
+    <property>
+      Upper lateral margin of pronotum with ivory line.
+    </property>
+    <property>
+      Malar space longer, index > 1.0.
+    </property>
+    <property>
+      Postpetiole slightly widened, its width about 0.6 of the distance of the outer dentiparal angles (fig. 18).
+    </property>
+    <property>
+      Flagellum with 32-34 segments, all segments longer than wide.
+    </property>
+    <taxon>
+      P. pseudomuticus spec. nov.
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="12">
+  <lead>
+    <property>
+      Hind angle of pronotum black.
+    </property>
+    <property>
+      Temples ± parallel behind the eyes (fig. 24).
+    </property>
+    <property>
+      Femur III red, only darkened apically.
+    </property>
+    <property>
+      Genae more swollen, in front view convex between eyes and mandibular base.
+    </property>
+    <property>
+      Epicnemium raised behind coxa I.
+    </property>
+    <property>
+      Metatarsus III about 0,4 as long as tibia III.
+    </property>
+    <property>
+      Flagellum slender, index of first segment 5.0-5.5, all segments longer than wide.
+    </property>
+    <property>
+      Body length 7-8 mm.
+    </property>
+    <taxon>
+      P. oehlkei Heinrich, 1972
+    </taxon>
+  </lead>
+  <lead then_ref="13">
+    <property>
+      Hind angle of pronotum with ivory spots.
+    </property>
+    <property>
+      Temples usually narrowed behind the eyes (fig. 25), if not narrowed, then femur III black.
+    </property>
+    <property>
+      Genae less swollen, in front view almost straight between eyes and mandibular base.
+    </property>
+    <property>
+      Epicnemium not raised.
+    </property>
+    <property>
+      Body length 8-9 mm.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="13">
+  <lead>
+      	<property>
+          Tergite 3 with clear punctures.
+      	</property>
+      	<property>
+          Flagellum more robust, index of first segment 3.5-4.0, widest segments approximately square.
+      	</property>
+      	<property>
+          Metasoma usually entirely red.
+      	</property>
+      	<property>
+          Femur III mainly red.
+      	</property>
+    <taxon>
+      P. vibratorius Thunberg, 1824
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Tergite 3 with ± obsolete punctures.
+    </property>
+    <property>
+      Flagellum slender, index of first segment about 5.0, all segments longer than wide.
+    </property>
+    <property>
+      Metasoma apically (or entirely) black.
+    </property>
+    <property>
+      Femora III usually black.
+    </property>
+    <taxon>
+      P. pallidens Wesmael, 1853, in part
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="14">
+  <lead>
+    <property>
+      Larger, body length 8.5-11.5 mm.
+    </property>
+    <property>
+      Flagellum with 39-43 segments.
+    </property>
+    <property>
+      Temples strongly narrowed behind the eyes, with almost straight sides (fig. 26).
+    </property>
+    <property>
+      Genal index 0.8-0.85.
+    </property>
+    <property>
+      Malar space large, index 1.2-1.3.
+    </property>
+    <property>
+      From lateral view, epistoma and clypeus not markedly elevated.
+    </property>
+    <property>
+      Hind angle of pronotum black.
+    </property>
+    <taxon>
+      P. neglectus (Fonscolombe, 1847)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Smaller, body length 6-8 mm.
+    </property>
+    <property>
+      Flagellum with 30-33 segments.
+    </property>
+    <property>
+      Temples strongly narrowed behind the eyes, but sides rounded (fig. 27).
+    </property>
+    <property>
+      Genal index 0.6-0.7.
+    </property>
+    <property>
+      Malar space smaller, index about 1.0.
+    </property>
+    <property>
+      In lateral view, epistoma and clypeus markedly elevated.
+    </property>
+    <property>
+      Hind angle of pronotum sometimes with ivory spot.
+    </property>
+    <taxon>
+      P. tricingulatus (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="15">
+  <lead then_ref="16">
+    <property>
+      Frons entirely smooth and shining, with scattered puntures.
+    </property>
+    <property>
+      Genae swollen.
+    </property>
+    <property>
+      Segments 2-4 of tarsus III short, tarsal III-index at least 1.3.
+    </property>
+    <property>
+      Hypostomal carina not raised.
+    </property>
+    <property>
+      Ovipositor sheaths stout, about as wide as the metatarsus III, not conically constricted apically (figs. 4, 7).
+    </property>
+    <property>
+      Flagellum with ivory stripe or ring.
+    </property>
+    <property>
+      Scutellum often with ivory spot.
+    </property>
+    <property>
+      Tibia III black, with or without subbasal ivory ring.
+    </property>
+  </lead>
+  <lead then_ref="17">
+    <property>
+      Frons punctated and ± rugulose or granulate.
+    </property>
+    <property>
+      Genae less swollen or hypostomal carina ± raised.
+    </property>
+    <property>
+      Segments of tarsus III longer, tarsal III-index usually &lt; 1.3 (except P. dolorosus ).
+    </property>
+    <property>
+      Ovipositor sheaths often less stout and usually conically narrowed apically (figs. 1, 2, 5).
+    </property>
+    <property>
+      Tibia III often ± red.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="16">
+  <lead>
+    <property>
+      Apical margin of tergite 7 normally rounded.
+    </property>
+    <property>
+      Tibia III black, without ivory ring.
+    </property>
+    <property>
+      Postpetiole coarsely granulated.
+    </property>
+    <taxon>
+      P. tenuicornis (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Apical margin of tergite 7 with a charcteristic central nose-like projection (fig. 7).
+    </property>
+    <property>
+      Tibia III black, with ivory subbasal ring (rarely obsolete).
+    </property>
+    <property>
+      Postpetiole finely aciculate.
+    </property>
+    <taxon>
+      P. histrio Wesmael, 1855
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="17">
+  <lead then_ref="18">
+    <property>
+      Femur III ± brown or black, at most reddish basally.
+    </property>
+  </lead>
+  <lead then_ref="24">
+    <property>
+      Femur III mostly red, often darkened apically.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="18">
+  <lead then_ref="19">
+    <property>
+      Vertex with ivory spots, if these spots (rarely) lacking, then thyridia wider than its interval.
+    </property>
+    <property>
+      Apical segment of tarsi III normal, not elongate.
+    </property>
+  </lead>
+  <lead then_ref="23">
+    <property>
+      Vertex without ivory spots.
+    </property>
+    <property>
+      Thyridia smaller, at most as wide as their interval.
+    </property>
+    <property>
+      Apical segment of tarsus III elongate (as in Asthenolabus).
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="19">
+  <lead then_ref="23">
+    <property>
+      Torulus on outer side with an ear-like extension.
+    </property>
+    <property>
+      Tubercle between toruli tooth-like, sublateral projection of metanotum tongue-like expanded.
+    </property>
+    <property>
+      Thyridia small, usually smaller than their interval (fig. 43).
+    </property>
+    <property>
+      Femur III slender (index > 4.0).
+    </property>
+    <property>
+      Flagellum with 38-39 segments.
+    </property>
+    <taxon>
+      P. auriculatus Kriechbaumer, 1890
+    </taxon>
+    </lead>
+  <lead then_ref="20">
+    <property>
+      Torulus on outer side not unusually expanded.
+    </property>
+    <property>
+      Tubercle between toruli smaller; sublateral projection of metanotum tooth-like.
+    </property>
+    <property>
+      Thyridia often larger (figs. 13-15).
+    </property>
+    <property>
+      Femur III usually stouter (index &lt; 4.0).
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="20">
+  <lead>
+   <property>
+     Scutellum black, rarely reddish at apex.
+   </property>
+   <property>
+     Pronotum usually black, rarely hind angle with ivory spot.
+   </property>
+   <property>
+     Temples only slightly narrowed behind the eyes.
+   </property>
+   <property>
+     Flagellum with 32-35 segments.
+   </property>
+    <taxon>
+      P. fugator (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+  <lead then_ref="21">
+    <property>
+      Scutellum with an apical ivory spot.
+    </property>
+    <property>
+      Hind angle or upper lateral margin of pronotum ivory.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="21">
+  <lead>
+    <property>
+      Flagellum with 37-41 segments.
+    </property>
+    <property>
+      Lateral mesoscutal lobes smooth and shining between the punctures.
+    </property>
+    <taxon>
+      P. pallidens Wesmael, 1853, in part
+    </taxon>
+  </lead>
+  <lead then_ref="22">
+    <property>
+      Flagellum with at most 36 segments.
+    </property>
+    <property>
+      Lateral mesoscutal lobes usually with microsculpture, less shining or dull.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="22">
+  <lead>
+    <property>
+      Spots on vertex not confluent with ivory frontal orbits, not inwards directed apically (rarely completely lacking).
+    </property>
+    <property>
+      Malar index about 1.0.
+    </property>
+    <property>
+      Metatarsus III short, tarsal III-index 1.3-1.4.
+    </property>
+    <property>
+      Tergite 2 in basal half coarsely coriaceous.
+    </property>
+    <property>
+      Lateral meso scutal lobes with coarser punctures, intervals with fine microsculpture, ± shining.
+    </property>
+    <property>
+      Flagellum with 31-33 segments, apical segment characteristically blunt at tip.
+    </property>
+    <taxon>
+      P. dolorosus (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Spots on vertex confluent with ivory frontal orbits and inwards directed apically.
+    </property>
+    <property>
+      Malar index 0.7.
+    </property>
+    <property>
+      Metatarsus III longer, tarsal III-index 1.1.
+    </property>
+    <property>
+      Tergite 2 with fine aciculation basally.
+    </property>
+    <property>
+      Lateral mesoscutal lobes with finer punctures, intervals with dense microsculpture, usually ± dull.
+    </property>
+    <property>
+      Flagellum with 34-36 segments, apical segment narrowed at tip (as usual).
+    </property>
+    <taxon>
+      P. baueri spec. nov.
+    </taxon>
+    <note>
+      [here key some specimens of P. concinnus with dark femora III: lateral mesoscutal lobes without microsculpture, tergite 2 with scattered punctures and shining]
+    </note>
+  </lead>
+</couplet>
+
+<couplet ref="23">
+  <lead>
+    <property>
+      Scutellum and postscutellum almost entirely ivory.
+    </property>
+    <property>
+      Coxae black.
+    </property>
+    <property>
+      Genae wider, their index about 0.75.
+    </property>
+    <property>
+      Thyridia smaller, their interval wider than the middle field of postpetiole (fig. 41).
+    </property>
+    <property>
+      Metatarsus III longer, tarsal III-index 1.2.
+    </property>
+    <taxon>
+      P. daemon Wesmael, 1845
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Scutellum with an apical ivory spot, postscutellum usually black.
+    </property>
+    <property>
+      Coxae I and II with ivory spots.
+    </property>
+    <property>
+      Genae narrower, their index 0.55-0.65.
+    </property>
+    <property>
+      Thyridia larger, their interval a little smaller than the middle field of postpetiole (fig. 40).
+    </property>
+    <property>
+      Metatarsus III shorter, tarsal III-index about 1.0.
+    </property>
+    <taxon>
+      P. daemonops (Heinrich, 1944)
+    </taxon>
+    <note>
+      (Some specimens of P. pallidens Wesmael key here, if vertex (rarely) without ivory spots, but then flagellum with 38-41 segments (35-37 in P. daemon and P. daemonops ), last segment of tarsus III not elongate, and hind angle of pronotum ivory)
+    </note>
+  </lead>
+</couplet>
+
+<couplet ref="24">
+  <lead then_ref="25">
+    <property>
+      Upper lateral margin of pronotum with ivory line, rarely only hind angles ivory.
+    </property>
+    <property>
+      Lateral mesoscutal lobes smooth and shining between punctures.
+    </property>
+    <property>
+      Smaller, body length 5.0-7.5 mm.
+    </property>
+    <property>
+      Flagellum with at most 34 segments.
+    </property>
+  </lead>
+  <lead then_ref="29">
+    <property>
+      Upper lateral margin of pronotum usually black.
+    </property>
+    <property>
+      If hind angles or (very rarely) upper lateral margin ivory, than lateral mesoscutal lobes with microsculpture.
+    </property>
+    <property>
+      Usually larger, flagellum often with more segments.
+    </property>
+    <note>
+      (The colour of the upper lateral margin is quite variable. In uncertain cases, one should work through both alternatives.)
+    </note>
+  </lead>
+</couplet>
+
+<couplet ref="25">
+  <lead>
+    <property>
+      Vertex with ivory spots.
+    </property>
+    <property>
+      Frons almost smooth, with conspicuous but fine punctures.
+    </property>
+    <property>
+      Thyridia at most as wide as their interval (fig. 12).
+    </property>
+    <property>
+      Ivory facial orbits usually widened above.
+    </property>
+    <property>
+      Flagellum with 31-33 segments.
+    </property>
+    <taxon>
+      P. concinnus Thomson, 1888
+    </taxon>
+  </lead>
+  <lead then_ref="26">
+    <property>
+      Vertex black.
+    </property>
+    <property>
+      Frons usually aciculate or rugulose, punctures often inconspicuous.
+    </property>
+    <property>
+      Thyridia often wider, their index usually > 1.0 (figs. 28-31).
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="26">
+  <lead>
+    <property>
+      Coxa and trochanter I and II ± reddish or yellowish, clearly paler than Mesosoma.
+    </property>
+    <property>
+      Ovipositor sheaths short and wide, slightly upcurved (fig. 2).
+    </property>
+    <property>
+      Petiole short.
+    </property>
+    <property>
+      Flagellum not widened apically, all segments longer than wide.
+    </property>
+    <property>
+      Thyridia very wide, their index about 2.5 (fig. 31).
+    </property>
+    <property>
+      Femur III red, at most narrowly darkened at apex.
+    </property>
+    <property>
+      Pterostigma dark brown.
+    </property>
+    <taxon>
+      P. ruficoxatus spec. nov.
+    </taxon>
+  </lead>
+  <lead then_ref="27">
+    <property>
+      Coxa and trochanter I and II black, often with ivory spots.
+    </property>
+    <property>
+      Ovipositor sheaths normal, slender (fig. 5).
+    </property>
+    <property>
+      Thyridia usually shorter.
+    </property>
+    <property>
+      Petiole longer.
+    </property>
+    <property>
+      Pterostigma yellowish or brown.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="27">
+  <lead>
+    <property>
+      Femur III red, black in the apical 0.1-0.2.
+    </property>
+    <property>
+      Area petiolaris usually with coarse but low rugulae, ± shining, sometimes almost smooth.
+    </property>
+    <property>
+      Tarsal III-index 1.1.-1.2.
+    </property>
+    <property>
+      Flagellum conspicuously widened in the apical half.
+    </property>
+    <property>
+      Pterostigma brownish.
+    </property>
+    <taxon>
+      P. pseudopumilio spec. nov.
+    </taxon>
+  </lead>
+  <lead then_ref="28">
+    <property>
+      Femur III red, rarely narrowly darkened at apex.
+    </property>
+    <property>
+      Area petiolaris usually granulate or aciculate and ± dull.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="28">
+  <lead>
+    <property>
+      Pterostigma brownish-yellow.
+    </property>
+    <property>
+      Flagellum strongly widened in the apical half, widest segments square or transverse.
+    </property>
+    <property>
+      Hypostomal carina strongly raised.
+    </property>
+    <property>
+      Ivory stripes on the flagellum usually covering 3-4 segments.
+    </property>
+    <property>
+      Outer orbits usually with ivory marks.
+    </property>
+    <property>
+      Thyridia somewhat oblique, gastrocoeli usually ± impressed (fig. 29).
+    </property>
+    <property>
+      Tarsal III-index 1.2-1.3.
+    </property>
+    <property>
+      Larger, body length 5.5-7.0 mm.
+    </property>
+    <taxon>
+      P. iridipennis (Gravenhorst, 1829)
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Pterostigma pale yellow.
+    </property>
+    <property>
+      Flagellum moderately widened in the apical half, widest segments square or longer than wide.
+    </property>
+    <property>
+      Hypostomal carina not raised.
+    </property>
+    <property>
+      Ivory stripes on the flagellum often obsolete or entirely lacking.
+    </property>
+    <property>
+      Outer orbits usually black.
+    </property>
+    <property>
+      Thyridia straight, gastrocoeli usually not impressed (fig. 30).
+    </property>
+    <property>
+      Tarsal III-index 1.1-1.2.
+    </property>
+    <property>
+      Smaller, body length 5.0 mm.
+    </property>
+    <taxon>
+      P. minor spec. nov.
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="29">
+  <lead then_ref="30">
+    <property>
+      Hypostomal carina strongly raised, much wider than the apical segment of maxillary palpi.
+    </property>
+    <property>
+      Vertex black.
+    </property>
+  </lead>
+  <lead then_ref="33">
+    <property>
+      Hypostomal carina not or moderately raised, at most as wide as the apical segment of maxillary palpi.
+    </property>
+    <property>
+      Vertex sometimes with ivory spots.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="30">
+  <lead>
+    <property>
+      Temples ± parallel behind the eyes, slighty narrowed apically (fig. 35).
+    </property>
+    <property>
+      Genae swollen, genal index 1.0-1.1.
+    </property>
+    <property>
+      Femur III red, blackened apically, stout, index 3.3-3.5.
+    </property>
+    <property>
+      Tarsal III-index 1.1.
+    </property>
+    <property>
+     Pterostigma black.
+    </property>
+    <property>
+     Thyridial index about 1.2.
+    </property>
+    <property>
+      Body length 9-11 mm.
+    </property>
+    <taxon>
+      P. judaicus Berthoumieu, 1900
+    </taxon>
+  </lead>
+  <lead then_ref="31">
+    <property>
+      Temples narrowed behind the eyes (figs. 32-34).
+    </property>
+    <property>
+      Genal index &lt; 1.0.
+    </property>
+    <property>
+      Femur III index at least 3.5.K.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="31">
+  <lead>
+    <property>
+      Epicnemium ventrally raised, about as wide as the apical segment of maxillary palpi, with small central notch.
+    </property>
+    <property>
+      Thyridia index about 1.0-1.2 (fig. 32).
+    </property>
+    <property>
+      Apex of femur III clearly darkened.
+    </property>
+    <property>
+      Pterostigma black.
+    </property>
+    <property>
+      Flagellum with 37-38 segments, widest segments square.
+    </property>
+    <property>
+      Tarsal III-index 1.0.
+    </property>
+    <property>
+      Body length 7.0-10.0 mm.
+    </property>
+    <taxon>
+      P. obator (Desvignes, 1856)
+    </taxon>
+  </lead>
+  <lead then_ref="32">
+    <property>
+      Epicnemium not raised.
+    </property>
+    <property>
+      Thyridia often wider (figs. 33-34).
+    </property>
+    <property>
+      Femur III often entirely red.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="32">
+  <lead>
+    <property>
+      Pterostigma dark brown or black.
+    </property>
+    <property>
+      Lateral mesoscutal lobes with microsculpture, but ± shining.
+    </property>
+    <property>
+      Tarsal III-index 1.0-1.1.
+    </property>
+    <property>
+      Thyridia more oblique (fig. 34).
+    </property>
+    <property>
+      Flagellum with 35-40 segments.
+    </property>
+    <property>
+      Tibia III darkened in the apical 0.6-0.7.
+    </property>
+    <property>
+      Body length 8-10 mm.
+    </property>
+    <taxon>
+      P. odiosus Perkins, 1953
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Pterostigma brownish-yellow centrally.
+    </property>
+    <property>
+      Lateral mesoscutal lobes smooth in the center, shining.
+    </property>
+    <property>
+      Tarsal III-index 1.1-1.2.
+    </property>
+    <property>
+      Thyridia less oblique (fig. 33).
+    </property>
+    <property>
+      Flagellum with 32-37 segments.
+    </property>
+    <property>
+      Tibia III darkened in the apical 0.4-0.6.
+    </property>
+    <property>
+      Body length 6.5-10 mm.
+    </property>
+    <taxon>
+      P. heteromallus Berthoumieu , 1910
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="33">
+  <lead then_ref="34">
+    <property>
+      Lateral mesoscutal lobes with microsculpture or coriaceous between punctures, usually dull.
+    </property>
+    <property>
+      Petiole long, from base to spiracles about 3 times as long as wide.
+    </property>
+    <property>
+      Thyridia often smaller than their interval.
+    </property>
+  </lead>
+  <lead then_ref="37">
+    <property>
+      Lateral mesoscutal lobes at most with unconspicous or without microsculpture, shining.
+    </property>
+    <property>
+      If microsculpture is stronger (in P. transversus ), then petiole shorter than above and thyridia larger than their interval.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="34">
+  <lead>
+    <property>
+      Scutellum entirely ivory.
+    </property>
+    <property>
+      Tibia III black.
+    </property>
+    <property>
+      Hind angles of pronotum black.
+    </property>
+    <property>
+      Flagellum with 34-37 segments.
+    </property>
+    <property>
+      Last segment of tarsus III elongate.
+    </property>
+    <taxon>
+      P. stalii Holmgren, 1871
+    </taxon>
+  </lead>
+  <lead then_ref="35">
+    <property>
+      Scutellum apically with ivory spot.
+    </property>
+    <property>
+      Tibia III ± red basally.
+    </property>
+    <property>
+      Last segment of tarsus III not elongate.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="35">
+  <lead>
+    <property>
+      Hind angle or upper lateral margin of pronotum ivory.
+    </property>
+    <property>
+      Lateral mesoscutal lobes with microsculpture, dull or weakly shining, punctures clearly visible.
+    </property>
+    <property>
+      Postpetiole almost smooth, shining, with scattered fine punctures.
+    </property>
+    <property>
+      Flagellum with 33-35 segments.
+    </property>
+    <property>
+      Body length 7-8 mm.
+    </property>
+    <taxon>
+      P. sternoleucus Wesmael, 1845
+    </taxon>
+  </lead>
+  <lead then_ref="36">
+    <property>
+      Hind angle and upper lateral margin of pronotum black (rarely hind angle with small ivory spots).
+    </property>
+    <property>
+      Lateral mesoscutal lobes coriaceous, dull, punctures usually not clearly visible.
+    </property>
+    <property>
+      Postpetiole variable.
+    </property>
+    <property>
+      Often larger, body length 8-10 mm.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="36">
+  <lead>
+    <property>
+      Malar space with ivory spot at mandibular base.
+    </property>
+    <property>
+      Femur III often entirely red.
+    </property>
+    <property>
+      Tibia III darkened in the apical 0.2-0.3.
+    </property>
+    <property>
+      Flagellum with 33-37 segments, widest segments square or transverse.
+    </property>
+    <property>
+      Tarsal III-index 1.1-1.2.
+    </property>
+    <property>
+      Tergite 2 aciculate in the basal half.
+    </property>
+    <taxon>
+      P. intermedius Holmgren, 1871
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Ivory spot of malar space reaching the eye.
+    </property>
+    <property>
+      Femur III in the apical 0.2 and tibia III in the apical 0.4-0.6 darkened.
+    </property>
+    <property>
+      Flagellum with 36-39 segments, widest segments longer than wide.
+    </property>
+    <property>
+      Tarsal III-index 1.2-1.4.
+    </property>
+    <property>
+      Tergite 2 coarsely rugulose in the basal third.
+    </property>
+    <taxon>
+      P. opaculus Thomson, 1888
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="37">
+  <lead>
+    <property>
+      Very large, body length 10-14 mm.
+    </property>
+    <property>
+      Flagellum with 38-40 segments.
+    </property>
+    <property>
+      Postpetiole coarsely rugulose.
+    </property>
+    <property>
+      Thyridia very large, index about 3.0.
+    </property>
+    <property>
+      Gastrocoeli large and deeply impressed.
+    </property>
+    <taxon>
+      P. gigas Kriechbaumer, 1886
+    </taxon>
+  </lead>
+  <lead then_ref="38">
+    <property>
+      Smaller, body length at most 10 mm.
+    </property>
+    <property>
+      Flagellum with at most 35 segments.
+    </property>
+    <property>
+      Postpetiole with finer sculpture, Thyridia and gastrocoeli smaller.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="38">
+  <lead>
+    <property>
+      Temples ± parallel behind eyes, slightly narrowed apically (fig. 47).
+    </property>
+    <property>
+      Genae swollen, genal index > 1.0.
+    </property>
+    <property>
+      Flagellum with 35 segments.
+    </property>
+    <property>
+      Postpetiole rugulose, dull.
+    </property>
+    <property>
+      Hypostomal carina as wide as the apical segment of maxillary palpi.
+    </property>
+    <property>
+      Gastrocoeli impressed (fig. 47).
+    </property>
+    <property>
+      Outer orbits with ivory stripe.
+    </property>
+    <property>
+      Body length 9.5 mm.
+    </property>
+    <taxon>
+      P. ponticus spec. nov.
+    </taxon>
+  </lead>
+  <lead then_ref="39">
+    <property>
+      Temples narrowed behind the eyes (figs. 20-21).
+    </property>
+    <property>
+      Genal index &lt; 1.0.
+    </property>
+    <property>
+      Flagellum at most with 34 segments.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="39">
+  <lead then_ref="40">
+    <property>
+      Tibia III mainly or entirely black, often with a subbasal red ring.
+    </property>
+    <property>
+      Femur III black apically.
+    </property>
+  </lead>
+  <lead then_ref="41">
+    <property>
+      Tibia III largely red, darkened only the apical half.
+    </property>
+    <property>
+      Femur III often entirely red.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="40">
+  <lead>
+    <property>
+      Flagellum with 29-31 segments, strongly widened in the apical half, widest segments transverse.
+    </property>
+    <property>
+      Thyridia very wide, index > 2.0.
+    </property>
+    <property>
+      Tergite 2 densely punctate, length at least 0.75 times its width (fig. 21).
+    </property>
+    <taxon>
+      P. pumilio Holmgren 1871
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Flagellum with 33-34 segments, slightly widened in the apical half, all segments longer than wide.
+    </property>
+    <property>
+      Thyridia smaller, index &lt; 1.5.
+    </property>
+    <property>
+      Tergite 2 with scattered punctures, wider, length at most 0.70 times its width.
+    </property>
+    <taxon>
+      P. transversus Bridgman, 1889
+    </taxon>
+  </lead>
+</couplet>
+
+<couplet ref="41">
+  <lead>
+    <property>
+      Larger, body length 6.5-7.5 mm.
+    </property>
+    <property>
+      Mesosoma usually with ivory spots (usually hind angle of pronotum, subalar ridge, and apex of scutellum).
+    </property>
+    <property>
+      Thyridia small, index about 1.0 (fig. 36).
+    </property>
+    <property>
+      Flagellum with 31-34 segments, widest segments square.
+    </property>
+    <taxon>
+      P. curtorius (Thunberg, 1824)
+    </taxon>
+  </lead>
+  <lead then_ref="42">
+    <property>
+      Smaller, body length 4-6 mm.
+    </property>
+    <property>
+      Mesosoma usually black without ivory spots, rarely apex of scutellum paler.
+    </property>
+    <property>
+      Thyridia and flagellum variable.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="42">
+  <lead>
+   <property>
+     Temples strongly narrowed behind the eyes (fig. 38).
+   </property>
+   <property>
+     Flagellum with 30-32 segments, all segments longer than wide.
+   </property>
+   <property>
+     Index of first flagellar segment 4.5-5.0.
+   </property>
+   <property>
+     Middle field of postpetiole aciculate, without clear punctures.
+   </property>
+    <taxon>
+      P. perexiguus Heinrich, 1973
+    </taxon>
+  </lead>
+  <lead then_ref="43">
+    <property>
+      Temples less narrowed behind the eyes (fig. 39).
+    </property>
+    <property>
+      Flagellum with 27-28 segments, widened in the apical half, widest segments square or transverse.
+    </property>
+    <property>
+      Index of first flagellar segment 3.5-4.0.
+    </property>
+  </lead>
+</couplet>
+
+<couplet ref="43">
+  <lead>
+    <property>
+      Middle field of postpetiole with conspicuous punctures, smooth between the punctures.
+    </property>
+    <property>
+      Thyridia not oblique.
+    </property>
+    <property>
+      Flagellum with 28 segments, ivory stripe on segments 7-11.
+    </property>
+    <taxon>
+      P. pullus Wesmael, 1853
+    </taxon>
+  </lead>
+  <lead>
+    <property>
+      Middle field of postpetiole aciculate, without clear punctures.
+    </property>
+    <property>
+      Thyridia oblique (fig. 39).
+    </property>
+    <property>
+      Flagellum with 27 segments, ivory stripe on segments 8-10.
+    </property>
+    <taxon>
+      P. fennicus spec. nov.
+    </taxon>
+  </lead>
+</couplet>
+
+</key>
