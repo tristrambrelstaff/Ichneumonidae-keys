@@ -1,246 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../key.dtd">
 
-<key ref="Ichneumon-females" type="singlet" document="Hilpert-1992" lang="de">
+<key ref="Ichneumon-females" doc_ref="Hilpert-1992" lang="de">
 
   <title>Bestimmungsschlüssel für die Weibchen</title>
 
-  <note>Der Bestimmungsschlüssel enthält alle aus der Palaearktis untersuchten Arten. Es sind ausschließlich Taxa berücksichtigt, von denen Material untersucht werden konnte. Das Arteninventar der Westpalaearktis kann dabei als weitgehend vollständig betrachtet werden. Ostpalaearktische Arten sind nur berücksichtigt, wenn sie von HEINRICH oder ROMAN erstmals beschrieben wurden oder sich Material in der Zoologischen Staar«aininliing München befindet. Einige nicht klar einer Artengruppe zuzuordnende Arten werden dabei an verschiedenen Stellen erwähnt, bei der Artengruppe, der sie formal nicht untergeordnet wurden, in Kleindruck. Bei Merkmalen, die nicht für alle Arten eine klare Zuordnung erlauben, empfiehlt es sich, beide Altenativen zu verfolgen. Das gut insbesondere fur die Proportionen des vorletzten Geißelgliedes und die Bürste der CoIII. Die Unterarten sind nur teilweise berücksichtigt. (Die Proportionen der Geißelglieder, des FIII oder der Area superomedia sind, wenn nicht abweichend vermerkt, immer als Verhältnis von Länge zu Breite angegeben.)</note>
+  <note>
+    Der Bestimmungsschlüssel enthält alle aus der Palaearktis untersuchten Arten. Es sind ausschließlich Taxa berücksichtigt, von denen Material untersucht werden konnte. Das Arteninventar der Westpalaearktis kann dabei als weitgehend vollständig betrachtet werden. Ostpalaearktische Arten sind nur berücksichtigt, wenn sie von HEINRICH oder ROMAN erstmals beschrieben wurden oder sich Material in der Zoologischen Staar«aininliing München befindet. Einige nicht klar einer Artengruppe zuzuordnende Arten werden dabei an verschiedenen Stellen erwähnt, bei der Artengruppe, der sie formal nicht untergeordnet wurden, in Kleindruck. Bei Merkmalen, die nicht für alle Arten eine klare Zuordnung erlauben, empfiehlt es sich, beide Altenativen zu verfolgen. Das gut insbesondere fur die Proportionen des vorletzten Geißelgliedes und die Bürste der CoIII. Die Unterarten sind nur teilweise berücksichtigt. (Die Proportionen der Geißelglieder, des FIII oder der Area superomedia sind, wenn nicht abweichend vermerkt, immer als Verhältnis von Länge zu Breite angegeben.)
+  </note>
 
-  <singlet ref="1">
-    <else>(<ref>4</ref>)</else>
-    <if>
-      <and>Abdomen mit Farbbändern: Alle Tergite apikal gelb, oder T6 mit weißem Band bei gleichzeitig schwarzem T7.</and>
-      <and>(Scutellum gelb).</and>
-    </if>
+  <singlet ref="1" else_ref="4">
+    <property>
+      Abdomen mit Farbbändern: Alle Tergite apikal gelb, oder T6 mit weißem Band bei gleichzeitig schwarzem T7.
+    </property>
+    <property>
+      (Scutellum gelb).
+    </property>
   </singlet>
 
-  <singlet ref="2">
-    <else>(<ref>3</ref>)</else>
-    <if>
-      <and>Alle Tergite apikal gelb.</and>
-      <and>CoIII dorsal mit gelbem Fleck.</and>
-      <and>[Unterer Mandibelzahn sehr kurz. CoIII unserseits mit ungleichmäßiger Punktierung. Scutellum gelb. Vorletztes Gg quadratisch bis quer, das breiteste Gg 1,8-2,1 (Breite:Länge). 36-44 Gg. Gastrocoelen schmaler als der Zwischenraum.]</and>
-    </if>
-    <then><taxon>Gruppe A1</taxon></then>
+  <singlet ref="2" else_ref="3">
+    <property>
+      Alle Tergite apikal gelb.
+    </property>
+    <property>
+      CoIII dorsal mit gelbem Fleck.
+    </property>
+    <property>
+      [Unterer Mandibelzahn sehr kurz. CoIII unserseits mit ungleichmäßiger Punktierung. Scutellum gelb. Vorletztes Gg quadratisch bis quer, das breiteste Gg 1,8-2,1 (Breite:Länge). 36-44 Gg. Gastrocoelen schmaler als der Zwischenraum.]
+    </property>
+    <taxon>
+      Gruppe A1
+    </taxon>
   </singlet>
 
-  <singlet ref="3">
-    <else>(<ref>2</ref>)</else>
-    <if>
-      <and>T6 mit einem weißen transversalen Band, gleichzeitig T7 schwarz.</and>
-      <and>(CoIII ungleichmäßig punktiert, oder sogar mit Bürste. CoIII ganz schwarz. Vorletztes Gg1. stark quer. Breitestes Gg1. 1,6-2,1 (Breite:Länge). Geißel mit 33-39 Gliedern.)</and>
-    </if>
-    <then><taxon>Gruppe A2</taxon></then>
+  <singlet ref="3" else_ref="2">
+    <property>
+      T6 mit einem weißen transversalen Band, gleichzeitig T7 schwarz.
+    </property>
+    <property>
+      (CoIII ungleichmäßig punktiert, oder sogar mit Bürste. CoIII ganz schwarz. Vorletztes Gg1. stark quer. Breitestes Gg1. 1,6-2,1 (Breite:Länge). Geißel mit 33-39 Gliedern.)
+    </property>
+    <taxon>
+      Gruppe A2
+    </taxon>
   </singlet>
 
-  <singlet ref="4">
-    <else>(<ref>1</ref>)</else>
-    <if>
-      <and>Abdomen ohne solche regelmäßigen Farbbänder und T6 nicht alleine weiß gezeichnet.</and>
-      <and>(Höchstens T2-3 mit Bändern). Wenn T6 weiß gefleckt ist, dann immer auch T7. Oft aber ganze Tergite gelb oder rot gefärbt.</and>
-    </if>
+  <singlet ref="4" else_ref="1">
+      <property>
+        Abdomen ohne solche regelmäßigen Farbbänder und T6 nicht alleine weiß gezeichnet.
+      </property>
+      <property>
+        (Höchstens T2-3 mit Bändern). Wenn T6 weiß gefleckt ist, dann immer auch T7. Oft aber ganze Tergite gelb oder rot gefärbt.
+      </property>
   </singlet>
 
-  <singlet ref="5">
-    <else>(<ref>6</ref>)</else>
-    <if>
-      <and>CoIII dorsal gelb gezeichnet oder Propodeum mit Zahnen (wenn undeutlich, dann die hintere Querleiste der Areae dentiparae mit einem Knick).</and>
-      <and>Große Arten, 41-46 Gg.</and>
-      <and>(Geißel borstenförmig, d.h. vorletztes Gg quadratisch oder verlängert. Immer ohne Bürste.)</and>
-    </if>
-    <then><taxon>Gruppe B</taxon></then>
+  <singlet ref="5" else_ref="6">
+      <property>
+        CoIII dorsal gelb gezeichnet oder Propodeum mit Zahnen (wenn undeutlich, dann die hintere Querleiste der Areae dentiparae mit einem Knick).
+      </property>
+      <property>
+         Große Arten, 41-46 Gg.
+      </property>
+      <property>
+         (Geißel borstenförmig, d.h. vorletztes Gg quadratisch oder verlängert. Immer ohne Bürste.)
+      </property>
+      <taxon>
+        Gruppe B
+      </taxon>
   </singlet>
 
-  <singlet ref="6">
-    <else>(<ref>5</ref>)</else>
-    <if>CoIII schwarz und Propodeum ohne Zähne.</if>
+  <singlet ref="6" else_ref="5">
+    <property>
+      CoIII schwarz und Propodeum ohne Zähne.
+    </property>
   </singlet>
 
-  <singlet ref="7">
-    <else>(<ref>10</ref>)</else>
-    <if>
-      <and>Vorletztes Gg quadratisch oder verlängert, selten etwas quer.</and>
-      <and>(Antenne borstenförmig. CoIII nie mit Sonderbildungen. Wenn Gastrocoelen breiter als der Raum zwischen ihnen, dann sind sie relativ lang und ihr Hinterrand ist gerade, d.h. orthogonal auf der Körperlängsachse stehend.)</and>
-    </if>
+  <singlet ref="7" else_ref="10">
+      <property>
+        Vorletztes Gg quadratisch oder verlängert, selten etwas quer.
+      </property>
+      <property>
+        (Antenne borstenförmig. CoIII nie mit Sonderbildungen. Wenn Gastrocoelen breiter als der Raum zwischen ihnen, dann sind sie relativ lang und ihr Hinterrand ist gerade, d.h. orthogonal auf der Körperlängsachse stehend.)
+      </property>
   </singlet>
 
-  <singlet ref="8">
-    <else>(<ref>9</ref>)</else>
-    <if>Gastrocoelen wenigstens so breit wie der Raum zwischen ihnen, meist deutlich breiter, (selten schmaler, dann aber T5-7 mit weißem Fleck oder Mandibelzähne gleichlang bzw. Mandibel nach der Spitze hin nicht stark verschmälert.) Gastrocoelen lang und tief, ihr Hinterrand gerade, d.h orthogonal zur Körperlängsachse stehend.</if>
-    <then><taxon>Gruppe C</taxon></then>
+  <singlet ref="8" else_ref="9">
+    <property>
+      Gastrocoelen wenigstens so breit wie der Raum zwischen ihnen, meist deutlich breiter, (selten schmaler, dann aber T5-7 mit weißem Fleck oder Mandibelzähne gleichlang bzw. Mandibel nach der Spitze hin nicht stark verschmälert.)
+    </property>
+    <property>
+      Gastrocoelen lang und tief, ihr Hinterrand gerade, d.h orthogonal zur Körperlängsachse stehend.
+    </property>
+    <taxon>
+      Gruppe C
+    </taxon>
   </singlet>
 
-  <singlet ref="9">
-    <else>(<ref>8</ref>)</else>
-    <if>
-      <and>Gastrocoelen schmaler als der Raum dazwischen.</and>
-      <and>(Wenn doch etwas breiter, dann deren Hinterrand schräg und Gastrocoelen in der Mitte des 2. Tergits kurz oder flach.)</and>
-    </if>
-    <then><taxon>Gruppe D</taxon></then>
+  <singlet ref="9" else_ref="8">
+    <property>
+      Gastrocoelen schmaler als der Raum dazwischen.
+    </property>
+    <property>
+      (Wenn doch etwas breiter, dann deren Hinterrand schräg und Gastrocoelen in der Mitte des 2. Tergits kurz oder flach.)
+    </property>
+    <taxon>
+      Gruppe D
+    </taxon>
   </singlet>
 
-  <singlet ref="10">
-    <else>(<ref>7</ref>)</else>
-    <if>
-      <and>Vorletztes Gg (von ventral gesehen) quer.</and>
-      <and>[Antenne fadenförmig. CoIII ventral oft mit Sonderbildungen: mit Bürste (manchmal einen kleinen Höcker vortäuschend), Leiste, oder sehr weitläufig punktiert. In diesen Fällen das vorletzte Gg manchmal quadratisch. CoIII meist wenigstens ungleichmäßig punktiert, d.h. ventral innen dichter als außen. Gastrocoelen oft breiter als der Zwischenraum, Hinterrand derselben immer schräg.]</and>
-    </if>
+  <singlet ref="10" else_ref="7">
+    <property>
+      Vorletztes Gg (von ventral gesehen) quer.
+    </property>
+    <property>
+      [Antenne fadenförmig. CoIII ventral oft mit Sonderbildungen: mit Bürste (manchmal einen kleinen Höcker vortäuschend), Leiste, oder sehr weitläufig punktiert. In diesen Fällen das vorletzte Gg manchmal quadratisch. CoIII meist wenigstens ungleichmäßig punktiert, d.h. ventral innen dichter als außen. Gastrocoelen oft breiter als der Zwischenraum, Hinterrand derselben immer schräg.]
+    </property>
   </singlet>
 
-  <singlet ref="11">
-    <else>(<ref>32</ref>)</else>
-    <if>Gastrocoelen nicht breiter als der Raum zwischen ihnen.</if>
+  <singlet ref="11" else_ref="32">
+    <property>
+      Gastrocoelen nicht breiter als der Raum zwischen ihnen.
+    </property>
   </singlet>
 
-  <singlet ref="12">
-    <else>(<ref>19</ref>)</else>
-    <if>CoIII mit Bürste, Leiste, "Höcker", oder auffallend weitläufiger Punktierung auf der Ventralseite.</if>
+  <singlet ref="12" else_ref="19">
+    <property>
+      CoIII mit Bürste, Leiste, "Höcker", oder auffallend weitläufiger Punktierung auf der Ventralseite.
+    </property>
   </singlet>
 
-  <singlet ref="13">
-    <else>(<ref>14</ref>)</else>
-    <if>
-      <and>CoIII auf der Ventralseite mit einer auf ein kleines Areal beschränkten Bürste, die einen Höcker vortäuscht.</and>
-      <and>[T6-7 gelb gefleckt oder auf dem 5. Tergit ein nur kleiner Fleck (oder die Flecken sehr stark quer). Scutellum gelb. Vorletztes Gg1. schwach bis stark quer. Breitestes Gg1. 1,5-2,2. Geißel mit 36-44 Gliedern. Gastrocoelen ca. so breit wie der Zwischenraum, mäßig bis sehr tief. TsIII zu 3/4 (oder mehr) schwarz.]</and>
-    </if>
-    <then><taxon>Gruppe El</taxon></then>
+  <singlet ref="13" else_ref="14">
+    <property>
+      CoIII auf der Ventralseite mit einer auf ein kleines Areal beschränkten Bürste, die einen Höcker vortäuscht.
+    </property>
+    <property>
+      [T6-7 gelb gefleckt oder auf dem 5. Tergit ein nur kleiner Fleck (oder die Flecken sehr stark quer). Scutellum gelb. Vorletztes Gg1. schwach bis stark quer. Breitestes Gg1. 1,5-2,2. Geißel mit 36-44 Gliedern. Gastrocoelen ca. so breit wie der Zwischenraum, mäßig bis sehr tief. TsIII zu 3/4 (oder mehr) schwarz.]
+    </property>
+    <taxon>
+      Gruppe E1
+    </taxon>
   </singlet>
 
-  <singlet ref="14">
-    <else>(<ref>13</ref>)</else>
-    <if>CoIII ohne höckerartige Bürste auf der Ventralseite; Bürste, wenn vorhanden, größer.</if>
+  <singlet ref="14" else_ref="13">
+    <property>
+      CoIII ohne höckerartige Bürste auf der Ventralseite; Bürste, wenn vorhanden, größer.
+    </property>
   </singlet>
 
-  <singlet ref="15">
-    <else>(<ref>16</ref>)</else>
-    <if>CoIII ventral mit Bürste.</if>
-    <then><taxon>Gruppe E2</taxon></then>
+  <singlet ref="15" else_ref="16">
+    <property>
+      CoIII ventral mit Bürste.
+    </property>
+    <taxon>
+      Gruppe E2
+    </taxon>
   </singlet>
 
-  <singlet ref="16">
-    <else>(<ref>15</ref>)</else>
-    <if>CoIII ohne Bürste, (mit Leiste oder weitläufig punktiert).</if>
+  <singlet ref="16" else_ref="15">
+    <property>
+      CoIII ohne Bürste, (mit Leiste oder weitläufig punktiert).
+    </property>
   </singlet>
 
-  <singlet ref="17">
-    <else>(<ref>18</ref>)</else>
-    <if>
-      <and>CoIII ventral auffallend weitläufig punktiert.</and>
-      <and>(Breitestes Gg oft ca. 2,3 mal so breit wie lang. 32-43 Gg).</and>
-    </if>
-    <then><taxon>Gruppe E3</taxon></then>
+  <singlet ref="17" else_ref="18">
+    <property>
+      CoIII ventral auffallend weitläufig punktiert.
+    </property>
+    <property>
+      (Breitestes Gg oft ca. 2,3 mal so breit wie lang. 32-43 Gg).
+    </property>
+    <taxon>
+      Gruppe E3
+    </taxon>
   </singlet>
 
-  <singlet ref="18">
-    <else>(<ref>17</ref>)</else>
-    <if>
-      <and>CoIII an der Inenseite ventral mit einer Leiste oder wenigstens einer gewinkelten Kante.</and>
-      <and>(T5-7 fast immer mit großen weißen Flecken. 36-38 Gg).</and>
-    </if>
-    <then><taxon>Gruppe E4</taxon></then>
+  <singlet ref="18" else_ref="17">
+    <property>
+      CoIII an der Inenseite ventral mit einer Leiste oder wenigstens einer gewinkelten Kante.
+    </property>
+    <property>
+      (T5-7 fast immer mit großen weißen Flecken. 36-38 Gg).
+    </property>
+    <taxon>
+      Gruppe E4
+    </taxon>
   </singlet>
 
-  <singlet ref="19">
-    <else>(<ref>12</ref>)</else>
-    <if>
-      <and>CoIII ventral ohne Bürste oder Leiste und nicht auffallend weitläufig punktiert.</and>
-      <and>Oft aber an Stelle der Bürste dichter punktiert als daneben.</and>
-    </if>
+  <singlet ref="19" else_ref="12">
+    <property>
+      CoIII ventral ohne Bürste oder Leiste und nicht auffallend weitläufig punktiert.
+    </property>
+    <property>
+      Oft aber an Stelle der Bürste dichter punktiert als daneben.
+    </property>
   </singlet>
 
-  <singlet ref="20">
-    <else>(<ref>21</ref>)</else>
-    <if>
-      <and>Abdomen außer den terminalen Flecken schwarz.</and>
-      <and>(37-43 Gg)</and>
-    </if>
-    <then><taxon>Gruppe F</taxon></then>
+  <singlet ref="20" else_ref="21">
+    <property>
+      Abdomen außer den terminalen Flecken schwarz.
+    </property>
+    <property>
+      (37-43 Gg)
+    </property>
+    <taxon>
+      Gruppe F
+    </taxon>
   </singlet>
 
-  <singlet ref="21">
-    <else>(<ref>20</ref>)</else>
-    <if>Abdomen mit roten oder gelben Tergiten.</if>
+  <singlet ref="21" else_ref="20">
+    <property>
+      Abdomen mit roten oder gelben Tergiten.
+    </property>
   </singlet>
 
-  <singlet ref="22">
-    <else>(<ref>31</ref>)</else>
-    <if>
-      <and>Scutellum gelb oder wenigstens 30Gg.</and>
-      <and>(Scutellum öfter rot oder schwarz bei Arten mit rot gezeichne-tem Mesonotum)</and>
-    </if>
+  <singlet ref="22" else_ref="31">
+    <property>
+      Scutellum gelb oder wenigstens 30Gg.
+    </property>
+    <property>
+      (Scutellum öfter rot oder schwarz bei Arten mit rot gezeichne-tem Mesonotum)
+    </property>
   </singlet>
 
-  <singlet ref="23">
-    <else>(<ref>24</ref>)</else>
-    <if>TiIII in der Mitte mit reinem Gelb.</if>
-    <then><taxon>Gruppe Gl</taxon></then>
+  <singlet ref="23" else_ref="24">
+    <property>
+      TiIII in der Mitte mit reinem Gelb.
+    </property>
+    <taxon>
+      Gruppe Gl
+    </taxon>
   </singlet>
 
-  <singlet ref="24">
-    <else>(<ref>23</ref>)</else>
-    <if>
-      <and>TiIII in der Mitte ohne reines Gelb.</and>
-      <and>(Selten mit Spuren davon, z.B. bei albiger.)</and>
-    </if>
+  <singlet ref="24" else_ref="23">
+    <property>
+      TiIII in der Mitte ohne reines Gelb.
+    </property>
+    <property>
+      (Selten mit Spuren davon, z.B. bei albiger.)
+    </property>
   </singlet>
 
-  <singlet ref="25">
-    <else>(<ref>28</ref>)</else>
-    <if>T5-7 mit großen Terminalflecken oder apikalen Bändern (und Geißel mit wenigstens 32 Gliedern.)</if>
-    <then><taxon>Gruppe G2</taxon></then>
+  <singlet ref="25" else_ref="28">
+    <property>
+      T5-7 mit großen Terminalflecken oder apikalen Bändern (und Geißel mit wenigstens 32 Gliedern.)
+    </property>
+    <taxon>
+      Gruppe G2
+    </taxon>
   </singlet>
 
-  <singlet ref="26">
-    <else>(<ref>27</ref>)</else>
-    <if>Terminalflecken nicht auffallend breit.</if>
-    <then><taxon>Gruppe G21</taxon></then>
+  <singlet ref="26" else_ref="27">
+    <property>
+      Terminalflecken nicht auffallend breit.
+    </property>
+    <taxon>
+      Gruppe G21
+    </taxon>
   </singlet>
 
-  <singlet ref="27">
-    <else>(<ref>26</ref>)</else>
-    <if>
-      <and>Terminalflecken auffallend breit.</and>
-      <and>Gesicht meist reichlich rot gezeichnet.</and>
-      <and>(Kleine Arten.)</and>
-    </if>
-    <then><taxon>Gruppe G22</taxon></then>
+  <singlet ref="27" else_ref="26">
+    <property>
+      Terminalflecken auffallend breit.
+    </property>
+    <property>
+      Gesicht meist reichlich rot gezeichnet.
+    </property>
+    <property>
+      (Kleine Arten.)
+    </property>
+    <taxon>
+      Gruppe G22
+    </taxon>
   </singlet>
 
-  <singlet ref="28">
-    <else>(<ref>25</ref>)</else>
-    <if>T5 höchstens mit einem deutlich kleineren Fleck (oder Geißel mit weniger als 31 Gliedern.)</if>
+  <singlet ref="28" else_ref="25">
+    <property>
+      T5 höchstens mit einem deutlich kleineren Fleck (oder Geißel mit weniger als 31 Gliedern.)
+    </property>
   </singlet>
 
-  <singlet ref="29">
-    <else>(<ref>30</ref>)</else>
-    <if>Geißel mit nur ca. 24 Gliedern.</if>
-    <then><taxon>Gruppe G3</taxon></then>
+  <singlet ref="29" else_ref="30">
+    <property>
+      Geißel mit nur ca. 24 Gliedern.
+    </property>
+    <taxon>
+      Gruppe G3
+    </taxon>
   </singlet>
 
-  <singlet ref="30">
-    <else>(<ref>29</ref>)</else>
-    <if>Geißel mit wenigstens 27 Gliedern.</if>
-    <then><taxon>Gruppe G4</taxon></then>
+  <singlet ref="30" else_ref="29">
+    <property>
+      Geißel mit wenigstens 27 Gliedern.
+    </property>
+    <taxon>
+      Gruppe G4
+    </taxon>
   </singlet>
 
-  <singlet ref="31">
-    <else>(<ref>22</ref>)</else>
-    <if>
-      <and>Scutellum schwarz.</and>
-      <and>(T5 ohne weißen Fleck. 22-29 Gg).</and>
-    </if>
-    <then><taxon>Gruppe H</taxon></then>
+  <singlet ref="31" else_ref="22">
+    <property>
+      Scutellum schwarz.
+    </property>
+    <property>
+      (T5 ohne weißen Fleck. 22-29 Gg).
+    </property>
+    <taxon>
+      Gruppe H
+    </taxon>
   </singlet>
 
-  <singlet ref="32">
-    <else>(<ref>11</ref>)</else>
-    <if>
-      <and>Gastrocoelen deutlich breiter als der Raum dazwischen, schräg und tief; der Abstand der Thyndien vom Vorderrand des Tergits in der Mitte gering.</and>
-      <and>(Nur T6-7 oder nur T7 mit weißen Flecken).</and>
-    </if>
-    <then>
-      <taxon>Gruppe I</taxon>
-    </then>
+  <singlet ref="32" else_ref="11">
+    <property>
+      Gastrocoelen deutlich breiter als der Raum dazwischen, schräg und tief; der Abstand der Thyndien vom Vorderrand des Tergits in der Mitte gering.
+    </property>
+    <property>
+      (Nur T6-7 oder nur T7 mit weißen Flecken).
+    </property>
+    <taxon>
+      Gruppe I
+    </taxon>
   </singlet>
 
 </key>
