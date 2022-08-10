@@ -1,0 +1,46 @@
+<!ELEMENT key (title, note*, (singlet+ | couplet+))>
+<!ATTLIST key
+  ref     CDATA #REQUIRED
+  doc_ref CDATA #REQUIRED
+  lang    CDATA "en"
+>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT singlet (((property+ | set), (taxon+ | set)?), note*)>
+<!ATTLIST singlet
+  ref      CDATA #REQUIRED
+  else_ref CDATA #REQUIRED
+>
+
+<!ELEMENT couplet (lead, lead+)>
+<!ATTLIST couplet
+  ref      CDATA #REQUIRED
+  else_ref CDATA ""
+>
+
+<!ELEMENT lead (((property+ | set), (taxon+ | set)?), note*)>
+<!ATTLIST lead
+  then_ref CDATA ""
+>
+
+<!ELEMENT property (#PCDATA)>
+
+<!ELEMENT taxon (#PCDATA)>
+
+<!ENTITY % set_types "property | taxon">
+
+<!ELEMENT set (%set_types; | and | or | not)>
+<!-- Must only contain members of one set_type -->
+
+<!ELEMENT and ((%set_types; | set)*)>
+<!-- Must only contain members of the same set_type as the enclosing set -->
+
+<!ELEMENT or ((%set_types; | set)*)>
+<!-- Must only contain members of the same set_type as the enclosing set -->
+
+<!ELEMENT not (%set_types; | set)>
+<!-- Must only contain elements of the same set_type as the enclosing set -->
+

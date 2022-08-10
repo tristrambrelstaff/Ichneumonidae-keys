@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns="http://relaxng.org/ns/structure/1.0">
+  <define name="key">
+    <element name="key">
+      <ref name="key_attlist"/>
+      <ref name="title"/>
+      <zeroOrMore>
+        <ref name="note"/>
+      </zeroOrMore>
+      <choice>
+        <oneOrMore>
+          <ref name="singlet"/>
+        </oneOrMore>
+        <oneOrMore>
+          <ref name="couplet"/>
+        </oneOrMore>
+      </choice>
+    </element>
+  </define>
+  <define name="key_attlist" combine="interleave">
+    <attribute name="ref"/>
+    <attribute name="doc_ref"/>
+    <optional>
+      <attribute name="lang" a:defaultValue="en"/>
+    </optional>
+  </define>
+  <define name="title">
+    <element name="title">
+      <ref name="title_attlist"/>
+      <text/>
+    </element>
+  </define>
+  <define name="title_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <define name="note">
+    <element name="note">
+      <ref name="note_attlist"/>
+      <text/>
+    </element>
+  </define>
+  <define name="note_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <define name="singlet">
+    <element name="singlet">
+      <ref name="singlet_attlist"/>
+      <group>
+        <choice>
+          <oneOrMore>
+            <ref name="property"/>
+          </oneOrMore>
+          <ref name="set"/>
+        </choice>
+        <optional>
+          <choice>
+            <oneOrMore>
+              <ref name="taxon"/>
+            </oneOrMore>
+            <ref name="set"/>
+          </choice>
+        </optional>
+      </group>
+      <zeroOrMore>
+        <ref name="note"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="singlet_attlist" combine="interleave">
+    <attribute name="ref"/>
+    <attribute name="else_ref"/>
+  </define>
+  <define name="couplet">
+    <element name="couplet">
+      <ref name="couplet_attlist"/>
+      <ref name="lead"/>
+      <oneOrMore>
+        <ref name="lead"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="couplet_attlist" combine="interleave">
+    <attribute name="ref"/>
+    <optional>
+      <attribute name="else_ref" a:defaultValue=""/>
+    </optional>
+  </define>
+  <define name="lead">
+    <element name="lead">
+      <ref name="lead_attlist"/>
+      <group>
+        <choice>
+          <oneOrMore>
+            <ref name="property"/>
+          </oneOrMore>
+          <ref name="set"/>
+        </choice>
+        <optional>
+          <choice>
+            <oneOrMore>
+              <ref name="taxon"/>
+            </oneOrMore>
+            <ref name="set"/>
+          </choice>
+        </optional>
+      </group>
+      <zeroOrMore>
+        <ref name="note"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="lead_attlist" combine="interleave">
+    <optional>
+      <attribute name="then_ref" a:defaultValue=""/>
+    </optional>
+  </define>
+  <define name="property">
+    <element name="property">
+      <ref name="property_attlist"/>
+      <text/>
+    </element>
+  </define>
+  <define name="property_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <define name="taxon">
+    <element name="taxon">
+      <ref name="taxon_attlist"/>
+      <text/>
+    </element>
+  </define>
+  <define name="taxon_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <define name="set_types">
+    <choice>
+      <ref name="property"/>
+      <ref name="taxon"/>
+    </choice>
+  </define>
+  <define name="set">
+    <element name="set">
+      <ref name="set_attlist"/>
+      <choice>
+        <ref name="set_types"/>
+        <ref name="and"/>
+        <ref name="or"/>
+        <ref name="not"/>
+      </choice>
+    </element>
+  </define>
+  <define name="set_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <!-- Must only contain members of one set_type -->
+  <define name="and">
+    <element name="and">
+      <ref name="and_attlist"/>
+      <zeroOrMore>
+        <choice>
+          <ref name="set_types"/>
+          <ref name="set"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="and_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <!-- Must only contain members of the same set_type as the enclosing set -->
+  <define name="or">
+    <element name="or">
+      <ref name="or_attlist"/>
+      <zeroOrMore>
+        <choice>
+          <ref name="set_types"/>
+          <ref name="set"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="or_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <!-- Must only contain members of the same set_type as the enclosing set -->
+  <define name="not">
+    <element name="not">
+      <ref name="not_attlist"/>
+      <choice>
+        <ref name="set_types"/>
+        <ref name="set"/>
+      </choice>
+    </element>
+  </define>
+  <define name="not_attlist" combine="interleave">
+    <empty/>
+  </define>
+  <start>
+    <choice>
+      <ref name="key"/>
+    </choice>
+  </start>
+</grammar>
+<!-- Must only contain elements of the same set_type as the enclosing set -->

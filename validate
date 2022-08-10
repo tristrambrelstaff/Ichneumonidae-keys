@@ -1,0 +1,8 @@
+# Example: ./validate Riedel-2008/Platylabus-females.xml
+#
+# This generates an .rng (RelaxNG schema) file as an intermediate.
+# You might need need to install trang and jing for it to work:
+#   sudo apt-get intstall trang jing
+#
+trang key.dtd key.rng
+jing key.rng $1
