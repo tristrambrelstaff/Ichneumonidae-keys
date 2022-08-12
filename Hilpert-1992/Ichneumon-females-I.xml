@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../key.dtd">
+
+<key ref="Ichneumon-females-I" doc_ref="Hilpert-199" lang="de">
+
+  <title>Gruppe I</title>
+
+  <singlet ref="1" else_ref="22">
+    <property>
+      Scutellum gelb.
+    </property>
+    <property>
+      (29-36 Gg.)
+    </property>
+  </singlet>
+
+  <singlet ref="2" else_ref="13">
+    <property>
+      Petiolus rot.
+    </property>
+  </singlet>
+
+  <singlet ref="3" else_ref="4">
+    <property>
+      FIII schwarz.
+    </property>
+    <property>
+      Größere Art (9,9).
+    </property>
+    <property>
+      [30-35 Gg. T6-7 mit weißem Fleck. Area superomedia quer (17:23). {Dies auch als Unterschied zu dilleri}. TiIII apikal zu 1/6 schwarz.]
+    </property>
+    <taxon>
+      I. sulcatoriops nom. nov.
+    </taxon>
+  </singlet>
+
+  <singlet ref="4" else_ref="3">
+    <property>
+      FIII überwiegend rot oder kleinere Arten (7,6-8,2).
+    </property>
+    <property>
+      (29-31 Gg.)
+    </property>
+  </singlet>
+
+  <singlet ref="5" else_ref="10">
+    <property>
+      Mesonotum schwarz.
+    </property>
+    <property>
+      Scutellum gelb.
+    </property>
+    <property>
+      Nur T1-3 rot. T6-7 mit weißem Fleck.
+    </property>
+    <property>
+      TiIII apikal zu 1/8 dunkel.
+    </property>
+  </singlet>
+
+  <singlet ref="6" else_ref="9">
+    <property>
+      Schläfen stark konvergierend.
+    </property>
+  </singlet>
+
+  <singlet ref="7" else_ref="8">
+    <property>
+      Geißel basal rot.
+    </property>
+    <property>
+      Antennenring unauffällig.
+    </property>
+    <taxon>
+      I. multipictus GRAVENHORST
+    </taxon>
+  </singlet>
+
+  <singlet ref="8" else_ref="7">
+    <property>
+      Geißel basal schwarz.
+    </property>
+    <property>
+      Manchmal der Antennenring nur auf Gg 9-11 und nur dorsal.
+    </property>
+    <taxon>
+      I. sp. X
+    </taxon>
+  </singlet>
+
+  <singlet ref="9" else_ref="6">
+    <property>
+      Schläfen schwach konvergierend, konvex.
+    </property>
+    <property>
+      Geißel basal rot, vor dem Ring schwarz.
+    </property>
+    <property>
+      FIII überwiegend bis ganz rot.
+    </property>
+    <taxon>
+      I. micropnygus THOMSON
+    </taxon>
+  </singlet>
+
+  <singlet ref="10" else_ref="5">
+    <property>
+      Mesonotum rot.
+    </property>
+    <property>
+      Scutellum rotgelb bis gelb.
+    </property>
+  </singlet>
+
+  <singlet ref="11" else_ref="12">
+    <property>
+      Apikale Tergite ohne deutliche Flecken.
+    </property>
+    <property>
+      TiIII ganz rot.
+    </property>
+    <property>
+      Gg1 schlanker (1,72).
+    </property>
+    <property>
+      Schläfen viel stärker konvergierend.
+    </property>
+    <property>
+      T1-4 (T4 nicht ganz) rot.
+    </property>
+    <taxon>
+      I. aquilonius Perkins
+    </taxon>
+    <note>
+      [Hierher kann auch I. rufidorsatus führen, wenn die Gastrocoelen als sehr breit angenommen werden.]
+    </note>
+  </singlet>
+
+  <singlet ref="12" else_ref="11">
+    <property>
+      Terminalflecken deutlich.
+    </property>
+    <property>
+      Gg1 dicker (1,59).
+    </property>
+    <property>
+      Schläfen viel schwächer konvergierend.
+    </property>
+    <property>
+      Nur T1-3 rot.
+    </property>
+    <property>
+     (FIII ganz rot).
+    </property>
+    <taxon>
+      I. ventus sp. n.
+    </taxon>
+  </singlet>
+
+  <singlet ref="13" else_ref="2">
+    <property>
+      Petiolus schwarz.
+    </property>
+  </singlet>
+
+  <singlet ref="14" else_ref="15">
+    <property>
+      Tarsi deutlich verbreitert.
+    </property>
+    <property>
+      T5 mit kleinem weißem Fleck.
+    </property>
+    <property>
+      31-34 Gg.
+    </property>
+    <property>
+      T2-3 rot, manchmal auch T4.
+    </property>
+    <property>
+      Area superomedia quadratisch.
+    </property>
+    <property>
+      CoIII ventral differenziert.
+    </property>
+    <property>
+      TiIII apikal zu 1/4, Tsm zu 3/4 dunkel.
+    </property>
+    <property>
+      CoIII am ventralen Hinterrand mit einer erhabenen Kante, davor konkav und dicht behaart, fast mit einer Bürste (wie bei memorator) [Dieses Merkmal ist recht deutlich].
+    </property>
+    <taxon>
+      I. alpinator HINZ
+    </taxon>
+  </singlet>
+
+  <singlet ref="15" else_ref="14">
+    <property>
+      Tarsi nicht verbreitert.
+    </property>
+  </singlet>
+
+  <singlet ref="16" else_ref="17">
+    <property>
+      34-36 Gg.
+    </property>
+    <property>
+      T2-4 rot.
+    </property>
+    <property>
+      Auf T5 meist ein kurzer transversaler weißer Fleck.
+    </property>
+    <property>
+      [Area superomedia etwas quer. TiIII apikal schwarz (1/10) Größere Art (12,2)]
+    </property>
+    <taxon>
+      I. parengensis KISS
+    </taxon>
+  </singlet>
+
+  <singlet ref="17" else_ref="16">
+    <property>
+      30-33 Gg.
+    </property>
+  </singlet>
+
+  <singlet ref="18" else_ref="21">
+    <property>
+      T6-7 mit Terminalflecken.
+    </property>
+  </singlet>
+
+  <singlet ref="19" else_ref="20">
+    <property>
+      T2 rot.
+    </property>
+    <property>
+      TiIII rot-schwarz, apikal zu 1/4 schwarz.
+    </property>
+    <property>
+      (T4 meist schwarz. T5 ohne weißen Fleck. CoIII unterseits ungleichmäßig punktiert).
+    </property>
+    <property>
+      Area superomedia quadratisch bis etwas verlängert [Dadurch auch von sulcatoriops nom. nov. unterschieden].
+    </property>
+    <taxon>
+      I. dilleri HEINRICH
+    </taxon>
+  </singlet>
+
+  <singlet ref="20" else_ref="19">
+    <property>
+      T2 schwarz, in der apikalen Hälfte gelb.
+    </property>
+    <property>
+      TiIII schwarz-gelb-schwarz.
+    </property>
+    <property>
+      Area superomedia quer.
+    </property>
+    <taxon>
+      I. rudolphi HOLMGREN
+    </taxon>
+  </singlet>
+
+  <singlet ref="21" else_ref="18">
+    <property>
+      Ohne Terminalflecken.
+    </property>
+    <property>
+      T2-3 rot bis nur die Ränder von T2 und Hinterränder der folgenden Tergite hell.
+    </property>
+    <property>
+      Area superomedia quer, groß, regelmäßig rechteckig.
+    </property>
+    <property>
+      FIII rot bis schwarz.
+    </property>
+    <property>
+      TiIII ganz rot.
+    </property>
+    <property>
+      TsIII apikal nur schmal geschwärzt.
+    </property>
+    <property>
+      Gastrocoelen oft kaum breiter als der Zwischenraum.
+    </property>
+    <taxon>
+      I. modestus ROMAN
+    </taxon>
+  </singlet>
+
+  <singlet ref="22" else_ref="1">
+    <property>
+      Scutellum rot oder schwarz.
+    </property>
+  </singlet>
+
+  <singlet ref="23" else_ref="36">
+    <property>
+      Scutellum rot, zumindest apikal.
+    </property>
+  </singlet>
+
+  <singlet ref="24" else_ref="33">
+    <property>
+      Antenne mit gut ausgebildetem Ring.
+    </property>
+    <property>
+      31-33 Gg.
+    </property>
+  </singlet>
+
+  <singlet ref="25" else_ref="26">
+    <property>
+      Flecken auf den apikalen Tergiten weitgehend reduziert.
+    </property>
+    <property>
+      (Mesonotum meist ganz oder fast ganz schwarz. T4 zum Teil rot. Körpergröße 10,2).
+    </property>
+    <property>
+      CoIII mit Bürste oder Spur davon.
+    </property>
+    <property>
+      TiIII apikal zu 1/8 schwarz (manchmal weniger, aber meist deutlich).
+    </property>
+    <property>
+      (Sehr variabel: Scutellum von orangerot bis schwarz; Postpetiolus von rot bis schwarz; Fill selten rot).
+    </property>
+    <property>
+      Geißel basal rötlich bis rot.
+    </property>
+    <taxon>
+      I. stigmatorius ZETTERSTEDT
+    </taxon>
+  </singlet>
+
+  <singlet ref="26" else_ref="25">
+    <property>
+      Wenigstens das 7.
+    </property>
+    <property>
+      Tergit mit gut entwickeltem weißem Fleck.
+    </property>
+    <property>
+      CoIII ohne Bürste.
+    </property>
+    <property>
+      TiIII ganz rot.
+    </property>
+    <property>
+      (Petiolus meist ganz rot).
+    </property>
+  </singlet>
+
+  <singlet ref="27" else_ref="30">
+    <property>
+      Mesonotum und Fill ganz schwarz.
+    </property>
+    <property>
+      Mesonotum seltener mit zwei roten Längsstreifen.
+    </property>
+    <property>
+      Scutellum nur zum Teil rot.
+    </property>
+  </singlet>
+
+  <singlet ref="28" else_ref="29">
+    <property>
+      Tarsen deutlich verbreitert 30 Gg.
+    </property>
+    <property>
+      Gg1 dicker (1,62).
+    </property>
+    <taxon>
+      I. sp. D
+    </taxon>
+  </singlet>
+
+  <singlet ref="29" else_ref="28">
+    <property>
+      Tarsen nicht verbreitert.
+    </property>
+    <property>
+      31-34 Gg.
+    </property>
+    <property>
+      Gg1 schlanker (1,89).
+    </property>
+    <property>
+      Scutellum selten ganz schwarz.
+    </property>
+    <property>
+      [Die einzigen deutlichen Unterschiede zur Nominatform sind die Anzahl der Geißelglieder und die Farbe des FIII.]
+    </property>
+    <taxon>
+      I. vulneratorius revulnerator HEINRICH
+    </taxon>
+  </singlet>
+
+  <singlet ref="30" else_ref="27">
+    <property>
+      Mesonotum oder FIII erheblich rot ;ezeichnet.
+    </property>
+    <property>
+      Scutellum meist ganz rot.
+    </property>
+    <property>
+      (30-33 Gg. Area superomedia quer. CoIII ventral ungleichmäßig punktiert.)
+    </property>
+  </singlet>
+
+  <singlet ref="31" else_ref="32">
+    <property>
+      Gg1 schlanker (1,89).
+    </property>
+    <property>
+      FIII oft ganz rot und Mesonotum oft nicht ganz rot
+    </property>
+    <property>
+      [Breitestes Gg weniger quer (0,77).]
+    </property>
+    <property>
+      Mittelfeld des Gesichts oft ganz rot.
+    </property>
+    <taxon>
+      I. vulneratorius vulneratorius ZETTERSTEDT
+    </taxon>
+  </singlet>
+
+  <singlet ref="32" else_ref="31">
+    <property>
+      1. Gg dicker (1,41).
+    </property>
+    <property>
+      Scutellum ganz rot.
+    </property>
+    <property>
+      FIII nur zu einem geringen Teil rot und Mesonotum ganz rot.
+    </property>
+    <property>
+      [Breitestes Gg stärker quer (0,54).]
+    </property>
+    <taxon>
+      I. haematonotus WESMAEL
+    </taxon>
+  </singlet>
+
+  <singlet ref="33" else_ref="24">
+    <property>
+      Antenne höchstens mit rudimentärem Ring.
+    </property>
+    <property>
+      (Scutellum und Mesonotum ganz rot. FIII schwarz. Kleine Arten: 7,1-8,4)
+    </property>
+  </singlet>
+
+  <singlet ref="34" else_ref="35">
+    <property>
+      T6-7 mit Terminalflecken.
+    </property>
+    <property>
+      Antenne mit rudimentärem Ring (auf den Gg 9-10).
+    </property>
+    <property>
+      FIII dicker (3,2).
+    </property>
+    <property>
+      28 Gg.
+    </property>
+    <property>
+      Area superomedia quer (12:15).
+    </property>
+    <property>
+      TiIII ganz rot.
+    </property>
+    <property>
+      Petiolus schwarz.)
+    </property>
+    <taxon>
+      I. ? alpestris HOLMGREN
+    </taxon>
+  </singlet>
+
+  <singlet ref="35" else_ref="34">
+    <property>
+      Terminalflecken fehlend.
+    </property>
+    <property>
+      Antenne ganz schwarz.
+    </property>
+    <property>
+      29-31 Gg.
+    </property>
+    <property>
+      Area superomedia oft verlängert.
+    </property>
+    <property>
+      TiIII apikal breit schwarz.
+    </property>
+    <property>
+      Petiolus meist ganz rot.
+    </property>
+    <property>
+      FIII schlanker (3,8).
+    </property>
+    <taxon>
+      I. asiaticus ROMAN
+    </taxon>
+  </singlet>
+
+  <singlet ref="36" else_ref="23">
+    <property>
+      Scutellum schwarz, oder nur in der Mitte mit einem roten Reck.
+    </property>
+    <property>
+      (27-34 Geißelglieder. TiIII an der Spitze fast immer schwarz.)
+    </property>
+  </singlet>
+
+  <singlet ref="37" else_ref="42">
+    <property>
+      Höchstens T2 ganz rot.
+    </property>
+    <property>
+      (TiIII rot-schwarz. 29-31 Gg.)
+    </property>
+  </singlet>
+
+  <singlet ref="38" else_ref="39">
+    <property>
+      Area superomedia quer (14:16,5), die Längsleisten vorn konvergierend, seitlich leicht gebrochen.
+    </property>
+    <property>
+      Kleiner, typisch um 9,1, sonst (Österreich) um 10,1.
+    </property>
+    <property>
+      Schläfen auffallend stark konvergierend.
+    </property>
+    <taxon>
+      I. boreellus THOMSON
+    </taxon>
+  </singlet>
+
+  <singlet ref="39" else_ref="38">
+    <property>
+      Area superomedia quadratisch oder verlängert.
+    </property>
+    <property>
+      Die Leisten seitlich nicht gebrochen.
+    </property>
+    <property>
+      Mandibeln breiter.
+    </property>
+    <property>
+      Schläfen nach hinten wenig verschmälert.
+    </property>
+  </singlet>
+
+  <singlet ref="40" else_ref="41">
+    <property>
+      Gg1 kürzer (1,63).
+    </property>
+    <property>
+      Area superomedia verlängert.
+    </property>
+    <property>
+      Größere Art.
+    </property>
+    <property>
+      CoIII ventral ohne Spur einer Bürste.
+    </property>
+    <property>
+      TiIII ohne seitliche Einkerbung im apikalen 1/3.
+    </property>
+    <taxon>
+      I. amphibolus KRIECHBAUMER
+    </taxon>
+  </singlet>
+
+  <singlet ref="41" else_ref="40">
+    <property>
+      Gg1 länger (2,26).
+    </property>
+    <property>
+      Area superomedia quadratisch bis quer.
+    </property>
+    <property>
+      Kleinere Art CoIII ventral oft mit Spur einer Bürste (jedenfalls dicht behaart).
+    </property>
+    <property>
+      TiIII meist mit einer seitlichen Einkerbung im apikalen 1/3.
+    </property>
+    <property>
+      (Oft ist der Antennenring reduziert oder fehlt ganz)
+    </property>
+    <taxon>
+      I. ingratus HELLÉN
+    </taxon>
+  </singlet>
+
+  <singlet ref="42" else_ref="37">
+    <property>
+      T2-3 ganz rot.
+    </property>
+  </singlet>
+
+  <singlet ref="43" else_ref="52">
+    <property>
+      Postpetiolus rot (und CoIII ohne erhabene Kante am ventralen Hinterrand).
+    </property>
+    <property>
+      (27-34 Gg).
+    </property>
+  </singlet>
+
+  <singlet ref="44" else_ref="45">
+    <property>
+      27-29 Gg.
+    </property>
+    <property>
+      CoIII ventral deutlich ungleichmäßig punktiert oder mit Spur einer Bürste.
+    </property>
+    <property>
+      TiIII seitlich im apikalen 1/3 meist mit einer Einkerbung.
+    </property>
+    <property>
+      (TiIII rot-schwarz. Ring auf der Geißel manchmal nur auf 2-3 Segmenten und nur dorsal).
+    </property>
+    <property>
+      Gastrocoelen sehr breit (wie bei Aoplus).
+    </property>
+    <taxon>
+      I. ingratus HELLÉN
+    </taxon>
+  </singlet>
+
+  <singlet ref="45" else_ref="44">
+    <property>
+      29-31 Gg.
+    </property>
+    <property>
+      CoIII ventral gleichmäßig punktiert.
+    </property>
+    <property>
+      TiIII ohne solche Kerbe.
+    </property>
+  </singlet>
+
+  <singlet ref="46" else_ref="47">
+    <property>
+      T6 nur mit einem kurzen Fleck.
+    </property>
+    <property>
+      Tarsen II verbreitert.
+    </property>
+    <property>
+      Gastrocoelen kaum breiter als der Zwischenraum.
+    </property>
+    <property>
+      Scutellum apikal leicht rot.
+    </property>
+    <taxon>
+      I. sp. Y
+    </taxon>
+  </singlet>
+
+  <singlet ref="47" else_ref="46">
+    <property>
+      T6-7 mit einem großen Fleck.
+    </property>
+    <property>
+      TsIII nicht verbreitert.
+    </property>
+    <property>
+      Gastrocoelen meist deutlich breiter als der Zwischenraum [Ausnahme: I. factor].
+    </property>
+    <property>
+      Scutellum schwarz (seltener in der Mitte mit gelbem Fleck.)
+    </property>
+  </singlet>
+
+  <singlet ref="48" else_ref="49">
+    <property>
+      26-29 Gg.
+    </property>
+    <property>
+      TiIII apikal zu 1/5 schwarz.
+    </property>
+    <property>
+      Gastrocoelen weniger breit, kaum breiter als der Zwischenraum.
+    </property>
+    <property>
+      [Hierher kann auch acuticornis rühren, bei diesem aber die Schläfen nach hinten sehr stark konvergierend.]
+    </property>
+    <taxon>
+      I. factor DALLA TORRE
+    </taxon>
+  </singlet>
+
+  <singlet ref="49" else_ref="48">
+    <property>
+      29-33 Gg.
+    </property>
+    <property>
+      TiIII apikal nur zu 1/10 geschwärzt.
+    </property>
+    <property>
+      Gastrocoelen deutlich breiter als der Zwischenraum (oder Hypopygium verlangert.)
+    </property>
+  </singlet>
+
+  <singlet ref="50" else_ref="51">
+    <property>
+      Hypopygium unauffällig kurz und Abdomenspitze nicht depress.
+    </property>
+    <property>
+      Gastrocoelen sehr deutlich breiter als der Zwischenraum.
+    </property>
+    <taxon>
+      I. boreellus THOMSON
+    </taxon>
+  </singlet>
+
+  <singlet ref="51" else_ref="50">
+    <property>
+      Hypopygium verlängert.
+    </property>
+    <property>
+      Abdomenspitze depress.
+    </property>
+    <property>
+      Gastrocoelen nicht wesentlich breiter als der Zwischenraum.
+    </property>
+    <property>
+      Clypeus und hintere, abschüssige Hälfte des Scutellum längsgerunzelt.
+    </property>
+    <property>
+      Scutellum oft mit kleinem gelbem Fleck.
+    </property>
+    <property>
+      Gastrocoelen etwas schmaler als der Zwischenraum (15:17) bis etwas breiter (21:19).
+    </property>
+    <property>
+      Sehr variable Art Körperlänge 9,5-11,6.
+    </property>
+    <property>
+      Area superomedia weniger quer (15:16) bis stärker quer (14:20).
+    </property>
+    <taxon>
+      I. ignobilis WESMAEL
+    </taxon>
+  </singlet>
+
+  <singlet ref="52" else_ref="43">
+    <property>
+      Postpetiolus schwarz, oder CoIII ventral am Hinterende mit einer erhabenen Kante.
+      (29-34 Gg).
+    </property>
+  </singlet>
+
+  <singlet ref="53" else_ref="54">
+    <property>
+      27-30 Gg.
+    </property>
+    <property>
+      Kleine Art (8,8).
+    </property>
+    <property>
+      Kopf ohne auffallende Behaarung.
+    </property>
+    <property>
+      CoIII am ventralen Hinterrand mit einer erhabenen Kante.
+    </property>
+    <property>
+      (TiIII und TsIII mit schwarzer Spitze).
+    </property>
+    <property>
+      Gastrocoelen nur wenig breiter als der Raum zwischen ihnen.
+    </property>
+    <taxon>
+      I. memorator WESMAEL
+    </taxon>
+  </singlet>
+
+  <singlet ref="54" else_ref="53">
+    <property>
+      33-34 Gg.
+    </property>
+    <property>
+      Größere Art (11,S).
+    </property>
+    <property>
+      Kopf von vorn gesehen mit langen Wangen, diese etwas konkav.
+    </property>
+    <property>
+      Kopf von auffalllenden längeren dunklen Haaren umgeben.
+    </property>
+    <property>
+      TiIII am Ende kaum geschwärzt, aber auch basal dunkel.
+    </property>
+    <property>
+      TsIII ganz hell.
+    </property>
+    <taxon>
+      I. occidentis nom. nov.
+    </taxon>
+  </singlet>
+
+</key>
