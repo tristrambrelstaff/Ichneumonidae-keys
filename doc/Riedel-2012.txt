@@ -4,10 +4,10 @@ ID= Riedel-2012
 
 CITATION= Matthias Riedel (2012): Revision der westpaläarktischen Arten der Gattung Coelichneumon THOMSON (Hymenoptera: Ichneumonidae: Ichneumoninae) – Linzer biologische Beiträge – 0044_2: 1477 - 1611.
 
-ORIGINAL_COPY= https://www.zobodat.at/pdf/LBB_0044_2_1477-1611.pdf
+ORIGINAL_FILE= https://www.zobodat.at/pdf/LBB_0044_2_1477-1611.pdf
 
 ORIGINAL_PAGE= https://www.zobodat.at/publikation_series.php?q=Coelichneumon&as_l%5B0%5D%5Bi%5D=year&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=2012&as_l%5B1%5D%5Bi%5D=surname&as_l%5B1%5D%5Bqt%5D=contains&as_l%5B1%5D%5Bv%5D=Riedel&as_l%5B2%5D%5Bi%5D=
 
-ARCHIVED_COPY= https://web.archive.org/web/20200217134416/https://www.zobodat.at/pdf/LBB_0044_2_1477-1611.pdf
+ARCHIVED_FILE= https://web.archive.org/web/20200217134416/https://www.zobodat.at/pdf/LBB_0044_2_1477-1611.pdf
 
 ARCHIVED_PAGE= https://web.archive.org/web/20200217134542/https://www.zobodat.at/publikation_series.php?q=Coelichneumon&as_l%5B0%5D%5Bi%5D=year&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=2012&as_l%5B1%5D%5Bi%5D=surname&as_l%5B1%5D%5Bqt%5D=contains&as_l%5B1%5D%5Bv%5D=Riedel&as_l%5B2%5D%5Bi%5D=
