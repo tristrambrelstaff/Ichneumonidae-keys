@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../doc.dtd">
+
+<doc>
+
+  <ref>Riedel-2018b</ref>
+
+  <citation>Matthias Riedel (2018): Revision of the Western Palaearctic species of the genus Casinaria HOLMGREN (Hymenoptera, Ichneumonidae, Campopleginae) – Linzer biologische Beiträge – 0050_1: 723 - 763.</citation>
+
+  <original>
+    <file>https://www.zobodat.at/pdf/LBB_0050_1_0723-0763.pdf</file>
+    <page>https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2018&as_l%5B2%5D%5Bi%5D=</page>
+  </original>
+
+  <archived>
+    <file>https://web.archive.org/web/20191030132749/https://www.zobodat.at/pdf/LBB_0050_1_0723-0763.pdf</file>
+    <page>https://web.archive.org/save/https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2018&as_l%5B2%5D%5Bi%5D=</page>
+  </archived>
+
+  <key>doc/Riedel-2018b/key/*.xml</key>
+
+  <fig>doc/Riedel-2018b/key/*.png</fig>
+
+</doc>

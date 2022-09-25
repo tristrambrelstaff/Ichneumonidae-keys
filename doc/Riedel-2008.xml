@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../doc.dtd">
+
+<doc>
+
+  <ref>Riedel-2008</ref>
+
+  <citation>Matthias Riedel (2008): Revision der westpaläarktischen Platylabini 1. Die Gattung Platylabus Wesmael, 1845 (Hymenoptera, Ichneumonidae, Ichneumoninae) – Spixiana, Zeitschrift für Zoologie – 031: 105 - 172.</citation>
+
+  <original>
+    <file>https://www.zobodat.at/pdf/Spixiana_031_0105-0172.pdf</file>
+    <page>https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv
+%5D=2008&as_l%5B2%5D%5Bi%5D=</page>
+</original>
+
+  <archived>
+    <file>https://web.archive.org/web/20191029134727/https://www.zobodat.at/pdf/Spixiana_031_0105-0172.pdf</file>
+    <page>https://web.archive.org/web/20191030131631/https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2008&as_l%5B2%5D%5Bi%5D=</page>
+  </archived>
+
+  <keys>doc/Riedel-2008/key/*.xml</keys>
+
+  <figs>doc/Riedel-2008/fig/*.png</figs>
+
+</doc>

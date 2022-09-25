@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE key SYSTEM "../doc.dtd">
+
+<doc>
+
+  <ref>Riedel-2017</ref>
+
+  <citation>Matthias Riedel (2017): Die westpaläarktischen Arten der Gattung Campoletis Förster (Hymenoptera, Ichneumonidae, Campopleginae) – Spixiana, Zeitschrift für Zoologie – 040: 95 - 137.</citation>
+
+  <original>
+    <file>https://www.zobodat.at/pdf/Spixiana_040_0095-0137.pdf</file>
+    <page>https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=</page>
+  </original>
+
+  <archived>
+    <file>https://web.archive.org/web/20191030132304/https://www.zobodat.at/pdf/Spixiana_040_0095-0137.pdf</file>
+    <page>https://web.archive.org/web/20191030132408/https://www.zobodat.at/publikation_series.php?q=&as_l%5B0%5D%5Bi%5D=surnamenr&as_l%5B0%5D%5Bqt%5D=equals&as_l%5B0%5D%5Bv%5D=22520&as_l%5B1%5D%5Bi%5D=year&as_l%5B1%5D%5Bqt%5D=equals&as_l%5B1%5D%5Bv%5D=2017&as_l%5B2%5D%5Bi%5D=</page>
+  </archived>
+
+  <key>doc/Riedel-2017/key/*.xml</key>
+
+  <fig>doc/Riedel-2017/fig/*.png</fig>
+
+<doc>
